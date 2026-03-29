@@ -1,0 +1,20 @@
+{
+  "commodity": "vegetable-oil",
+  "success": true,
+  "price": 2.53,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:22.237Z",
+  "raw_data": {
+    "commodity": "Oil, vegetable, soybean, refined",
+    "currentPrice": 2.53,
+    "priceChange": "0.01",
+    "priceChangePercent": "0.40",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

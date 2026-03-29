@@ -1,0 +1,20 @@
+{
+  "commodity": "strawberry",
+  "success": true,
+  "price": 2.52,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:30.299Z",
+  "raw_data": {
+    "commodity": "Strawberries, raw",
+    "currentPrice": 2.52,
+    "priceChange": "0.18",
+    "priceChangePercent": "7.69",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

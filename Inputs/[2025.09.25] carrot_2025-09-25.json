@@ -1,0 +1,20 @@
+{
+  "commodity": "carrot",
+  "success": true,
+  "price": 2.19,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:26.266Z",
+  "raw_data": {
+    "commodity": "Carrot, dehydrated",
+    "currentPrice": 2.19,
+    "priceChange": "-0.01",
+    "priceChangePercent": "-0.45",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

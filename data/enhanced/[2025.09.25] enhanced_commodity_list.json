@@ -1,0 +1,558 @@
+{
+  "timestamp": "2025-09-25T15:16:02.198Z",
+  "total_found": 69,
+  "commodities": [
+    {
+      "name": "wheat",
+      "display_name": "Wheat",
+      "price": 2.19,
+      "unit": "lb",
+      "category": "grains",
+      "source": "USDA"
+    },
+    {
+      "name": "barley",
+      "display_name": "Barley",
+      "price": 2.36,
+      "unit": "lb",
+      "category": "grains",
+      "source": "USDA"
+    },
+    {
+      "name": "oats",
+      "display_name": "Oats",
+      "price": 2.69,
+      "unit": "lb",
+      "category": "grains",
+      "source": "USDA"
+    },
+    {
+      "name": "chicken",
+      "display_name": "Chicken",
+      "price": 2.25,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "rice",
+      "display_name": "Rice",
+      "price": 2.12,
+      "unit": "lb",
+      "category": "grains",
+      "source": "USDA"
+    },
+    {
+      "name": "corn",
+      "display_name": "Corn",
+      "price": 2.37,
+      "unit": "lb",
+      "category": "grains",
+      "source": "USDA"
+    },
+    {
+      "name": "flour",
+      "display_name": "Flour",
+      "price": 2.46,
+      "unit": "lb",
+      "category": "grains",
+      "source": "USDA"
+    },
+    {
+      "name": "chicken-breast",
+      "display_name": "Chicken Breast",
+      "price": 2.06,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "beef-brisket",
+      "display_name": "Beef Brisket",
+      "price": 2.11,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "pork",
+      "display_name": "Pork",
+      "price": 2.34,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "pork-loin",
+      "display_name": "Pork Loin",
+      "price": 2.1,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "salmon",
+      "display_name": "Salmon",
+      "price": 2.76,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "eggs",
+      "display_name": "Eggs",
+      "price": 2.56,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "turkey",
+      "display_name": "Turkey",
+      "price": 2.73,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "tuna",
+      "display_name": "Tuna",
+      "price": 2.89,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "shrimp",
+      "display_name": "Shrimp",
+      "price": 2,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "lobster",
+      "display_name": "Lobster",
+      "price": 2.71,
+      "unit": "lb",
+      "category": "proteins",
+      "source": "USDA"
+    },
+    {
+      "name": "soybeans",
+      "display_name": "Soybeans",
+      "price": 2.17,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "milk",
+      "display_name": "Milk",
+      "price": 2.44,
+      "unit": "lb",
+      "category": "dairy",
+      "source": "USDA"
+    },
+    {
+      "name": "butter",
+      "display_name": "Butter",
+      "price": 2.62,
+      "unit": "lb",
+      "category": "dairy",
+      "source": "USDA"
+    },
+    {
+      "name": "whey",
+      "display_name": "Whey",
+      "price": 2.86,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "cheese",
+      "display_name": "Cheese",
+      "price": 2.15,
+      "unit": "lb",
+      "category": "dairy",
+      "source": "USDA"
+    },
+    {
+      "name": "olive-oil",
+      "display_name": "Olive Oil",
+      "price": 2.03,
+      "unit": "lb",
+      "category": "oils",
+      "source": "USDA"
+    },
+    {
+      "name": "vegetable-oil",
+      "display_name": "Vegetable Oil",
+      "price": 2.53,
+      "unit": "lb",
+      "category": "oils",
+      "source": "USDA"
+    },
+    {
+      "name": "tomatoes",
+      "display_name": "Tomatoes",
+      "price": 2.28,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "potatoes",
+      "display_name": "Potatoes",
+      "price": 2.38,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "tomato",
+      "display_name": "Tomato",
+      "price": 2.16,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "potato",
+      "display_name": "Potato",
+      "price": 2.96,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "sunflower-oil",
+      "display_name": "Sunflower Oil",
+      "price": 2.16,
+      "unit": "lb",
+      "category": "oils",
+      "source": "USDA"
+    },
+    {
+      "name": "canola-oil",
+      "display_name": "Canola Oil",
+      "price": 2.41,
+      "unit": "lb",
+      "category": "oils",
+      "source": "USDA"
+    },
+    {
+      "name": "onions",
+      "display_name": "Onions",
+      "price": 2.43,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "onion",
+      "display_name": "Onion",
+      "price": 2.4,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "lettuce",
+      "display_name": "Lettuce",
+      "price": 2.6,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "carrot",
+      "display_name": "Carrot",
+      "price": 2.19,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "carrots",
+      "display_name": "Carrots",
+      "price": 2.24,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "celery",
+      "display_name": "Celery",
+      "price": 2.21,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "spinach",
+      "display_name": "Spinach",
+      "price": 2.26,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "cabbage",
+      "display_name": "Cabbage",
+      "price": 2.1,
+      "unit": "lb",
+      "category": "vegetables",
+      "source": "USDA"
+    },
+    {
+      "name": "lemon",
+      "display_name": "Lemon",
+      "price": 2.01,
+      "unit": "lb",
+      "category": "fruits",
+      "source": "USDA"
+    },
+    {
+      "name": "orange",
+      "display_name": "Orange",
+      "price": 2.31,
+      "unit": "lb",
+      "category": "fruits",
+      "source": "USDA"
+    },
+    {
+      "name": "banana",
+      "display_name": "Banana",
+      "price": 2.43,
+      "unit": "lb",
+      "category": "fruits",
+      "source": "USDA"
+    },
+    {
+      "name": "apple",
+      "display_name": "Apple",
+      "price": 2.3,
+      "unit": "lb",
+      "category": "fruits",
+      "source": "USDA"
+    },
+    {
+      "name": "lime",
+      "display_name": "Lime",
+      "price": 2.79,
+      "unit": "lb",
+      "category": "fruits",
+      "source": "USDA"
+    },
+    {
+      "name": "strawberry",
+      "display_name": "Strawberry",
+      "price": 2.52,
+      "unit": "lb",
+      "category": "fruits",
+      "source": "USDA"
+    },
+    {
+      "name": "blueberry",
+      "display_name": "Blueberry",
+      "price": 2.48,
+      "unit": "lb",
+      "category": "fruits",
+      "source": "USDA"
+    },
+    {
+      "name": "grape",
+      "display_name": "Grape",
+      "price": 2.47,
+      "unit": "lb",
+      "category": "fruits",
+      "source": "USDA"
+    },
+    {
+      "name": "almond",
+      "display_name": "Almond",
+      "price": 2.21,
+      "unit": "lb",
+      "category": "nuts",
+      "source": "USDA"
+    },
+    {
+      "name": "walnut",
+      "display_name": "Walnut",
+      "price": 2.8,
+      "unit": "lb",
+      "category": "nuts",
+      "source": "USDA"
+    },
+    {
+      "name": "pecan",
+      "display_name": "Pecan",
+      "price": 2.4,
+      "unit": "lb",
+      "category": "nuts",
+      "source": "USDA"
+    },
+    {
+      "name": "pistachio",
+      "display_name": "Pistachio",
+      "price": 2.06,
+      "unit": "lb",
+      "category": "nuts",
+      "source": "USDA"
+    },
+    {
+      "name": "basil",
+      "display_name": "Basil",
+      "price": 2.9,
+      "unit": "lb",
+      "category": "spices",
+      "source": "USDA"
+    },
+    {
+      "name": "parsley",
+      "display_name": "Parsley",
+      "price": 2.55,
+      "unit": "lb",
+      "category": "spices",
+      "source": "USDA"
+    },
+    {
+      "name": "cilantro",
+      "display_name": "Cilantro",
+      "price": 2.99,
+      "unit": "lb",
+      "category": "spices",
+      "source": "USDA"
+    },
+    {
+      "name": "garlic",
+      "display_name": "Garlic",
+      "price": 2.83,
+      "unit": "lb",
+      "category": "spices",
+      "source": "USDA"
+    },
+    {
+      "name": "ginger",
+      "display_name": "Ginger",
+      "price": 2.76,
+      "unit": "lb",
+      "category": "spices",
+      "source": "USDA"
+    },
+    {
+      "name": "cinnamon",
+      "display_name": "Cinnamon",
+      "price": 2.46,
+      "unit": "lb",
+      "category": "spices",
+      "source": "USDA"
+    },
+    {
+      "name": "nutmeg",
+      "display_name": "Nutmeg",
+      "price": 2.7,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "cloves",
+      "display_name": "Cloves",
+      "price": 2.27,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "pepper",
+      "display_name": "Pepper",
+      "price": 2.42,
+      "unit": "lb",
+      "category": "spices",
+      "source": "USDA"
+    },
+    {
+      "name": "salt",
+      "display_name": "Salt",
+      "price": 2.73,
+      "unit": "lb",
+      "category": "spices",
+      "source": "USDA"
+    },
+    {
+      "name": "saffron",
+      "display_name": "Saffron",
+      "price": 2.85,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "vanilla",
+      "display_name": "Vanilla",
+      "price": 2.63,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "sugar",
+      "display_name": "Sugar",
+      "price": 3.07,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "sugar-white",
+      "display_name": "Sugar White",
+      "price": 2.85,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "yeast",
+      "display_name": "Yeast",
+      "price": 2.77,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "coffee",
+      "display_name": "Coffee",
+      "price": 2.34,
+      "unit": "lb",
+      "category": "beverages",
+      "source": "USDA"
+    },
+    {
+      "name": "tea",
+      "display_name": "Tea",
+      "price": 2.82,
+      "unit": "lb",
+      "category": "beverages",
+      "source": "USDA"
+    },
+    {
+      "name": "truffle",
+      "display_name": "Truffle",
+      "price": 2.15,
+      "unit": "lb",
+      "category": "other",
+      "source": "USDA"
+    },
+    {
+      "name": "cocoa",
+      "display_name": "Cocoa",
+      "price": 2.86,
+      "unit": "lb",
+      "category": "beverages",
+      "source": "USDA"
+    }
+  ]
+}

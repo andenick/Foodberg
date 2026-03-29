@@ -1,0 +1,20 @@
+{
+  "commodity": "tomatoes",
+  "success": true,
+  "price": 2.28,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:24.250Z",
+  "raw_data": {
+    "commodity": "Tomato powder",
+    "currentPrice": 2.28,
+    "priceChange": "0.10",
+    "priceChangePercent": "4.59",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

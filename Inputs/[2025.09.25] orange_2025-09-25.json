@@ -1,0 +1,20 @@
+{
+  "commodity": "orange",
+  "success": true,
+  "price": 2.31,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:28.285Z",
+  "raw_data": {
+    "commodity": "Marmalade, orange",
+    "currentPrice": 2.31,
+    "priceChange": "0.10",
+    "priceChangePercent": "4.52",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

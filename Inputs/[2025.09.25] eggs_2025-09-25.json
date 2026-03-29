@@ -1,0 +1,20 @@
+{
+  "commodity": "eggs",
+  "success": true,
+  "price": 2.56,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:16.151Z",
+  "raw_data": {
+    "commodity": "Eggs, Grade A, Large, egg white",
+    "currentPrice": 2.56,
+    "priceChange": "-0.16",
+    "priceChangePercent": "-5.88",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

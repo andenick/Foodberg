@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-12-05T16:23:45.302492",
+  "sources": {
+    "fred": {
+      "status": "success",
+      "series": 12,
+      "observations": 1418,
+      "file": "fred_data.json"
+    },
+    "bls": {
+      "status": "success",
+      "series": 7,
+      "observations": 903,
+      "file": "bls_data.json"
+    },
+    "fao": {
+      "status": "success",
+      "categories": 6,
+      "observations": 2586,
+      "file": "fao_data.json"
+    },
+    "worldbank": {
+      "status": "success",
+      "indicators": 11,
+      "observations": 4115,
+      "file": "worldbank_data.json"
+    },
+    "alphavantage": {
+      "status": "success",
+      "commodities": 8,
+      "observations": 3419,
+      "file": "alphavantage_data.json"
+    }
+  }
+}

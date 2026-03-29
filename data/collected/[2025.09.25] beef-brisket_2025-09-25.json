@@ -1,0 +1,20 @@
+{
+  "commodity": "beef-brisket",
+  "success": true,
+  "price": 2.11,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:14.136Z",
+  "raw_data": {
+    "commodity": "Beef, cured, corned beef, brisket, cooked",
+    "currentPrice": 2.11,
+    "priceChange": "0.07",
+    "priceChangePercent": "3.43",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

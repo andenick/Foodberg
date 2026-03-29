@@ -1,0 +1,12 @@
+{
+    "description": "Foodberg API Keys - Copy from Robin's ADMIN folder or set as environment variables",
+    "fred": "",
+    "bls": "",
+    "usda_nass": "",
+    "bea": "",
+    "instructions": {
+        "development": "Fill in the keys above for local development",
+        "production": "Set environment variables: FRED_API_KEY, BLS_API_KEY, USDA_API_KEY, BEA_API_KEY",
+        "robin_reference": "Keys can be found in D:/Arcanum/Council/Robin/ADMIN/api-keys/"
+    }
+}

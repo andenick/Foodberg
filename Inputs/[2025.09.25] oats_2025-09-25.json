@@ -1,0 +1,20 @@
+{
+  "commodity": "oats",
+  "success": true,
+  "price": 2.69,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:12.115Z",
+  "raw_data": {
+    "commodity": "Oil, oat",
+    "currentPrice": 2.69,
+    "priceChange": "-0.02",
+    "priceChangePercent": "-0.74",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

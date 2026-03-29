@@ -1,0 +1,20 @@
+{
+  "commodity": "shrimp",
+  "success": true,
+  "price": 2,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:18.198Z",
+  "raw_data": {
+    "commodity": "Crustaceans, shrimp, cooked",
+    "currentPrice": 2,
+    "priceChange": "-0.11",
+    "priceChangePercent": "-5.21",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "commodity": "saffron",
+  "success": true,
+  "price": 2.85,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:36.352Z",
+  "raw_data": {
+    "commodity": "Spices, saffron",
+    "currentPrice": 2.85,
+    "priceChange": "0.11",
+    "priceChangePercent": "4.01",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

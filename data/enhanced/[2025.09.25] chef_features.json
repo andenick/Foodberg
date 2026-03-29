@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-09-25T15:16:02.196Z",
+  "seasonal_items": 4,
+  "cooking_combinations": 5,
+  "high_volatility_items": 22,
+  "total_commodities": 69,
+  "chef_recommendations": {
+    "seasonal_focus": [
+      "tomato",
+      "apple",
+      "strawberry",
+      "blueberry"
+    ],
+    "volatile_pricing": [
+      {
+        "commodity": "wheat",
+        "change_percent": "5.29"
+      },
+      {
+        "commodity": "rice",
+        "change_percent": "-5.36"
+      },
+      {
+        "commodity": "eggs",
+        "change_percent": "-5.88"
+      },
+      {
+        "commodity": "shrimp",
+        "change_percent": "-5.21"
+      },
+      {
+        "commodity": "butter",
+        "change_percent": "-7.09"
+      },
+      {
+        "commodity": "cheese",
+        "change_percent": "8.04"
+      },
+      {
+        "commodity": "olive-oil",
+        "change_percent": "-8.97"
+      },
+      {
+        "commodity": "onion",
+        "change_percent": "-6.98"
+      },
+      {
+        "commodity": "lettuce",
+        "change_percent": "-5.80"
+      },
+      {
+        "commodity": "celery",
+        "change_percent": "-5.96"
+      },
+      {
+        "commodity": "spinach",
+        "change_percent": "5.61"
+      },
+      {
+        "commodity": "lemon",
+        "change_percent": "-5.19"
+      },
+      {
+        "commodity": "apple",
+        "change_percent": "9.00"
+      },
+      {
+        "commodity": "strawberry",
+        "change_percent": "7.69"
+      },
+      {
+        "commodity": "grape",
+        "change_percent": "9.29"
+      },
+      {
+        "commodity": "pistachio",
+        "change_percent": "5.64"
+      },
+      {
+        "commodity": "basil",
+        "change_percent": "5.45"
+      },
+      {
+        "commodity": "cilantro",
+        "change_percent": "5.65"
+      },
+      {
+        "commodity": "ginger",
+        "change_percent": "6.15"
+      },
+      {
+        "commodity": "cinnamon",
+        "change_percent": "6.49"
+      },
+      {
+        "commodity": "sugar",
+        "change_percent": "9.25"
+      },
+      {
+        "commodity": "truffle",
+        "change_percent": "6.44"
+      }
+    ],
+    "cost_effective": [
+      "wheat",
+      "barley",
+      "oats",
+      "chicken",
+      "rice",
+      "corn",
+      "flour",
+      "chicken-breast",
+      "beef-brisket",
+      "pork"
+    ]
+  }
+}

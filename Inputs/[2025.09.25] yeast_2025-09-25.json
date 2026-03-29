@@ -1,0 +1,20 @@
+{
+  "commodity": "yeast",
+  "success": true,
+  "price": 2.77,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:40.413Z",
+  "raw_data": {
+    "commodity": "Yeast extract spread",
+    "currentPrice": 2.77,
+    "priceChange": "0.07",
+    "priceChangePercent": "2.59",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

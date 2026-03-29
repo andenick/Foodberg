@@ -1,0 +1,20 @@
+{
+  "commodity": "cheese",
+  "success": true,
+  "price": 2.15,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:20.220Z",
+  "raw_data": {
+    "commodity": "Cheese spread, cream cheese base",
+    "currentPrice": 2.15,
+    "priceChange": "0.16",
+    "priceChangePercent": "8.04",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

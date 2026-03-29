@@ -1,0 +1,53 @@
+{
+  "title": "Free Food Commodity Data Sources Guide",
+  "generated": "2025-09-25T14:03:34.828Z",
+  "summary": {
+    "total_sources": 3,
+    "all_free": true,
+    "government_sources": 3,
+    "international_orgs": 1
+  },
+  "sources": {
+    "fao_food_price_index": {
+      "name": "FAO Food Price Index",
+      "url": "https://www.fao.org/faostat/en/data/PP",
+      "description": "Monthly food price indices from UN FAO",
+      "format": "CSV",
+      "free": true
+    },
+    "world_bank_commodity": {
+      "name": "World Bank Commodity Prices",
+      "url": "https://www.worldbank.org/en/research/commodity-markets",
+      "description": "Monthly commodity price data",
+      "format": "CSV/Excel",
+      "free": true
+    },
+    "usda_ers_food_prices": {
+      "name": "USDA ERS Food Prices",
+      "url": "https://www.ers.usda.gov/data-products/food-price-outlook/",
+      "description": "USDA Economic Research Service food price data",
+      "format": "Various",
+      "free": true
+    }
+  },
+  "quick_start": {
+    "immediate_access": [
+      "Your USDA Market News API (already configured)",
+      "Your API Ninja key (10K requests/month free)",
+      "Historical data (always available offline)"
+    ],
+    "manual_downloads": [
+      "1. FAO FAOSTAT: https://www.fao.org/faostat/en/#data/PP",
+      "2. World Bank Pink Sheet: https://www.worldbank.org/en/research/commodity-markets",
+      "3. USDA NASS QuickStats: https://quickstats.nass.usda.gov/",
+      "4. USDA ERS: https://www.ers.usda.gov/data-products/"
+    ]
+  },
+  "automation_tips": [
+    "Use USDA APIs for real-time data",
+    "Download CSV files monthly for bulk data",
+    "Store locally to avoid repeated API calls",
+    "Combine multiple sources for validation"
+  ],
+  "cost_summary": "All sources are completely free - no paid subscriptions required!"
+}

@@ -1,0 +1,1381 @@
+{
+  "timestamp": "2025-10-23T02:49:14.191Z",
+  "total_attempts": 268,
+  "successful": 0,
+  "failed": 268,
+  "new_commodities": [],
+  "sources_explored": [
+    {
+      "endpoint": "/api/usda/market-news",
+      "success": false,
+      "error": "Error"
+    },
+    {
+      "endpoint": "/api/usda/nass",
+      "success": false,
+      "error": "Error"
+    },
+    {
+      "endpoint": "/api/usda/commodity-list",
+      "success": false,
+      "error": "Error"
+    },
+    {
+      "endpoint": "/api/commodity-list",
+      "success": false,
+      "error": "Error"
+    },
+    {
+      "endpoint": "/api/categories",
+      "success": false,
+      "error": "Error"
+    },
+    {
+      "endpoint": "/api/sources",
+      "success": false,
+      "error": "Error"
+    }
+  ],
+  "results": [
+    {
+      "commodity": "wheat",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "corn",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "rice",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "oats",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "barley",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "flour",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chicken",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chicken-breast",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "beef-brisket",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pork",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pork-loin",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "turkey",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "eggs",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "salmon",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "tuna",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "shrimp",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "lobster",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "soybeans",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "milk",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "butter",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cheese",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "whey",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "olive-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "canola-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "vegetable-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sunflower-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "tomatoes",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "tomato",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "potatoes",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "potato",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "onions",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "onion",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "carrots",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "carrot",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "lettuce",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "spinach",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cabbage",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "celery",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "beef",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "ground-beef",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "ribeye",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sirloin",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "t-bone",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "filet-mignon",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pork-chops",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "bacon",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "ham",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sausage",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "lamb",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "goat",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "duck",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "goose",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chicken-thigh",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chicken-wing",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chicken-drumstick",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "tilapia",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cod",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "halibut",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "mahi-mahi",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "snapper",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "catfish",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "mackerel",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "crab",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "oyster",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "mussel",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "scallop",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "squid",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "octopus",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cream",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "yogurt",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sour-cream",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cottage-cheese",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "mozzarella",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cheddar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "swiss-cheese",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "parmesan",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "blue-cheese",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "goat-cheese",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "ricotta",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "broccoli",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cauliflower",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "brussels-sprouts",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "asparagus",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "artichoke",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "eggplant",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "zucchini",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "squash",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cucumber",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "bell-pepper",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "jalapeno",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "serrano",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "habanero",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "poblano",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sweet-potato",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "yam",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "beet",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "radish",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "turnip",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "parsnip",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "leek",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "shallot",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "scallion",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "mushroom",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "shiitake",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "portobello",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "button-mushroom",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "oyster-mushroom",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "kale",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chard",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "collard",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "arugula",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "watercress",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "endive",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "apple",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "banana",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "orange",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "lemon",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "lime",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "grapefruit",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "tangerine",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "strawberry",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "blueberry",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "raspberry",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "blackberry",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cranberry",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "grape",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cherry",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "peach",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "apricot",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "plum",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "nectarine",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pear",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pineapple",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "mango",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "papaya",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "kiwi",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "avocado",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pomegranate",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cantaloupe",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "honeydew",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "watermelon",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "fig",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "date",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "raisin",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "quinoa",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "buckwheat",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "millet",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "amaranth",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "bulgur",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "couscous",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "wild-rice",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "brown-rice",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "jasmine-rice",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "basmati-rice",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "whole-wheat",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "rye",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "spelt",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "kamut",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "farro",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "almond",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "walnut",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pecan",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pistachio",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cashew",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "brazil-nut",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "hazelnut",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "macadamia",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pine-nut",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chestnut",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sunflower-seed",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pumpkin-seed",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sesame-seed",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "flax-seed",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chia-seed",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "hemp-seed",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "poppy-seed",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "basil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cilantro",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "parsley",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "dill",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "mint",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "oregano",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "thyme",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "rosemary",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sage",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "tarragon",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chives",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "bay-leaf",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "garlic",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "ginger",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "turmeric",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cumin",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "coriander",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "fennel",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cardamom",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cinnamon",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cloves",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "nutmeg",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "allspice",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "star-anise",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pepper",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "black-pepper",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "white-pepper",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cayenne",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "paprika",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chili-powder",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "curry-powder",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "garam-masala",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "salt",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sea-salt",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "kosher-salt",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "himalayan-salt",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "saffron",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "vanilla",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "anise",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "mustard-seed",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "coconut-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "avocado-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sesame-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "walnut-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "grapeseed-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "flax-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "hemp-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "macadamia-oil",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "honey",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "maple-syrup",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "agave",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "molasses",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "brown-sugar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sugar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "sugar-white",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "powdered-sugar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "baking-soda",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "baking-powder",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "yeast",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cornstarch",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "arrowroot",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "tapioca",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "gelatin",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "agar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "vinegar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "balsamic-vinegar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "apple-cider-vinegar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "white-wine-vinegar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "red-wine-vinegar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "coffee",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "tea",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "green-tea",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "black-tea",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "herbal-tea",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "cocoa",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "chocolate",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "dark-chocolate",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "milk-chocolate",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "truffle",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "caviar",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "foie-gras",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "prosciutto",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "pancetta",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "kimchi",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "miso",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "soy-sauce",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "fish-sauce",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "oyster-sauce",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "tahini",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "peanut-butter",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "almond-butter",
+      "found": false,
+      "error": "Error"
+    },
+    {
+      "commodity": "coconut-milk",
+      "found": false,
+      "error": "Error"
+    }
+  ]
+}

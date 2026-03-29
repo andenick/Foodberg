@@ -1,0 +1,2002 @@
+{
+  "timestamp": "2025-09-25T15:15:34.426Z",
+  "total_attempts": 268,
+  "successful": 69,
+  "failed": 199,
+  "new_commodities": [],
+  "sources_explored": [
+    {
+      "endpoint": "/api/usda/market-news",
+      "success": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "endpoint": "/api/usda/nass",
+      "success": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "endpoint": "/api/usda/commodity-list",
+      "success": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "endpoint": "/api/commodity-list",
+      "success": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "endpoint": "/api/categories",
+      "success": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "endpoint": "/api/sources",
+      "success": false,
+      "error": "Request failed with status code 404"
+    }
+  ],
+  "results": [
+    {
+      "commodity": "wheat",
+      "found": true,
+      "data": {
+        "commodity": "Bagels, wheat",
+        "currentPrice": 2.19,
+        "priceChange": "0.11",
+        "priceChangePercent": "5.29",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "corn",
+      "found": true,
+      "data": {
+        "commodity": "Oil, corn",
+        "currentPrice": 2.37,
+        "priceChange": "0.03",
+        "priceChangePercent": "1.28",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "rice",
+      "found": true,
+      "data": {
+        "commodity": "Rice crackers",
+        "currentPrice": 2.12,
+        "priceChange": "-0.12",
+        "priceChangePercent": "-5.36",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "oats",
+      "found": true,
+      "data": {
+        "commodity": "Oil, oat",
+        "currentPrice": 2.69,
+        "priceChange": "-0.02",
+        "priceChangePercent": "-0.74",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "barley",
+      "found": true,
+      "data": {
+        "commodity": "Barley, hulled",
+        "currentPrice": 2.36,
+        "priceChange": "0.03",
+        "priceChangePercent": "1.29",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "flour",
+      "found": true,
+      "data": {
+        "commodity": "Arrowroot flour",
+        "currentPrice": 2.46,
+        "priceChange": "0.02",
+        "priceChangePercent": "0.82",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "chicken",
+      "found": true,
+      "data": {
+        "commodity": "Chicken spread",
+        "currentPrice": 2.25,
+        "priceChange": "0.03",
+        "priceChangePercent": "1.35",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "chicken-breast",
+      "found": true,
+      "data": {
+        "commodity": "Chicken breast tenders, breaded, uncooked",
+        "currentPrice": 2.06,
+        "priceChange": "0.00",
+        "priceChangePercent": "0.00",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "beef-brisket",
+      "found": true,
+      "data": {
+        "commodity": "Beef, cured, corned beef, brisket, cooked",
+        "currentPrice": 2.11,
+        "priceChange": "0.07",
+        "priceChangePercent": "3.43",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "pork",
+      "found": true,
+      "data": {
+        "commodity": "Pork, pickled pork hocks",
+        "currentPrice": 2.34,
+        "priceChange": "-0.11",
+        "priceChangePercent": "-4.49",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "pork-loin",
+      "found": true,
+      "data": {
+        "commodity": "Pork, loin, boneless, raw",
+        "currentPrice": 2.1,
+        "priceChange": "0.07",
+        "priceChangePercent": "3.45",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "turkey",
+      "found": true,
+      "data": {
+        "commodity": "Bologna, turkey",
+        "currentPrice": 2.73,
+        "priceChange": "-0.06",
+        "priceChangePercent": "-2.15",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "eggs",
+      "found": true,
+      "data": {
+        "commodity": "Eggs, Grade A, Large, egg white",
+        "currentPrice": 2.56,
+        "priceChange": "-0.16",
+        "priceChangePercent": "-5.88",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "salmon",
+      "found": true,
+      "data": {
+        "commodity": "Fish oil, salmon",
+        "currentPrice": 2.76,
+        "priceChange": "0.04",
+        "priceChangePercent": "1.47",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "tuna",
+      "found": true,
+      "data": {
+        "commodity": "Fish, tuna salad",
+        "currentPrice": 2.89,
+        "priceChange": "0.00",
+        "priceChangePercent": "0.00",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "shrimp",
+      "found": true,
+      "data": {
+        "commodity": "Crustaceans, shrimp, cooked",
+        "currentPrice": 2,
+        "priceChange": "-0.11",
+        "priceChangePercent": "-5.21",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "lobster",
+      "found": true,
+      "data": {
+        "commodity": "Crustaceans, lobster, northern, raw",
+        "currentPrice": 2.71,
+        "priceChange": "0.10",
+        "priceChangePercent": "3.83",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "soybeans",
+      "found": true,
+      "data": {
+        "commodity": "Oil, soybean",
+        "currentPrice": 2.17,
+        "priceChange": "-0.02",
+        "priceChangePercent": "-0.91",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "milk",
+      "found": true,
+      "data": {
+        "commodity": "Crackers, milk",
+        "currentPrice": 2.44,
+        "priceChange": "0.00",
+        "priceChangePercent": "0.00",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "butter",
+      "found": true,
+      "data": {
+        "commodity": "Butter, Clarified butter (ghee)",
+        "currentPrice": 2.62,
+        "priceChange": "-0.20",
+        "priceChangePercent": "-7.09",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "cheese",
+      "found": true,
+      "data": {
+        "commodity": "Cheese spread, cream cheese base",
+        "currentPrice": 2.15,
+        "priceChange": "0.16",
+        "priceChangePercent": "8.04",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "whey",
+      "found": true,
+      "data": {
+        "commodity": "Whey, acid, dried",
+        "currentPrice": 2.86,
+        "priceChange": "-0.07",
+        "priceChangePercent": "-2.39",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "olive-oil",
+      "found": true,
+      "data": {
+        "commodity": "Oil, corn, peanut, and olive",
+        "currentPrice": 2.03,
+        "priceChange": "-0.20",
+        "priceChangePercent": "-8.97",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "canola-oil",
+      "found": true,
+      "data": {
+        "commodity": "Oil, canola",
+        "currentPrice": 2.41,
+        "priceChange": "-0.02",
+        "priceChangePercent": "-0.82",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "vegetable-oil",
+      "found": true,
+      "data": {
+        "commodity": "Oil, vegetable, soybean, refined",
+        "currentPrice": 2.53,
+        "priceChange": "0.01",
+        "priceChangePercent": "0.40",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "sunflower-oil",
+      "found": true,
+      "data": {
+        "commodity": "Oil, sunflower",
+        "currentPrice": 2.16,
+        "priceChange": "-0.06",
+        "priceChangePercent": "-2.70",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "tomatoes",
+      "found": true,
+      "data": {
+        "commodity": "Tomato powder",
+        "currentPrice": 2.28,
+        "priceChange": "0.10",
+        "priceChangePercent": "4.59",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "tomato",
+      "found": true,
+      "data": {
+        "commodity": "Tomato powder",
+        "currentPrice": 2.16,
+        "priceChange": "-0.07",
+        "priceChangePercent": "-3.14",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "potatoes",
+      "found": true,
+      "data": {
+        "commodity": "Bread, potato",
+        "currentPrice": 2.38,
+        "priceChange": "-0.11",
+        "priceChangePercent": "-4.42",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "potato",
+      "found": true,
+      "data": {
+        "commodity": "Bread, potato",
+        "currentPrice": 2.96,
+        "priceChange": "-0.15",
+        "priceChangePercent": "-4.82",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "onions",
+      "found": true,
+      "data": {
+        "commodity": "Onions, raw",
+        "currentPrice": 2.43,
+        "priceChange": "-0.05",
+        "priceChangePercent": "-2.02",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "onion",
+      "found": true,
+      "data": {
+        "commodity": "Onions, raw",
+        "currentPrice": 2.4,
+        "priceChange": "-0.18",
+        "priceChangePercent": "-6.98",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "carrots",
+      "found": true,
+      "data": {
+        "commodity": "Carrot, dehydrated",
+        "currentPrice": 2.24,
+        "priceChange": "0.05",
+        "priceChangePercent": "2.28",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "carrot",
+      "found": true,
+      "data": {
+        "commodity": "Carrot, dehydrated",
+        "currentPrice": 2.19,
+        "priceChange": "-0.01",
+        "priceChangePercent": "-0.45",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "lettuce",
+      "found": true,
+      "data": {
+        "commodity": "Lettuce, iceberg, raw",
+        "currentPrice": 2.6,
+        "priceChange": "-0.16",
+        "priceChangePercent": "-5.80",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "spinach",
+      "found": true,
+      "data": {
+        "commodity": "Spinach souffle",
+        "currentPrice": 2.26,
+        "priceChange": "0.12",
+        "priceChangePercent": "5.61",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "cabbage",
+      "found": true,
+      "data": {
+        "commodity": "Cabbage, kimchi",
+        "currentPrice": 2.1,
+        "priceChange": "0.03",
+        "priceChangePercent": "1.45",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "celery",
+      "found": true,
+      "data": {
+        "commodity": "Celery, raw",
+        "currentPrice": 2.21,
+        "priceChange": "-0.14",
+        "priceChangePercent": "-5.96",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "beef",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "ground-beef",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "ribeye",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "sirloin",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "t-bone",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "filet-mignon",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "pork-chops",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "bacon",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "ham",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "sausage",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "lamb",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "goat",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "duck",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "goose",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "chicken-thigh",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "chicken-wing",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "chicken-drumstick",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "tilapia",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cod",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "halibut",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "mahi-mahi",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "snapper",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "catfish",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "mackerel",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "crab",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "oyster",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "mussel",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "scallop",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "squid",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "octopus",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cream",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "yogurt",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "sour-cream",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cottage-cheese",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "mozzarella",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cheddar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "swiss-cheese",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "parmesan",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "blue-cheese",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "goat-cheese",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "ricotta",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "broccoli",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cauliflower",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "brussels-sprouts",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "asparagus",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "artichoke",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "eggplant",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "zucchini",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "squash",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cucumber",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "bell-pepper",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "jalapeno",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "serrano",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "habanero",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "poblano",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "sweet-potato",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "yam",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "beet",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "radish",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "turnip",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "parsnip",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "leek",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "shallot",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "scallion",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "mushroom",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "shiitake",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "portobello",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "button-mushroom",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "oyster-mushroom",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "kale",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "chard",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "collard",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "arugula",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "watercress",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "endive",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "apple",
+      "found": true,
+      "data": {
+        "commodity": "Croissants, apple",
+        "currentPrice": 2.3,
+        "priceChange": "0.19",
+        "priceChangePercent": "9.00",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "banana",
+      "found": true,
+      "data": {
+        "commodity": "Bananas, dehydrated, or banana powder",
+        "currentPrice": 2.43,
+        "priceChange": "0.07",
+        "priceChangePercent": "2.97",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "orange",
+      "found": true,
+      "data": {
+        "commodity": "Marmalade, orange",
+        "currentPrice": 2.31,
+        "priceChange": "0.10",
+        "priceChangePercent": "4.52",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "lemon",
+      "found": true,
+      "data": {
+        "commodity": "Lemon juice from concentrate, bottled, REAL LEMON",
+        "currentPrice": 2.01,
+        "priceChange": "-0.11",
+        "priceChangePercent": "-5.19",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "lime",
+      "found": true,
+      "data": {
+        "commodity": "Limes, raw",
+        "currentPrice": 2.79,
+        "priceChange": "0.01",
+        "priceChangePercent": "0.36",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "grapefruit",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "tangerine",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "strawberry",
+      "found": true,
+      "data": {
+        "commodity": "Strawberries, raw",
+        "currentPrice": 2.52,
+        "priceChange": "0.18",
+        "priceChangePercent": "7.69",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "blueberry",
+      "found": true,
+      "data": {
+        "commodity": "Blueberries, raw",
+        "currentPrice": 2.48,
+        "priceChange": "-0.08",
+        "priceChangePercent": "-3.13",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "raspberry",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "blackberry",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cranberry",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "grape",
+      "found": true,
+      "data": {
+        "commodity": "Grape leaves, canned",
+        "currentPrice": 2.47,
+        "priceChange": "0.21",
+        "priceChangePercent": "9.29",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "cherry",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "peach",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "apricot",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "plum",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "nectarine",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "pear",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "pineapple",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "mango",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "papaya",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "kiwi",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "avocado",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "pomegranate",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cantaloupe",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "honeydew",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "watermelon",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "fig",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "date",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "raisin",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "quinoa",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "buckwheat",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "millet",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "amaranth",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "bulgur",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "couscous",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "wild-rice",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "brown-rice",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "jasmine-rice",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "basmati-rice",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "whole-wheat",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "rye",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "spelt",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "kamut",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "farro",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "almond",
+      "found": true,
+      "data": {
+        "commodity": "Flour, almond",
+        "currentPrice": 2.21,
+        "priceChange": "-0.01",
+        "priceChangePercent": "-0.45",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "walnut",
+      "found": true,
+      "data": {
+        "commodity": "Oil, walnut",
+        "currentPrice": 2.8,
+        "priceChange": "-0.06",
+        "priceChangePercent": "-2.10",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "pecan",
+      "found": true,
+      "data": {
+        "commodity": "Nuts, pecans",
+        "currentPrice": 2.4,
+        "priceChange": "-0.07",
+        "priceChangePercent": "-2.83",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "pistachio",
+      "found": true,
+      "data": {
+        "commodity": "Nuts, pistachio nuts, raw",
+        "currentPrice": 2.06,
+        "priceChange": "0.11",
+        "priceChangePercent": "5.64",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "cashew",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "brazil-nut",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "hazelnut",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "macadamia",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "pine-nut",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "chestnut",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "sunflower-seed",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "pumpkin-seed",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "sesame-seed",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "flax-seed",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "chia-seed",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "hemp-seed",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "poppy-seed",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "basil",
+      "found": true,
+      "data": {
+        "commodity": "Basil, fresh",
+        "currentPrice": 2.9,
+        "priceChange": "0.15",
+        "priceChangePercent": "5.45",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "cilantro",
+      "found": true,
+      "data": {
+        "commodity": "Coriander (cilantro) leaves, raw",
+        "currentPrice": 2.99,
+        "priceChange": "0.16",
+        "priceChangePercent": "5.65",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "parsley",
+      "found": true,
+      "data": {
+        "commodity": "Parsley, fresh",
+        "currentPrice": 2.55,
+        "priceChange": "0.00",
+        "priceChangePercent": "0.00",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "dill",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "mint",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "oregano",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "thyme",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "rosemary",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "sage",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "tarragon",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "chives",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "bay-leaf",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "garlic",
+      "found": true,
+      "data": {
+        "commodity": "Garlic, raw",
+        "currentPrice": 2.83,
+        "priceChange": "0.06",
+        "priceChangePercent": "2.17",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "ginger",
+      "found": true,
+      "data": {
+        "commodity": "Ginger root, raw",
+        "currentPrice": 2.76,
+        "priceChange": "0.16",
+        "priceChangePercent": "6.15",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "turmeric",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cumin",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "coriander",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "fennel",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cardamom",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cinnamon",
+      "found": true,
+      "data": {
+        "commodity": "Bread, cinnamon",
+        "currentPrice": 2.46,
+        "priceChange": "0.15",
+        "priceChangePercent": "6.49",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "cloves",
+      "found": true,
+      "data": {
+        "commodity": "Spices, cloves, ground",
+        "currentPrice": 2.27,
+        "priceChange": "-0.02",
+        "priceChangePercent": "-0.87",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "nutmeg",
+      "found": true,
+      "data": {
+        "commodity": "Oil, nutmeg butter",
+        "currentPrice": 2.7,
+        "priceChange": "0.01",
+        "priceChangePercent": "0.37",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "allspice",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "star-anise",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "pepper",
+      "found": true,
+      "data": {
+        "commodity": "Pepper, banana, raw",
+        "currentPrice": 2.42,
+        "priceChange": "-0.06",
+        "priceChangePercent": "-2.42",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "black-pepper",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "white-pepper",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cayenne",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "paprika",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "chili-powder",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "curry-powder",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "garam-masala",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "salt",
+      "found": true,
+      "data": {
+        "commodity": "Butter, salted",
+        "currentPrice": 2.73,
+        "priceChange": "0.07",
+        "priceChangePercent": "2.63",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "sea-salt",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "kosher-salt",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "himalayan-salt",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "saffron",
+      "found": true,
+      "data": {
+        "commodity": "Spices, saffron",
+        "currentPrice": 2.85,
+        "priceChange": "0.11",
+        "priceChangePercent": "4.01",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "vanilla",
+      "found": true,
+      "data": {
+        "commodity": "Vanilla extract",
+        "currentPrice": 2.63,
+        "priceChange": "-0.13",
+        "priceChangePercent": "-4.71",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "anise",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "mustard-seed",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "coconut-oil",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "avocado-oil",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "sesame-oil",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "walnut-oil",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "grapeseed-oil",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "flax-oil",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "hemp-oil",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "macadamia-oil",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "honey",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "maple-syrup",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "agave",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "molasses",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "brown-sugar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "sugar",
+      "found": true,
+      "data": {
+        "commodity": "Sugar, turbinado",
+        "currentPrice": 3.07,
+        "priceChange": "0.26",
+        "priceChangePercent": "9.25",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "sugar-white",
+      "found": true,
+      "data": {
+        "commodity": "Sugar, turbinado",
+        "currentPrice": 2.85,
+        "priceChange": "-0.01",
+        "priceChangePercent": "-0.35",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "powdered-sugar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "baking-soda",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "baking-powder",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "yeast",
+      "found": true,
+      "data": {
+        "commodity": "Yeast extract spread",
+        "currentPrice": 2.77,
+        "priceChange": "0.07",
+        "priceChangePercent": "2.59",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "cornstarch",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "arrowroot",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "tapioca",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "gelatin",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "agar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "vinegar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "balsamic-vinegar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "apple-cider-vinegar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "white-wine-vinegar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "red-wine-vinegar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "coffee",
+      "found": true,
+      "data": {
+        "commodity": "SILK Coffee, soymilk",
+        "currentPrice": 2.34,
+        "priceChange": "0.02",
+        "priceChangePercent": "0.86",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "tea",
+      "found": true,
+      "data": {
+        "commodity": "Beverages, tea, hibiscus, brewed",
+        "currentPrice": 2.82,
+        "priceChange": "-0.03",
+        "priceChangePercent": "-1.05",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "green-tea",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "black-tea",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "herbal-tea",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "cocoa",
+      "found": true,
+      "data": {
+        "commodity": "Oil, cocoa butter",
+        "currentPrice": 2.86,
+        "priceChange": "-0.05",
+        "priceChangePercent": "-1.72",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "chocolate",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "dark-chocolate",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "milk-chocolate",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "truffle",
+      "found": true,
+      "data": {
+        "commodity": "Pate, truffle flavor",
+        "currentPrice": 2.15,
+        "priceChange": "0.13",
+        "priceChangePercent": "6.44",
+        "lastUpdated": "2025-09-15",
+        "unit": "lb",
+        "category": "Other",
+        "source": "USDA"
+      }
+    },
+    {
+      "commodity": "caviar",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "foie-gras",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "prosciutto",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "pancetta",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "kimchi",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "miso",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "soy-sauce",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "fish-sauce",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "oyster-sauce",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "tahini",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "peanut-butter",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "almond-butter",
+      "found": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "commodity": "coconut-milk",
+      "found": false,
+      "error": "Request failed with status code 404"
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "timestamp": "2025-09-25T14:18:12.033Z",
+  "total_commodities": 74,
+  "successful": 70,
+  "failed": 4,
+  "sources_used": [
+    "historical_data"
+  ],
+  "results": [
+    {
+      "commodity": "wheat",
+      "success": true,
+      "price": 2.19,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "corn",
+      "success": true,
+      "price": 2.37,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "rice",
+      "success": true,
+      "price": 2.12,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "oats",
+      "success": true,
+      "price": 2.69,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "barley",
+      "success": true,
+      "price": 2.36,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "beef",
+      "success": false,
+      "error": "Both multi-source and historical failed: Request failed with status code 503, Request failed with status code 404"
+    },
+    {
+      "commodity": "flour",
+      "success": true,
+      "price": 2.46,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "chicken",
+      "success": true,
+      "price": 2.25,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "chicken-breast",
+      "success": true,
+      "price": 2.06,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "beef-brisket",
+      "success": true,
+      "price": 2.11,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "pork",
+      "success": true,
+      "price": 2.34,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "eggs",
+      "success": true,
+      "price": 2.56,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "salmon",
+      "success": true,
+      "price": 2.76,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "pork-loin",
+      "success": true,
+      "price": 2.1,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "turkey",
+      "success": true,
+      "price": 2.73,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "cattle",
+      "success": false,
+      "error": "Both multi-source and historical failed: Request failed with status code 503, Request failed with status code 404"
+    },
+    {
+      "commodity": "hogs",
+      "success": false,
+      "error": "Both multi-source and historical failed: Request failed with status code 503, Request failed with status code 404"
+    },
+    {
+      "commodity": "tuna",
+      "success": true,
+      "price": 2.89,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "lobster",
+      "success": true,
+      "price": 2.71,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "shrimp",
+      "success": true,
+      "price": 2,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "cheese-cheddar",
+      "success": false,
+      "error": "Both multi-source and historical failed: Request failed with status code 503, Request failed with status code 404"
+    },
+    {
+      "commodity": "soybeans",
+      "success": true,
+      "price": 2.17,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "butter",
+      "success": true,
+      "price": 2.62,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "milk",
+      "success": true,
+      "price": 2.44,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "cheese",
+      "success": true,
+      "price": 2.15,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "olive-oil",
+      "success": true,
+      "price": 2.03,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "canola-oil",
+      "success": true,
+      "price": 2.41,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "vegetable-oil",
+      "success": true,
+      "price": 2.53,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "whey",
+      "success": true,
+      "price": 2.86,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "sunflower-oil",
+      "success": true,
+      "price": 2.16,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "tomatoes",
+      "success": true,
+      "price": 2.28,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "potatoes",
+      "success": true,
+      "price": 2.38,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "tomato",
+      "success": true,
+      "price": 2.16,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "potato",
+      "success": true,
+      "price": 2.96,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "onions",
+      "success": true,
+      "price": 2.43,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "carrots",
+      "success": true,
+      "price": 2.24,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "onion",
+      "success": true,
+      "price": 2.4,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "lettuce",
+      "success": true,
+      "price": 2.6,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "carrot",
+      "success": true,
+      "price": 2.19,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "spinach",
+      "success": true,
+      "price": 2.26,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "cabbage",
+      "success": true,
+      "price": 2.1,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "celery",
+      "success": true,
+      "price": 2.21,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "apple",
+      "success": true,
+      "price": 2.3,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "banana",
+      "success": true,
+      "price": 2.43,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "orange",
+      "success": true,
+      "price": 2.31,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "lemon",
+      "success": true,
+      "price": 2.01,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "lime",
+      "success": true,
+      "price": 2.79,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "strawberry",
+      "success": true,
+      "price": 2.52,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "blueberry",
+      "success": true,
+      "price": 2.48,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "grape",
+      "success": true,
+      "price": 2.47,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "almond",
+      "success": true,
+      "price": 2.21,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "walnut",
+      "success": true,
+      "price": 2.8,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "pecan",
+      "success": true,
+      "price": 2.4,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "pistachio",
+      "success": true,
+      "price": 2.06,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "basil",
+      "success": true,
+      "price": 2.9,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "cilantro",
+      "success": true,
+      "price": 2.99,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "parsley",
+      "success": true,
+      "price": 2.55,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "garlic",
+      "success": true,
+      "price": 2.83,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "ginger",
+      "success": true,
+      "price": 2.76,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "pepper",
+      "success": true,
+      "price": 2.42,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "salt",
+      "success": true,
+      "price": 2.73,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "cinnamon",
+      "success": true,
+      "price": 2.46,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "cloves",
+      "success": true,
+      "price": 2.27,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "nutmeg",
+      "success": true,
+      "price": 2.7,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "saffron",
+      "success": true,
+      "price": 2.85,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "coffee",
+      "success": true,
+      "price": 2.34,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "vanilla",
+      "success": true,
+      "price": 2.63,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "sugar",
+      "success": true,
+      "price": 3.07,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "tea",
+      "success": true,
+      "price": 2.82,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "cocoa",
+      "success": true,
+      "price": 2.86,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "yeast",
+      "success": true,
+      "price": 2.77,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "sugar-white",
+      "success": true,
+      "price": 2.85,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "juice",
+      "success": true,
+      "price": 2.23,
+      "sources": 1,
+      "data_source": "historical"
+    },
+    {
+      "commodity": "truffle",
+      "success": true,
+      "price": 2.15,
+      "sources": 1,
+      "data_source": "historical"
+    }
+  ]
+}

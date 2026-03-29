@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# API Keys (sensitive)
+backend/config/api_keys.json
+**/api_keys.json
+!**/api_keys.json.template
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build outputs
+/frontend/dist/
+/frontend/build/
+/.next/
+/out/
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+*.cache
+/data/cache/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Misc
+*.bak
+*.tmp
+.vercel
+
+# Next.js
+.next/
+
+# Database files
+*.db
+*.sqlite3
+
+# Archive folders
+_archive/
+archive/

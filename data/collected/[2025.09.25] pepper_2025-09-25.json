@@ -1,0 +1,20 @@
+{
+  "commodity": "pepper",
+  "success": true,
+  "price": 2.42,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:34.334Z",
+  "raw_data": {
+    "commodity": "Pepper, banana, raw",
+    "currentPrice": 2.42,
+    "priceChange": "-0.06",
+    "priceChangePercent": "-2.42",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

@@ -1,0 +1,65 @@
+# Litestream Configuration for Foodberg
+# Continuous SQLite replication to cloud storage
+#
+# This keeps your API keys LOCAL while syncing the database to the cloud.
+# The production site reads from the replicated database.
+#
+# Setup:
+# 1. Install Litestream: https://litestream.io/install/
+# 2. Set environment variables (see below)
+# 3. Run: litestream replicate -config litestream.yml
+#
+# Cost: ~$0.01-0.02/day for S3 storage
+
+# Database to replicate
+dbs:
+  - path: ./foodberg.db
+
+    replicas:
+      # Primary replica: AWS S3 (recommended)
+      # Set these environment variables:
+      #   AWS_ACCESS_KEY_ID=your_access_key
+      #   AWS_SECRET_ACCESS_KEY=your_secret_key
+      #   LITESTREAM_BUCKET=your-bucket-name
+      - type: s3
+        bucket: ${LITESTREAM_BUCKET}
+        path: foodberg/db
+        region: us-east-1
+
+        # Retention: Keep 24 hours of WAL files
+        retention: 24h
+
+        # Snapshot every hour for faster recovery
+        snapshot-interval: 1h
+
+        # Sync every 10 seconds (near real-time)
+        sync-interval: 10s
+
+        # Validate checksums
+        validation-interval: 1h
+
+      # Alternative: Azure Blob Storage
+      # Uncomment and set:
+      #   AZURE_STORAGE_ACCOUNT=your_account
+      #   AZURE_STORAGE_KEY=your_key
+      #   AZURE_BLOB_CONTAINER=your-container
+      # - type: abs
+      #   bucket: ${AZURE_BLOB_CONTAINER}
+      #   account-name: ${AZURE_STORAGE_ACCOUNT}
+      #   account-key: ${AZURE_STORAGE_KEY}
+      #   path: foodberg/db
+
+      # Alternative: Google Cloud Storage
+      # Uncomment and set GOOGLE_APPLICATION_CREDENTIALS to your service account JSON
+      # - type: gcs
+      #   bucket: your-gcs-bucket
+      #   path: foodberg/db
+
+      # Alternative: SFTP (for self-hosted)
+      # - type: sftp
+      #   host: your-server.com
+      #   user: backup
+      #   path: /backups/foodberg
+
+# Logging
+# Set LITESTREAM_LOG_LEVEL=debug for troubleshooting

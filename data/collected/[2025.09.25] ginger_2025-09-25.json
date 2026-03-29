@@ -1,0 +1,20 @@
+{
+  "commodity": "ginger",
+  "success": true,
+  "price": 2.76,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:34.333Z",
+  "raw_data": {
+    "commodity": "Ginger root, raw",
+    "currentPrice": 2.76,
+    "priceChange": "0.16",
+    "priceChangePercent": "6.15",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

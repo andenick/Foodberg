@@ -1,0 +1,24 @@
+# Render configuration for Foodberg Backend
+
+services:
+  - type: web
+    name: foodberg-api
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: "pip install -r requirements.txt && python start.py --init-only --skip-data-check"
+    startCommand: "uvicorn main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: ENV
+        value: production
+      - key: CORS_ORIGINS
+        value: https://foodberg.org,https://www.foodberg.org
+      - key: FRED_API_KEY
+        sync: false  # Set in Render dashboard
+      - key: BLS_API_KEY
+        sync: false
+      - key: USDA_API_KEY
+        sync: false
+    healthCheckPath: /api/health

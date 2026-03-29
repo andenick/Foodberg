@@ -1,0 +1,20 @@
+{
+  "commodity": "cilantro",
+  "success": true,
+  "price": 2.99,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:34.332Z",
+  "raw_data": {
+    "commodity": "Coriander (cilantro) leaves, raw",
+    "currentPrice": 2.99,
+    "priceChange": "0.16",
+    "priceChangePercent": "5.65",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

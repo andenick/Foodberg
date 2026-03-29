@@ -1,0 +1,20 @@
+{
+  "commodity": "pecan",
+  "success": true,
+  "price": 2.4,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:32.316Z",
+  "raw_data": {
+    "commodity": "Nuts, pecans",
+    "currentPrice": 2.4,
+    "priceChange": "-0.07",
+    "priceChangePercent": "-2.83",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

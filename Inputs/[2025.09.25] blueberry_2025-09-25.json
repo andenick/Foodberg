@@ -1,0 +1,20 @@
+{
+  "commodity": "blueberry",
+  "success": true,
+  "price": 2.48,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:30.300Z",
+  "raw_data": {
+    "commodity": "Blueberries, raw",
+    "currentPrice": 2.48,
+    "priceChange": "-0.08",
+    "priceChangePercent": "-3.13",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

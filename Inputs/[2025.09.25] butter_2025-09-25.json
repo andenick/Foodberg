@@ -1,0 +1,20 @@
+{
+  "commodity": "butter",
+  "success": true,
+  "price": 2.62,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:20.220Z",
+  "raw_data": {
+    "commodity": "Butter, Clarified butter (ghee)",
+    "currentPrice": 2.62,
+    "priceChange": "-0.20",
+    "priceChangePercent": "-7.09",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "commodity": "corn",
+  "success": true,
+  "price": 2.37,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:12.113Z",
+  "raw_data": {
+    "commodity": "Oil, corn",
+    "currentPrice": 2.37,
+    "priceChange": "0.03",
+    "priceChangePercent": "1.28",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

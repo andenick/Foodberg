@@ -1,0 +1,17 @@
+{
+  "source": "USDA Economic Research Service",
+  "download_date": "2025-09-25T14:03:34.827Z",
+  "description": "USDA ERS food price outlook and data",
+  "data_url": "https://www.ers.usda.gov/data-products/food-price-outlook/",
+  "note": "Free data available via USDA ERS website",
+  "available_datasets": {
+    "food_price_outlook": "Monthly food price forecasts and analysis",
+    "retail_food_prices": "Average retail food prices",
+    "food_expenditures": "Consumer food expenditure data"
+  },
+  "api_access": {
+    "url": "https://www.ers.usda.gov/developer/data-apis/",
+    "note": "Register at api.data.gov for API access key",
+    "cost": "Free"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "commodity": "potato",
+  "success": true,
+  "price": 2.96,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:24.251Z",
+  "raw_data": {
+    "commodity": "Bread, potato",
+    "currentPrice": 2.96,
+    "priceChange": "-0.15",
+    "priceChangePercent": "-4.82",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "FAO Food Price Index",
+  "download_date": "2025-09-25T14:03:34.826Z",
+  "description": "UN FAO Food Price Index data",
+  "data_url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en",
+  "note": "Latest data available at FAO website - updated monthly",
+  "food_price_index": {
+    "cereals": "Visit FAO website for current index",
+    "meat": "Visit FAO website for current index",
+    "dairy": "Visit FAO website for current index",
+    "oils": "Visit FAO website for current index",
+    "sugar": "Visit FAO website for current index"
+  },
+  "instructions": [
+    "1. Go to https://www.fao.org/faostat/en/#data/PP",
+    "2. Select Producer Price (Annual)",
+    "3. Choose countries and commodities",
+    "4. Download as CSV",
+    "5. Place in data/free_sources/ directory"
+  ]
+}

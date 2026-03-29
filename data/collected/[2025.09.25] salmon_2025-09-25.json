@@ -1,0 +1,20 @@
+{
+  "commodity": "salmon",
+  "success": true,
+  "price": 2.76,
+  "data_source": "historical",
+  "sources": [
+    "historical_data"
+  ],
+  "collected_at": "2025-09-25T14:18:16.152Z",
+  "raw_data": {
+    "commodity": "Fish oil, salmon",
+    "currentPrice": 2.76,
+    "priceChange": "0.04",
+    "priceChangePercent": "1.47",
+    "lastUpdated": "2025-09-15",
+    "unit": "lb",
+    "category": "Other",
+    "source": "USDA"
+  }
+}

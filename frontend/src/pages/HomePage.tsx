@@ -1,0 +1,155 @@
+import { ArrowRight, BarChart3, Database, Globe, History, TrendingUp } from 'lucide-react'
+import { Link } from 'react-router-dom'
+
+export default function HomePage() {
+    const features = [
+        {
+            icon: TrendingUp,
+            title: 'Price Explorer',
+            description: 'Browse historical food commodity prices from USDA, FAO, and global markets',
+            link: '/explore',
+            color: 'text-emerald-400'
+        },
+        {
+            icon: Globe,
+            title: 'Geographic Comparison',
+            description: 'Compare food prices across different regions and countries on interactive maps',
+            link: '/geographic',
+            color: 'text-blue-400'
+        },
+        {
+            icon: History,
+            title: 'Historical Trends',
+            description: 'Explore long-term price trends and compare multiple commodities over time',
+            link: '/trends',
+            color: 'text-purple-400'
+        },
+        {
+            icon: Database,
+            title: 'Data Sources',
+            description: 'Learn about our data sources: USDA WASDE, FAO, FRED, BLS, and more',
+            link: '/sources',
+            color: 'text-amber-400'
+        }
+    ]
+
+    const stats = [
+        { label: 'Commodities', value: '50+' },
+        { label: 'Data Sources', value: '5' },
+        { label: 'Years of Data', value: '35+' },
+        { label: 'Price Records', value: '166K+' }
+    ]
+
+    const sampleCommodities = [
+        { name: 'Wheat', trend: '+2.3%', color: 'text-green-400' },
+        { name: 'Corn', trend: '-1.1%', color: 'text-red-400' },
+        { name: 'Soybeans', trend: '+0.8%', color: 'text-green-400' },
+        { name: 'Rice', trend: '+1.5%', color: 'text-green-400' },
+        { name: 'Cotton', trend: '-0.5%', color: 'text-red-400' },
+        { name: 'Cattle', trend: '+3.2%', color: 'text-green-400' },
+    ]
+
+    return (
+        <div className="min-h-screen">
+            {/* Hero Section */}
+            <section className="py-20 px-4 sm:px-6 lg:px-8">
+                <div className="max-w-7xl mx-auto text-center">
+                    <h1 className="text-5xl sm:text-6xl font-bold text-slate-100 mb-6">
+                        Explore the History of
+                        <span className="text-emerald-400"> Food Prices</span>
+                    </h1>
+                    <p className="text-xl text-slate-300 mb-8 max-w-3xl mx-auto">
+                        A comprehensive tool for historically-minded chefs and researchers to understand
+                        the broader environmental and historical context of food commodity prices.
+                    </p>
+                    <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                        <Link to="/index" className="btn-primary text-lg px-8 py-3 inline-flex items-center justify-center space-x-2">
+                            <BarChart3 className="w-5 h-5" />
+                            <span>Food Price Index</span>
+                        </Link>
+                        <Link to="/explore" className="btn-secondary text-lg px-8 py-3 inline-flex items-center justify-center space-x-2">
+                            <TrendingUp className="w-5 h-5" />
+                            <span>Explore Prices</span>
+                        </Link>
+                    </div>
+                </div>
+            </section>
+
+            {/* Stats */}
+            <section className="py-12 px-4 sm:px-6 lg:px-8 bg-slate-800/30">
+                <div className="max-w-7xl mx-auto">
+                    <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+                        {stats.map((stat) => (
+                            <div key={stat.label} className="text-center">
+                                <div className="text-4xl font-bold text-emerald-400 mb-2">{stat.value}</div>
+                                <div className="text-sm text-slate-400">{stat.label}</div>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            </section>
+
+            {/* Quick Commodity Overview */}
+            <section className="py-12 px-4 sm:px-6 lg:px-8">
+                <div className="max-w-7xl mx-auto">
+                    <h2 className="text-2xl font-bold text-slate-100 mb-6 text-center">Featured Commodities</h2>
+                    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+                        {sampleCommodities.map((commodity) => (
+                            <Link
+                                key={commodity.name}
+                                to={`/commodity/${commodity.name.toLowerCase()}`}
+                                className="card hover:border-emerald-500/50 transition-all text-center p-4"
+                            >
+                                <h3 className="text-lg font-medium text-slate-200">{commodity.name}</h3>
+                                <span className={`text-sm font-mono ${commodity.color}`}>{commodity.trend}</span>
+                            </Link>
+                        ))}
+                    </div>
+                </div>
+            </section>
+
+            {/* Features Grid */}
+            <section className="py-20 px-4 sm:px-6 lg:px-8">
+                <div className="max-w-7xl mx-auto">
+                    <h2 className="text-3xl font-bold text-slate-100 mb-12 text-center">
+                        Understand Food Price History
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        {features.map((feature) => {
+                            const Icon = feature.icon
+                            return (
+                                <Link
+                                    key={feature.title}
+                                    to={feature.link}
+                                    className="card hover:shadow-2xl hover:border-slate-600 transition-all group"
+                                >
+                                    <Icon className={`w-12 h-12 ${feature.color} mb-4 group-hover:scale-110 transition-transform`} />
+                                    <h3 className="text-xl font-semibold text-slate-100 mb-2">{feature.title}</h3>
+                                    <p className="text-slate-400">{feature.description}</p>
+                                    <div className="mt-4 flex items-center text-emerald-400 group-hover:translate-x-2 transition-transform">
+                                        <span className="text-sm font-medium">Explore</span>
+                                        <ArrowRight className="w-4 h-4 ml-2" />
+                                    </div>
+                                </Link>
+                            )
+                        })}
+                    </div>
+                </div>
+            </section>
+
+            {/* Historical Context Quote */}
+            <section className="py-16 px-4 sm:px-6 lg:px-8 bg-slate-800/30">
+                <div className="max-w-4xl mx-auto text-center">
+                    <blockquote className="text-2xl italic text-slate-300 mb-4">
+                        "Tell me what you eat, and I will tell you what you are."
+                    </blockquote>
+                    <cite className="text-slate-400">— Jean Anthelme Brillat-Savarin, 1825</cite>
+                    <p className="mt-6 text-slate-400">
+                        Understanding food prices helps us understand history itself — from agricultural
+                        revolutions to trade wars, climate events to economic crises.
+                    </p>
+                </div>
+            </section>
+        </div>
+    )
+}
