@@ -7,7 +7,7 @@ API: https://fenixservices.fao.org/faostat/api/v1/en/ (FREE)
 """
 
 import httpx
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import List, Dict, Optional
 import pandas as pd
 

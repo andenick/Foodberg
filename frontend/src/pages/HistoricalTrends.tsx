@@ -41,7 +41,7 @@ export default function HistoricalTrends() {
 
     useEffect(() => {
         loadMultiCommodityData()
-    }, [selectedCommodities, timeRange])
+    }, [selectedCommodities, timeRange, chartType])
 
     const loadMultiCommodityData = async () => {
         if (selectedCommodities.length === 0) {

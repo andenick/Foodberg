@@ -309,8 +309,14 @@ async def get_data_sources():
 
 @app.get("/api/prices/terminal/{market}")
 async def get_terminal_prices(market: str, date: Optional[str] = None):
-    """Get terminal market prices for a specific market"""
-    usda_client = USDAMarketNewsClient()
+    """Get terminal market prices for a specific market (requires USDA_API_KEY)"""
+    try:
+        usda_client = USDAMarketNewsClient()
+    except ValueError:
+        raise HTTPException(
+            status_code=503,
+            detail="USDA Market News API key not configured. Set USDA_API_KEY environment variable.",
+        )
     data = usda_client.get_terminal_market_prices(market)
     if data:
         return data
@@ -487,23 +493,29 @@ async def get_wasde_commodities():
 
 
 @app.get("/api/wasde/{commodity}")
-async def get_wasde_data(commodity: str, summary: bool = True):
-    """Get WASDE data for a specific commodity from Robin canonical data store."""
+async def get_wasde_data(commodity: str, limit: int = 5000):
+    """Get WASDE data for a specific commodity from the local database."""
+    if not db_manager:
+        raise HTTPException(status_code=503, detail="Database not initialized")
     try:
-        robin_client = RobinWASDEClient()
-        if summary:
-            data = robin_client.get_summary(commodity)
-        else:
-            data = robin_client.get_commodity_data(commodity)
+        session = db_manager.get_session()
+        try:
+            from database.models import WASDEData
+            from sqlalchemy import desc
+            query = session.query(WASDEData).filter(
+                WASDEData.commodity == commodity.upper()
+            ).order_by(desc(WASDEData.year)).limit(limit)
+            results = query.all()
+            records = [db_manager._wasde_to_dict(r) for r in results]
+        finally:
+            session.close()
 
-        if not data:
-            raise HTTPException(
-                status_code=404,
-                detail=f"No WASDE data found for commodity: {commodity}",
-            )
-        return data
-    except ValueError as e:
-        raise HTTPException(status_code=400, detail=str(e))
+        return {
+            "commodity": commodity.upper(),
+            "source": "USDA NASS (via Robin)",
+            "data_points": len(records),
+            "data": records,
+        }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

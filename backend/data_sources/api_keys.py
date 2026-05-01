@@ -21,7 +21,8 @@ def load_api_keys() -> dict:
     keys = {
         "fred": os.getenv("FRED_API_KEY"),
         "bls": os.getenv("BLS_API_KEY"),
-        "usda_nass": os.getenv("USDA_API_KEY"),
+        "usda_nass": os.getenv("USDA_NASS_API_KEY") or os.getenv("USDA_API_KEY"),
+        "usda_ams": os.getenv("USDA_AMS_API_KEY"),
         "bea": os.getenv("BEA_API_KEY"),
         "alpha_vantage": os.getenv("ALPHA_VANTAGE_API_KEY"),
     }
@@ -55,9 +56,14 @@ def get_bls_key() -> Optional[str]:
     return load_api_keys().get("bls")
 
 
-def get_usda_key() -> Optional[str]:
-    """Get USDA NASS API key"""
+def get_usda_nass_key() -> Optional[str]:
+    """Get USDA NASS Quick Stats API key"""
     return load_api_keys().get("usda_nass")
+
+
+def get_usda_ams_key() -> Optional[str]:
+    """Get USDA AMS Market News API key"""
+    return load_api_keys().get("usda_ams")
 
 
 def get_bea_key() -> Optional[str]:

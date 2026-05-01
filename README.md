@@ -1,6 +1,6 @@
 # Foodberg - Historical Food Price Explorer
 
-A simple data visualization app for exploring historical food commodity prices, built with React and FastAPI.
+A data visualization app for exploring historical food commodity prices, built with React and FastAPI. For historically minded chefs who want to understand the broader environmental and historical context of food prices.
 
 ## What It Does
 
@@ -12,7 +12,7 @@ A simple data visualization app for exploring historical food commodity prices, 
 
 ## Data
 
-166,000+ price records from 5 sources:
+169,000+ records from 5 sources in a SQLite database:
 
 | Source | Records | Coverage |
 |--------|---------|----------|
@@ -21,12 +21,18 @@ A simple data visualization app for exploring historical food commodity prices, 
 | BLS CPI | 840 | Food at Home, Food Away, 5 sub-components (2015-2025) |
 | FAO | 2,586 | Global food price indices: meat, dairy, cereals, oils, sugar (1990-2025) |
 | World Bank | 2,705 | Agricultural production/trade indicators for 9 countries |
+| Composite Indices | 2,715 | Computed from FAO + BLS data |
+| Retail | 70 | Commodity snapshots from Inputs/ |
+
+**USDA Market News** terminal prices are available via live API (`/api/prices/terminal/{market}`) but require a separate `USDA_API_KEY` environment variable. This is not pre-populated in the database.
 
 ## Quick Start
 
 ```bash
 # Backend
 cd backend
+python -m venv venv
+venv\Scripts\activate            # Windows (or: source venv/bin/activate)
 pip install -r requirements.txt
 python -m database.import_all    # Populate database (first time only)
 python main.py                   # Starts on http://localhost:8000
@@ -55,16 +61,16 @@ npm run dev                      # Starts on http://localhost:3000
 
 ```
 Foodberg/
-  backend/           # FastAPI server
-    main.py          # API endpoints
-    database/        # SQLAlchemy models, importers
-    indices/         # Composite index computation
-    data/            # SQLite database
-    data_sources/    # API clients (FRED, FAO, World Bank, USDA)
-  frontend/          # React app
-    src/pages/       # 7 pages (Home, Index, Explorer, Detail, Geographic, Trends, Sources)
-    src/services/    # API client
-  Inputs/            # Raw data (70 commodity JSON files)
-  Technical/         # Processing scripts
-  Outputs/           # Deliverables
+  backend/              # FastAPI server (24 GET endpoints)
+    main.py             # API endpoints
+    database/           # SQLAlchemy models, importers
+    indices/            # Composite index computation
+    data/               # SQLite database (foodberg.db)
+    data_sources/       # API clients (FRED, FAO, World Bank, USDA, Robin)
+  frontend/             # React app
+    src/pages/          # 7 pages (Home, Index, Explorer, Detail, Geographic, Trends, Sources)
+    src/services/       # API client
+  Inputs/               # Raw data (70 commodity JSON files)
+  Technical/            # Processing scripts, docs, handoffs, deployment configs
+  Outputs/              # Deliverables
 ```

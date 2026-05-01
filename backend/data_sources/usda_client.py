@@ -12,10 +12,16 @@ load_dotenv(dotenv_path=dotenv_path)
 
 class USDAMarketNewsClient:
     def __init__(self):
-        self.base_url = 'https://mymarketnews.ams.usda.gov/api/v1.2' # Updated to v1.2
-        self.api_key = os.getenv("USDA_API_KEY")
+        self.base_url = 'https://mymarketnews.ams.usda.gov/api/v1.2'
+        self.api_key = os.getenv("USDA_AMS_API_KEY") or os.getenv("USDA_API_KEY")
         if not self.api_key:
-            raise ValueError("USDA_API_KEY not found in environment variables.")
+            config_path = Path(__file__).parent.parent / "config" / "api_keys.json"
+            if config_path.exists():
+                with open(config_path) as f:
+                    config = json.load(f)
+                self.api_key = config.get("usda_ams")
+        if not self.api_key:
+            raise ValueError("USDA AMS Market News API key not found. Set USDA_AMS_API_KEY env var or add 'usda_ams' to config/api_keys.json.")
         self.cache_dir = Path(__file__).parent.parent / 'data' / 'cache' / 'usda'
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.cache_duration = datetime.timedelta(hours=1)
