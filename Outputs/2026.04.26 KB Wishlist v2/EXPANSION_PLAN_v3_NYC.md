@@ -492,7 +492,7 @@ Add **3 new columns** to v2's 19 → v3 has **22 columns**:
 
 ## 12. Deliverables (sibling folder, preserving v2)
 
-`D:/Arcanum/Projects/Foodberg/Outputs/2026.05.10 KB Wishlist v3 NYC/`
+` KB Wishlist v3 NYC/`
 
 1. `_generate_wishlist_v3.py`
 2. `2026.05.10_Foodberg_Wishlist_v3.csv` (~1,300+ rows × 22 cols)

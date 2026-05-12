@@ -98,7 +98,7 @@ Every report must:
 3. Executive Summary - Non-technical overview
 4. Reporting Strategy - Complete output catalog
 
-**Templates**: Available in `D:/Arcanum/Druck/latex_templates/`
+**Templates**: Available in `docs/latex_templates/`
 
 ### Project Structure - Shaikh Tonak Pattern (95% Success Rate)
 
@@ -516,23 +516,23 @@ report = validator.generate_report()
 ### Essential Druck Documentation
 
 **Must Read Before Starting**:
-1. `D:/Arcanum/Druck/AGENT_QUICK_START_GUIDE.md` - 15-minute orientation
-2. `D:/Arcanum/Druck/AGENT_STANDARDS_AND_BEST_PRACTICES.md` - Complete standards
-3. `D:/Arcanum/Druck/ARCANUM_BEST_PRACTICES_FRAMEWORK_UPDATED.md` - Proven patterns
+1. `docs/AGENT_QUICK_START_GUIDE.md` - 15-minute orientation
+2. `docs/AGENT_STANDARDS_AND_BEST_PRACTICES.md` - Complete standards
+3. `docs/ARCANUM_BEST_PRACTICES_FRAMEWORK_UPDATED.md` - Proven patterns
 
 **For Validation and Testing**:
-4. `D:/Arcanum/Druck/VALIDATION_AND_TESTING_PROTOCOL.md` - Testing procedures
-5. `D:/Arcanum/Druck/ACCURACY_AND_QUALITY_STANDARDS.md` - Quality requirements
+4. `docs/VALIDATION_AND_TESTING_PROTOCOL.md` - Testing procedures
+5. `docs/ACCURACY_AND_QUALITY_STANDARDS.md` - Quality requirements
 
 **For Templates**:
-6. `D:/Arcanum/Druck/latex_templates/` - Professional LaTeX templates
+6. `docs/latex_templates/` - Professional LaTeX templates
 
 ### Success Examples to Study
 
 **High-Performing Projects** (95%+ completion):
-- **Arthur**: `D:/Arcanum/Arthur/` - Excellent handoff documentation
-- **Druck**: `D:/Arcanum/Druck/` - Evidence-based completion
-- **Robin**: `D:/Arcanum/Robin/` - Gold standard tool integration
+- **Arthur**: `docs/` - Excellent handoff documentation
+- **Druck**: `docs/` - Evidence-based completion
+- **Robin**: `docs/` - Gold standard tool integration
 
 **Patterns to Avoid** (from project analysis):
 - Don't claim high completion with broken core features

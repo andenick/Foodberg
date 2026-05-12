@@ -54,10 +54,10 @@ class BLSImporter:
 
         Args:
             robin_data_path: Path to Robin's BLS data directory.
-                            Defaults to D:/Arcanum/Council/Robin/API_MODULES/BLS/data/
+                            Defaults to Inputs/robin/API_MODULES/BLS/data/
         """
         if robin_data_path is None:
-            robin_data_path = "D:/Arcanum/Council/Robin/API_MODULES/BLS/data"
+            robin_data_path = os.environ.get("ROBIN_DATA_DIR", "Inputs/robin") + "/API_MODULES/BLS/data"
 
         self.robin_data_path = Path(robin_data_path)
         if not self.robin_data_path.exists():

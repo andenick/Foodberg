@@ -30,7 +30,7 @@
 
 ```bash
 # Clone repository (if applicable)
-cd D:/Arcanum/Projects/Foodberg
+cd 
 
 # Start full stack
 docker-compose up -d
@@ -61,7 +61,7 @@ docker-compose down -v
 ### Backend Setup
 
 ```bash
-cd D:/Arcanum/Projects/Foodberg/backend
+cd 
 
 # Create virtual environment
 python -m venv venv
@@ -91,7 +91,7 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ### Frontend Setup
 
 ```bash
-cd D:/Arcanum/Projects/Foodberg/frontend
+cd 
 
 # Install dependencies
 npm install
@@ -705,10 +705,10 @@ CORS_ORIGINS=https://yourdomain.com,https://www.yourdomain.com
 
 ```bash
 # Check Robin data directory exists
-ls -la D:/Arcanum/Council/Robin/DATA/USDA_WASDE/
+ls -la 
 
 # Check API keys
-cat D:/Arcanum/Council/Robin/ADMIN/api-keys/[2025.09.28] api_keys.json
+cat  api_keys.json
 
 # Run with verbose logging
 python -m database.import_all_wasde --verbose
@@ -795,4 +795,4 @@ docker-compose logs
 **Version**: 1.0
 **Last Updated**: October 23, 2025
 **Project**: Foodberg Price Database
-**Repository**: D:/Arcanum/Projects/Foodberg
+**Repository**: 

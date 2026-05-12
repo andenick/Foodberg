@@ -35,13 +35,13 @@ Categories: grains, proteins, dairy, produce, fruits, nuts, spices, oils, bevera
 
 Primary data sources are accessed from Robin's canonical locations:
 
-- **WASDE Data**: `D:/Arcanum/Council/Robin/DATA/USDA_WASDE/` (35 commodity files)
-- **Historical Prices**: `D:/Arcanum/Council/Robin/DATA/OTHER_APIS/USDA_FOOD/data/historical/` (85 files)
-- **FRED**: `D:/Arcanum/Council/Robin/DATA/FRED/fred_data/fred_data.db`
-- **BLS CPI**: `D:/Arcanum/Council/Robin/API_MODULES/BLS/data/`
-- **FAO**: `D:/Arcanum/Council/Robin/DATA/FAO/`
-- **World Bank**: `D:/Arcanum/Council/Robin/DATA/WorldBank/WDI_CSV/`
-- **API Keys**: `D:/Arcanum/Council/Robin/ADMIN/api-keys/`
+- **WASDE Data**: `Inputs/robin/DATA/USDA_WASDE/ (set ROBIN_DATA_DIR env var)` (35 commodity files)
+- **Historical Prices**: `Inputs/robin/DATA/OTHER_APIS/USDA_FOOD/data/historical/` (85 files)
+- **FRED**: `Inputs/robin/DATA/FRED/fred_data/fred_data.db`
+- **BLS CPI**: `Inputs/robin/API_MODULES/BLS/data/`
+- **FAO**: `Inputs/robin/DATA/FAO/`
+- **World Bank**: `Inputs/robin/DATA/WorldBank/WDI_CSV/`
+- **API Keys**: `backend/config/` (see api_keys.json.template)
 
 **Compliance Status**: 100% (FLAT structure, Druck compliant)
 **Last Updated**: 2026-04-04

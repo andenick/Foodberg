@@ -21,7 +21,7 @@ class RobinWASDEClient:
 
     def __init__(self):
         # Path to Robin's canonical WASDE data store
-        self.robin_data_path = Path("D:/Arcanum/Council/Robin/DATA/USDA_WASDE")
+        self.robin_data_path = Path(os.environ.get("ROBIN_DATA_DIR", "Inputs/robin")) / "DATA" / "USDA_WASDE"
 
         # Supported commodities (matching Robin's comprehensive WASDE collector)
         # ALL 50 WASDE COMMODITIES

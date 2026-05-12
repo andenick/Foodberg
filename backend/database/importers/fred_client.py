@@ -83,7 +83,7 @@ class FREDClient:
             self.api_key = api_key
         else:
             # Try to load from Robin's api_keys.json
-            api_keys_path = Path("D:/Arcanum/Council/Robin/ADMIN/api-keys/[2025.09.28] api_keys.json")
+            api_keys_path = Path(os.environ.get("API_KEYS_PATH", "backend/config/api_keys.json"))
             if api_keys_path.exists():
                 with open(api_keys_path, 'r') as f:
                     keys = json.load(f)

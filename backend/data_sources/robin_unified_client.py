@@ -38,7 +38,7 @@ class RobinUnifiedClient:
     """
 
     # Base path to Robin's data store
-    ROBIN_BASE = Path("D:/Arcanum/Council/Robin")
+    ROBIN_BASE = Path(os.environ.get("ROBIN_DATA_DIR", "Inputs/robin"))
 
     def __init__(self):
         """Initialize the unified Robin client."""

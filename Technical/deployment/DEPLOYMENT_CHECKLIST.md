@@ -35,7 +35,7 @@
 1. **Push to GitHub**
 
    ```bash
-   cd D:/Arcanum/Projects/Foodberg
+   cd 
    git add .
    git commit -m "Foodberg deployment ready"
    git push origin main
@@ -134,7 +134,7 @@ Foodberg/
 
 ## API Keys Reference
 
-Located in `D:/Arcanum/Council/Robin/ADMIN/api-keys/`:
+Located in `
 
 | Service | Key | Source |
 |---------|-----|--------|

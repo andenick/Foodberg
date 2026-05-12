@@ -23,7 +23,7 @@ class ComprehensiveWASDEImporter:
     Import all 35 WASDE commodities from Robin's DATA directory
     """
 
-    def __init__(self, robin_data_path="D:/Arcanum/Council/Robin/DATA/USDA_WASDE"):
+    def __init__(self, robin_data_path=os.environ.get("ROBIN_WASDE_DIR", "Inputs/robin/DATA/USDA_WASDE")):
         self.robin_data_path = Path(robin_data_path)
         if not self.robin_data_path.exists():
             raise FileNotFoundError(f"Robin WASDE data directory not found: {robin_data_path}")
@@ -204,7 +204,7 @@ class ComprehensiveWASDEImporter:
         """Import all available commodities"""
         print("\n" + "="*80)
         print("COMPREHENSIVE WASDE DATA IMPORT")
-        print("Source: Robin Council Tool - D:/Arcanum/Council/Robin/DATA/USDA_WASDE")
+        print("Source: Robin data (set ROBIN_DATA_DIR env var)")
         print("="*80)
 
         # Get commodity files

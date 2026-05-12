@@ -34,7 +34,7 @@ TARGET_COUNTRIES = {"USA", "WLD", "EUU", "CHN", "IND", "BRA", "ARG", "AUS", "CAN
 class WorldBankImporter:
     def __init__(self, robin_data_path: Optional[str] = None):
         if robin_data_path is None:
-            robin_data_path = "D:/Arcanum/Council/Robin/DATA/WorldBank/WDI_CSV"
+            robin_data_path = os.environ.get("ROBIN_DATA_DIR", "Inputs/robin") + "/DATA/WorldBank/WDI_CSV"
 
         self.robin_data_path = Path(robin_data_path)
         if not self.robin_data_path.exists():

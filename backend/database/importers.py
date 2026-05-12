@@ -40,7 +40,7 @@ class RobinDataImporter:
     Import data from Robin's data store into Foodberg's database.
     """
 
-    ROBIN_BASE = Path("D:/Arcanum/Council/Robin")
+    ROBIN_BASE = Path(os.environ.get("ROBIN_DATA_DIR", "Inputs/robin"))
 
     def __init__(self, db_path: Optional[str] = None):
         """Initialize the importer with database connection."""

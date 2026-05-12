@@ -60,11 +60,11 @@ class FREDImporter:
 
         Args:
             robin_data_path: Path to Robin's FRED database.
-                            Defaults to D:/Arcanum/Council/Robin/DATA/FRED/fred_data/fred_data.db
+                            Defaults to Inputs/robin/DATA/FRED/fred_data/fred_data.db
         """
         if robin_data_path is None:
             robin_data_path = (
-                "D:/Arcanum/Council/Robin/DATA/FRED/fred_data/fred_data.db"
+                os.environ.get("ROBIN_DATA_DIR", "Inputs/robin") + "/DATA/FRED/fred_data/fred_data.db"
             )
 
         self.robin_db_path = Path(robin_data_path)

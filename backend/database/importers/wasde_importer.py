@@ -33,10 +33,10 @@ class WASDEImporter:
 
         Args:
             robin_data_path: Path to Robin's WASDE data directory.
-                            Defaults to D:/Arcanum/Council/Robin/DATA/USDA_WASDE/
+                            Defaults to Inputs/robin/DATA/USDA_WASDE/
         """
         if robin_data_path is None:
-            robin_data_path = "D:/Arcanum/Council/Robin/DATA/USDA_WASDE"
+            robin_data_path = os.environ.get("ROBIN_DATA_DIR", "Inputs/robin") + "/DATA/USDA_WASDE"
 
         self.robin_data_path = Path(robin_data_path)
         if not self.robin_data_path.exists():

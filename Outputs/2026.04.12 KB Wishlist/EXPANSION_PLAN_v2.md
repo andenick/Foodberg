@@ -454,18 +454,18 @@ On completion:
 ## 10. Critical Files
 
 **To create**:
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.26 KB Wishlist v2/_generate_wishlist_v2.py`
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.26 KB Wishlist v2/2026.04.26_Foodberg_Wishlist_v2.csv`
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.26 KB Wishlist v2/2026.04.26_Foodberg_Wishlist_v2.json`
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.26 KB Wishlist v2/2026.04.26_Foodberg_Wishlist_v2_Summary.md`
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.26 KB Wishlist v2/WISHLIST_CATEGORY_TAXONOMY_v2.md`
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.26 KB Wishlist v2/DOCUMENT_ACQUISITION_HUB_v2.md`
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.26 KB Wishlist v2/RESEARCH_LOG_v2.md`
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.26 KB Wishlist v2/CHANGELOG_v1_to_v2.md`
+- ` KB Wishlist v2/_generate_wishlist_v2.py`
+- ` KB Wishlist v2/2026.04.26_Foodberg_Wishlist_v2.csv`
+- ` KB Wishlist v2/2026.04.26_Foodberg_Wishlist_v2.json`
+- ` KB Wishlist v2/2026.04.26_Foodberg_Wishlist_v2_Summary.md`
+- ` KB Wishlist v2/WISHLIST_CATEGORY_TAXONOMY_v2.md`
+- ` KB Wishlist v2/DOCUMENT_ACQUISITION_HUB_v2.md`
+- ` KB Wishlist v2/RESEARCH_LOG_v2.md`
+- ` KB Wishlist v2/CHANGELOG_v1_to_v2.md`
 
 **Reference / read-only** (v1 artifacts, preserved):
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.12 KB Wishlist/2026.04.12_Foodberg_Wishlist.csv`
-- `D:/Arcanum/Projects/Foodberg/Outputs/2026.04.12 KB Wishlist/_generate_wishlist.py` (start point for v2 script)
+- ` KB Wishlist/2026.04.12_Foodberg_Wishlist.csv`
+- ` KB Wishlist/_generate_wishlist.py` (start point for v2 script)
 
 **No backend/frontend code touched** — pure research deliverable.
 

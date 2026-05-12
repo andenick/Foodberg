@@ -8,7 +8,7 @@ Run Druck standards validation on this project.
 
 Execute:
 ```bash
-python D:/Arcanum/Council/Druck/scripts/druck_validate.py .
+python -m pytest tests/ -v
 ```
 
 This checks:

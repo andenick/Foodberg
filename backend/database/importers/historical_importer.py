@@ -26,7 +26,7 @@ from database.manager import DatabaseManager
 logger = logging.getLogger(__name__)
 
 ROBIN_HISTORICAL_PATH = Path(
-    "D:/Arcanum/Council/Robin/DATA/OTHER_APIS/USDA_FOOD/data/historical"
+    os.environ.get("ROBIN_DATA_DIR", "Inputs/robin") + "/DATA/OTHER_APIS/USDA_FOOD/data/historical"
 )
 
 NON_FOOD_ITEMS = {"gold", "silver", "crude", "heating", "natural"}

@@ -136,7 +136,7 @@ Tracks data import and sync operations.
 **Status**: ✅ Active (147,369 records imported)
 **Update Frequency**: Monthly
 **Coverage**: US agricultural commodities
-**Data Location**: `D:/Arcanum/Council/Robin/Data/USDA_NASS/WASDE_JSON/`
+**Data Location**: `
 
 ### 2. USDA Market News
 **Status**: ⏳ Framework ready, pending sync

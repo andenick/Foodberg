@@ -39,10 +39,10 @@ class FAOImporter:
 
         Args:
             robin_data_path: Path to Robin's FAO data directory.
-                            Defaults to D:/Arcanum/Council/Robin/DATA/FAO/
+                            Defaults to Inputs/robin/DATA/FAO/
         """
         if robin_data_path is None:
-            robin_data_path = "D:/Arcanum/Council/Robin/DATA/FAO"
+            robin_data_path = os.environ.get("ROBIN_DATA_DIR", "Inputs/robin") + "/DATA/FAO"
 
         self.robin_data_path = Path(robin_data_path)
         if not self.robin_data_path.exists():

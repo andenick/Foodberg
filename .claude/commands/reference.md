@@ -5,4 +5,4 @@ Quick reference for Druck standards.
 - Reports: LaTeX only for finals
 - Data: NO SILENT DECISIONS
 
-**Full Reference**: D:/Arcanum/Druck/QUICK_REFERENCE_CARD.md
+**Full Reference**: docs/QUICK_REFERENCE_CARD.md

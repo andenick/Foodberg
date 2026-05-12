@@ -514,7 +514,7 @@ curl "http://localhost:8000/api/wasde/commodities"
 
 For issues, questions, or feature requests:
 - **Project**: Foodberg
-- **Repository**: D:/Arcanum/Projects/Foodberg
+- **Repository**: 
 - **Documentation**: [README.md](database/README.md)
 
 ---
