@@ -84,3 +84,6 @@ htmlcov/
 # Archive folders
 _archive/
 archive/
+
+# Inputs (read-only originals, too large for git)
+Inputs/
