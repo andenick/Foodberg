@@ -1,5 +1,29 @@
 # Foodberg Progress Log
 
+## State Verification — 2026-05-22
+
+**Agent**: Claude Opus 4.7 (1M context) — DW-3 documentation state-refresh audit (AUKA pre-flight)
+**Scope**: Verify documented state against the filesystem; correct documentation only.
+
+### Findings
+- **No HDARP campaign exists.** No `Technical/HDARP_Processing/`, no `BATCH_STATE.json`, no `*_MASTER_CATALOG.csv`, no `Knowledge_Base/` directory. Foodberg has never run HDARP. (The `Inputs/cookbook_knowledge_base_2026-04-29/` folder is a *delivered cookbook PDF bundle*, not an HDARP Knowledge Base.)
+- **KB wishlist v4 is current**: `Outputs/2026.06.20 KB Wishlist v4 Global/` — 1,985 entries, 105 categories, 27-col schema. CSV has 1,986 lines (1,985 data rows + header). v1 (370) and v2 (825) preserved as historical artifacts. The dated `Outputs/2026.05.10 KB Wishlist v3 NYC/` folder remains empty (v3 was bundled into v4).
+- **PDFs HAVE been acquired since the last handoff** (2026-04-12). `Inputs/` now contains three PDF bundles added 2026-05-10: `2026.04.12 Foodberg Pdfs Part 1` (371 files), `Part 2` (319 files), `cookbook_knowledge_base_2026-04-29` (112 files) — ~802 PDFs total. The 2026-05-19 reconciliation audit confirms 592 of 1,985 wishlist entries are now `ACQUIRED_NOT_EXTRACTED` (29.8%); 1,393 `NOT_ACQUIRED`.
+- **Net state**: Foodberg is past the "wishlist only" stage the 2026-04-12 handoff describes — PDFs are acquired but NOT extracted. HDARP (`/preparehdarp` → `/sphdarp`) has not yet been run on the acquired PDFs.
+
+### Corrections made
+- This PROGRESS_LOG entry added (the project's last logged session was 2026-04-03/04).
+- README.md: added `**State verified: 2026-05-22**` stamp.
+
+### Discrepancies NOT corrected (surfaced for user)
+- `Outputs/README.md` is badly stale: it describes Excel deliverables, "menu engineering analysis," and "predictions" — features `PROJECT_INDEX.md` explicitly states were deliberately removed. Out of DW-3 scope (not a state-tracking doc); flag for a future cleanup.
+- The latest handoff (`HANDOFF_20260412_200003.md`) and `PROJECT_INDEX.md` both predate the 2026-05-10 PDF acquisition and 2026-05-19 reconciliation — they are stale on acquisition state but not edited here beyond this log (handoffs are historical records, not live state docs).
+
+### AUKA relevance
+The AUKA plan treats Foodberg as a feeder project to migrate later. Reality matches that framing: a large wishlist + ~802 acquired-but-unextracted PDFs and zero HDARP output. Foodberg stays behind the AUKA campaign-completion gate — there is no campaign to complete, only one to start.
+
+---
+
 ## Session 3 — April 3-4, 2026
 
 **Agent**: Claude claude-4.6-opus-high (Cursor)

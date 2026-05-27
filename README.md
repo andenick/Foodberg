@@ -1,6 +1,10 @@
 # Foodberg — Historical Food Price Explorer
 
+**State verified: 2026-05-22**
+
 **A full-stack web application for exploring historical food commodity prices, built with React and FastAPI. 169,000+ records from 5 public data sources covering 50+ agricultural commodities.**
+
+> **Project state (2026-05-22):** Two tracks. (1) The web app — backend DB ~169K records, working locally, not deployed. (2) The KB wishlist track — v4 wishlist current (1,985 entries / 105 categories, `Outputs/2026.06.20 KB Wishlist v4 Global/`); ~802 source PDFs acquired into `Inputs/` (2026-05-10) but **not yet extracted**. No HDARP campaign has run — no `Knowledge_Base/`, no `BATCH_STATE.json`. See `Technical/PROGRESS_LOG.md`.
 
 ---
 

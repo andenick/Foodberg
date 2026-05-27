@@ -209,13 +209,22 @@ USDA_API_KEY=your_key  # For live terminal market prices only
 - **NO ML predictions, WebSocket, real-time updates** — stripped for simplicity
 - Historical focus: "only price charts of food" for "historically minded chefs"
 
+## KB Wishlist Track
+
+Separate from the web app, Foodberg maintains a scholarly KB acquisition wishlist:
+
+- **Current**: `Outputs/2026.06.20 KB Wishlist v4 Global/` — 1,985 entries, 105 categories, 27-col schema v4.0
+- **Historical**: v1 (370 entries, `Outputs/2026.04.12 KB Wishlist/`), v2 (825, `Outputs/2026.04.26 KB Wishlist v2/`)
+- **Acquisition state (per 2026-05-19 reconciliation audit)**: 592 entries `ACQUIRED_NOT_EXTRACTED` (~802 PDFs in `Inputs/`, added 2026-05-10), 1,393 `NOT_ACQUIRED`
+- **HDARP**: NOT INITIALIZED — no `Knowledge_Base/`, no `BATCH_STATE.json`. Acquired PDFs await `/preparehdarp` → `/sphdarp`.
+
 ## Documentation
 
 - `README.md` — Project overview and quick start
 - `HANDOFF_DOCUMENTATION.md` → `Technical/Handoffs/HANDOFF_20260328_000000.md`
-- `Technical/[2025.10.08] PROGRESS_LOG.md` — Development history
+- `Technical/PROGRESS_LOG.md` — Development history (most recent; supersedes `[2025.10.08] PROGRESS_LOG.md`)
 - `.claude/instructions.md` — Agent configuration
 
 ---
 
-*Last updated: April 3, 2026*
+*Last updated: April 3, 2026 — structure/API content. State verified against filesystem 2026-05-22 (KB wishlist track + HDARP status added).*
