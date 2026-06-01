@@ -87,3 +87,25 @@ archive/
 
 # Inputs (read-only originals, too large for git)
 Inputs/
+
+# --- Publication hygiene (Arcanum Publication Hygiene Standard v1.0) ---
+# Internal session/process/agent docs
+.claude/
+CLAUDE.md
+AGENTS.md
+.cursor/
+**/Handoffs/
+**/HANDOFF_*.md
+**/PROGRESS_LOG.md
+**/*PROGRESS_LOG.md
+# Internal planning/research/audit artifacts (KB wishlist track is internal)
+Outputs/2026.04.12 KB Wishlist/
+Outputs/2026.04.26 KB Wishlist v2/
+Outputs/2026.06.20 KB Wishlist v4 Global/
+**/*WISHLIST*
+**/EXPANSION_PLAN*
+**/RESEARCH_LOG*
+**/RECONCILIATION_AUDIT*
+**/DOCUMENT_ACQUISITION_HUB*
+**/DECISION_LOG*
+**/*_PLAN.md
