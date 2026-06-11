@@ -10,7 +10,6 @@ import {
     Tooltip,
     XAxis, YAxis
 } from 'recharts'
-import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 
 interface WASDERecord {
     commodity: string
@@ -30,7 +29,6 @@ export default function CommodityDetail() {
     const [selectedMetric, setSelectedMetric] = useState<string>('all')
     const [timeRange, setTimeRange] = useState<string>('all')
     const [availableMetrics, setAvailableMetrics] = useState<string[]>([])
-    const t = useArkTheme()
 
     useEffect(() => {
         if (commodityId) {
@@ -126,7 +124,7 @@ export default function CommodityDetail() {
             <div className="max-w-7xl mx-auto px-4 py-8 flex items-center justify-center min-h-[400px]">
                 <div className="text-center">
                     <div className="animate-spin w-12 h-12 border-2 border-emerald-400 border-t-transparent rounded-full mx-auto"></div>
-                    <p className="text-ark-fg-dim mt-4">Loading commodity data...</p>
+                    <p className="text-slate-400 mt-4">Loading commodity data...</p>
                 </div>
             </div>
         )
@@ -136,7 +134,7 @@ export default function CommodityDetail() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             {/* Breadcrumb */}
             <div className="mb-6">
-                <Link to="/explore" className="flex items-center text-ark-fg-dim hover:text-emerald-400 transition-colors">
+                <Link to="/explore" className="flex items-center text-slate-400 hover:text-emerald-400 transition-colors">
                     <ArrowLeft className="w-4 h-4 mr-2" />
                     Back to Price Explorer
                 </Link>
@@ -144,8 +142,8 @@ export default function CommodityDetail() {
 
             {/* Header */}
             <div className="mb-8">
-                <h1 className="text-4xl font-bold text-ark-fg mb-2 capitalize">{commodityId}</h1>
-                <p className="text-ark-fg-dim">
+                <h1 className="text-4xl font-bold text-slate-100 mb-2 capitalize">{commodityId}</h1>
+                <p className="text-slate-400">
                     Historical price and production data from USDA WASDE reports
                 </p>
             </div>
@@ -153,31 +151,31 @@ export default function CommodityDetail() {
             {/* Stats Cards */}
             <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-8">
                 <div className="card bg-gradient-to-br from-emerald-900/20 to-emerald-800/10 border-emerald-700/30">
-                    <div className="text-sm text-ark-fg-dim mb-1">Latest Value</div>
+                    <div className="text-sm text-slate-400 mb-1">Latest Value</div>
                     <div className="text-2xl font-bold text-emerald-400">
                         {chartData.length > 0 ? (chartData[chartData.length - 1].value as number).toLocaleString(undefined, { maximumFractionDigits: 2 }) : 'N/A'}
                     </div>
                 </div>
                 <div className="card">
-                    <div className="text-sm text-ark-fg-dim mb-1">YoY Change</div>
+                    <div className="text-sm text-slate-400 mb-1">YoY Change</div>
                     <div className={`text-2xl font-bold flex items-center ${yoyChange >= 0 ? 'text-green-400' : 'text-red-400'}`}>
                         {yoyChange >= 0 ? <TrendingUp className="w-5 h-5 mr-1" /> : <TrendingDown className="w-5 h-5 mr-1" />}
                         {yoyChange.toFixed(1)}%
                     </div>
                 </div>
                 <div className="card">
-                    <div className="text-sm text-ark-fg-dim mb-1">Average</div>
-                    <div className="text-2xl font-bold text-ark-fg">
+                    <div className="text-sm text-slate-400 mb-1">Average</div>
+                    <div className="text-2xl font-bold text-slate-100">
                         {stats.avgValue.toLocaleString(undefined, { maximumFractionDigits: 2 })}
                     </div>
                 </div>
                 <div className="card">
-                    <div className="text-sm text-ark-fg-dim mb-1">Data Range</div>
-                    <div className="text-lg font-bold text-ark-fg">{stats.yearRange}</div>
+                    <div className="text-sm text-slate-400 mb-1">Data Range</div>
+                    <div className="text-lg font-bold text-slate-100">{stats.yearRange}</div>
                 </div>
                 <div className="card">
-                    <div className="text-sm text-ark-fg-dim mb-1">Total Records</div>
-                    <div className="text-2xl font-bold text-ark-fg">{stats.totalRecords.toLocaleString()}</div>
+                    <div className="text-sm text-slate-400 mb-1">Total Records</div>
+                    <div className="text-2xl font-bold text-slate-100">{stats.totalRecords.toLocaleString()}</div>
                 </div>
             </div>
 
@@ -185,11 +183,11 @@ export default function CommodityDetail() {
             <div className="card mb-6">
                 <div className="flex flex-col md:flex-row gap-4">
                     <div className="flex-1">
-                        <label className="block text-sm text-ark-fg-dim mb-2">Metric</label>
+                        <label className="block text-sm text-slate-400 mb-2">Metric</label>
                         <select
                             value={selectedMetric}
                             onChange={(e) => setSelectedMetric(e.target.value)}
-                            className="w-full px-4 py-2 bg-ark-tag border border-ark-line rounded-lg text-ark-fg focus:outline-none focus:border-emerald-500"
+                            className="w-full px-4 py-2 bg-slate-700 border border-slate-600 rounded-lg text-slate-100 focus:outline-none focus:border-emerald-500"
                         >
                             <option value="all">All Metrics (Averaged)</option>
                             {availableMetrics.slice(0, 20).map(metric => (
@@ -198,7 +196,7 @@ export default function CommodityDetail() {
                         </select>
                     </div>
                     <div>
-                        <label className="block text-sm text-ark-fg-dim mb-2">Time Range</label>
+                        <label className="block text-sm text-slate-400 mb-2">Time Range</label>
                         <div className="flex gap-2">
                             {[
                                 { value: '5', label: '5Y' },
@@ -211,7 +209,7 @@ export default function CommodityDetail() {
                                     onClick={() => setTimeRange(option.value)}
                                     className={`px-4 py-2 rounded-lg font-medium transition-colors ${timeRange === option.value
                                             ? 'bg-emerald-600 text-white'
-                                            : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                            : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                         }`}
                                 >
                                     {option.label}
@@ -224,46 +222,40 @@ export default function CommodityDetail() {
 
             {/* Main Chart */}
             <div className="card mb-8">
-                <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
-                    <h2 className="text-xl font-semibold text-ark-fg">Price History</h2>
-                    <button
-                        type="button"
-                        className="ark-btn ark-btn-sm ark-btn-ghost"
-                        onClick={() => downloadCsv(chartData, `foodberg_${commodityId}_history`)}
-                        disabled={chartData.length === 0}
-                    >
-                        Download CSV
-                    </button>
-                </div>
+                <h2 className="text-xl font-semibold text-slate-100 mb-4">Price History</h2>
                 <div className="h-[400px]">
                     <ResponsiveContainer width="100%" height="100%">
                         <AreaChart data={chartData}>
                             <defs>
                                 <linearGradient id="colorValue" x1="0" y1="0" x2="0" y2="1">
-                                    <stop offset="5%" stopColor={t.accent} stopOpacity={0.3} />
-                                    <stop offset="95%" stopColor={t.accent} stopOpacity={0} />
+                                    <stop offset="5%" stopColor="#10B981" stopOpacity={0.3} />
+                                    <stop offset="95%" stopColor="#10B981" stopOpacity={0} />
                                 </linearGradient>
                             </defs>
-                            <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
+                            <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
                             <XAxis
                                 dataKey="year"
-                                stroke={t.axisStroke}
-                                tick={{ fill: t.dim }}
+                                stroke="#9CA3AF"
+                                tick={{ fill: '#9CA3AF' }}
                             />
                             <YAxis
-                                stroke={t.axisStroke}
-                                tick={{ fill: t.dim }}
+                                stroke="#9CA3AF"
+                                tick={{ fill: '#9CA3AF' }}
                                 tickFormatter={(value) => value.toLocaleString()}
                             />
                             <Tooltip
-                                contentStyle={t.tooltip}
-                                labelStyle={{ color: t.fg }}
+                                contentStyle={{
+                                    backgroundColor: '#1E293B',
+                                    border: '1px solid #374151',
+                                    borderRadius: '8px'
+                                }}
+                                labelStyle={{ color: '#F1F5F9' }}
                                 formatter={(value: number) => [value.toLocaleString(undefined, { maximumFractionDigits: 2 }), 'Value']}
                             />
                             <Area
                                 type="monotone"
                                 dataKey="value"
-                                stroke={t.accent}
+                                stroke="#10B981"
                                 strokeWidth={2}
                                 fill="url(#colorValue)"
                             />
@@ -274,19 +266,19 @@ export default function CommodityDetail() {
 
             {/* Related Commodities */}
             <div className="card">
-                <h2 className="text-xl font-semibold text-ark-fg mb-4">Compare with Related Commodities</h2>
+                <h2 className="text-xl font-semibold text-slate-100 mb-4">Compare with Related Commodities</h2>
                 <div className="flex flex-wrap gap-2">
                     {['wheat', 'corn', 'soybeans', 'rice', 'cotton', 'cattle'].filter(c => c !== commodityId).map(commodity => (
                         <Link
                             key={commodity}
                             to={`/commodity/${commodity}`}
-                            className="px-4 py-2 bg-ark-tag hover:bg-ark-line text-ark-fg-dim rounded-lg capitalize transition-colors"
+                            className="px-4 py-2 bg-slate-700 hover:bg-slate-600 text-slate-300 rounded-lg capitalize transition-colors"
                         >
                             {commodity}
                         </Link>
                     ))}
                 </div>
-                <p className="text-sm text-ark-fg-dim mt-4">
+                <p className="text-sm text-slate-500 mt-4">
                     For multi-commodity comparison charts, visit the <Link to="/trends" className="text-emerald-400 hover:underline">Historical Trends</Link> page.
                 </p>
             </div>

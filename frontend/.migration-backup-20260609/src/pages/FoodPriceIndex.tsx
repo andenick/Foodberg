@@ -10,7 +10,6 @@ import {
     XAxis, YAxis
 } from 'recharts'
 import { api } from '../services/api'
-import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 
 const COLORS: Record<string, string> = {
     fao_overall: '#10B981',
@@ -47,7 +46,6 @@ export default function FoodPriceIndex() {
     const [loading, setLoading] = useState(true)
     const [selectedCategories, setSelectedCategories] = useState<string[]>(['fao_overall', 'bls_overall'])
     const [timeRange, setTimeRange] = useState<string>('10y')
-    const t = useArkTheme()
 
     useEffect(() => {
         loadIndices()
@@ -137,15 +135,15 @@ export default function FoodPriceIndex() {
         const change = ((value - baseValue) / baseValue) * 100
         if (change > 1) return { icon: ArrowUp, color: 'text-red-400', text: `+${change.toFixed(1)}%` }
         if (change < -1) return { icon: ArrowDown, color: 'text-green-400', text: `${change.toFixed(1)}%` }
-        return { icon: Minus, color: 'text-ark-fg-dim', text: `${change.toFixed(1)}%` }
+        return { icon: Minus, color: 'text-slate-400', text: `${change.toFixed(1)}%` }
     }
 
     return (
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             {/* Header */}
             <div className="mb-8">
-                <h1 className="text-3xl font-bold text-ark-fg mb-2">Food Price Index</h1>
-                <p className="text-ark-fg-dim">
+                <h1 className="text-3xl font-bold text-slate-100 mb-2">Food Price Index</h1>
+                <p className="text-slate-400">
                     Composite food price indices based on FAO global data and US BLS CPI components
                 </p>
             </div>
@@ -166,19 +164,19 @@ export default function FoodPriceIndex() {
                             onClick={() => toggleCategory(category)}
                             className={`p-3 rounded-lg text-left transition-all ${
                                 isSelected
-                                    ? 'bg-ark-tag border-2'
-                                    : 'bg-ark-bg-soft border border-ark-line opacity-60 hover:opacity-100'
+                                    ? 'bg-slate-700 border-2'
+                                    : 'bg-slate-800/50 border border-slate-700 opacity-60 hover:opacity-100'
                             }`}
                             style={{ borderColor: isSelected ? COLORS[category] : undefined }}
                         >
-                            <div className="text-xs text-ark-fg-dim mb-1">{CATEGORY_LABELS[category]}</div>
-                            <div className="text-lg font-bold text-ark-fg">{value.toFixed(1)}</div>
+                            <div className="text-xs text-slate-400 mb-1">{CATEGORY_LABELS[category]}</div>
+                            <div className="text-lg font-bold text-slate-100">{value.toFixed(1)}</div>
                             <div className={`flex items-center text-xs ${indicator.color}`}>
                                 <Icon className="w-3 h-3 mr-1" />
                                 {indicator.text}
                             </div>
                             {latest?.date && (
-                                <div className="text-[10px] text-ark-fg-dim mt-1">
+                                <div className="text-[10px] text-slate-500 mt-1">
                                     {latest.date.substring(0, 7)}
                                 </div>
                             )}
@@ -196,7 +194,7 @@ export default function FoodPriceIndex() {
                         className={`px-4 py-2 rounded-lg font-medium transition-colors ${
                             timeRange === range
                                 ? 'bg-emerald-600 text-white'
-                                : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                         }`}
                     >
                         {range === 'all' ? 'All Time' : range.toUpperCase()}
@@ -206,20 +204,10 @@ export default function FoodPriceIndex() {
 
             {/* Main Chart */}
             <div className="card mb-8">
-                <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
-                    <h2 className="text-xl font-semibold text-ark-fg flex items-center">
-                        <BarChart3 className="w-5 h-5 mr-2 text-emerald-400" />
-                        Food Price Indices Over Time
-                    </h2>
-                    <button
-                        type="button"
-                        className="ark-btn ark-btn-sm ark-btn-ghost"
-                        onClick={() => downloadCsv(chartData, 'foodberg_food_price_indices')}
-                        disabled={chartData.length === 0}
-                    >
-                        Download CSV
-                    </button>
-                </div>
+                <h2 className="text-xl font-semibold text-slate-100 mb-4 flex items-center">
+                    <BarChart3 className="w-5 h-5 mr-2 text-emerald-400" />
+                    Food Price Indices Over Time
+                </h2>
 
                 {loading ? (
                     <div className="h-[500px] flex items-center justify-center">
@@ -229,21 +217,25 @@ export default function FoodPriceIndex() {
                     <div className="h-[500px]">
                         <ResponsiveContainer width="100%" height="100%">
                             <LineChart data={chartData}>
-                                <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
+                                <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
                                 <XAxis
                                     dataKey="date"
-                                    stroke={t.axisStroke}
-                                    tick={{ fill: t.dim, fontSize: 12 }}
+                                    stroke="#9CA3AF"
+                                    tick={{ fill: '#9CA3AF', fontSize: 12 }}
                                     tickFormatter={(v) => v.substring(0, 4)}
                                     interval="preserveStartEnd"
                                 />
                                 <YAxis
-                                    stroke={t.axisStroke}
-                                    tick={{ fill: t.dim }}
+                                    stroke="#9CA3AF"
+                                    tick={{ fill: '#9CA3AF' }}
                                 />
                                 <Tooltip
-                                    contentStyle={t.tooltip}
-                                    labelStyle={{ color: t.fg }}
+                                    contentStyle={{
+                                        backgroundColor: '#1E293B',
+                                        border: '1px solid #374151',
+                                        borderRadius: '8px'
+                                    }}
+                                    labelStyle={{ color: '#F1F5F9' }}
                                     formatter={(value: number, name: string) => [
                                         value.toFixed(1),
                                         CATEGORY_LABELS[name] || name
@@ -267,18 +259,18 @@ export default function FoodPriceIndex() {
                         </ResponsiveContainer>
                     </div>
                 ) : (
-                    <div className="h-[500px] flex items-center justify-center text-ark-fg-dim">
+                    <div className="h-[500px] flex items-center justify-center text-slate-400">
                         Select indices above to compare
                     </div>
                 )}
             </div>
 
             {/* Methodology Note */}
-            <div className="card bg-ark-bg-soft">
-                <h3 className="text-lg font-semibold text-ark-fg mb-3">About These Indices</h3>
-                <div className="grid md:grid-cols-2 gap-4 text-sm text-ark-fg-dim">
+            <div className="card bg-slate-800/30">
+                <h3 className="text-lg font-semibold text-slate-200 mb-3">About These Indices</h3>
+                <div className="grid md:grid-cols-2 gap-4 text-sm text-slate-400">
                     <div>
-                        <h4 className="text-ark-fg-dim font-medium mb-1">FAO Food Price Index</h4>
+                        <h4 className="text-slate-300 font-medium mb-1">FAO Food Price Index</h4>
                         <p>
                             Global index tracking international prices of 5 food commodity groups.
                             Base period: 2014-2016 = 100. Weights: Meat 34.8%, Cereals 27.2%,
@@ -286,7 +278,7 @@ export default function FoodPriceIndex() {
                         </p>
                     </div>
                     <div>
-                        <h4 className="text-ark-fg-dim font-medium mb-1">US CPI Food (BLS)</h4>
+                        <h4 className="text-slate-300 font-medium mb-1">US CPI Food (BLS)</h4>
                         <p>
                             US consumer price index for food, computed from BLS sub-components:
                             Meats/Poultry/Fish/Eggs 30%, Cereals/Bakery 20%, Fruits/Vegetables 18%,

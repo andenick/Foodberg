@@ -1,0 +1,11 @@
+/* Arcanum Site Kit v1 — theme: foodberg (Foodberg)
+   Link AFTER arcanum.css. The ONLY visual override a site needs. */
+:root{--ark-accent:#ea580c;--ark-accent-soft:#472313;
+  /* Foodberg pages use Tailwind max-w-7xl (1280px) containers; widen the kit
+     chrome wrap so content isn't capped at the default 1080px. */
+  --ark-maxw:1280px;}
+@media (prefers-color-scheme: light){:root{--ark-accent:#ea580c;--ark-accent-soft:#fce4d8;}}
+/* Keep the accent + light-accent-soft under the manual data-theme override too,
+   so the toggle (which sets data-theme) preserves the orange brand + soft tint. */
+:root[data-theme="light"]{--ark-accent:#ea580c;--ark-accent-soft:#fce4d8;}
+:root[data-theme="dark"]{--ark-accent:#ea580c;--ark-accent-soft:#472313;}

@@ -12,7 +12,6 @@ import {
     Tooltip,
     XAxis, YAxis
 } from 'recharts'
-import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 
 // Color palette for multiple commodities
 const COLORS = [
@@ -26,7 +25,6 @@ export default function HistoricalTrends() {
     const [loading, setLoading] = useState(true)
     const [timeRange, setTimeRange] = useState<string>('all')
     const [chartType, setChartType] = useState<'line' | 'area' | 'normalized'>('line')
-    const t = useArkTheme()
 
     const availableCommodities = [
         { id: 'wheat', name: 'Wheat', category: 'Grains' },
@@ -147,20 +145,20 @@ export default function HistoricalTrends() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             {/* Header */}
             <div className="mb-8">
-                <h1 className="text-3xl font-bold text-ark-fg mb-2 flex items-center">
+                <h1 className="text-3xl font-bold text-slate-100 mb-2 flex items-center">
                     <History className="w-8 h-8 mr-3 text-purple-400" />
                     Historical Trends
                 </h1>
-                <p className="text-ark-fg-dim">
+                <p className="text-slate-400">
                     Compare long-term price trends across multiple commodities
                 </p>
             </div>
 
             {/* Commodity Selector */}
             <div className="card mb-6">
-                <h2 className="text-lg font-semibold text-ark-fg mb-4">
+                <h2 className="text-lg font-semibold text-slate-100 mb-4">
                     Select Commodities to Compare
-                    <span className="text-sm text-ark-fg-dim ml-2">
+                    <span className="text-sm text-slate-400 ml-2">
                         ({selectedCommodities.length}/6 selected)
                     </span>
                 </h2>
@@ -171,7 +169,7 @@ export default function HistoricalTrends() {
                             onClick={() => toggleCommodity(commodity.id)}
                             className={`px-4 py-2 rounded-lg font-medium transition-colors ${selectedCommodities.includes(commodity.id)
                                 ? 'text-white'
-                                : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                 }`}
                             style={selectedCommodities.includes(commodity.id) ? {
                                 backgroundColor: COLORS[selectedCommodities.indexOf(commodity.id) % COLORS.length]
@@ -188,7 +186,7 @@ export default function HistoricalTrends() {
             <div className="card mb-6">
                 <div className="flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
                     <div>
-                        <label className="block text-sm text-ark-fg-dim mb-2">Time Range</label>
+                        <label className="block text-sm text-slate-400 mb-2">Time Range</label>
                         <div className="flex gap-2">
                             {[
                                 { value: '5', label: '5 Years' },
@@ -201,7 +199,7 @@ export default function HistoricalTrends() {
                                     onClick={() => setTimeRange(option.value)}
                                     className={`px-4 py-2 rounded-lg font-medium transition-colors ${timeRange === option.value
                                         ? 'bg-emerald-600 text-white'
-                                        : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                        : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                         }`}
                                 >
                                     {option.label}
@@ -210,13 +208,13 @@ export default function HistoricalTrends() {
                         </div>
                     </div>
                     <div>
-                        <label className="block text-sm text-ark-fg-dim mb-2">Chart Type</label>
+                        <label className="block text-sm text-slate-400 mb-2">Chart Type</label>
                         <div className="flex gap-2">
                             <button
                                 onClick={() => setChartType('line')}
                                 className={`px-4 py-2 rounded-lg font-medium transition-colors flex items-center ${chartType === 'line'
                                     ? 'bg-emerald-600 text-white'
-                                    : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                    : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                     }`}
                             >
                                 <TrendingUp className="w-4 h-4 mr-2" />
@@ -226,7 +224,7 @@ export default function HistoricalTrends() {
                                 onClick={() => setChartType('area')}
                                 className={`px-4 py-2 rounded-lg font-medium transition-colors flex items-center ${chartType === 'area'
                                     ? 'bg-emerald-600 text-white'
-                                    : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                    : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                     }`}
                             >
                                 <Layers className="w-4 h-4 mr-2" />
@@ -236,7 +234,7 @@ export default function HistoricalTrends() {
                                 onClick={() => setChartType('normalized')}
                                 className={`px-4 py-2 rounded-lg font-medium transition-colors flex items-center ${chartType === 'normalized'
                                     ? 'bg-emerald-600 text-white'
-                                    : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                    : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                     }`}
                             >
                                 <BarChart3 className="w-4 h-4 mr-2" />
@@ -249,25 +247,15 @@ export default function HistoricalTrends() {
 
             {/* Main Chart */}
             <div className="card mb-6">
-                <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
-                    <h2 className="text-xl font-semibold text-ark-fg">
-                        {chartType === 'normalized' ? 'Normalized Price Trends (Base Year = 100)' : 'Historical Price Comparison'}
-                    </h2>
-                    <button
-                        type="button"
-                        className="ark-btn ark-btn-sm ark-btn-ghost"
-                        onClick={() => downloadCsv(chartData, `foodberg_trends_${chartType}`)}
-                        disabled={chartData.length === 0}
-                    >
-                        Download CSV
-                    </button>
-                </div>
+                <h2 className="text-xl font-semibold text-slate-100 mb-4">
+                    {chartType === 'normalized' ? 'Normalized Price Trends (Base Year = 100)' : 'Historical Price Comparison'}
+                </h2>
 
                 {loading ? (
                     <div className="h-[500px] flex items-center justify-center">
                         <div className="text-center">
                             <div className="animate-spin w-12 h-12 border-2 border-emerald-400 border-t-transparent rounded-full mx-auto"></div>
-                            <p className="text-ark-fg-dim mt-4">Loading price data...</p>
+                            <p className="text-slate-400 mt-4">Loading price data...</p>
                         </div>
                     </div>
                 ) : chartData.length > 0 ? (
@@ -275,20 +263,24 @@ export default function HistoricalTrends() {
                         <ResponsiveContainer width="100%" height="100%">
                             {chartType === 'area' ? (
                                 <ComposedChart data={chartData}>
-                                    <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
+                                    <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
                                     <XAxis
                                         dataKey="year"
-                                        stroke={t.axisStroke}
-                                        tick={{ fill: t.dim }}
+                                        stroke="#9CA3AF"
+                                        tick={{ fill: '#9CA3AF' }}
                                     />
                                     <YAxis
-                                        stroke={t.axisStroke}
-                                        tick={{ fill: t.dim }}
+                                        stroke="#9CA3AF"
+                                        tick={{ fill: '#9CA3AF' }}
                                         tickFormatter={(value) => value.toLocaleString()}
                                     />
                                     <Tooltip
-                                        contentStyle={t.tooltip}
-                                        labelStyle={{ color: t.fg }}
+                                        contentStyle={{
+                                            backgroundColor: '#1E293B',
+                                            border: '1px solid #374151',
+                                            borderRadius: '8px'
+                                        }}
+                                        labelStyle={{ color: '#F1F5F9' }}
                                         formatter={(value: number, name: string) => [
                                             value.toLocaleString(undefined, { maximumFractionDigits: 2 }),
                                             name.charAt(0).toUpperCase() + name.slice(1)
@@ -310,23 +302,27 @@ export default function HistoricalTrends() {
                                 </ComposedChart>
                             ) : (
                                 <LineChart data={chartData}>
-                                    <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
+                                    <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
                                     <XAxis
                                         dataKey="year"
-                                        stroke={t.axisStroke}
-                                        tick={{ fill: t.dim }}
+                                        stroke="#9CA3AF"
+                                        tick={{ fill: '#9CA3AF' }}
                                     />
                                     <YAxis
-                                        stroke={t.axisStroke}
-                                        tick={{ fill: t.dim }}
+                                        stroke="#9CA3AF"
+                                        tick={{ fill: '#9CA3AF' }}
                                         tickFormatter={(value) => chartType === 'normalized'
                                             ? `${value.toFixed(0)}%`
                                             : value.toLocaleString()
                                         }
                                     />
                                     <Tooltip
-                                        contentStyle={t.tooltip}
-                                        labelStyle={{ color: t.fg }}
+                                        contentStyle={{
+                                            backgroundColor: '#1E293B',
+                                            border: '1px solid #374151',
+                                            borderRadius: '8px'
+                                        }}
+                                        labelStyle={{ color: '#F1F5F9' }}
                                         formatter={(value: number, name: string) => [
                                             chartType === 'normalized'
                                                 ? `${value.toFixed(1)}%`
@@ -352,9 +348,9 @@ export default function HistoricalTrends() {
                         </ResponsiveContainer>
                     </div>
                 ) : (
-                    <div className="h-[500px] flex items-center justify-center text-ark-fg-dim">
+                    <div className="h-[500px] flex items-center justify-center text-slate-400">
                         <div className="text-center">
-                            <History className="w-16 h-16 mx-auto mb-4 text-ark-fg-dim" />
+                            <History className="w-16 h-16 mx-auto mb-4 text-slate-600" />
                             <p>Select commodities to compare their price trends</p>
                         </div>
                     </div>
@@ -364,42 +360,24 @@ export default function HistoricalTrends() {
             {/* Correlation Matrix */}
             {selectedCommodities.length >= 2 && chartData.length > 0 && (
                 <div className="card">
-                    <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
-                        <h2 className="text-xl font-semibold text-ark-fg">Price Correlations</h2>
-                        <button
-                            type="button"
-                            className="ark-btn ark-btn-sm ark-btn-ghost"
-                            onClick={() => downloadCsv(
-                                selectedCommodities.map((c1, i) => {
-                                    const row: Record<string, unknown> = { commodity: c1 }
-                                    selectedCommodities.forEach((c2, j) => {
-                                        row[c2] = i === j ? 1 : Number(calculateCorrelation(chartData, c1, c2).toFixed(4))
-                                    })
-                                    return row
-                                }),
-                                'foodberg_price_correlations'
-                            )}
-                        >
-                            Download CSV
-                        </button>
-                    </div>
-                    <p className="text-ark-fg-dim text-sm mb-4">
+                    <h2 className="text-xl font-semibold text-slate-100 mb-4">Price Correlations</h2>
+                    <p className="text-slate-400 text-sm mb-4">
                         Shows how closely commodity prices move together. +1 = perfect positive correlation, -1 = perfect negative correlation.
                     </p>
                     <div className="overflow-x-auto">
                         <table className="w-full">
                             <thead>
                                 <tr>
-                                    <th className="text-left p-2 text-ark-fg-dim"></th>
+                                    <th className="text-left p-2 text-slate-400"></th>
                                     {selectedCommodities.map(c => (
-                                        <th key={c} className="p-2 text-ark-fg-dim capitalize">{c}</th>
+                                        <th key={c} className="p-2 text-slate-300 capitalize">{c}</th>
                                     ))}
                                 </tr>
                             </thead>
                             <tbody>
                                 {selectedCommodities.map((c1, i) => (
                                     <tr key={c1}>
-                                        <td className="p-2 text-ark-fg-dim capitalize font-medium">{c1}</td>
+                                        <td className="p-2 text-slate-300 capitalize font-medium">{c1}</td>
                                         {selectedCommodities.map((c2, j) => {
                                             const correlation = i === j ? 1 : calculateCorrelation(chartData, c1, c2)
                                             const bgColor = correlation > 0.7 ? 'bg-green-900/30' :
@@ -408,7 +386,7 @@ export default function HistoricalTrends() {
                                                         correlation < -0.7 ? 'bg-red-900/30' : ''
                                             return (
                                                 <td key={c2} className={`p-2 text-center ${bgColor}`}>
-                                                    <span className={correlation > 0.5 ? 'text-green-400' : correlation < -0.5 ? 'text-red-400' : 'text-ark-fg-dim'}>
+                                                    <span className={correlation > 0.5 ? 'text-green-400' : correlation < -0.5 ? 'text-red-400' : 'text-slate-400'}>
                                                         {correlation.toFixed(2)}
                                                     </span>
                                                 </td>

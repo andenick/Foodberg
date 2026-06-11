@@ -10,7 +10,6 @@ import {
     XAxis, YAxis
 } from 'recharts'
 import { api } from '../services/api'
-import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 
 // Commodity categories for filtering
 const COMMODITY_CATEGORIES = {
@@ -37,7 +36,6 @@ export default function PriceExplorer() {
     const [loading, setLoading] = useState(true)
     const [priceData, setPriceData] = useState<any[]>([])
     const [selectedCommodity, setSelectedCommodity] = useState<string | null>(null)
-    const t = useArkTheme()
 
     useEffect(() => {
         loadCommodities()
@@ -106,8 +104,8 @@ export default function PriceExplorer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             {/* Header */}
             <div className="mb-8">
-                <h1 className="text-3xl font-bold text-ark-fg mb-2">Price Explorer</h1>
-                <p className="text-ark-fg-dim">
+                <h1 className="text-3xl font-bold text-slate-100 mb-2">Price Explorer</h1>
+                <p className="text-slate-400">
                     Browse historical food commodity prices from USDA WASDE reports and other data sources
                 </p>
             </div>
@@ -117,13 +115,13 @@ export default function PriceExplorer() {
                 <div className="flex flex-col md:flex-row gap-4">
                     <div className="flex-1">
                         <div className="relative">
-                            <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-ark-fg-dim" />
+                            <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-400" />
                             <input
                                 type="text"
                                 placeholder="Search commodities..."
                                 value={searchTerm}
                                 onChange={(e) => setSearchTerm(e.target.value)}
-                                className="w-full pl-10 pr-4 py-2 bg-ark-tag border border-ark-line rounded-lg text-ark-fg placeholder-ark-fg-dim focus:outline-none focus:border-emerald-500"
+                                className="w-full pl-10 pr-4 py-2 bg-slate-700 border border-slate-600 rounded-lg text-slate-100 placeholder-slate-400 focus:outline-none focus:border-emerald-500"
                             />
                         </div>
                     </div>
@@ -132,7 +130,7 @@ export default function PriceExplorer() {
                             onClick={() => setSelectedCategory('all')}
                             className={`px-4 py-2 rounded-lg font-medium transition-colors ${selectedCategory === 'all'
                                     ? 'bg-emerald-600 text-white'
-                                    : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                    : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                 }`}
                         >
                             All
@@ -143,7 +141,7 @@ export default function PriceExplorer() {
                                 onClick={() => setSelectedCategory(category)}
                                 className={`px-4 py-2 rounded-lg font-medium transition-colors ${selectedCategory === category
                                         ? 'bg-emerald-600 text-white'
-                                        : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                        : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                     }`}
                             >
                                 {category}
@@ -157,7 +155,7 @@ export default function PriceExplorer() {
                 {/* Commodity List */}
                 <div className="lg:col-span-1">
                     <div className="card">
-                        <h2 className="text-lg font-semibold text-ark-fg mb-4 flex items-center">
+                        <h2 className="text-lg font-semibold text-slate-100 mb-4 flex items-center">
                             <BarChart3 className="w-5 h-5 mr-2 text-emerald-400" />
                             Commodities ({filteredCommodities.length})
                         </h2>
@@ -165,7 +163,7 @@ export default function PriceExplorer() {
                         {loading ? (
                             <div className="text-center py-8">
                                 <div className="animate-spin w-8 h-8 border-2 border-emerald-400 border-t-transparent rounded-full mx-auto"></div>
-                                <p className="text-ark-fg-dim mt-2">Loading commodities...</p>
+                                <p className="text-slate-400 mt-2">Loading commodities...</p>
                             </div>
                         ) : (
                             <div className="space-y-2 max-h-[600px] overflow-y-auto">
@@ -175,18 +173,18 @@ export default function PriceExplorer() {
                                         onClick={() => loadCommodityPrices(commodity.commodity)}
                                         className={`w-full text-left p-3 rounded-lg transition-colors ${selectedCommodity === commodity.commodity
                                                 ? 'bg-emerald-600/20 border border-emerald-500/50'
-                                                : 'bg-ark-bg-soft hover:bg-ark-tag border border-transparent'
+                                                : 'bg-slate-700/50 hover:bg-slate-700 border border-transparent'
                                             }`}
                                     >
                                         <div className="flex justify-between items-center">
-                                            <span className="font-medium text-ark-fg capitalize">
+                                            <span className="font-medium text-slate-200 capitalize">
                                                 {commodity.commodity}
                                             </span>
-                                            <span className="text-xs text-ark-fg-dim">
+                                            <span className="text-xs text-slate-400">
                                                 {formatFileSize(commodity.file_size_mb)}
                                             </span>
                                         </div>
-                                        <div className="text-xs text-ark-fg-dim mt-1">
+                                        <div className="text-xs text-slate-500 mt-1">
                                             Updated: {new Date(commodity.last_updated).toLocaleDateString()}
                                         </div>
                                     </button>
@@ -202,67 +200,61 @@ export default function PriceExplorer() {
                         {selectedCommodity ? (
                             <>
                                 <div className="flex justify-between items-center mb-4">
-                                    <h2 className="text-xl font-semibold text-ark-fg capitalize">
+                                    <h2 className="text-xl font-semibold text-slate-100 capitalize">
                                         {selectedCommodity} Price History
                                     </h2>
-                                    <div className="flex items-center gap-3">
-                                        <button
-                                            type="button"
-                                            className="ark-btn ark-btn-sm ark-btn-ghost"
-                                            onClick={() => downloadCsv(priceData, `foodberg_${selectedCommodity}_prices`)}
-                                            disabled={priceData.length === 0}
-                                        >
-                                            Download CSV
-                                        </button>
-                                        <Link
-                                            to={`/commodity/${selectedCommodity}`}
-                                            className="text-sm text-emerald-400 hover:text-emerald-300"
-                                        >
-                                            View Details →
-                                        </Link>
-                                    </div>
+                                    <Link
+                                        to={`/commodity/${selectedCommodity}`}
+                                        className="text-sm text-emerald-400 hover:text-emerald-300"
+                                    >
+                                        View Details →
+                                    </Link>
                                 </div>
 
                                 {priceData.length > 0 ? (
                                     <div className="h-[400px]">
                                         <ResponsiveContainer width="100%" height="100%">
                                             <LineChart data={priceData}>
-                                                <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
+                                                <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
                                                 <XAxis
                                                     dataKey="year"
-                                                    stroke={t.axisStroke}
-                                                    tick={{ fill: t.dim }}
+                                                    stroke="#9CA3AF"
+                                                    tick={{ fill: '#9CA3AF' }}
                                                 />
                                                 <YAxis
-                                                    stroke={t.axisStroke}
-                                                    tick={{ fill: t.dim }}
+                                                    stroke="#9CA3AF"
+                                                    tick={{ fill: '#9CA3AF' }}
                                                     tickFormatter={(value) => value.toLocaleString()}
                                                 />
                                                 <Tooltip
-                                                    contentStyle={t.tooltip}
-                                                    labelStyle={{ color: t.fg }}
+                                                    contentStyle={{
+                                                        backgroundColor: '#1E293B',
+                                                        border: '1px solid #374151',
+                                                        borderRadius: '8px'
+                                                    }}
+                                                    labelStyle={{ color: '#F1F5F9' }}
                                                     formatter={(value: number) => [value.toLocaleString(), 'Value']}
                                                 />
                                                 <Line
                                                     type="monotone"
                                                     dataKey="price"
-                                                    stroke={t.accent}
+                                                    stroke="#10B981"
                                                     strokeWidth={2}
                                                     dot={false}
-                                                    activeDot={{ r: 6, fill: t.accent }}
+                                                    activeDot={{ r: 6, fill: '#10B981' }}
                                                 />
                                             </LineChart>
                                         </ResponsiveContainer>
                                     </div>
                                 ) : (
-                                    <div className="h-[400px] flex items-center justify-center text-ark-fg-dim">
+                                    <div className="h-[400px] flex items-center justify-center text-slate-400">
                                         Loading price data...
                                     </div>
                                 )}
                             </>
                         ) : (
-                            <div className="h-[400px] flex flex-col items-center justify-center text-ark-fg-dim">
-                                <BarChart3 className="w-16 h-16 mb-4 text-ark-fg-dim" />
+                            <div className="h-[400px] flex flex-col items-center justify-center text-slate-400">
+                                <BarChart3 className="w-16 h-16 mb-4 text-slate-600" />
                                 <p className="text-lg">Select a commodity to view price history</p>
                                 <p className="text-sm mt-2">Click on any commodity in the list to see its historical prices</p>
                             </div>

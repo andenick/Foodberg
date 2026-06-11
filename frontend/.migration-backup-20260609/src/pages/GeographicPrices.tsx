@@ -10,7 +10,6 @@ import {
     Tooltip,
     XAxis, YAxis
 } from 'recharts'
-import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 
 // Color palette for multiple lines
 const COLORS = [
@@ -24,7 +23,6 @@ export default function GeographicPrices() {
     const [priceData, setPriceData] = useState<any[]>([])
     const [loading, setLoading] = useState(true)
     const [availableCountries, setAvailableCountries] = useState<string[]>([])
-    const t = useArkTheme()
 
     const commodities = [
         'wheat', 'corn', 'rice', 'soybeans', 'cotton', 'cattle', 'milk'
@@ -95,17 +93,17 @@ export default function GeographicPrices() {
     return (
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="mb-8">
-                <h1 className="text-3xl font-bold text-ark-fg mb-2 flex items-center">
+                <h1 className="text-3xl font-bold text-slate-100 mb-2 flex items-center">
                     <Globe className="w-8 h-8 mr-3 text-blue-400" />
                     Geographic Price Comparison
                 </h1>
-                <p className="text-ark-fg-dim">
+                <p className="text-slate-400">
                     Compare food commodity prices across different regions and countries
                 </p>
             </div>
 
             <div className="card mb-6">
-                <h2 className="text-lg font-semibold text-ark-fg mb-4">Select Commodity</h2>
+                <h2 className="text-lg font-semibold text-slate-100 mb-4">Select Commodity</h2>
                 <div className="flex flex-wrap gap-2">
                     {commodities.map(commodity => (
                         <button
@@ -113,7 +111,7 @@ export default function GeographicPrices() {
                             onClick={() => setSelectedCommodity(commodity)}
                             className={`px-4 py-2 rounded-lg font-medium capitalize transition-colors ${selectedCommodity === commodity
                                     ? 'bg-emerald-600 text-white'
-                                    : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                    : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                 }`}
                         >
                             {commodity}
@@ -123,9 +121,9 @@ export default function GeographicPrices() {
             </div>
 
             <div className="card mb-6">
-                <h2 className="text-lg font-semibold text-ark-fg mb-4">
+                <h2 className="text-lg font-semibold text-slate-100 mb-4">
                     Select Regions to Compare (max 6)
-                    <span className="text-sm text-ark-fg-dim ml-2">
+                    <span className="text-sm text-slate-400 ml-2">
                         ({selectedRegions.length}/6 selected)
                     </span>
                 </h2>
@@ -138,7 +136,7 @@ export default function GeographicPrices() {
                                 onClick={() => toggleRegion(country)}
                                 className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-colors flex items-center ${selectedRegions.includes(country)
                                         ? 'text-white'
-                                        : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                        : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                                     }`}
                                 style={selectedRegions.includes(country) ? {
                                     backgroundColor: COLORS[selectedRegions.indexOf(country) % COLORS.length]
@@ -151,42 +149,32 @@ export default function GeographicPrices() {
                         ))}
                     </div>
                 ) : (
-                    <p className="text-ark-fg-dim">Loading available regions...</p>
+                    <p className="text-slate-400">Loading available regions...</p>
                 )}
             </div>
 
             <div className="card">
-                <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
-                    <h2 className="text-xl font-semibold text-ark-fg capitalize">
-                        {selectedCommodity} Prices by Region
-                    </h2>
-                    <button
-                        type="button"
-                        className="ark-btn ark-btn-sm ark-btn-ghost"
-                        onClick={() => downloadCsv(priceData, `foodberg_${selectedCommodity}_by_region`)}
-                        disabled={priceData.length === 0}
-                    >
-                        Download CSV
-                    </button>
-                </div>
+                <h2 className="text-xl font-semibold text-slate-100 mb-4 capitalize">
+                    {selectedCommodity} Prices by Region
+                </h2>
 
                 {loading ? (
                     <div className="h-[500px] flex items-center justify-center">
                         <div className="text-center">
                             <div className="animate-spin w-12 h-12 border-2 border-emerald-400 border-t-transparent rounded-full mx-auto"></div>
-                            <p className="text-ark-fg-dim mt-4">Loading price data...</p>
+                            <p className="text-slate-400 mt-4">Loading price data...</p>
                         </div>
                     </div>
                 ) : priceData.length > 0 ? (
                     <div className="h-[500px]">
                         <ResponsiveContainer width="100%" height="100%">
                             <LineChart data={priceData}>
-                                <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
-                                <XAxis dataKey="year" stroke={t.axisStroke} tick={{ fill: t.dim }} />
-                                <YAxis stroke={t.axisStroke} tick={{ fill: t.dim }} tickFormatter={(value) => value.toLocaleString()} />
+                                <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+                                <XAxis dataKey="year" stroke="#9CA3AF" tick={{ fill: '#9CA3AF' }} />
+                                <YAxis stroke="#9CA3AF" tick={{ fill: '#9CA3AF' }} tickFormatter={(value) => value.toLocaleString()} />
                                 <Tooltip
-                                    contentStyle={t.tooltip}
-                                    labelStyle={{ color: t.fg }}
+                                    contentStyle={{ backgroundColor: '#1E293B', border: '1px solid #374151', borderRadius: '8px' }}
+                                    labelStyle={{ color: '#F1F5F9' }}
                                     formatter={(value: number, name: string) => [value.toLocaleString(undefined, { maximumFractionDigits: 2 }), name]}
                                 />
                                 <Legend />
@@ -205,9 +193,9 @@ export default function GeographicPrices() {
                         </ResponsiveContainer>
                     </div>
                 ) : (
-                    <div className="h-[500px] flex items-center justify-center text-ark-fg-dim">
+                    <div className="h-[500px] flex items-center justify-center text-slate-400">
                         <div className="text-center">
-                            <Globe className="w-16 h-16 mx-auto mb-4 text-ark-fg-dim" />
+                            <Globe className="w-16 h-16 mx-auto mb-4 text-slate-600" />
                             <p>No regional data available for this commodity.</p>
                             <p className="text-sm mt-2">Try selecting a different commodity.</p>
                         </div>
@@ -229,8 +217,8 @@ export default function GeographicPrices() {
                                 className="card"
                                 style={{ borderLeftColor: COLORS[index % COLORS.length], borderLeftWidth: '4px' }}
                             >
-                                <h3 className="font-semibold text-ark-fg">{region}</h3>
-                                <div className="text-2xl font-bold text-ark-fg mt-2">
+                                <h3 className="font-semibold text-slate-200">{region}</h3>
+                                <div className="text-2xl font-bold text-slate-100 mt-2">
                                     {latestValue ? latestValue.toLocaleString(undefined, { maximumFractionDigits: 2 }) : 'N/A'}
                                 </div>
                                 {change !== null && (

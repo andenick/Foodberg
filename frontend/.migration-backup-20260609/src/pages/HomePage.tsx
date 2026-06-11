@@ -13,7 +13,7 @@ export default function HomePage() {
         {
             icon: Globe,
             title: 'Geographic Comparison',
-            description: 'Compare food prices across different regions and countries with side-by-side line comparisons',
+            description: 'Compare food prices across different regions and countries on interactive maps',
             link: '/geographic',
             color: 'text-blue-400'
         },
@@ -40,16 +40,13 @@ export default function HomePage() {
         { label: 'Price Records', value: '166K+' }
     ]
 
-    // Quick links into the explorer. No price deltas are shown here: this is a
-    // static landing section and we do not fabricate change figures (the
-    // real per-commodity history lives on each commodity's detail page).
     const sampleCommodities = [
-        { name: 'Wheat' },
-        { name: 'Corn' },
-        { name: 'Soybeans' },
-        { name: 'Rice' },
-        { name: 'Cotton' },
-        { name: 'Cattle' },
+        { name: 'Wheat', trend: '+2.3%', color: 'text-green-400' },
+        { name: 'Corn', trend: '-1.1%', color: 'text-red-400' },
+        { name: 'Soybeans', trend: '+0.8%', color: 'text-green-400' },
+        { name: 'Rice', trend: '+1.5%', color: 'text-green-400' },
+        { name: 'Cotton', trend: '-0.5%', color: 'text-red-400' },
+        { name: 'Cattle', trend: '+3.2%', color: 'text-green-400' },
     ]
 
     return (
@@ -57,11 +54,11 @@ export default function HomePage() {
             {/* Hero Section */}
             <section className="py-20 px-4 sm:px-6 lg:px-8">
                 <div className="max-w-7xl mx-auto text-center">
-                    <h1 className="text-5xl sm:text-6xl font-bold text-ark-fg mb-6">
+                    <h1 className="text-5xl sm:text-6xl font-bold text-slate-100 mb-6">
                         Explore the History of
                         <span className="text-emerald-400"> Food Prices</span>
                     </h1>
-                    <p className="text-xl text-ark-fg-dim mb-8 max-w-3xl mx-auto">
+                    <p className="text-xl text-slate-300 mb-8 max-w-3xl mx-auto">
                         A comprehensive tool for historically-minded chefs and researchers to understand
                         the broader environmental and historical context of food commodity prices.
                     </p>
@@ -79,13 +76,13 @@ export default function HomePage() {
             </section>
 
             {/* Stats */}
-            <section className="py-12 px-4 sm:px-6 lg:px-8 bg-ark-bg-soft">
+            <section className="py-12 px-4 sm:px-6 lg:px-8 bg-slate-800/30">
                 <div className="max-w-7xl mx-auto">
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
                         {stats.map((stat) => (
                             <div key={stat.label} className="text-center">
                                 <div className="text-4xl font-bold text-emerald-400 mb-2">{stat.value}</div>
-                                <div className="text-sm text-ark-fg-dim">{stat.label}</div>
+                                <div className="text-sm text-slate-400">{stat.label}</div>
                             </div>
                         ))}
                     </div>
@@ -95,7 +92,7 @@ export default function HomePage() {
             {/* Quick Commodity Overview */}
             <section className="py-12 px-4 sm:px-6 lg:px-8">
                 <div className="max-w-7xl mx-auto">
-                    <h2 className="text-2xl font-bold text-ark-fg mb-6 text-center">Featured Commodities</h2>
+                    <h2 className="text-2xl font-bold text-slate-100 mb-6 text-center">Featured Commodities</h2>
                     <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
                         {sampleCommodities.map((commodity) => (
                             <Link
@@ -103,8 +100,8 @@ export default function HomePage() {
                                 to={`/commodity/${commodity.name.toLowerCase()}`}
                                 className="card hover:border-emerald-500/50 transition-all text-center p-4"
                             >
-                                <h3 className="text-lg font-medium text-ark-fg">{commodity.name}</h3>
-                                <span className="text-sm text-ark-fg-dim">View history →</span>
+                                <h3 className="text-lg font-medium text-slate-200">{commodity.name}</h3>
+                                <span className={`text-sm font-mono ${commodity.color}`}>{commodity.trend}</span>
                             </Link>
                         ))}
                     </div>
@@ -114,7 +111,7 @@ export default function HomePage() {
             {/* Features Grid */}
             <section className="py-20 px-4 sm:px-6 lg:px-8">
                 <div className="max-w-7xl mx-auto">
-                    <h2 className="text-3xl font-bold text-ark-fg mb-12 text-center">
+                    <h2 className="text-3xl font-bold text-slate-100 mb-12 text-center">
                         Understand Food Price History
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -124,11 +121,11 @@ export default function HomePage() {
                                 <Link
                                     key={feature.title}
                                     to={feature.link}
-                                    className="card hover:shadow-2xl hover:border-ark-line transition-all group"
+                                    className="card hover:shadow-2xl hover:border-slate-600 transition-all group"
                                 >
                                     <Icon className={`w-12 h-12 ${feature.color} mb-4 group-hover:scale-110 transition-transform`} />
-                                    <h3 className="text-xl font-semibold text-ark-fg mb-2">{feature.title}</h3>
-                                    <p className="text-ark-fg-dim">{feature.description}</p>
+                                    <h3 className="text-xl font-semibold text-slate-100 mb-2">{feature.title}</h3>
+                                    <p className="text-slate-400">{feature.description}</p>
                                     <div className="mt-4 flex items-center text-emerald-400 group-hover:translate-x-2 transition-transform">
                                         <span className="text-sm font-medium">Explore</span>
                                         <ArrowRight className="w-4 h-4 ml-2" />
@@ -141,13 +138,13 @@ export default function HomePage() {
             </section>
 
             {/* Historical Context Quote */}
-            <section className="py-16 px-4 sm:px-6 lg:px-8 bg-ark-bg-soft">
+            <section className="py-16 px-4 sm:px-6 lg:px-8 bg-slate-800/30">
                 <div className="max-w-4xl mx-auto text-center">
-                    <blockquote className="text-2xl italic text-ark-fg-dim mb-4">
+                    <blockquote className="text-2xl italic text-slate-300 mb-4">
                         "Tell me what you eat, and I will tell you what you are."
                     </blockquote>
-                    <cite className="text-ark-fg-dim">— Jean Anthelme Brillat-Savarin, 1825</cite>
-                    <p className="mt-6 text-ark-fg-dim">
+                    <cite className="text-slate-400">— Jean Anthelme Brillat-Savarin, 1825</cite>
+                    <p className="mt-6 text-slate-400">
                         Understanding food prices helps us understand history itself — from agricultural
                         revolutions to trade wars, climate events to economic crises.
                     </p>
