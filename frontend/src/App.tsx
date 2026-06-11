@@ -3,6 +3,7 @@ import ArcanumChrome, { type Ecosystem, type NavItem } from './arcanum/ArcanumCh
 import ecosystemData from './arcanum/ecosystem.json'
 import CommodityDetail from './pages/CommodityDetail'
 import DataSources from './pages/DataSources'
+import Downloads from './pages/Downloads'
 import FoodPriceIndex from './pages/FoodPriceIndex'
 import GeographicPrices from './pages/GeographicPrices'
 import HistoricalTrends from './pages/HistoricalTrends'
@@ -18,6 +19,7 @@ const NAV: NavItem[] = [
     { label: 'Price Explorer', href: '/explore' },
     { label: 'Geographic', href: '/geographic' },
     { label: 'Trends', href: '/trends' },
+    { label: 'Downloads', href: '/downloads' },
     { label: 'Data Sources', href: '/sources' },
 ]
 
@@ -41,6 +43,7 @@ function App() {
                 <Route path="/commodity/:commodityId" element={<CommodityDetail />} />
                 <Route path="/geographic" element={<GeographicPrices />} />
                 <Route path="/trends" element={<HistoricalTrends />} />
+                <Route path="/downloads" element={<Downloads />} />
                 <Route path="/sources" element={<DataSources />} />
             </Routes>
         </ArcanumChrome>

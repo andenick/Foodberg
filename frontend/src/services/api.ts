@@ -54,6 +54,16 @@ export const api = {
     getCompositeIndices: () => apiClient.get('/api/indices/'),
     getCompositeIndex: (category: string) =>
         apiClient.get(`/api/indices/${category}`),
+
+    // Bulk dataset downloads
+    getDownloadDatasets: () => apiClient.get('/api/download/datasets'),
+}
+
+// Absolute URL for a download file (CSV/Parquet/dictionary). Used directly as
+// an <a href> so the browser streams the attachment without going through axios.
+export const downloadUrl = (path: string): string => {
+    const base = (API_URL || '').replace(/\/$/, '')
+    return path.startsWith('http') ? path : `${base}${path}`
 }
 
 export default apiClient

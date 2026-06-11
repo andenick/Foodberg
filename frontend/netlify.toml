@@ -28,7 +28,7 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
-    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=(), notifications=(), persistent-storage=(), clipboard-read=(), payment=(), usb=()"
 
 # Cache static assets
 [[headers]]

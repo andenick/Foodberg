@@ -1,7 +1,14 @@
 /* =============================================================================
-   Arcanum Site Kit (ASK) v1 — partials/ReactChrome.tsx
+   Arcanum Site Kit (ASK) v1.2 — partials/ReactChrome.tsx  (vendored: Foodberg)
    <ArcanumChrome/> — header + ecosystem switcher + the MANDATED dual-anchor
    footer for React/Vite stacks: Foodberg (and Westchester, coordinated).
+
+   v1.2 (Heterodata rebrand): Heterodata brand + "An Arcanum Research project"
+   sub; "Architect" author anchor; Hub-first switcher rendering every site in
+   manifest order (ecosystem.json v2) with detailed indented `pages` sub-links
+   and an "Affiliated" tag for externally-owned sites (jjmuni). Aligned to the
+   canonical kit partial at
+   Council/Carson/Technical/deploy/_shared/arcanum-site-kit/v1/partials/ReactChrome.tsx.
 
    No external/CDN calls (offline rule): import the vendored CSS, and either
    pass the ecosystem object as a prop or import the vendored ecosystem.json.
@@ -96,6 +103,10 @@ export interface NavItem {
   label: string;
   href: string;
 }
+export interface EcoPage {
+  label: string;
+  path: string;
+}
 export interface EcoSite {
   key: string;
   title?: string;
@@ -105,6 +116,10 @@ export interface EcoSite {
   group?: string;
   draft?: boolean;
   roadmap?: boolean;
+  /** Externally-owned but part of the ecosystem (e.g. jjmuni). Shows a tag. */
+  affiliated?: boolean;
+  /** Detailed in-site sub-links rendered indented under the site in the switcher. */
+  pages?: EcoPage[];
 }
 export interface Ecosystem {
   anchors?: {
@@ -140,7 +155,11 @@ const MarkSvg: React.FC = () => (
   </svg>
 );
 
-/* ---- ecosystem switcher --------------------------------------------------- */
+/* ---- ecosystem switcher (v1.2) -------------------------------------------
+   Hub first, then every site in manifest order (ecosystem.json v2 is authored
+   Hub-conceptual + alphabetical by title). Each site renders its detailed
+   `pages` sub-links indented beneath it; an `affiliated` site gets a tag.
+   --------------------------------------------------------------------------- */
 export const ArcanumSwitcher: React.FC<{
   ecosystem?: Ecosystem;
   siteKey: string;
@@ -149,10 +168,6 @@ export const ArcanumSwitcher: React.FC<{
   const sites = ecosystem?.sites ?? [];
   const hub = ecosystem?.anchors?.hub ?? HUB;
   const author = ecosystem?.anchors?.author ?? AUTHOR;
-  const groups: Array<[string, string]> = [
-    ["own-domain", "Sites"],
-    ["subdomain", "On heterodata.org"],
-  ];
   return (
     <details className="ark-switcher">
       <summary aria-label="Switch site within the Arcanum Research ecosystem">
@@ -160,37 +175,51 @@ export const ArcanumSwitcher: React.FC<{
         <span className="ark-caret" aria-hidden="true">&#9662;</span>
       </summary>
       <div className="ark-switcher-menu" role="menu">
-        {groups.map(([gkey, glabel]) => {
-          const members = sites.filter((s) => s.group === gkey);
-          if (!members.length) return null;
-          return (
-            <React.Fragment key={gkey}>
-              <div className="ark-switcher-group">{glabel}</div>
-              {members.map((s) => (
-                <a
-                  key={s.key}
-                  className={"ark-switcher-item" + (s.key === siteKey ? " current" : "")}
-                  href={s.url}
-                  role="menuitem"
-                  aria-current={s.key === siteKey ? "page" : undefined}
-                  style={{ ["--ark-si-accent" as string]: s.accent ?? "#1565c0" }}
-                >
-                  <span className="ark-dot" aria-hidden="true" />
-                  <span className="ark-si-name">{s.title ?? s.display}</span>
-                  {s.draft ? <span className="ark-si-pill">Draft</span> : null}
-                  {!s.draft && s.roadmap ? <span className="ark-si-pill">Roadmap</span> : null}
-                  <span className="ark-si-host">{s.display ?? s.url}</span>
-                </a>
-              ))}
-            </React.Fragment>
-          );
-        })}
-        <div className="ark-switcher-group">Arcanum Research</div>
+        {/* Hub first. */}
+        <div className="ark-switcher-group">Hub</div>
         <a className="ark-switcher-item" href={hub.url} role="menuitem">
           <span className="ark-dot" aria-hidden="true" />
-          <span className="ark-si-name">Hub</span>
-          <span className="ark-si-host">{hub.name}</span>
+          <span className="ark-si-name">{hub.name}</span>
+          <span className="ark-si-host">heterodata.org</span>
         </a>
+
+        {/* All sites, in manifest (alphabetical) order, with detailed sub-links. */}
+        <div className="ark-switcher-group">Sites</div>
+        {sites.map((s) => (
+          <React.Fragment key={s.key}>
+            <a
+              className={"ark-switcher-item" + (s.key === siteKey ? " current" : "")}
+              href={s.url}
+              role="menuitem"
+              aria-current={s.key === siteKey ? "page" : undefined}
+              style={{ ["--ark-si-accent" as string]: s.accent ?? "#1565c0" }}
+            >
+              <span className="ark-dot" aria-hidden="true" />
+              <span className="ark-si-name">{s.title ?? s.display}</span>
+              {s.draft ? <span className="ark-si-pill">Draft</span> : null}
+              {!s.draft && s.roadmap ? <span className="ark-si-pill">Roadmap</span> : null}
+              {s.affiliated ? <span className="ark-affiliated">affiliated</span> : null}
+              <span className="ark-si-host">{s.display ?? s.url}</span>
+            </a>
+            {s.pages?.length ? (
+              <div className="ark-switcher-sublinks">
+                {s.pages.map((p) => (
+                  <a
+                    key={p.path}
+                    className="ark-si-sub"
+                    href={s.url.replace(/\/$/, "") + p.path}
+                    role="menuitem"
+                  >
+                    <span className="ark-si-sub-label">{p.label}</span>
+                  </a>
+                ))}
+              </div>
+            ) : null}
+          </React.Fragment>
+        ))}
+
+        {/* Architect apex. */}
+        <div className="ark-switcher-group">Architect</div>
         <a className="ark-switcher-item" href={author.url} role="menuitem">
           <span className="ark-dot" aria-hidden="true" />
           <span className="ark-si-name">Architect</span>
