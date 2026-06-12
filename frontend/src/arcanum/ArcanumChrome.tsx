@@ -183,40 +183,26 @@ export const ArcanumSwitcher: React.FC<{
           <span className="ark-si-host">heterodata.org</span>
         </a>
 
-        {/* All sites, in manifest (alphabetical) order, with detailed sub-links. */}
+        {/* All sites, in manifest (alphabetical) order — v1.4: ONE row per site
+            (the per-page sub-links cluttered the dropdown; pages remain in
+            ecosystem.json for the hub cards). */}
         <div className="ark-switcher-group">Sites</div>
         {sites.map((s) => (
-          <React.Fragment key={s.key}>
-            <a
-              className={"ark-switcher-item" + (s.key === siteKey ? " current" : "")}
-              href={s.url}
-              role="menuitem"
-              aria-current={s.key === siteKey ? "page" : undefined}
-              style={{ ["--ark-si-accent" as string]: s.accent ?? "#1565c0" }}
-            >
-              <span className="ark-dot" aria-hidden="true" />
-              <span className="ark-si-name">{s.title ?? s.display}</span>
-              {s.draft ? <span className="ark-si-pill">Draft</span> : null}
-              {!s.draft && s.roadmap ? <span className="ark-si-pill">Roadmap</span> : null}
-              {s.affiliated ? <span className="ark-affiliated">affiliated</span> : null}
-              <span className="ark-si-host">{s.display ?? s.url}</span>
-            </a>
-            {s.pages?.length ? (
-              <div className="ark-switcher-sublinks">
-                {s.pages.map((p) => (
-                  <a
-                    key={p.path}
-                    className="ark-si-sub"
-                    /* v1.3: a page path may be an absolute URL (e.g. data.freenic.org) */
-                    href={/^https?:/.test(p.path) ? p.path : s.url.replace(/\/$/, "") + p.path}
-                    role="menuitem"
-                  >
-                    <span className="ark-si-sub-label">{p.label}</span>
-                  </a>
-                ))}
-              </div>
-            ) : null}
-          </React.Fragment>
+          <a
+            key={s.key}
+            className={"ark-switcher-item" + (s.key === siteKey ? " current" : "")}
+            href={s.url}
+            role="menuitem"
+            aria-current={s.key === siteKey ? "page" : undefined}
+            style={{ ["--ark-si-accent" as string]: s.accent ?? "#1565c0" }}
+          >
+            <span className="ark-dot" aria-hidden="true" />
+            <span className="ark-si-name">{s.title ?? s.display}</span>
+            {s.draft ? <span className="ark-si-pill">Draft</span> : null}
+            {!s.draft && s.roadmap ? <span className="ark-si-pill">Roadmap</span> : null}
+            {s.affiliated ? <span className="ark-affiliated">affiliated</span> : null}
+            <span className="ark-si-host">{s.display ?? s.url}</span>
+          </a>
         ))}
 
         {/* Architect apex. */}

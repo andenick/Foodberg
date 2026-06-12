@@ -1,6 +1,10 @@
 import axios from 'axios'
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8002'
+// Default = same-origin relative ('' + '/api/...') so production builds work
+// behind the Caddy proxy with NO build-time env. Local dev sets VITE_API_URL
+// in .env.development (the old 'http://localhost:8002' fallback shipped to
+// production once and killed every data view for visitors).
+const API_URL = import.meta.env.VITE_API_URL || ''
 
 const apiClient = axios.create({
     baseURL: API_URL,
