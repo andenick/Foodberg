@@ -87,6 +87,22 @@ export default function DataSources() {
         'alphavantage': {
             url: 'https://www.alphavantage.co/',
             description: 'Alpha Vantage provides real-time and historical commodity price data including agricultural commodities like wheat, corn, soybeans, and sugar.'
+        },
+        'nass_history': {
+            url: 'https://quickstats.nass.usda.gov/',
+            description: 'USDA NASS Quick Stats full-history pull: prices received by farmers, production, and yield for ~50 commodities — national series back to 1908 (annual and monthly) and state series back to 1950 for the major commodities.'
+        },
+        'faostat': {
+            url: 'https://www.fao.org/faostat/en/#data/PP',
+            description: 'FAOSTAT bulk data: annual farm-gate producer prices in USD/tonne per country and food item (1991-present), plus monthly consumer food price indices (2015=100) for ~200 countries. Licensed CC-BY-4.0.'
+        },
+        'pinksheet': {
+            url: 'https://www.worldbank.org/en/research/commodity-markets',
+            description: 'The World Bank "Pink Sheet": monthly global commodity prices for ~45 commodities and the food/beverage/agriculture index families, 1960-present. Licensed CC-BY-4.0.'
+        },
+        'blsap': {
+            url: 'https://www.bls.gov/cpi/average-prices/',
+            description: 'BLS Average Price data: monthly US city-average retail prices for ~50 specific food products (eggs per dozen, milk per gallon, ground beef per pound...), most series since 1980.'
         }
     }
 
@@ -161,9 +177,10 @@ export default function DataSources() {
                     // Map each source to the DB table that actually backs it, so the
                     // "Records in Database" stat is real (World Bank prices live in the
                     // global_prices table alongside FAO, not in economic_indicators).
-                    const statusKey = source.id === 'wasde' ? 'wasde_data'
-                        : (source.id === 'fao' || source.id === 'worldbank') ? 'global_prices'
-                            : 'economic_indicators'
+                    const statusKey = (source.id === 'wasde' || source.id === 'nass_history') ? 'wasde_data'
+                        : (source.id === 'fao' || source.id === 'worldbank' || source.id === 'faostat' || source.id === 'pinksheet') ? 'global_prices'
+                            : source.id === 'blsap' ? 'retail_prices'
+                                : 'economic_indicators'
                     const status = sourceStatus[statusKey]
 
                     return (

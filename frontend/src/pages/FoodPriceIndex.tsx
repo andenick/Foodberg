@@ -12,6 +12,7 @@ import {
 import { api } from '../services/api'
 import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 import { ChartMetaStrip, ScrollableDataTable } from '../components/ChartDetails'
+import GlobalIndices from '../components/GlobalIndices'
 
 const COLORS: Record<string, string> = {
     fao_overall: '#10B981',
@@ -165,11 +166,10 @@ export default function FoodPriceIndex() {
                         <button
                             key={category}
                             onClick={() => toggleCategory(category)}
-                            className={`p-3 rounded-lg text-left transition-all ${
-                                isSelected
+                            className={`p-3 rounded-lg text-left transition-all ${isSelected
                                     ? 'bg-ark-tag border-2'
                                     : 'bg-ark-bg-soft border border-ark-line opacity-60 hover:opacity-100'
-                            }`}
+                                }`}
                             style={{ borderColor: isSelected ? COLORS[category] : undefined }}
                         >
                             <div className="text-xs text-ark-fg-dim mb-1">{CATEGORY_LABELS[category]}</div>
@@ -194,11 +194,10 @@ export default function FoodPriceIndex() {
                     <button
                         key={range}
                         onClick={() => setTimeRange(range)}
-                        className={`px-4 py-2 rounded-lg font-medium transition-colors ${
-                            timeRange === range
+                        className={`px-4 py-2 rounded-lg font-medium transition-colors ${timeRange === range
                                 ? 'bg-emerald-600 text-white'
                                 : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
-                        }`}
+                            }`}
                     >
                         {range === 'all' ? 'All Time' : range.toUpperCase()}
                     </button>
@@ -296,8 +295,11 @@ export default function FoodPriceIndex() {
                 )}
             </div>
 
+            {/* Global index families (Pink Sheet world indices + FAO country food CPIs) */}
+            <GlobalIndices />
+
             {/* Methodology Note */}
-            <div className="card bg-ark-bg-soft">
+            <div className="card bg-ark-bg-soft mt-8">
                 <h3 className="text-lg font-semibold text-ark-fg mb-3">About These Indices</h3>
                 <div className="grid md:grid-cols-2 gap-4 text-sm text-ark-fg-dim">
                     <div>

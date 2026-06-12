@@ -63,11 +63,25 @@ export const api = {
     getPriceCoverage: () => apiClient.get('/api/prices/coverage'),
     getPriceHistory: (commodity: string) =>
         apiClient.get(`/api/prices/history/${commodity}`),
+    getSourceHistory: (commodity: string, source: string) =>
+        apiClient.get(`/api/prices/source/${commodity}`, { params: { source } }),
 
     // Geographic comparison (World Bank indicators, per-region annual series)
     getGeoIndicators: () => apiClient.get('/api/geo/indicators'),
     getGeoSeries: (indicatorCode: string) =>
         apiClient.get(`/api/geo/${indicatorCode}`),
+    getProducerItems: () => apiClient.get('/api/geo/producer/items'),
+    getProducerSeries: (item: string) =>
+        apiClient.get(`/api/geo/producer/${encodeURIComponent(item)}`),
+    getStateSeries: (commodity: string) =>
+        apiClient.get(`/api/geo/states/${commodity}`),
+
+    // Global index families (Pink Sheet indices, FAO country food CPIs)
+    getGlobalIndices: () => apiClient.get('/api/indices/global'),
+    getCountryCpi: (country: string) =>
+        apiClient.get(`/api/indices/cpi/${encodeURIComponent(country)}`),
+    getPinksheetSeries: (series: string) =>
+        apiClient.get(`/api/indices/pinksheet/${encodeURIComponent(series)}`),
 
     // Bulk dataset downloads
     getDownloadDatasets: () => apiClient.get('/api/download/datasets'),

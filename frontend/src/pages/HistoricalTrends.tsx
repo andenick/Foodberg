@@ -19,55 +19,89 @@ const COLORS = [
     '#EC4899', '#06B6D4', '#84CC16', '#F97316', '#6366F1'
 ]
 
-/* The comparison picker offers ONLY commodities with a genuine monthly price
-   series in the local dataset (Alpha Vantage, 1992-present). Everything else
-   has a single WASDE marketing year — one point is not a trend, so it is not
-   offered here (see the Price Explorer for those values). */
-const HISTORY_COMMODITIES = [
-    { id: 'wheat', name: 'Wheat' },
-    { id: 'corn', name: 'Corn' },
-    { id: 'coffee', name: 'Coffee' },
-    { id: 'sugar', name: 'Sugar' },
-    { id: 'cotton', name: 'Cotton' },
-]
+interface SourceCov { points: number; start: string; end: string }
+type Coverage = Partial<Record<'av' | 'nass' | 'pinksheet' | 'retail', SourceCov>>
+
+/* Preferred series per commodity for trend comparison: USDA farm-gate annual
+   first (longest spans, most commodities), then Alpha Vantage monthly, then
+   Pink Sheet monthly. Monthly series are averaged into annual points so all
+   lines share the x-axis. */
+const PREFERENCE: Array<'nass' | 'av' | 'pinksheet'> = ['nass', 'av', 'pinksheet']
 
 export default function HistoricalTrends() {
+    const [coverage, setCoverage] = useState<Record<string, Coverage>>({})
+    const [eligible, setEligible] = useState<string[]>([])
     const [selectedCommodities, setSelectedCommodities] = useState<string[]>(['wheat', 'corn'])
-    const [chartData, setChartData] = useState<any[]>([])
+    const [chartData, setChartData] = useState<Record<string, number>[]>([])
     const [units, setUnits] = useState<Record<string, string>>({})
+    const [sourcesUsed, setSourcesUsed] = useState<Record<string, string>>({})
     const [loading, setLoading] = useState(true)
     const [timeRange, setTimeRange] = useState<string>('all')
     const t = useArkTheme()
 
     useEffect(() => {
+        api.getPriceCoverage()
+            .then((res) => {
+                const cov: Record<string, Coverage> = res.data.commodities || {}
+                setCoverage(cov)
+                setEligible(Object.keys(cov)
+                    .filter(slug => PREFERENCE.some(s => cov[slug][s] && (cov[slug][s] as SourceCov).points > 1))
+                    .sort())
+            })
+            .catch((e) => console.error('Failed to load coverage:', e))
+    }, [])
+
+    useEffect(() => {
         loadMultiCommodityData()
-    }, [selectedCommodities, timeRange])
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [selectedCommodities, timeRange, coverage])
+
+    const preferredSource = (slug: string): 'nass' | 'av' | 'pinksheet' | null => {
+        const cov = coverage[slug]
+        if (!cov) return null
+        return PREFERENCE.find(s => cov[s] && (cov[s] as SourceCov).points > 1) ?? null
+    }
 
     const loadMultiCommodityData = async () => {
-        if (selectedCommodities.length === 0) {
+        if (selectedCommodities.length === 0 || !Object.keys(coverage).length) {
             setChartData([])
             return
         }
-
         setLoading(true)
         try {
             const results = await Promise.all(
                 selectedCommodities.map(async (commodity) => {
-                    const response = await api.getPriceHistory(commodity)
-                    return { commodity, payload: response.data }
+                    const src = preferredSource(commodity)
+                    if (!src) return { commodity, src: null, rows: [], unit: '' }
+                    if (src === 'av') {
+                        const res = await api.getPriceHistory(commodity)
+                        return {
+                            commodity, src,
+                            rows: (res.data.data || []).map((r: { year: number; price: number }) => ({ year: r.year, value: r.price })),
+                            unit: res.data.unit || 'USD',
+                        }
+                    }
+                    const res = await api.getSourceHistory(commodity, src)
+                    return {
+                        commodity, src,
+                        rows: (res.data.data || []).map((r: { year: number; price: number }) => ({ year: r.year, value: r.price })),
+                        unit: res.data.unit || 'USD',
+                    }
                 })
             )
 
             const nextUnits: Record<string, string> = {}
-            const yearlyData: { [year: number]: any } = {}
+            const nextSources: Record<string, string> = {}
+            const yearlyData: Record<number, Record<string, number>> = {}
 
-            results.forEach(({ commodity, payload }) => {
-                if (!payload.has_history) return
-                nextUnits[commodity] = payload.unit || 'USD'
-                const byYear: { [year: number]: number[] } = {}
-                for (const row of payload.data || []) {
-                    if (row.price !== null && row.price !== undefined) {
-                        (byYear[row.year] ||= []).push(row.price)
+            results.forEach(({ commodity, src, rows, unit }) => {
+                if (!src || !rows.length) return
+                nextUnits[commodity] = unit
+                nextSources[commodity] = src
+                const byYear: Record<number, number[]> = {}
+                for (const row of rows) {
+                    if (row.value !== null && row.value !== undefined) {
+                        (byYear[row.year] ||= []).push(row.value)
                     }
                 }
                 Object.entries(byYear).forEach(([year, values]) => {
@@ -77,14 +111,15 @@ export default function HistoricalTrends() {
                 })
             })
 
-            let chartArray = Object.values(yearlyData).sort((a: any, b: any) => a.year - b.year)
+            let chartArray = Object.values(yearlyData).sort((a, b) => a.year - b.year)
             if (timeRange !== 'all') {
                 const years = parseInt(timeRange)
                 const currentYear = new Date().getFullYear()
-                chartArray = chartArray.filter((d: any) => d.year >= currentYear - years)
+                chartArray = chartArray.filter((d) => d.year >= currentYear - years)
             }
 
             setUnits(nextUnits)
+            setSourcesUsed(nextSources)
             setChartData(chartArray)
         } catch (error) {
             console.error('Failed to load commodity data:', error)
@@ -96,13 +131,13 @@ export default function HistoricalTrends() {
     const toggleCommodity = (commodityId: string) => {
         if (selectedCommodities.includes(commodityId)) {
             setSelectedCommodities(selectedCommodities.filter(c => c !== commodityId))
-        } else if (selectedCommodities.length < 5) {
+        } else if (selectedCommodities.length < 6) {
             setSelectedCommodities([...selectedCommodities, commodityId])
         }
     }
 
     // Calculate correlations between commodities
-    const calculateCorrelation = (data: any[], key1: string, key2: string): number => {
+    const calculateCorrelation = (data: Record<string, number>[], key1: string, key2: string): number => {
         const pairs = data.filter(d => d[key1] !== undefined && d[key2] !== undefined)
         if (pairs.length < 2) return 0
 
@@ -123,6 +158,8 @@ export default function HistoricalTrends() {
         ? `${chartData[0].year}–${chartData[chartData.length - 1].year}`
         : null
 
+    const SRC_SHORT: Record<string, string> = { nass: 'USDA farm gate', av: 'global spot', pinksheet: 'Pink Sheet' }
+
     return (
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             {/* Header */}
@@ -132,35 +169,37 @@ export default function HistoricalTrends() {
                     Historical Trends
                 </h1>
                 <p className="text-ark-fg-dim">
-                    Compare long-term price trends across the five commodities with genuine
-                    monthly history in the local dataset (Alpha Vantage spot prices, 1992–present,
-                    plotted as annual averages). Other commodities carry only a single WASDE
-                    marketing year and cannot show a trend.
+                    Compare long-term price trends — every commodity with a genuine multi-year
+                    series qualifies (USDA farm-gate annual prices back to 1908 for the majors,
+                    global spot prices where available). Monthly series are shown as annual
+                    averages so all lines share one axis. Units differ per commodity — compare
+                    shapes, not levels.
                 </p>
             </div>
 
             {/* Commodity Selector */}
             <div className="card mb-6">
                 <h2 className="text-lg font-semibold text-ark-fg mb-4">
-                    Select Commodities to Compare
+                    Select Commodities to Compare (max 6)
                     <span className="text-sm text-ark-fg-dim ml-2">
-                        ({selectedCommodities.length}/{HISTORY_COMMODITIES.length} selected)
+                        ({selectedCommodities.length} selected · {eligible.length} have real history)
                     </span>
                 </h2>
-                <div className="flex flex-wrap gap-2">
-                    {HISTORY_COMMODITIES.map((commodity) => (
+                <div className="flex flex-wrap gap-2 max-h-40 overflow-y-auto">
+                    {eligible.map((slug) => (
                         <button
-                            key={commodity.id}
-                            onClick={() => toggleCommodity(commodity.id)}
-                            className={`px-4 py-2 rounded-lg font-medium transition-colors ${selectedCommodities.includes(commodity.id)
+                            key={slug}
+                            onClick={() => toggleCommodity(slug)}
+                            className={`px-4 py-2 rounded-lg font-medium capitalize transition-colors ${selectedCommodities.includes(slug)
                                 ? 'text-white'
                                 : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
                                 }`}
-                            style={selectedCommodities.includes(commodity.id) ? {
-                                backgroundColor: COLORS[selectedCommodities.indexOf(commodity.id) % COLORS.length]
+                            style={selectedCommodities.includes(slug) ? {
+                                backgroundColor: COLORS[selectedCommodities.indexOf(slug) % COLORS.length]
                             } : {}}
+                            disabled={!selectedCommodities.includes(slug) && selectedCommodities.length >= 6}
                         >
-                            {commodity.name}
+                            {slug}
                         </button>
                     ))}
                 </div>
@@ -169,11 +208,12 @@ export default function HistoricalTrends() {
             {/* Time range */}
             <div className="card mb-6">
                 <label className="block text-sm text-ark-fg-dim mb-2">Time Range</label>
-                <div className="flex gap-2">
+                <div className="flex gap-2 flex-wrap">
                     {[
-                        { value: '5', label: '5 Years' },
                         { value: '10', label: '10 Years' },
                         { value: '20', label: '20 Years' },
+                        { value: '50', label: '50 Years' },
+                        { value: '100', label: '100 Years' },
                         { value: 'all', label: 'All Time' }
                     ].map(option => (
                         <button
@@ -217,14 +257,14 @@ export default function HistoricalTrends() {
                                         stroke={t.axisStroke}
                                         tick={{ fill: t.dim }}
                                         tickFormatter={(value) => value.toLocaleString()}
-                                        label={{ value: 'USD (annual average, per-unit basis varies)', angle: -90, position: 'insideLeft', fill: t.dim, fontSize: 11 }}
+                                        label={{ value: 'Price (annual average; per-unit basis varies)', angle: -90, position: 'insideLeft', fill: t.dim, fontSize: 11 }}
                                     />
                                     <Tooltip
                                         contentStyle={t.tooltip}
                                         labelStyle={{ color: t.fg }}
                                         formatter={(value: number, name: string) => [
-                                            `${value.toLocaleString(undefined, { maximumFractionDigits: 2 })} ${units[name] || ''}`,
-                                            name.charAt(0).toUpperCase() + name.slice(1)
+                                            `${value.toLocaleString(undefined, { maximumFractionDigits: 3 })} ${units[name] || ''}`,
+                                            `${name.charAt(0).toUpperCase() + name.slice(1)} (${SRC_SHORT[sourcesUsed[name]] || ''})`
                                         ]}
                                         labelFormatter={(label) => `Year ${label}`}
                                     />
@@ -248,11 +288,13 @@ export default function HistoricalTrends() {
 
                         <ChartMetaStrip
                             meta={{
-                                source: 'Alpha Vantage monthly spot prices (local dataset, offline)',
+                                source: selectedCommodities
+                                    .filter(c => sourcesUsed[c])
+                                    .map(c => `${c}: ${SRC_SHORT[sourcesUsed[c]]}`).join(' · '),
                                 unit: selectedCommodities.map(c => `${c}: ${units[c] || '—'}`).join(' · '),
                                 dateRange: yearSpan,
                                 points: chartData.length,
-                                note: 'Each point is the average of that year\'s monthly observations. Units differ per commodity — compare shapes, not levels.',
+                                note: 'Each point is the annual average of that commodity\'s preferred real series. Units differ — compare shapes, not levels.',
                             }}
                         />
 

@@ -19,59 +19,122 @@ const COLORS = [
     '#EC4899', '#06B6D4', '#84CC16', '#F97316', '#6366F1'
 ]
 
-interface GeoIndicator {
-    indicator_code: string
-    name: string
-    unit: string | null
-    n_regions: number
-    year_start: number
-    year_end: number
-    n_obs: number
-}
+type Mode = 'producer' | 'states' | 'indicators'
 
 interface GeoSeries {
-    indicator_code: string
-    name: string
     unit: string | null
     regions: string[]
     n_obs: number
     year_range: { start: number; end: number }
     data: Array<{ region: string; year: number; value: number }>
     source: string
+    name?: string
+    item?: string
+    commodity?: string
 }
 
-/* Geographic comparison over the REAL multi-country data in the local
-   dataset: World Bank agriculture/food indicators, annual, 1990-2024, for
-   nine named regions. (The per-commodity price series are global composites
-   with no per-country breakdown, so commodity prices cannot honestly be
-   compared across countries here.) */
+interface PickerEntry {
+    key: string
+    label: string
+    sub?: string
+}
+
+const MODE_INFO: Record<Mode, { title: string; blurb: string }> = {
+    producer: {
+        title: 'Producer prices by country',
+        blurb: 'FAOSTAT farm-gate producer prices in USD/tonne — annual, per country, 1991–2024.',
+    },
+    states: {
+        title: 'US state farm prices',
+        blurb: 'USDA NASS prices received by farmers, per state — annual, 1950–present.',
+    },
+    indicators: {
+        title: 'Development indicators',
+        blurb: 'World Bank agriculture and food indicators — annual, 1990–2024, nine world regions.',
+    },
+}
+
+// US-state-capable commodities (the top-15 with state-level NASS history).
+const STATE_COMMODITIES = [
+    'wheat', 'corn', 'soybeans', 'cotton', 'rice', 'barley', 'oats',
+    'sorghum', 'hay', 'cattle', 'hogs', 'milk', 'eggs', 'potatoes', 'peanuts',
+]
+
+const DEFAULT_REGIONS: Record<Mode, string[]> = {
+    producer: ['United States of America', 'China, mainland', 'Brazil'],
+    states: ['KANSAS', 'ILLINOIS', 'TEXAS'],
+    indicators: ['United States', 'China', 'Brazil'],
+}
+
 export default function GeographicPrices() {
-    const [indicators, setIndicators] = useState<GeoIndicator[]>([])
-    const [selectedIndicator, setSelectedIndicator] = useState<string | null>(null)
+    const [mode, setMode] = useState<Mode>('producer')
+    const [picker, setPicker] = useState<PickerEntry[]>([])
+    const [selectedKey, setSelectedKey] = useState<string | null>(null)
     const [series, setSeries] = useState<GeoSeries | null>(null)
-    const [selectedRegions, setSelectedRegions] = useState<string[]>(['United States', 'China', 'Brazil'])
+    const [selectedRegions, setSelectedRegions] = useState<string[]>(DEFAULT_REGIONS.producer)
+    const [regionFilter, setRegionFilter] = useState('')
     const [loading, setLoading] = useState(true)
     const t = useArkTheme()
 
+    // Load the picker list whenever the mode changes.
     useEffect(() => {
-        api.getGeoIndicators()
-            .then((res) => {
-                const list: GeoIndicator[] = res.data.indicators || []
-                setIndicators(list)
-                if (list.length) setSelectedIndicator(list[0].indicator_code)
-            })
-            .catch((e) => console.error('Failed to load indicators:', e))
-            .finally(() => setLoading(false))
-    }, [])
-
-    useEffect(() => {
-        if (!selectedIndicator) return
         setLoading(true)
-        api.getGeoSeries(selectedIndicator)
-            .then((res) => setSeries(res.data.status === 'data_unavailable' ? null : res.data))
-            .catch((e) => console.error('Failed to load series:', e))
-            .finally(() => setLoading(false))
-    }, [selectedIndicator])
+        setSeries(null)
+        setSelectedKey(null)
+        setSelectedRegions(DEFAULT_REGIONS[mode])
+        setRegionFilter('')
+        const load = async () => {
+            try {
+                if (mode === 'producer') {
+                    const res = await api.getProducerItems()
+                    const items = (res.data.items || []) as Array<{ item: string; n_countries: number; year_start: number; year_end: number }>
+                    setPicker(items.map(i => ({
+                        key: i.item, label: i.item,
+                        sub: `${i.n_countries} countries · ${i.year_start}–${i.year_end}`,
+                    })))
+                    if (items.length) setSelectedKey(items[0].item)
+                } else if (mode === 'states') {
+                    setPicker(STATE_COMMODITIES.map(c => ({ key: c, label: c })))
+                    setSelectedKey(STATE_COMMODITIES[0])
+                } else {
+                    const res = await api.getGeoIndicators()
+                    const inds = (res.data.indicators || []) as Array<{ indicator_code: string; name: string; year_start: number; year_end: number; n_regions: number }>
+                    setPicker(inds.map(i => ({
+                        key: i.indicator_code, label: i.name,
+                        sub: `${i.year_start}–${i.year_end} · ${i.n_regions} regions`,
+                    })))
+                    if (inds.length) setSelectedKey(inds[0].indicator_code)
+                }
+            } catch (e) {
+                console.error('Failed to load picker:', e)
+            } finally {
+                setLoading(false)
+            }
+        }
+        load()
+    }, [mode])
+
+    // Load the series whenever the selected item changes.
+    useEffect(() => {
+        if (!selectedKey) return
+        setLoading(true)
+        const load = async () => {
+            try {
+                const res = mode === 'producer'
+                    ? await api.getProducerSeries(selectedKey)
+                    : mode === 'states'
+                        ? await api.getStateSeries(selectedKey)
+                        : await api.getGeoSeries(selectedKey)
+                setSeries(res.data.status === 'data_unavailable' ? null : res.data)
+            } catch (e) {
+                console.error('Failed to load series:', e)
+                setSeries(null)
+            } finally {
+                setLoading(false)
+            }
+        }
+        load()
+    }, [selectedKey, mode])
 
     const toggleRegion = (region: string) => {
         if (selectedRegions.includes(region)) {
@@ -81,25 +144,26 @@ export default function GeographicPrices() {
         }
     }
 
-    // Regions that actually have rows for this indicator.
     const regionsWithData = new Set(series?.regions ?? [])
     const drawnRegions = selectedRegions.filter(r => regionsWithData.has(r))
     const missingRegions = selectedRegions.filter(r => !regionsWithData.has(r))
 
-    // Pivot rows -> one object per year with a key per drawn region.
     const chartData = (() => {
         if (!series) return []
-        const byYear: Record<number, any> = {}
+        const byYear: Record<number, Record<string, number | string>> = {}
         for (const row of series.data) {
             if (!drawnRegions.includes(row.region)) continue
             byYear[row.year] ||= { year: row.year }
             byYear[row.year][row.region] = row.value
         }
-        return Object.values(byYear).sort((a: any, b: any) => a.year - b.year)
+        return Object.values(byYear).sort((a, b) => (a.year as number) - (b.year as number))
     })()
 
-    const current = indicators.find(i => i.indicator_code === selectedIndicator)
-    const unitLabel = series?.unit || current?.unit || 'Value'
+    const unitLabel = series?.unit || 'Value'
+    const filteredRegions = (series?.regions ?? []).filter(
+        r => !regionFilter || r.toLowerCase().includes(regionFilter.toLowerCase()))
+    const seriesTitle = series?.item || series?.name
+        || (series?.commodity ? `${series.commodity} — state farm prices` : 'Series')
 
     return (
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -109,47 +173,83 @@ export default function GeographicPrices() {
                     Geographic Comparison
                 </h1>
                 <p className="text-ark-fg-dim">
-                    Compare countries on World Bank agriculture and food indicators — annual data,
-                    1990–2024, from the local dataset. (Per-commodity spot prices are global
-                    composites with no per-country breakdown, so they are not shown here.)
+                    Compare real food prices and indicators across geographies — FAOSTAT producer
+                    prices by country, USDA farm prices by US state, and World Bank development
+                    indicators by region. All series are baked locally; gaps are real reporting
+                    gaps, never interpolated.
                 </p>
             </div>
 
+            {/* Mode toggle */}
             <div className="card mb-6">
-                <h2 className="text-lg font-semibold text-ark-fg mb-4">Select Indicator</h2>
                 <div className="flex flex-wrap gap-2">
-                    {indicators.map(ind => (
+                    {(Object.keys(MODE_INFO) as Mode[]).map(m => (
                         <button
-                            key={ind.indicator_code}
-                            onClick={() => setSelectedIndicator(ind.indicator_code)}
-                            title={`${ind.year_start}–${ind.year_end} · ${ind.n_regions} regions`}
-                            className={`px-4 py-2 rounded-lg font-medium transition-colors text-sm ${selectedIndicator === ind.indicator_code
+                            key={m}
+                            onClick={() => setMode(m)}
+                            className={`px-4 py-2 rounded-lg font-medium transition-colors ${mode === m
                                 ? 'bg-emerald-600 text-white'
                                 : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
                                 }`}
                         >
-                            {ind.name}
+                            {MODE_INFO[m].title}
+                        </button>
+                    ))}
+                </div>
+                <p className="text-sm text-ark-fg-dim mt-3">{MODE_INFO[mode].blurb}</p>
+            </div>
+
+            {/* Item picker */}
+            <div className="card mb-6">
+                <h2 className="text-lg font-semibold text-ark-fg mb-4 capitalize">
+                    Select {mode === 'indicators' ? 'indicator' : 'commodity'}
+                    <span className="text-sm text-ark-fg-dim ml-2">({picker.length} available)</span>
+                </h2>
+                <div className="flex flex-wrap gap-2 max-h-44 overflow-y-auto">
+                    {picker.map(p => (
+                        <button
+                            key={p.key}
+                            onClick={() => setSelectedKey(p.key)}
+                            title={p.sub}
+                            className={`px-3 py-1.5 rounded-lg text-sm font-medium capitalize transition-colors ${selectedKey === p.key
+                                ? 'bg-emerald-600 text-white'
+                                : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                }`}
+                        >
+                            {p.label}
                         </button>
                     ))}
                 </div>
             </div>
 
+            {/* Region picker */}
             <div className="card mb-6">
-                <h2 className="text-lg font-semibold text-ark-fg mb-4">
-                    Select Regions to Compare (max 6)
-                    <span className="text-sm text-ark-fg-dim ml-2">
-                        ({drawnRegions.length} drawn{missingRegions.length ? `, ${missingRegions.length} without data` : ''})
-                    </span>
-                </h2>
+                <div className="flex items-center justify-between flex-wrap gap-2 mb-4">
+                    <h2 className="text-lg font-semibold text-ark-fg">
+                        Select regions (max 6)
+                        <span className="text-sm text-ark-fg-dim ml-2">
+                            ({drawnRegions.length} drawn{missingRegions.length ? `, ${missingRegions.length} without data` : ''})
+                        </span>
+                    </h2>
+                    {(series?.regions.length ?? 0) > 25 && (
+                        <input
+                            type="text"
+                            placeholder="Filter regions…"
+                            value={regionFilter}
+                            onChange={(e) => setRegionFilter(e.target.value)}
+                            className="px-3 py-1.5 bg-ark-tag border border-ark-line rounded-lg text-sm text-ark-fg placeholder-ark-fg-dim focus:outline-none focus:border-emerald-500"
+                        />
+                    )}
+                </div>
 
                 {series ? (
                     <>
-                        <div className="flex flex-wrap gap-2">
-                            {series.regions.map((region) => (
+                        <div className="flex flex-wrap gap-2 max-h-44 overflow-y-auto">
+                            {filteredRegions.slice(0, 120).map((region) => (
                                 <button
                                     key={region}
                                     onClick={() => toggleRegion(region)}
-                                    className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-colors flex items-center ${selectedRegions.includes(region)
+                                    className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-colors flex items-center capitalize ${selectedRegions.includes(region)
                                         ? 'text-white'
                                         : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
                                         }`}
@@ -159,13 +259,13 @@ export default function GeographicPrices() {
                                     disabled={!selectedRegions.includes(region) && selectedRegions.length >= 6}
                                 >
                                     <MapPin className="w-3 h-3 mr-1" />
-                                    {region}
+                                    {region.toLowerCase()}
                                 </button>
                             ))}
                         </div>
                         {missingRegions.length > 0 && (
                             <p className="text-xs text-amber-400/80 mt-3">
-                                No data for this indicator: {missingRegions.join(', ')} — deselect or pick another indicator.
+                                No data for this selection: {missingRegions.join(', ')} — deselect or pick another item.
                             </p>
                         )}
                     </>
@@ -175,9 +275,7 @@ export default function GeographicPrices() {
             </div>
 
             <div className="card">
-                <h2 className="text-xl font-semibold text-ark-fg mb-4">
-                    {series?.name || 'Indicator'} by Region
-                </h2>
+                <h2 className="text-xl font-semibold text-ark-fg mb-4 capitalize">{seriesTitle}</h2>
 
                 {loading ? (
                     <div className="h-[500px] flex items-center justify-center">
@@ -233,7 +331,7 @@ export default function GeographicPrices() {
                                 unit: unitLabel,
                                 dateRange: series ? `${series.year_range.start}–${series.year_range.end}` : null,
                                 points: chartData.length,
-                                note: 'Annual World Bank observations from the local dataset; gaps are real reporting gaps, not interpolated.',
+                                note: 'Annual observations from the local dataset; gaps are real reporting gaps, not interpolated.',
                             }}
                         />
 
@@ -243,14 +341,14 @@ export default function GeographicPrices() {
                                 { key: 'year', label: 'Year' },
                                 ...drawnRegions.map(r => ({ key: r, label: r, numeric: true })),
                             ]}
-                            filename={`foodberg_geo_${selectedIndicator}`}
+                            filename={`foodberg_geo_${mode}_${(selectedKey || '').replace(/\W+/g, '_')}`}
                         />
                     </>
                 ) : (
                     <div className="h-[500px] flex items-center justify-center text-ark-fg-dim">
                         <div className="text-center">
                             <Globe className="w-16 h-16 mx-auto mb-4 text-ark-fg-dim" />
-                            <p>No data drawn — select at least one region with data for this indicator.</p>
+                            <p>No data drawn — select at least one region with data.</p>
                         </div>
                     </div>
                 )}
@@ -259,11 +357,11 @@ export default function GeographicPrices() {
             {chartData.length > 0 && drawnRegions.length > 0 && (
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
                     {drawnRegions.map((region) => {
-                        const regionData = chartData.filter((d: any) => d[region] !== undefined)
+                        const regionData = chartData.filter((d) => d[region] !== undefined)
                         const latest = regionData.length ? regionData[regionData.length - 1] : null
                         const first = regionData.length ? regionData[0] : null
-                        const change = first && latest && first[region]
-                            ? ((latest[region] - first[region]) / first[region] * 100)
+                        const change = first && latest && (first[region] as number)
+                            ? (((latest[region] as number) - (first[region] as number)) / (first[region] as number) * 100)
                             : null
 
                         return (
@@ -272,9 +370,9 @@ export default function GeographicPrices() {
                                 className="card"
                                 style={{ borderLeftColor: COLORS[selectedRegions.indexOf(region) % COLORS.length], borderLeftWidth: '4px' }}
                             >
-                                <h3 className="font-semibold text-ark-fg">{region}</h3>
+                                <h3 className="font-semibold text-ark-fg capitalize">{region.toLowerCase()}</h3>
                                 <div className="text-2xl font-bold text-ark-fg mt-2">
-                                    {latest ? latest[region].toLocaleString(undefined, { maximumFractionDigits: 2 }) : 'N/A'}
+                                    {latest ? (latest[region] as number).toLocaleString(undefined, { maximumFractionDigits: 2 }) : 'N/A'}
                                 </div>
                                 <div className="text-xs text-ark-fg-dim mt-1">
                                     {latest ? `latest (${latest.year}) · ${unitLabel}` : ''}

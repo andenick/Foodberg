@@ -149,7 +149,7 @@ const AUTHOR = { name: "nickanderson.us", url: "https://nickanderson.us" };
 
 const MarkSvg: React.FC = () => (
   <svg viewBox="0 0 32 32" width="100%" height="100%" fill="none" aria-hidden="true"
-       xmlns="http://www.w3.org/2000/svg">
+    xmlns="http://www.w3.org/2000/svg">
     <path d="M16 3 4 27h5l2.4-5h9.2l2.4 5h5L16 3Zm-2.7 14L16 11l2.7 6h-5.4Z" fill="currentColor" />
     <circle cx="16" cy="25.5" r="1.6" fill="currentColor" />
   </svg>
@@ -249,7 +249,7 @@ export const ArcanumHeader: React.FC<ArcanumChromeProps> = (props) => {
               const active = activePath != null && norm(activePath) === norm(n.href);
               return (
                 <a key={n.href} className={"ark-nav-a" + (active ? " active" : "")}
-                   href={n.href} aria-current={active ? "page" : undefined}>
+                  href={n.href} aria-current={active ? "page" : undefined}>
                   {n.label}
                 </a>
               );
@@ -267,32 +267,32 @@ export const ArcanumHeader: React.FC<ArcanumChromeProps> = (props) => {
 /* ---- footer (MANDATED dual anchors) --------------------------------------- */
 export const ArcanumFooter: React.FC<Pick<ArcanumChromeProps,
   "ecosystem" | "dprUrl" | "dprLabel">> = ({ ecosystem, dprUrl, dprLabel = "Provenance" }) => {
-  const hub = ecosystem?.anchors?.hub ?? HUB;
-  const author = ecosystem?.anchors?.author ?? AUTHOR;
-  return (
-    <footer className="ark-footer">
-      <div className="ark-footer-inner">
-        <span><strong>Heterodata</strong> &mdash; an Arcanum Research project</span>
-        <span className="ark-sep" aria-hidden="true">&middot;</span>
-        <span>Hub: <a href={hub.url}>{hub.name}</a></span>
-        <span className="ark-sep" aria-hidden="true">&middot;</span>
-        <span>Architect: <a href={author.url}>{author.name}</a></span>
-        <span className="ark-sep" aria-hidden="true">&middot;</span>
-        <span className="ark-foot-badges">
-          <span className="ark-badge reproducible">Reproducible</span>
-          <span className="ark-badge offline">Offline</span>
-          <span className="ark-badge real-data">Real data</span>
-        </span>
-        {dprUrl ? (
-          <>
-            <span className="ark-sep" aria-hidden="true">&middot;</span>
-            <a href={dprUrl}>{dprLabel}</a>
-          </>
-        ) : null}
-      </div>
-    </footer>
-  );
-};
+    const hub = ecosystem?.anchors?.hub ?? HUB;
+    const author = ecosystem?.anchors?.author ?? AUTHOR;
+    return (
+      <footer className="ark-footer">
+        <div className="ark-footer-inner">
+          <span><strong>Heterodata</strong> &mdash; an Arcanum Research project</span>
+          <span className="ark-sep" aria-hidden="true">&middot;</span>
+          <span>Hub: <a href={hub.url}>{hub.name}</a></span>
+          <span className="ark-sep" aria-hidden="true">&middot;</span>
+          <span>Architect: <a href={author.url}>{author.name}</a></span>
+          <span className="ark-sep" aria-hidden="true">&middot;</span>
+          <span className="ark-foot-badges">
+            <span className="ark-badge reproducible">Reproducible</span>
+            <span className="ark-badge offline">Offline</span>
+            <span className="ark-badge real-data">Real data</span>
+          </span>
+          {dprUrl ? (
+            <>
+              <span className="ark-sep" aria-hidden="true">&middot;</span>
+              <a href={dprUrl}>{dprLabel}</a>
+            </>
+          ) : null}
+        </div>
+      </footer>
+    );
+  };
 
 /* ---- the wrapper ---------------------------------------------------------- */
 const ArcanumChrome: React.FC<ArcanumChromeProps> = (props) => {
