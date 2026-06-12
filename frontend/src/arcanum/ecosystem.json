@@ -16,7 +16,7 @@
         { "label": "Data", "path": "/#data" },
         { "label": "Methodology", "path": "/#methodology" }
       ] },
-    { "key": "files", "title": "Files", "display": "files.heterodata.org", "url": "https://files.heterodata.org", "accent": "#0369a1", "status": "live",
+    { "key": "files", "title": "Files", "display": "files.heterodata.org", "url": "https://files.heterodata.org", "accent": "#0369a1", "status": "live", "hub_only": true,
       "tagline": "Plain static downloads — public dataset releases served as browsable files with checksums.",
       "pages": [
         { "label": "Browse", "path": "/" }
