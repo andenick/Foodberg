@@ -1,4 +1,4 @@
-import { Route, Routes, useLocation } from 'react-router-dom'
+import { Link, Route, Routes, useLocation } from 'react-router-dom'
 import ArcanumChrome, { type Ecosystem, type NavItem } from './arcanum/ArcanumChrome'
 import ecosystemData from './arcanum/ecosystem.json'
 import CommodityDetail from './pages/CommodityDetail'
@@ -45,6 +45,14 @@ function App() {
                 <Route path="/trends" element={<HistoricalTrends />} />
                 <Route path="/downloads" element={<Downloads />} />
                 <Route path="/sources" element={<DataSources />} />
+                {/* Unmatched paths previously rendered a silent blank page. */}
+                <Route path="*" element={
+                    <div className="max-w-7xl mx-auto px-4 py-24 text-center">
+                        <h1 className="text-3xl font-bold text-ark-fg mb-3">Page not found</h1>
+                        <p className="text-ark-fg-dim mb-6">That address doesn't exist on Foodberg.</p>
+                        <Link to="/" className="text-emerald-400 hover:text-emerald-300">← Back to the Food Index</Link>
+                    </div>
+                } />
             </Routes>
         </ArcanumChrome>
     )
