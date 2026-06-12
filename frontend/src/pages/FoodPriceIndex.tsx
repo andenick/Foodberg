@@ -11,6 +11,7 @@ import {
 } from 'recharts'
 import { api } from '../services/api'
 import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
+import { ChartMetaStrip, ScrollableDataTable } from '../components/ChartDetails'
 
 const COLORS: Record<string, string> = {
     fao_overall: '#10B981',
@@ -270,6 +271,28 @@ export default function FoodPriceIndex() {
                     <div className="h-[500px] flex items-center justify-center text-ark-fg-dim">
                         Select indices above to compare
                     </div>
+                )}
+
+                {chartData.length > 0 && (
+                    <>
+                        <ChartMetaStrip
+                            meta={{
+                                source: 'FAO Food Price Index + US BLS CPI components (local dataset, offline)',
+                                unit: 'Index (FAO base 2014-2016 = 100 · BLS base 1982-84 = 100)',
+                                dateRange: `${chartData[0].date} → ${chartData[chartData.length - 1].date}`,
+                                points: chartData.length,
+                                note: 'Monthly observations. FAO and BLS indices use different base periods — compare shapes, not levels.',
+                            }}
+                        />
+                        <ScrollableDataTable
+                            rows={chartData}
+                            columns={[
+                                { key: 'date', label: 'Month' },
+                                ...selectedCategories.map(c => ({ key: c, label: CATEGORY_LABELS[c] || c, numeric: true })),
+                            ]}
+                            filename="foodberg_food_price_indices"
+                        />
+                    </>
                 )}
             </div>
 

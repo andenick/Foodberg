@@ -10,7 +10,8 @@ import {
     XAxis, YAxis
 } from 'recharts'
 import { api } from '../services/api'
-import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
+import { useArkTheme } from '../arcanum/arkChartTheme'
+import { ChartMetaStrip, ScrollableDataTable } from '../components/ChartDetails'
 
 // Commodity categories for filtering
 const COMMODITY_CATEGORIES = {
@@ -30,77 +31,96 @@ interface CommodityData {
     file_size_mb: number
 }
 
+interface Coverage {
+    has_history: boolean
+    points: number
+    start: string
+    end: string
+    source: string
+}
+
+interface SeriesPayload {
+    commodity: string
+    has_history: boolean
+    source: string | null
+    unit?: string | null
+    currency?: string | null
+    data_points: number
+    date_range?: { start: string; end: string }
+    data: Array<{ year: number; numeric_value: number | null; date?: string; unit?: string; statistic_category?: string; location?: string }>
+    note?: string
+}
+
 export default function PriceExplorer() {
     const [commodities, setCommodities] = useState<CommodityData[]>([])
+    const [coverage, setCoverage] = useState<Record<string, Coverage>>({})
     const [selectedCategory, setSelectedCategory] = useState<string>('all')
     const [searchTerm, setSearchTerm] = useState('')
     const [loading, setLoading] = useState(true)
-    const [priceData, setPriceData] = useState<any[]>([])
+    const [series, setSeries] = useState<SeriesPayload | null>(null)
+    const [chartData, setChartData] = useState<Array<{ year: number; price: number }>>([])
     const [selectedCommodity, setSelectedCommodity] = useState<string | null>(null)
     const t = useArkTheme()
 
     useEffect(() => {
-        loadCommodities()
+        Promise.all([api.getWASDECommodities(), api.getPriceCoverage()])
+            .then(([cRes, covRes]) => {
+                setCommodities(cRes.data.commodities || [])
+                setCoverage(covRes.data.commodities || {})
+            })
+            .catch((error) => console.error('Failed to load commodities:', error))
+            .finally(() => setLoading(false))
     }, [])
-
-    const loadCommodities = async () => {
-        try {
-            const response = await api.getWASDECommodities()
-            setCommodities(response.data.commodities || [])
-        } catch (error) {
-            console.error('Failed to load commodities:', error)
-        } finally {
-            setLoading(false)
-        }
-    }
 
     const loadCommodityPrices = async (commodity: string) => {
         setSelectedCommodity(commodity)
+        setSeries(null)
+        setChartData([])
         try {
-            const response = await api.getWASDEData(commodity, 100)
-            const data = response.data
+            const response = await api.getWASDEData(commodity, 5000)
+            const payload: SeriesPayload = response.data
+            setSeries(payload)
 
-            // Transform data for chart - group by year and get average values
-            const yearlyData = data.data?.reduce((acc: any, record: any) => {
-                const year = record.year
-                if (!acc[year]) {
-                    acc[year] = { year, values: [], count: 0 }
+            // Yearly averages for the chart (the real monthly series averages
+            // cleanly; the WASDE fallback collapses to its single marketing year).
+            const yearly: Record<number, number[]> = {}
+            for (const rec of payload.data || []) {
+                if (rec.numeric_value !== null && rec.numeric_value !== undefined) {
+                    (yearly[rec.year] ||= []).push(rec.numeric_value)
                 }
-                if (record.numeric_value) {
-                    acc[year].values.push(record.numeric_value)
-                    acc[year].count++
-                }
-                return acc
-            }, {}) || {}
-
-            const chartData = Object.values(yearlyData)
-                .map((item: any) => ({
-                    year: item.year,
-                    price: item.values.length > 0
-                        ? item.values.reduce((a: number, b: number) => a + b, 0) / item.values.length
-                        : null
-                }))
-                .filter((item: any) => item.price !== null)
-                .sort((a: any, b: any) => a.year - b.year)
-
-            setPriceData(chartData)
+            }
+            setChartData(
+                Object.entries(yearly)
+                    .map(([year, vals]) => ({
+                        year: Number(year),
+                        price: vals.reduce((a, b) => a + b, 0) / vals.length,
+                    }))
+                    .sort((a, b) => a.year - b.year)
+            )
         } catch (error) {
             console.error('Failed to load prices:', error)
         }
     }
 
-    const filteredCommodities = commodities.filter(c => {
-        const matchesSearch = c.commodity.toLowerCase().includes(searchTerm.toLowerCase())
-        if (selectedCategory === 'all') return matchesSearch
+    const hasHistory = (name: string) => Boolean(coverage[name.toLowerCase()]?.has_history)
 
-        const categoryItems = COMMODITY_CATEGORIES[selectedCategory as keyof typeof COMMODITY_CATEGORIES] || []
-        return matchesSearch && categoryItems.includes(c.commodity.toLowerCase())
-    })
+    // Full-history commodities first, then the single-marketing-year ones.
+    const filteredCommodities = commodities
+        .filter(c => {
+            const matchesSearch = c.commodity.toLowerCase().includes(searchTerm.toLowerCase())
+            if (selectedCategory === 'all') return matchesSearch
+            const categoryItems = COMMODITY_CATEGORIES[selectedCategory as keyof typeof COMMODITY_CATEGORIES] || []
+            return matchesSearch && categoryItems.includes(c.commodity.toLowerCase())
+        })
+        .sort((a, b) => {
+            const ah = hasHistory(a.commodity) ? 0 : 1
+            const bh = hasHistory(b.commodity) ? 0 : 1
+            return ah !== bh ? ah - bh : a.commodity.localeCompare(b.commodity)
+        })
 
-    const formatFileSize = (mb: number) => {
-        if (mb < 1) return `${(mb * 1024).toFixed(0)} KB`
-        return `${mb.toFixed(1)} MB`
-    }
+    const unitLabel = series?.unit || series?.data?.[0]?.unit || 'Value'
+    const isHistory = Boolean(series?.has_history)
+    const latestRow = chartData.length ? chartData[chartData.length - 1] : null
 
     return (
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -108,7 +128,9 @@ export default function PriceExplorer() {
             <div className="mb-8">
                 <h1 className="text-3xl font-bold text-ark-fg mb-2">Price Explorer</h1>
                 <p className="text-ark-fg-dim">
-                    Browse historical food commodity prices from USDA WASDE reports and other data sources
+                    Browse historical food commodity prices. Genuine monthly history (1992–present)
+                    exists for wheat, corn, coffee, sugar, and cotton; other commodities carry a
+                    single USDA WASDE marketing year — shown honestly, never extrapolated.
                 </p>
             </div>
 
@@ -169,28 +191,41 @@ export default function PriceExplorer() {
                             </div>
                         ) : (
                             <div className="space-y-2 max-h-[600px] overflow-y-auto">
-                                {filteredCommodities.map(commodity => (
-                                    <button
-                                        key={commodity.commodity}
-                                        onClick={() => loadCommodityPrices(commodity.commodity)}
-                                        className={`w-full text-left p-3 rounded-lg transition-colors ${selectedCommodity === commodity.commodity
-                                                ? 'bg-emerald-600/20 border border-emerald-500/50'
-                                                : 'bg-ark-bg-soft hover:bg-ark-tag border border-transparent'
-                                            }`}
-                                    >
-                                        <div className="flex justify-between items-center">
-                                            <span className="font-medium text-ark-fg capitalize">
-                                                {commodity.commodity}
-                                            </span>
-                                            <span className="text-xs text-ark-fg-dim">
-                                                {formatFileSize(commodity.file_size_mb)}
-                                            </span>
-                                        </div>
-                                        <div className="text-xs text-ark-fg-dim mt-1">
-                                            Updated: {new Date(commodity.last_updated).toLocaleDateString()}
-                                        </div>
-                                    </button>
-                                ))}
+                                {filteredCommodities.map(commodity => {
+                                    const cov = coverage[commodity.commodity.toLowerCase()]
+                                    return (
+                                        <button
+                                            key={commodity.commodity}
+                                            onClick={() => loadCommodityPrices(commodity.commodity)}
+                                            className={`w-full text-left p-3 rounded-lg transition-colors ${selectedCommodity === commodity.commodity
+                                                    ? 'bg-emerald-600/20 border border-emerald-500/50'
+                                                    : cov
+                                                        ? 'bg-ark-bg-soft hover:bg-ark-tag border border-transparent'
+                                                        : 'bg-ark-bg-soft hover:bg-ark-tag border border-transparent opacity-70'
+                                                }`}
+                                        >
+                                            <div className="flex justify-between items-center">
+                                                <span className="font-medium text-ark-fg capitalize">
+                                                    {commodity.commodity}
+                                                </span>
+                                                {cov ? (
+                                                    <span className="text-[10px] font-semibold uppercase tracking-wide text-emerald-400 bg-emerald-900/30 px-1.5 py-0.5 rounded">
+                                                        {cov.points} obs
+                                                    </span>
+                                                ) : (
+                                                    <span className="text-[10px] font-semibold uppercase tracking-wide text-amber-400/80 bg-amber-900/20 px-1.5 py-0.5 rounded">
+                                                        1 yr only
+                                                    </span>
+                                                )}
+                                            </div>
+                                            <div className="text-xs text-ark-fg-dim mt-1">
+                                                {cov
+                                                    ? `Monthly, ${cov.start.slice(0, 4)}–${cov.end.slice(0, 4)}`
+                                                    : 'Single WASDE marketing year'}
+                                            </div>
+                                        </button>
+                                    )
+                                })}
                             </div>
                         )}
                     </div>
@@ -199,49 +234,42 @@ export default function PriceExplorer() {
                 {/* Price Chart */}
                 <div className="lg:col-span-2">
                     <div className="card h-full">
-                        {selectedCommodity ? (
+                        {selectedCommodity && series ? (
                             <>
                                 <div className="flex justify-between items-center mb-4">
                                     <h2 className="text-xl font-semibold text-ark-fg capitalize">
-                                        {selectedCommodity} Price History
+                                        {selectedCommodity} {isHistory ? 'Price History' : '— Latest Marketing Year'}
                                     </h2>
-                                    <div className="flex items-center gap-3">
-                                        <button
-                                            type="button"
-                                            className="ark-btn ark-btn-sm ark-btn-ghost"
-                                            onClick={() => downloadCsv(priceData, `foodberg_${selectedCommodity}_prices`)}
-                                            disabled={priceData.length === 0}
-                                        >
-                                            Download CSV
-                                        </button>
-                                        <Link
-                                            to={`/commodity/${selectedCommodity}`}
-                                            className="text-sm text-emerald-400 hover:text-emerald-300"
-                                        >
-                                            View Details →
-                                        </Link>
-                                    </div>
+                                    <Link
+                                        to={`/commodity/${selectedCommodity}`}
+                                        className="text-sm text-emerald-400 hover:text-emerald-300"
+                                    >
+                                        View Details →
+                                    </Link>
                                 </div>
 
-                                {priceData.length > 0 ? (
+                                {isHistory && chartData.length > 1 ? (
                                     <div className="h-[400px]">
                                         <ResponsiveContainer width="100%" height="100%">
-                                            <LineChart data={priceData}>
+                                            <LineChart data={chartData} margin={{ left: 12, bottom: 8 }}>
                                                 <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
                                                 <XAxis
                                                     dataKey="year"
                                                     stroke={t.axisStroke}
                                                     tick={{ fill: t.dim }}
+                                                    label={{ value: 'Year', position: 'insideBottom', offset: -4, fill: t.dim, fontSize: 12 }}
                                                 />
                                                 <YAxis
                                                     stroke={t.axisStroke}
                                                     tick={{ fill: t.dim }}
                                                     tickFormatter={(value) => value.toLocaleString()}
+                                                    label={{ value: unitLabel, angle: -90, position: 'insideLeft', fill: t.dim, fontSize: 12 }}
                                                 />
                                                 <Tooltip
                                                     contentStyle={t.tooltip}
                                                     labelStyle={{ color: t.fg }}
-                                                    formatter={(value: number) => [value.toLocaleString(), 'Value']}
+                                                    formatter={(value: number) => [value.toLocaleString(undefined, { maximumFractionDigits: 2 }), unitLabel]}
+                                                    labelFormatter={(label) => `Year ${label} (annual average)`}
                                                 />
                                                 <Line
                                                     type="monotone"
@@ -255,16 +283,64 @@ export default function PriceExplorer() {
                                         </ResponsiveContainer>
                                     </div>
                                 ) : (
-                                    <div className="h-[400px] flex items-center justify-center text-ark-fg-dim">
-                                        Loading price data...
+                                    /* Honest single-point view: a stat card, not a fake line. */
+                                    <div className="h-[400px] flex flex-col items-center justify-center text-center">
+                                        <div className="text-sm uppercase tracking-wide text-amber-400/80 mb-2">
+                                            No time series in the local dataset
+                                        </div>
+                                        {latestRow ? (
+                                            <>
+                                                <div className="text-5xl font-bold text-ark-fg">
+                                                    {latestRow.price.toLocaleString(undefined, { maximumFractionDigits: 2 })}
+                                                </div>
+                                                <div className="text-ark-fg-dim mt-2">
+                                                    {unitLabel} · marketing year {latestRow.year} (USDA WASDE)
+                                                </div>
+                                            </>
+                                        ) : (
+                                            <div className="text-ark-fg-dim">No price observations available.</div>
+                                        )}
+                                        <p className="text-xs text-ark-fg-dim mt-4 max-w-md">
+                                            {series.note ||
+                                                'The local dataset holds a single USDA WASDE marketing year for this commodity. Real monthly history exists for wheat, corn, coffee, sugar, and cotton.'}
+                                        </p>
                                     </div>
                                 )}
+
+                                <ChartMetaStrip
+                                    meta={{
+                                        source: series.source || 'USDA NASS WASDE (via Robin)',
+                                        unit: unitLabel,
+                                        dateRange: series.date_range
+                                            ? `${series.date_range.start.slice(0, 10)} → ${series.date_range.end.slice(0, 10)}`
+                                            : (latestRow ? `marketing year ${latestRow.year}` : null),
+                                        points: series.data_points,
+                                        latestLabel: 'Latest (annual avg)',
+                                        latestValue: latestRow
+                                            ? `${latestRow.price.toLocaleString(undefined, { maximumFractionDigits: 2 })} (${latestRow.year})`
+                                            : null,
+                                    }}
+                                />
+
+                                <ScrollableDataTable
+                                    rows={isHistory
+                                        ? (series.data || []).map(r => ({ date: r.date?.slice(0, 10), value: r.numeric_value }))
+                                        : chartData.map(r => ({ year: r.year, value: r.price }))}
+                                    columns={isHistory
+                                        ? [{ key: 'date', label: 'Month' }, { key: 'value', label: unitLabel, numeric: true }]
+                                        : [{ key: 'year', label: 'Marketing year' }, { key: 'value', label: unitLabel, numeric: true }]}
+                                    filename={`foodberg_${selectedCommodity}_prices`}
+                                />
                             </>
+                        ) : selectedCommodity ? (
+                            <div className="h-[400px] flex items-center justify-center text-ark-fg-dim">
+                                Loading price data...
+                            </div>
                         ) : (
                             <div className="h-[400px] flex flex-col items-center justify-center text-ark-fg-dim">
                                 <BarChart3 className="w-16 h-16 mb-4 text-ark-fg-dim" />
                                 <p className="text-lg">Select a commodity to view price history</p>
-                                <p className="text-sm mt-2">Click on any commodity in the list to see its historical prices</p>
+                                <p className="text-sm mt-2">Commodities with a green badge have a real monthly series</p>
                             </div>
                         )}
                     </div>

@@ -19,10 +19,16 @@ interface DatabaseStats {
 interface SourceStatus {
     name: string
     records?: number
-    date_range?: { min: string; max: string }
+    // min/max are strings for date-keyed tables but NUMBERS (years) for
+    // wasde_data — always coerce before formatting (a raw `.split()` on the
+    // numeric year crashed the whole page render).
+    date_range?: { min: string | number; max: string | number }
     freshness?: string
     error?: string
 }
+
+const fmtDate = (v: string | number | null | undefined): string | null =>
+    v === null || v === undefined ? null : String(v).split(' ')[0]
 
 export default function DataSources() {
     const [sources, setSources] = useState<DataSourceInfo[]>([])
@@ -96,14 +102,12 @@ export default function DataSources() {
     }
     const liveStatuses = Object.values(sourceStatus).filter((s) => !s.error)
     const latestStatus = liveStatuses.reduce<SourceStatus | null>((best, s) => {
-        const d = s.date_range?.max
+        const d = fmtDate(s.date_range?.max)
         if (!d) return best
-        if (!best || (best.date_range?.max ?? '') < d) return s
+        if (!best || (fmtDate(best.date_range?.max) ?? '') < d) return s
         return best
     }, null)
-    const lastUpdated = latestStatus?.date_range?.max
-        ? String(latestStatus.date_range.max).split(' ')[0]
-        : null
+    const lastUpdated = fmtDate(latestStatus?.date_range?.max)
     const overallFreshness = FRESHNESS_LABEL[latestStatus?.freshness ?? 'unknown'] ?? FRESHNESS_LABEL.unknown
 
     return (
@@ -216,7 +220,7 @@ export default function DataSources() {
                                         <div className="flex justify-between text-sm mt-1">
                                             <span className="text-ark-fg-dim">Date Range:</span>
                                             <span className="text-ark-fg">
-                                                {status.date_range.min?.split(' ')[0]} to {status.date_range.max?.split(' ')[0]}
+                                                {fmtDate(status.date_range.min)} to {fmtDate(status.date_range.max)}
                                             </span>
                                         </div>
                                     )}

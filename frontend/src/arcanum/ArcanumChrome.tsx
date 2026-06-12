@@ -155,19 +155,39 @@ const MarkSvg: React.FC = () => (
   </svg>
 );
 
-/* ---- ecosystem switcher (v1.2) -------------------------------------------
-   Hub first, then every site in manifest order (ecosystem.json v2 is authored
-   Hub-conceptual + alphabetical by title). Each site renders its detailed
-   `pages` sub-links indented beneath it; an `affiliated` site gets a tag.
+/* ---- ecosystem switcher (v1.5) -------------------------------------------
+   Hub first, then live sites A-Z, then "In progress" (draft/roadmap), then
+   "Affiliated", then the Architect anchor. ONE row per site; `hub_only`
+   sites (Files) are skipped — they appear only in the hub's own menu.
    --------------------------------------------------------------------------- */
 export const ArcanumSwitcher: React.FC<{
   ecosystem?: Ecosystem;
   siteKey: string;
   siteTitle: string;
 }> = ({ ecosystem, siteKey, siteTitle }) => {
-  const sites = ecosystem?.sites ?? [];
+  const sites = (ecosystem?.sites ?? []).filter((s) => !(s as { hub_only?: boolean }).hub_only);
   const hub = ecosystem?.anchors?.hub ?? HUB;
   const author = ecosystem?.anchors?.author ?? AUTHOR;
+  const live = sites.filter((s) => !s.draft && !s.roadmap && !s.affiliated);
+  const wip = sites.filter((s) => (s.draft || s.roadmap) && !s.affiliated);
+  const aff = sites.filter((s) => s.affiliated);
+  const row = (s: (typeof sites)[number]) => (
+    <a
+      key={s.key}
+      className={"ark-switcher-item" + (s.key === siteKey ? " current" : "")}
+      href={s.url}
+      role="menuitem"
+      aria-current={s.key === siteKey ? "page" : undefined}
+      style={{ ["--ark-si-accent" as string]: s.accent ?? "#1565c0" }}
+    >
+      <span className="ark-dot" aria-hidden="true" />
+      <span className="ark-si-name">{s.title ?? s.display}</span>
+      {s.draft ? <span className="ark-si-pill">Draft</span> : null}
+      {!s.draft && s.roadmap ? <span className="ark-si-pill">Roadmap</span> : null}
+      {s.affiliated ? <span className="ark-affiliated">affiliated</span> : null}
+      <span className="ark-si-host">{s.display ?? s.url}</span>
+    </a>
+  );
   return (
     <details className="ark-switcher">
       <summary aria-label="Switch site within the Heterodata ecosystem">
@@ -183,27 +203,12 @@ export const ArcanumSwitcher: React.FC<{
           <span className="ark-si-host">heterodata.org</span>
         </a>
 
-        {/* All sites, in manifest (alphabetical) order — v1.4: ONE row per site
-            (the per-page sub-links cluttered the dropdown; pages remain in
-            ecosystem.json for the hub cards). */}
         <div className="ark-switcher-group">Sites</div>
-        {sites.map((s) => (
-          <a
-            key={s.key}
-            className={"ark-switcher-item" + (s.key === siteKey ? " current" : "")}
-            href={s.url}
-            role="menuitem"
-            aria-current={s.key === siteKey ? "page" : undefined}
-            style={{ ["--ark-si-accent" as string]: s.accent ?? "#1565c0" }}
-          >
-            <span className="ark-dot" aria-hidden="true" />
-            <span className="ark-si-name">{s.title ?? s.display}</span>
-            {s.draft ? <span className="ark-si-pill">Draft</span> : null}
-            {!s.draft && s.roadmap ? <span className="ark-si-pill">Roadmap</span> : null}
-            {s.affiliated ? <span className="ark-affiliated">affiliated</span> : null}
-            <span className="ark-si-host">{s.display ?? s.url}</span>
-          </a>
-        ))}
+        {live.map(row)}
+        {wip.length ? <div className="ark-switcher-group">In progress</div> : null}
+        {wip.map(row)}
+        {aff.length ? <div className="ark-switcher-group">Affiliated</div> : null}
+        {aff.map(row)}
 
         {/* Architect apex. */}
         <div className="ark-switcher-group">Architect</div>
@@ -238,7 +243,6 @@ export const ArcanumHeader: React.FC<ArcanumChromeProps> = (props) => {
           <a className="ark-site-title" href={current?.url ?? "/"}>{siteTitle}</a>
         ) : null}
         <ArcanumSwitcher ecosystem={ecosystem} siteKey={siteKey} siteTitle={siteTitle} />
-        <ArkThemeToggle />
         {nav.length ? (
           <nav className="ark-nav" aria-label="Site sections">
             {nav.map((n) => {
@@ -252,6 +256,9 @@ export const ArcanumHeader: React.FC<ArcanumChromeProps> = (props) => {
             })}
           </nav>
         ) : null}
+        {/* v1.5: theme toggle pinned to the far right of the header row
+            (it previously sat mid-header between the switcher and nav). */}
+        <ArkThemeToggle />
       </div>
     </header>
   );

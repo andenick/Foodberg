@@ -59,6 +59,16 @@ export const api = {
     getCompositeIndex: (category: string) =>
         apiClient.get(`/api/indices/${category}`),
 
+    // Real price-history coverage (which commodities have a genuine series)
+    getPriceCoverage: () => apiClient.get('/api/prices/coverage'),
+    getPriceHistory: (commodity: string) =>
+        apiClient.get(`/api/prices/history/${commodity}`),
+
+    // Geographic comparison (World Bank indicators, per-region annual series)
+    getGeoIndicators: () => apiClient.get('/api/geo/indicators'),
+    getGeoSeries: (indicatorCode: string) =>
+        apiClient.get(`/api/geo/${indicatorCode}`),
+
     // Bulk dataset downloads
     getDownloadDatasets: () => apiClient.get('/api/download/datasets'),
 }

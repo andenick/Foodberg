@@ -1,10 +1,8 @@
-import { BarChart3, History, Layers, TrendingUp } from 'lucide-react'
+import { History } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { api } from '../services/api'
 import {
-    Area,
     CartesianGrid,
-    ComposedChart,
     Legend,
     Line,
     LineChart,
@@ -12,7 +10,8 @@ import {
     Tooltip,
     XAxis, YAxis
 } from 'recharts'
-import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
+import { useArkTheme } from '../arcanum/arkChartTheme'
+import { ChartMetaStrip, ScrollableDataTable } from '../components/ChartDetails'
 
 // Color palette for multiple commodities
 const COLORS = [
@@ -20,30 +19,29 @@ const COLORS = [
     '#EC4899', '#06B6D4', '#84CC16', '#F97316', '#6366F1'
 ]
 
+/* The comparison picker offers ONLY commodities with a genuine monthly price
+   series in the local dataset (Alpha Vantage, 1992-present). Everything else
+   has a single WASDE marketing year — one point is not a trend, so it is not
+   offered here (see the Price Explorer for those values). */
+const HISTORY_COMMODITIES = [
+    { id: 'wheat', name: 'Wheat' },
+    { id: 'corn', name: 'Corn' },
+    { id: 'coffee', name: 'Coffee' },
+    { id: 'sugar', name: 'Sugar' },
+    { id: 'cotton', name: 'Cotton' },
+]
+
 export default function HistoricalTrends() {
     const [selectedCommodities, setSelectedCommodities] = useState<string[]>(['wheat', 'corn'])
     const [chartData, setChartData] = useState<any[]>([])
+    const [units, setUnits] = useState<Record<string, string>>({})
     const [loading, setLoading] = useState(true)
     const [timeRange, setTimeRange] = useState<string>('all')
-    const [chartType, setChartType] = useState<'line' | 'area' | 'normalized'>('line')
     const t = useArkTheme()
-
-    const availableCommodities = [
-        { id: 'wheat', name: 'Wheat', category: 'Grains' },
-        { id: 'corn', name: 'Corn', category: 'Grains' },
-        { id: 'rice', name: 'Rice', category: 'Grains' },
-        { id: 'soybeans', name: 'Soybeans', category: 'Oilseeds' },
-        { id: 'cotton', name: 'Cotton', category: 'Fiber' },
-        { id: 'cattle', name: 'Cattle', category: 'Livestock' },
-        { id: 'hogs', name: 'Hogs', category: 'Livestock' },
-        { id: 'milk', name: 'Milk', category: 'Dairy' },
-        { id: 'eggs', name: 'Eggs', category: 'Dairy' },
-        { id: 'chickens', name: 'Chickens', category: 'Livestock' },
-    ]
 
     useEffect(() => {
         loadMultiCommodityData()
-    }, [selectedCommodities, timeRange, chartType])
+    }, [selectedCommodities, timeRange])
 
     const loadMultiCommodityData = async () => {
         if (selectedCommodities.length === 0) {
@@ -53,62 +51,40 @@ export default function HistoricalTrends() {
 
         setLoading(true)
         try {
-            // Fetch data for all selected commodities in parallel
-            const promises = selectedCommodities.map(async (commodity) => {
-                const response = await api.getWASDEData(commodity, 5000)
-                return { commodity, data: response.data.data || [] }
-            })
+            const results = await Promise.all(
+                selectedCommodities.map(async (commodity) => {
+                    const response = await api.getPriceHistory(commodity)
+                    return { commodity, payload: response.data }
+                })
+            )
 
-            const results = await Promise.all(promises)
-
-            // Combine data by year
+            const nextUnits: Record<string, string> = {}
             const yearlyData: { [year: number]: any } = {}
 
-            results.forEach(({ commodity, data }) => {
-                // Group by year
-                const commodityByYear: { [year: number]: number[] } = {}
-                data.forEach((record: any) => {
-                    if (record.numeric_value !== null) {
-                        if (!commodityByYear[record.year]) {
-                            commodityByYear[record.year] = []
-                        }
-                        commodityByYear[record.year].push(record.numeric_value)
+            results.forEach(({ commodity, payload }) => {
+                if (!payload.has_history) return
+                nextUnits[commodity] = payload.unit || 'USD'
+                const byYear: { [year: number]: number[] } = {}
+                for (const row of payload.data || []) {
+                    if (row.price !== null && row.price !== undefined) {
+                        (byYear[row.year] ||= []).push(row.price)
                     }
-                })
-
-                // Average values per year
-                Object.entries(commodityByYear).forEach(([year, values]) => {
-                    const yearNum = parseInt(year)
-                    if (!yearlyData[yearNum]) {
-                        yearlyData[yearNum] = { year: yearNum }
-                    }
-                    yearlyData[yearNum][commodity] = values.reduce((a, b) => a + b, 0) / values.length
+                }
+                Object.entries(byYear).forEach(([year, values]) => {
+                    const y = Number(year)
+                    yearlyData[y] ||= { year: y }
+                    yearlyData[y][commodity] = values.reduce((a, b) => a + b, 0) / values.length
                 })
             })
 
-            // Convert to array and filter by time range
-            let chartArray = Object.values(yearlyData).sort((a, b) => a.year - b.year)
-
+            let chartArray = Object.values(yearlyData).sort((a: any, b: any) => a.year - b.year)
             if (timeRange !== 'all') {
                 const years = parseInt(timeRange)
                 const currentYear = new Date().getFullYear()
                 chartArray = chartArray.filter((d: any) => d.year >= currentYear - years)
             }
 
-            // Normalize if needed
-            if (chartType === 'normalized' && chartArray.length > 0) {
-                const baselineYear = chartArray[0]
-                chartArray = chartArray.map((d: any) => {
-                    const normalized: any = { year: d.year }
-                    selectedCommodities.forEach(commodity => {
-                        if (d[commodity] !== undefined && baselineYear[commodity]) {
-                            normalized[commodity] = (d[commodity] / baselineYear[commodity]) * 100
-                        }
-                    })
-                    return normalized
-                })
-            }
-
+            setUnits(nextUnits)
             setChartData(chartArray)
         } catch (error) {
             console.error('Failed to load commodity data:', error)
@@ -120,7 +96,7 @@ export default function HistoricalTrends() {
     const toggleCommodity = (commodityId: string) => {
         if (selectedCommodities.includes(commodityId)) {
             setSelectedCommodities(selectedCommodities.filter(c => c !== commodityId))
-        } else if (selectedCommodities.length < 6) {
+        } else if (selectedCommodities.length < 5) {
             setSelectedCommodities([...selectedCommodities, commodityId])
         }
     }
@@ -143,6 +119,10 @@ export default function HistoricalTrends() {
         return den === 0 ? 0 : num / den
     }
 
+    const yearSpan = chartData.length
+        ? `${chartData[0].year}–${chartData[chartData.length - 1].year}`
+        : null
+
     return (
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             {/* Header */}
@@ -152,7 +132,10 @@ export default function HistoricalTrends() {
                     Historical Trends
                 </h1>
                 <p className="text-ark-fg-dim">
-                    Compare long-term price trends across multiple commodities
+                    Compare long-term price trends across the five commodities with genuine
+                    monthly history in the local dataset (Alpha Vantage spot prices, 1992–present,
+                    plotted as annual averages). Other commodities carry only a single WASDE
+                    marketing year and cannot show a trend.
                 </p>
             </div>
 
@@ -161,11 +144,11 @@ export default function HistoricalTrends() {
                 <h2 className="text-lg font-semibold text-ark-fg mb-4">
                     Select Commodities to Compare
                     <span className="text-sm text-ark-fg-dim ml-2">
-                        ({selectedCommodities.length}/6 selected)
+                        ({selectedCommodities.length}/{HISTORY_COMMODITIES.length} selected)
                     </span>
                 </h2>
                 <div className="flex flex-wrap gap-2">
-                    {availableCommodities.map((commodity) => (
+                    {HISTORY_COMMODITIES.map((commodity) => (
                         <button
                             key={commodity.id}
                             onClick={() => toggleCommodity(commodity.id)}
@@ -176,7 +159,6 @@ export default function HistoricalTrends() {
                             style={selectedCommodities.includes(commodity.id) ? {
                                 backgroundColor: COLORS[selectedCommodities.indexOf(commodity.id) % COLORS.length]
                             } : {}}
-                            disabled={!selectedCommodities.includes(commodity.id) && selectedCommodities.length >= 6}
                         >
                             {commodity.name}
                         </button>
@@ -184,84 +166,33 @@ export default function HistoricalTrends() {
                 </div>
             </div>
 
-            {/* Chart Controls */}
+            {/* Time range */}
             <div className="card mb-6">
-                <div className="flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
-                    <div>
-                        <label className="block text-sm text-ark-fg-dim mb-2">Time Range</label>
-                        <div className="flex gap-2">
-                            {[
-                                { value: '5', label: '5 Years' },
-                                { value: '10', label: '10 Years' },
-                                { value: '20', label: '20 Years' },
-                                { value: 'all', label: 'All Time' }
-                            ].map(option => (
-                                <button
-                                    key={option.value}
-                                    onClick={() => setTimeRange(option.value)}
-                                    className={`px-4 py-2 rounded-lg font-medium transition-colors ${timeRange === option.value
-                                        ? 'bg-emerald-600 text-white'
-                                        : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
-                                        }`}
-                                >
-                                    {option.label}
-                                </button>
-                            ))}
-                        </div>
-                    </div>
-                    <div>
-                        <label className="block text-sm text-ark-fg-dim mb-2">Chart Type</label>
-                        <div className="flex gap-2">
-                            <button
-                                onClick={() => setChartType('line')}
-                                className={`px-4 py-2 rounded-lg font-medium transition-colors flex items-center ${chartType === 'line'
-                                    ? 'bg-emerald-600 text-white'
-                                    : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
-                                    }`}
-                            >
-                                <TrendingUp className="w-4 h-4 mr-2" />
-                                Line
-                            </button>
-                            <button
-                                onClick={() => setChartType('area')}
-                                className={`px-4 py-2 rounded-lg font-medium transition-colors flex items-center ${chartType === 'area'
-                                    ? 'bg-emerald-600 text-white'
-                                    : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
-                                    }`}
-                            >
-                                <Layers className="w-4 h-4 mr-2" />
-                                Area
-                            </button>
-                            <button
-                                onClick={() => setChartType('normalized')}
-                                className={`px-4 py-2 rounded-lg font-medium transition-colors flex items-center ${chartType === 'normalized'
-                                    ? 'bg-emerald-600 text-white'
-                                    : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
-                                    }`}
-                            >
-                                <BarChart3 className="w-4 h-4 mr-2" />
-                                Normalized
-                            </button>
-                        </div>
-                    </div>
+                <label className="block text-sm text-ark-fg-dim mb-2">Time Range</label>
+                <div className="flex gap-2">
+                    {[
+                        { value: '5', label: '5 Years' },
+                        { value: '10', label: '10 Years' },
+                        { value: '20', label: '20 Years' },
+                        { value: 'all', label: 'All Time' }
+                    ].map(option => (
+                        <button
+                            key={option.value}
+                            onClick={() => setTimeRange(option.value)}
+                            className={`px-4 py-2 rounded-lg font-medium transition-colors ${timeRange === option.value
+                                ? 'bg-emerald-600 text-white'
+                                : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                }`}
+                        >
+                            {option.label}
+                        </button>
+                    ))}
                 </div>
             </div>
 
             {/* Main Chart */}
             <div className="card mb-6">
-                <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
-                    <h2 className="text-xl font-semibold text-ark-fg">
-                        {chartType === 'normalized' ? 'Normalized Price Trends (Base Year = 100)' : 'Historical Price Comparison'}
-                    </h2>
-                    <button
-                        type="button"
-                        className="ark-btn ark-btn-sm ark-btn-ghost"
-                        onClick={() => downloadCsv(chartData, `foodberg_trends_${chartType}`)}
-                        disabled={chartData.length === 0}
-                    >
-                        Download CSV
-                    </button>
-                </div>
+                <h2 className="text-xl font-semibold text-ark-fg mb-4">Historical Price Comparison</h2>
 
                 {loading ? (
                     <div className="h-[500px] flex items-center justify-center">
@@ -271,86 +202,69 @@ export default function HistoricalTrends() {
                         </div>
                     </div>
                 ) : chartData.length > 0 ? (
-                    <div className="h-[500px]">
-                        <ResponsiveContainer width="100%" height="100%">
-                            {chartType === 'area' ? (
-                                <ComposedChart data={chartData}>
+                    <>
+                        <div className="h-[500px]">
+                            <ResponsiveContainer width="100%" height="100%">
+                                <LineChart data={chartData} margin={{ left: 12, bottom: 8 }}>
                                     <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
                                     <XAxis
                                         dataKey="year"
                                         stroke={t.axisStroke}
                                         tick={{ fill: t.dim }}
+                                        label={{ value: 'Year', position: 'insideBottom', offset: -4, fill: t.dim, fontSize: 12 }}
                                     />
                                     <YAxis
                                         stroke={t.axisStroke}
                                         tick={{ fill: t.dim }}
                                         tickFormatter={(value) => value.toLocaleString()}
+                                        label={{ value: 'USD (annual average, per-unit basis varies)', angle: -90, position: 'insideLeft', fill: t.dim, fontSize: 11 }}
                                     />
                                     <Tooltip
                                         contentStyle={t.tooltip}
                                         labelStyle={{ color: t.fg }}
                                         formatter={(value: number, name: string) => [
-                                            value.toLocaleString(undefined, { maximumFractionDigits: 2 }),
+                                            `${value.toLocaleString(undefined, { maximumFractionDigits: 2 })} ${units[name] || ''}`,
                                             name.charAt(0).toUpperCase() + name.slice(1)
                                         ]}
+                                        labelFormatter={(label) => `Year ${label}`}
                                     />
-                                    <Legend />
-                                    {selectedCommodities.map((commodity, index) => (
-                                        <Area
-                                            key={commodity}
-                                            type="monotone"
-                                            dataKey={commodity}
-                                            name={commodity.charAt(0).toUpperCase() + commodity.slice(1)}
-                                            stroke={COLORS[index % COLORS.length]}
-                                            fill={COLORS[index % COLORS.length]}
-                                            fillOpacity={0.2}
-                                            strokeWidth={2}
-                                        />
-                                    ))}
-                                </ComposedChart>
-                            ) : (
-                                <LineChart data={chartData}>
-                                    <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
-                                    <XAxis
-                                        dataKey="year"
-                                        stroke={t.axisStroke}
-                                        tick={{ fill: t.dim }}
-                                    />
-                                    <YAxis
-                                        stroke={t.axisStroke}
-                                        tick={{ fill: t.dim }}
-                                        tickFormatter={(value) => chartType === 'normalized'
-                                            ? `${value.toFixed(0)}%`
-                                            : value.toLocaleString()
-                                        }
-                                    />
-                                    <Tooltip
-                                        contentStyle={t.tooltip}
-                                        labelStyle={{ color: t.fg }}
-                                        formatter={(value: number, name: string) => [
-                                            chartType === 'normalized'
-                                                ? `${value.toFixed(1)}%`
-                                                : value.toLocaleString(undefined, { maximumFractionDigits: 2 }),
-                                            name.charAt(0).toUpperCase() + name.slice(1)
-                                        ]}
-                                    />
-                                    <Legend />
+                                    <Legend formatter={(v: string) => v.charAt(0).toUpperCase() + v.slice(1)} />
                                     {selectedCommodities.map((commodity, index) => (
                                         <Line
                                             key={commodity}
                                             type="monotone"
                                             dataKey={commodity}
-                                            name={commodity.charAt(0).toUpperCase() + commodity.slice(1)}
+                                            name={commodity}
                                             stroke={COLORS[index % COLORS.length]}
                                             strokeWidth={2}
                                             dot={false}
                                             activeDot={{ r: 6 }}
+                                            connectNulls
                                         />
                                     ))}
                                 </LineChart>
-                            )}
-                        </ResponsiveContainer>
-                    </div>
+                            </ResponsiveContainer>
+                        </div>
+
+                        <ChartMetaStrip
+                            meta={{
+                                source: 'Alpha Vantage monthly spot prices (local dataset, offline)',
+                                unit: selectedCommodities.map(c => `${c}: ${units[c] || '—'}`).join(' · '),
+                                dateRange: yearSpan,
+                                points: chartData.length,
+                                note: 'Each point is the average of that year\'s monthly observations. Units differ per commodity — compare shapes, not levels.',
+                            }}
+                        />
+
+                        <ScrollableDataTable
+                            rows={chartData}
+                            columns={[
+                                { key: 'year', label: 'Year' },
+                                ...selectedCommodities.map(c => ({ key: c, label: c.charAt(0).toUpperCase() + c.slice(1), numeric: true })),
+                            ]}
+                            filename="foodberg_trends"
+                        />
+                    </>
                 ) : (
                     <div className="h-[500px] flex items-center justify-center text-ark-fg-dim">
                         <div className="text-center">
@@ -364,27 +278,10 @@ export default function HistoricalTrends() {
             {/* Correlation Matrix */}
             {selectedCommodities.length >= 2 && chartData.length > 0 && (
                 <div className="card">
-                    <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
-                        <h2 className="text-xl font-semibold text-ark-fg">Price Correlations</h2>
-                        <button
-                            type="button"
-                            className="ark-btn ark-btn-sm ark-btn-ghost"
-                            onClick={() => downloadCsv(
-                                selectedCommodities.map((c1, i) => {
-                                    const row: Record<string, unknown> = { commodity: c1 }
-                                    selectedCommodities.forEach((c2, j) => {
-                                        row[c2] = i === j ? 1 : Number(calculateCorrelation(chartData, c1, c2).toFixed(4))
-                                    })
-                                    return row
-                                }),
-                                'foodberg_price_correlations'
-                            )}
-                        >
-                            Download CSV
-                        </button>
-                    </div>
+                    <h2 className="text-xl font-semibold text-ark-fg mb-4">Price Correlations</h2>
                     <p className="text-ark-fg-dim text-sm mb-4">
-                        Shows how closely commodity prices move together. +1 = perfect positive correlation, -1 = perfect negative correlation.
+                        Pearson correlation of annual average prices over the selected window.
+                        +1 = move together perfectly, −1 = move oppositely.
                     </p>
                     <div className="overflow-x-auto">
                         <table className="w-full">
