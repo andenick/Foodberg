@@ -1,8 +1,8 @@
 {
-  "_comment": "Canonical Heterodata ecosystem manifest. Single source for the header ecosystem switcher, the heterodata.org hub cards, the nickanderson.us ecosystem section, and the link-graph reciprocity check. Kit v1.2 (Heterodata rebrand). Sites: Hub first, then alphabetical by title; each site lists its detailed subpages for the dropdown.",
-  "version": "2.0",
-  "kit_version": "1.2",
-  "updated": "2026-06-11",
+  "_comment": "Canonical Heterodata ecosystem manifest. Single source for the header ecosystem switcher, the heterodata.org hub cards, the nickanderson.us ecosystem section, and the link-graph reciprocity check. Kit v1.3 (adds Files site, data.freenic bulk link, scrubbed taglines). Sites: Hub first, then alphabetical by title; each site lists its detailed subpages for the dropdown. A page path may be an absolute URL.",
+  "version": "2.1",
+  "kit_version": "1.3",
+  "updated": "2026-06-12",
   "brand": { "lead": "Heterodata", "tagline": "An Arcanum Research project" },
   "anchors": {
     "hub":    { "name": "Heterodata", "url": "https://heterodata.org", "role": "Research hub — front door to the data tools" },
@@ -16,12 +16,18 @@
         { "label": "Data", "path": "/#data" },
         { "label": "Methodology", "path": "/#methodology" }
       ] },
-    { "key": "freenic", "title": "freenic", "display": "freenic.org", "url": "https://freenic.org", "accent": "#64748b", "status": "live", "draft": true,
-      "tagline": "Bank-level financial data explorer — a DRAFT slice over failures, FRED series, and active institutions.",
+    { "key": "files", "title": "Files", "display": "files.heterodata.org", "url": "https://files.heterodata.org", "accent": "#0369a1", "status": "live",
+      "tagline": "Plain static downloads — public dataset releases served as browsable files with checksums.",
+      "pages": [
+        { "label": "Browse", "path": "/" }
+      ] },
+    { "key": "freenic", "title": "FreeNIC", "display": "freenic.org", "url": "https://freenic.org", "accent": "#64748b", "status": "live", "draft": true,
+      "tagline": "Bank-level financial data explorer — a DRAFT slice over failures, FRED series, and active institutions; full 13 GB parquet release at data.freenic.org.",
       "pages": [
         { "label": "Explore", "path": "/explorer" },
         { "label": "Query", "path": "/query" },
         { "label": "Data", "path": "/data" },
+        { "label": "Bulk data", "path": "https://data.freenic.org/" },
         { "label": "Code", "path": "/code" },
         { "label": "Methodology", "path": "/methodology" }
       ] },
@@ -99,7 +105,7 @@
         { "label": "RMWND — Data", "path": "/rmwnd/download" }
       ] },
     { "key": "volcker", "title": "Volcker", "display": "volcker.org", "url": "https://volcker.org", "accent": "#b8860b", "status": "live",
-      "tagline": "Banking and financial-history research — the Correia replication, a bank-failure taxonomy, and the NickyData panels.",
+      "tagline": "Banking and financial-history research — the Correia replication, a bank-failure taxonomy, and 161 years of US bank-failure panels.",
       "pages": [
         { "label": "Explore", "path": "/explorer" },
         { "label": "Studies", "path": "/studies" },

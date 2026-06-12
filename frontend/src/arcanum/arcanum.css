@@ -1,5 +1,8 @@
 /* =============================================================================
-   Arcanum Site Kit (ASK) — arcanum.css — v1.2 (Heterodata rebrand)
+   Arcanum Site Kit (ASK) — arcanum.css — v1.3
+   v1.3 (2026-06-12): header-density breakpoint (≤1100px) so 9-10-item navs
+   don't wrap the theme toggle onto a second row; no token changes.
+   v1.2 (Heterodata rebrand)
    The single, vendored, versioned design system for Arcanum Research sites.
    ONE visual identity across ~12 sites; themeable per-site by ONE accent color.
 
@@ -392,13 +395,17 @@ code, kbd, samp, pre { font-family: var(--ark-mono); }
   font-size: var(--ark-text-xs); text-transform: uppercase; letter-spacing: .06em;
   color: var(--ark-fg-dim); margin-right: var(--ark-space-2);
 }
-.ark-download a {
+/* v1.3 FIX: scope the outline-chip style to plain links only. The previous
+   `.ark-download a` selector (0,1,1) beat `.ark-btn` (0,1,0) and repainted the
+   ArkDownloads.buttons() chips' text in the accent color ON the accent fill —
+   invisible labels in production (gerhard, lewis). */
+.ark-download a:not(.ark-btn) {
   display: inline-block; font-size: .76rem; font-family: var(--ark-mono);
   border: 1px solid var(--ark-line); border-radius: var(--ark-radius-sm);
   padding: .25rem .6rem; color: var(--ark-accent); text-decoration: none;
   transition: background .12s, color .12s, border-color .12s;
 }
-.ark-download a:hover { background: var(--ark-accent); color: var(--ark-on-accent); border-color: var(--ark-accent); }
+.ark-download a:not(.ark-btn):hover { background: var(--ark-accent); color: var(--ark-on-accent); border-color: var(--ark-accent); }
 
 /* -----------------------------------------------------------------------------
    8. DATA TABLE
@@ -562,6 +569,16 @@ code, kbd, samp, pre { font-family: var(--ark-mono); }
 /* -----------------------------------------------------------------------------
    14. RESPONSIVE
    --------------------------------------------------------------------------- */
+/* v1.3: density step — keep long navs (9-10 items) on one header row before
+   the full mobile stack kicks in; prevents the theme toggle wrapping onto a
+   second row that overlaps content under the translucent sticky header. */
+@media (max-width: 1100px) {
+  .ark-header-inner { gap: var(--ark-space-2) var(--ark-space-3); }
+  .ark-nav { gap: .65rem; }
+  .ark-nav-a { font-size: .85rem; }
+  .ark-brand .ark-brand-sub { display: none; }
+}
+
 @media (max-width: 680px) {
   .ark-header-inner { gap: .6rem .9rem; }
   .ark-site-title { padding-left: .7rem; }

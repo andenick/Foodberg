@@ -170,7 +170,7 @@ export const ArcanumSwitcher: React.FC<{
   const author = ecosystem?.anchors?.author ?? AUTHOR;
   return (
     <details className="ark-switcher">
-      <summary aria-label="Switch site within the Arcanum Research ecosystem">
+      <summary aria-label="Switch site within the Heterodata ecosystem">
         <span>{siteTitle || "Ecosystem"}</span>
         <span className="ark-caret" aria-hidden="true">&#9662;</span>
       </summary>
@@ -207,7 +207,8 @@ export const ArcanumSwitcher: React.FC<{
                   <a
                     key={p.path}
                     className="ark-si-sub"
-                    href={s.url.replace(/\/$/, "") + p.path}
+                    /* v1.3: a page path may be an absolute URL (e.g. data.freenic.org) */
+                    href={/^https?:/.test(p.path) ? p.path : s.url.replace(/\/$/, "") + p.path}
                     role="menuitem"
                   >
                     <span className="ark-si-sub-label">{p.label}</span>
