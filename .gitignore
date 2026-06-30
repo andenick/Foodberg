@@ -71,8 +71,12 @@ htmlcov/
 
 # Misc
 *.bak
+*.bak-*
 *.tmp
 .vercel
+
+# Editor/migration backup artifacts (do not commit)
+**/.migration-backup-*/
 
 # Next.js
 .next/

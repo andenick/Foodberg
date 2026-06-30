@@ -1,4 +1,0 @@
-/* Arcanum Site Kit v1 — theme: foodberg (Foodberg)
-   Link AFTER arcanum.css. The ONLY visual override a site needs. */
-:root{--ark-accent:#ea580c;--ark-accent-soft:#472313;}
-@media (prefers-color-scheme: light){:root{--ark-accent:#ea580c;--ark-accent-soft:#fce4d8;}}

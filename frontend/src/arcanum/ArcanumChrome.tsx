@@ -3,12 +3,10 @@
    <ArcanumChrome/> — header + ecosystem switcher + the MANDATED dual-anchor
    footer for React/Vite stacks: Foodberg (and Westchester, coordinated).
 
-   v1.2 (Heterodata rebrand): Heterodata brand + "An Arcanum Research project"
-   sub; "Architect" author anchor; Hub-first switcher rendering every site in
-   manifest order (ecosystem.json v2) with detailed indented `pages` sub-links
-   and an "Affiliated" tag for externally-owned sites (jjmuni). Aligned to the
-   canonical kit partial at
-   Council/Carson/Technical/deploy/_shared/arcanum-site-kit/v1/partials/ReactChrome.tsx.
+   v1.2 (Heterodata rebrand): Heterodata brand; Hub-first switcher rendering
+   every site in manifest order (ecosystem.json v2) with detailed indented
+   `pages` sub-links and an "Affiliated" tag for externally-owned sites
+   (jjmuni). Synced from the shared site kit partial.
 
    No external/CDN calls (offline rule): import the vendored CSS, and either
    pass the ecosystem object as a prop or import the vendored ecosystem.json.
