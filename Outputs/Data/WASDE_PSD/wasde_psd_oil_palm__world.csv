@@ -1,0 +1,757 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Oil, Palm",World,1964,Area Harvested,(1000 HA),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Area Harvested,(1000 HA),0.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Area Harvested,(1000 HA),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Area Harvested,(1000 HA),90.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Area Harvested,(1000 HA),90.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Area Harvested,(1000 HA),100.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Area Harvested,(1000 HA),95.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Area Harvested,(1000 HA),100.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Area Harvested,(1000 HA),100.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Area Harvested,(1000 HA),110.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Area Harvested,(1000 HA),142.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Area Harvested,(1000 HA),521.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Area Harvested,(1000 HA),603.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Area Harvested,(1000 HA),711.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Area Harvested,(1000 HA),815.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Area Harvested,(1000 HA),890.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Area Harvested,(1000 HA),1027.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Area Harvested,(1000 HA),1113.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Area Harvested,(1000 HA),1187.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Area Harvested,(1000 HA),3655.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Area Harvested,(1000 HA),3800.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Area Harvested,(1000 HA),3974.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Area Harvested,(1000 HA),4211.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Area Harvested,(1000 HA),4452.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Area Harvested,(1000 HA),5238.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Area Harvested,(1000 HA),4925.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Area Harvested,(1000 HA),5168.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Area Harvested,(1000 HA),5407.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Area Harvested,(1000 HA),5541.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Area Harvested,(1000 HA),5822.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Area Harvested,(1000 HA),7697.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Area Harvested,(1000 HA),8046.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Area Harvested,(1000 HA),8556.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Area Harvested,(1000 HA),6436.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Area Harvested,(1000 HA),6926.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Area Harvested,(1000 HA),9858.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Area Harvested,(1000 HA),10096.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Area Harvested,(1000 HA),10618.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Area Harvested,(1000 HA),11134.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Area Harvested,(1000 HA),11773.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Area Harvested,(1000 HA),12443.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Area Harvested,(1000 HA),13209.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Area Harvested,(1000 HA),13795.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Area Harvested,(1000 HA),14318.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Area Harvested,(1000 HA),15199.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Area Harvested,(1000 HA),16022.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Area Harvested,(1000 HA),17024.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Area Harvested,(1000 HA),18031.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Area Harvested,(1000 HA),18663.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Area Harvested,(1000 HA),19552.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Area Harvested,(1000 HA),20390.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Area Harvested,(1000 HA),21491.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Area Harvested,(1000 HA),22645.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Area Harvested,(1000 HA),23660.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Area Harvested,(1000 HA),24114.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Area Harvested,(1000 HA),24596.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Area Harvested,(1000 HA),24913.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Area Harvested,(1000 HA),25495.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Area Harvested,(1000 HA),26609.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Area Harvested,(1000 HA),26923.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Area Harvested,(1000 HA),27553.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Area Harvested,(1000 HA),27640.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Area Harvested,(1000 HA),27721.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Beginning Stocks,(1000 MT),47.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Beginning Stocks,(1000 MT),53.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Beginning Stocks,(1000 MT),49.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Beginning Stocks,(1000 MT),85.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Beginning Stocks,(1000 MT),75.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Beginning Stocks,(1000 MT),47.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Beginning Stocks,(1000 MT),84.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Beginning Stocks,(1000 MT),97.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Beginning Stocks,(1000 MT),141.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Beginning Stocks,(1000 MT),113.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Beginning Stocks,(1000 MT),236.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Beginning Stocks,(1000 MT),298.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Beginning Stocks,(1000 MT),319.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Beginning Stocks,(1000 MT),324.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Beginning Stocks,(1000 MT),470.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Beginning Stocks,(1000 MT),610.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Beginning Stocks,(1000 MT),609.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Beginning Stocks,(1000 MT),495.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Beginning Stocks,(1000 MT),770.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Beginning Stocks,(1000 MT),549.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Beginning Stocks,(1000 MT),843.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Beginning Stocks,(1000 MT),1035.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Beginning Stocks,(1000 MT),1463.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Beginning Stocks,(1000 MT),1372.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Beginning Stocks,(1000 MT),1412.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Beginning Stocks,(1000 MT),1619.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Beginning Stocks,(1000 MT),1699.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Beginning Stocks,(1000 MT),1424.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Beginning Stocks,(1000 MT),1469.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Beginning Stocks,(1000 MT),1786.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Beginning Stocks,(1000 MT),1316.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Beginning Stocks,(1000 MT),1468.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Beginning Stocks,(1000 MT),1830.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Beginning Stocks,(1000 MT),2048.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Beginning Stocks,(1000 MT),1813.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Beginning Stocks,(1000 MT),2663.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Beginning Stocks,(1000 MT),2943.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Beginning Stocks,(1000 MT),3357.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Beginning Stocks,(1000 MT),3398.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Beginning Stocks,(1000 MT),3827.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Beginning Stocks,(1000 MT),4658.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Beginning Stocks,(1000 MT),4884.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Beginning Stocks,(1000 MT),5606.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Beginning Stocks,(1000 MT),6225.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Beginning Stocks,(1000 MT),6170.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Beginning Stocks,(1000 MT),6312.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Beginning Stocks,(1000 MT),6519.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Beginning Stocks,(1000 MT),8504.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Beginning Stocks,(1000 MT),9589.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Beginning Stocks,(1000 MT),9502.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Beginning Stocks,(1000 MT),9656.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Beginning Stocks,(1000 MT),10872.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Beginning Stocks,(1000 MT),8653.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Beginning Stocks,(1000 MT),10462.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Beginning Stocks,(1000 MT),13027.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Beginning Stocks,(1000 MT),14846.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Beginning Stocks,(1000 MT),15904.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Beginning Stocks,(1000 MT),15155.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Beginning Stocks,(1000 MT),16825.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Beginning Stocks,(1000 MT),16993.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Beginning Stocks,(1000 MT),15982.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Beginning Stocks,(1000 MT),14984.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Beginning Stocks,(1000 MT),15419.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Domestic Consumption,(1000 MT),1191.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Domestic Consumption,(1000 MT),1258.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Domestic Consumption,(1000 MT),1156.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Domestic Consumption,(1000 MT),1319.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Domestic Consumption,(1000 MT),1530.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Domestic Consumption,(1000 MT),1582.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Domestic Consumption,(1000 MT),1799.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Domestic Consumption,(1000 MT),1933.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Domestic Consumption,(1000 MT),2232.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Domestic Consumption,(1000 MT),2158.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Domestic Consumption,(1000 MT),2701.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Domestic Consumption,(1000 MT),2862.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Domestic Consumption,(1000 MT),3333.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Domestic Consumption,(1000 MT),3350.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Domestic Consumption,(1000 MT),3897.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Domestic Consumption,(1000 MT),4332.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Domestic Consumption,(1000 MT),4763.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Domestic Consumption,(1000 MT),5304.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Domestic Consumption,(1000 MT),5776.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Domestic Consumption,(1000 MT),5682.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Domestic Consumption,(1000 MT),6287.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Domestic Consumption,(1000 MT),7578.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Domestic Consumption,(1000 MT),7803.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Domestic Consumption,(1000 MT),8263.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Domestic Consumption,(1000 MT),9248.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Domestic Consumption,(1000 MT),10437.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Domestic Consumption,(1000 MT),11155.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Domestic Consumption,(1000 MT),11136.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Domestic Consumption,(1000 MT),11963.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Domestic Consumption,(1000 MT),13558.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Domestic Consumption,(1000 MT),14044.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Domestic Consumption,(1000 MT),15223.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Domestic Consumption,(1000 MT),16992.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Domestic Consumption,(1000 MT),16681.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Domestic Consumption,(1000 MT),17755.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Domestic Consumption,(1000 MT),19794.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Domestic Consumption,(1000 MT),22486.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Domestic Consumption,(1000 MT),22919.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Domestic Consumption,(1000 MT),26024.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Domestic Consumption,(1000 MT),28079.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Domestic Consumption,(1000 MT),31119.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Domestic Consumption,(1000 MT),32496.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Domestic Consumption,(1000 MT),34671.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Domestic Consumption,(1000 MT),38733.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Domestic Consumption,(1000 MT),42195.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Domestic Consumption,(1000 MT),43751.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Domestic Consumption,(1000 MT),45349.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Domestic Consumption,(1000 MT),49549.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Domestic Consumption,(1000 MT),55086.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Domestic Consumption,(1000 MT),57428.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Domestic Consumption,(1000 MT),57763.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Domestic Consumption,(1000 MT),59272.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Domestic Consumption,(1000 MT),60714.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Domestic Consumption,(1000 MT),65572.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Domestic Consumption,(1000 MT),70988.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Domestic Consumption,(1000 MT),71081.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Domestic Consumption,(1000 MT),72630.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Domestic Consumption,(1000 MT),69683.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Domestic Consumption,(1000 MT),73823.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Domestic Consumption,(1000 MT),75054.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Domestic Consumption,(1000 MT),76181.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Domestic Consumption,(1000 MT),78438.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Domestic Consumption,(1000 MT),79572.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Ending Stocks,(1000 MT),49.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Ending Stocks,(1000 MT),49.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Ending Stocks,(1000 MT),85.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Ending Stocks,(1000 MT),75.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Ending Stocks,(1000 MT),47.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Ending Stocks,(1000 MT),84.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Ending Stocks,(1000 MT),97.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Ending Stocks,(1000 MT),141.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Ending Stocks,(1000 MT),113.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Ending Stocks,(1000 MT),236.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Ending Stocks,(1000 MT),298.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Ending Stocks,(1000 MT),319.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Ending Stocks,(1000 MT),324.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Ending Stocks,(1000 MT),470.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Ending Stocks,(1000 MT),614.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Ending Stocks,(1000 MT),609.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Ending Stocks,(1000 MT),495.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Ending Stocks,(1000 MT),770.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Ending Stocks,(1000 MT),549.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Ending Stocks,(1000 MT),843.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Ending Stocks,(1000 MT),1035.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Ending Stocks,(1000 MT),1463.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Ending Stocks,(1000 MT),1372.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Ending Stocks,(1000 MT),1412.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Ending Stocks,(1000 MT),1619.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Ending Stocks,(1000 MT),1699.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Ending Stocks,(1000 MT),1424.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Ending Stocks,(1000 MT),1469.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Ending Stocks,(1000 MT),1786.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Ending Stocks,(1000 MT),1316.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Ending Stocks,(1000 MT),1468.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Ending Stocks,(1000 MT),1830.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Ending Stocks,(1000 MT),2048.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Ending Stocks,(1000 MT),1813.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Ending Stocks,(1000 MT),2706.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Ending Stocks,(1000 MT),2943.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Ending Stocks,(1000 MT),3357.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Ending Stocks,(1000 MT),3398.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Ending Stocks,(1000 MT),3827.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Ending Stocks,(1000 MT),4658.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Ending Stocks,(1000 MT),4884.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Ending Stocks,(1000 MT),5606.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Ending Stocks,(1000 MT),6225.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Ending Stocks,(1000 MT),6170.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Ending Stocks,(1000 MT),6312.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Ending Stocks,(1000 MT),6519.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Ending Stocks,(1000 MT),8504.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Ending Stocks,(1000 MT),9589.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Ending Stocks,(1000 MT),9502.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Ending Stocks,(1000 MT),9656.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Ending Stocks,(1000 MT),10872.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Ending Stocks,(1000 MT),8703.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Ending Stocks,(1000 MT),10462.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Ending Stocks,(1000 MT),13027.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Ending Stocks,(1000 MT),14846.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Ending Stocks,(1000 MT),15904.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Ending Stocks,(1000 MT),15155.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Ending Stocks,(1000 MT),16825.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Ending Stocks,(1000 MT),16993.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Ending Stocks,(1000 MT),15982.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Ending Stocks,(1000 MT),14984.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Ending Stocks,(1000 MT),15419.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Ending Stocks,(1000 MT),14933.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Exports,(1000 MT),600.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Exports,(1000 MT),684.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Exports,(1000 MT),561.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Exports,(1000 MT),722.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Exports,(1000 MT),837.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Exports,(1000 MT),911.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Exports,(1000 MT),1236.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Exports,(1000 MT),1379.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Exports,(1000 MT),1512.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Exports,(1000 MT),1693.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Exports,(1000 MT),1938.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Exports,(1000 MT),2206.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Exports,(1000 MT),2359.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Exports,(1000 MT),2444.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Exports,(1000 MT),2935.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Exports,(1000 MT),3648.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Exports,(1000 MT),3387.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Exports,(1000 MT),3885.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Exports,(1000 MT),4079.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Exports,(1000 MT),4144.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Exports,(1000 MT),5383.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Exports,(1000 MT),6058.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Exports,(1000 MT),5756.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Exports,(1000 MT),6094.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Exports,(1000 MT),6754.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Exports,(1000 MT),8025.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Exports,(1000 MT),8461.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Exports,(1000 MT),8506.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Exports,(1000 MT),9353.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Exports,(1000 MT),10588.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Exports,(1000 MT),10434.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Exports,(1000 MT),10596.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Exports,(1000 MT),11931.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Exports,(1000 MT),10835.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Exports,(1000 MT),12433.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Exports,(1000 MT),14114.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Exports,(1000 MT),16599.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Exports,(1000 MT),17952.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Exports,(1000 MT),20250.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Exports,(1000 MT),22536.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Exports,(1000 MT),25774.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Exports,(1000 MT),27896.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Exports,(1000 MT),28386.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Exports,(1000 MT),32487.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Exports,(1000 MT),35003.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Exports,(1000 MT),36282.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Exports,(1000 MT),37120.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Exports,(1000 MT),39727.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Exports,(1000 MT),43000.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Exports,(1000 MT),43092.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Exports,(1000 MT),47326.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Exports,(1000 MT),43750.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Exports,(1000 MT),48944.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Exports,(1000 MT),48730.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Exports,(1000 MT),51545.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Exports,(1000 MT),48358.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Exports,(1000 MT),48553.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Exports,(1000 MT),43878.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Exports,(1000 MT),49367.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Exports,(1000 MT),44410.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Exports,(1000 MT),45018.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Exports,(1000 MT),45762.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Exports,(1000 MT),45658.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Feed Waste Dom. Cons.,(1000 MT),2.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Feed Waste Dom. Cons.,(1000 MT),3.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Feed Waste Dom. Cons.,(1000 MT),3.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Feed Waste Dom. Cons.,(1000 MT),3.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Feed Waste Dom. Cons.,(1000 MT),3.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Feed Waste Dom. Cons.,(1000 MT),3.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Feed Waste Dom. Cons.,(1000 MT),3.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Feed Waste Dom. Cons.,(1000 MT),3.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Feed Waste Dom. Cons.,(1000 MT),8.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Feed Waste Dom. Cons.,(1000 MT),0.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Feed Waste Dom. Cons.,(1000 MT),0.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Feed Waste Dom. Cons.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Feed Waste Dom. Cons.,(1000 MT),1.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Feed Waste Dom. Cons.,(1000 MT),3.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Feed Waste Dom. Cons.,(1000 MT),3.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Feed Waste Dom. Cons.,(1000 MT),21.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Feed Waste Dom. Cons.,(1000 MT),15.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Feed Waste Dom. Cons.,(1000 MT),85.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Feed Waste Dom. Cons.,(1000 MT),197.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Feed Waste Dom. Cons.,(1000 MT),171.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Feed Waste Dom. Cons.,(1000 MT),128.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Feed Waste Dom. Cons.,(1000 MT),148.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Feed Waste Dom. Cons.,(1000 MT),234.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Feed Waste Dom. Cons.,(1000 MT),187.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Feed Waste Dom. Cons.,(1000 MT),200.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Feed Waste Dom. Cons.,(1000 MT),218.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Feed Waste Dom. Cons.,(1000 MT),258.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Feed Waste Dom. Cons.,(1000 MT),230.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Feed Waste Dom. Cons.,(1000 MT),230.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Feed Waste Dom. Cons.,(1000 MT),209.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Feed Waste Dom. Cons.,(1000 MT),196.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Feed Waste Dom. Cons.,(1000 MT),232.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Feed Waste Dom. Cons.,(1000 MT),261.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Feed Waste Dom. Cons.,(1000 MT),216.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Feed Waste Dom. Cons.,(1000 MT),229.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Feed Waste Dom. Cons.,(1000 MT),304.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Feed Waste Dom. Cons.,(1000 MT),475.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Feed Waste Dom. Cons.,(1000 MT),529.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Feed Waste Dom. Cons.,(1000 MT),533.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Feed Waste Dom. Cons.,(1000 MT),515.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Feed Waste Dom. Cons.,(1000 MT),539.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Feed Waste Dom. Cons.,(1000 MT),541.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Feed Waste Dom. Cons.,(1000 MT),506.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Feed Waste Dom. Cons.,(1000 MT),571.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Feed Waste Dom. Cons.,(1000 MT),651.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Feed Waste Dom. Cons.,(1000 MT),596.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Feed Waste Dom. Cons.,(1000 MT),567.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Feed Waste Dom. Cons.,(1000 MT),648.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Feed Waste Dom. Cons.,(1000 MT),648.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Feed Waste Dom. Cons.,(1000 MT),635.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Feed Waste Dom. Cons.,(1000 MT),635.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Feed Waste Dom. Cons.,(1000 MT),698.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Feed Waste Dom. Cons.,(1000 MT),668.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Feed Waste Dom. Cons.,(1000 MT),686.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Feed Waste Dom. Cons.,(1000 MT),692.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Feed Waste Dom. Cons.,(1000 MT),705.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Feed Waste Dom. Cons.,(1000 MT),650.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Feed Waste Dom. Cons.,(1000 MT),654.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Feed Waste Dom. Cons.,(1000 MT),662.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Feed Waste Dom. Cons.,(1000 MT),629.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Feed Waste Dom. Cons.,(1000 MT),993.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Feed Waste Dom. Cons.,(1000 MT),855.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Feed Waste Dom. Cons.,(1000 MT),835.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Food Use Dom. Cons.,(1000 MT),1098.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Food Use Dom. Cons.,(1000 MT),1160.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Food Use Dom. Cons.,(1000 MT),1070.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Food Use Dom. Cons.,(1000 MT),1210.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Food Use Dom. Cons.,(1000 MT),1409.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Food Use Dom. Cons.,(1000 MT),1448.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Food Use Dom. Cons.,(1000 MT),1665.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Food Use Dom. Cons.,(1000 MT),1647.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Food Use Dom. Cons.,(1000 MT),1911.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Food Use Dom. Cons.,(1000 MT),1865.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Food Use Dom. Cons.,(1000 MT),2571.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Food Use Dom. Cons.,(1000 MT),2731.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Food Use Dom. Cons.,(1000 MT),3166.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Food Use Dom. Cons.,(1000 MT),3321.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Food Use Dom. Cons.,(1000 MT),3840.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Food Use Dom. Cons.,(1000 MT),4090.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Food Use Dom. Cons.,(1000 MT),4677.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Food Use Dom. Cons.,(1000 MT),4990.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Food Use Dom. Cons.,(1000 MT),5011.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Food Use Dom. Cons.,(1000 MT),5000.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Food Use Dom. Cons.,(1000 MT),5439.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Food Use Dom. Cons.,(1000 MT),6246.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Food Use Dom. Cons.,(1000 MT),6509.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Food Use Dom. Cons.,(1000 MT),6800.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Food Use Dom. Cons.,(1000 MT),7509.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Food Use Dom. Cons.,(1000 MT),8352.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Food Use Dom. Cons.,(1000 MT),9007.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Food Use Dom. Cons.,(1000 MT),8952.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Food Use Dom. Cons.,(1000 MT),9503.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Food Use Dom. Cons.,(1000 MT),10896.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Food Use Dom. Cons.,(1000 MT),11515.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Food Use Dom. Cons.,(1000 MT),12316.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Food Use Dom. Cons.,(1000 MT),13951.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Food Use Dom. Cons.,(1000 MT),13779.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Food Use Dom. Cons.,(1000 MT),14718.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Food Use Dom. Cons.,(1000 MT),16595.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Food Use Dom. Cons.,(1000 MT),18732.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Food Use Dom. Cons.,(1000 MT),18905.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Food Use Dom. Cons.,(1000 MT),21152.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Food Use Dom. Cons.,(1000 MT),22465.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Food Use Dom. Cons.,(1000 MT),24342.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Food Use Dom. Cons.,(1000 MT),25015.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Food Use Dom. Cons.,(1000 MT),26598.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Food Use Dom. Cons.,(1000 MT),29314.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Food Use Dom. Cons.,(1000 MT),31914.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Food Use Dom. Cons.,(1000 MT),33258.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Food Use Dom. Cons.,(1000 MT),34146.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Food Use Dom. Cons.,(1000 MT),36441.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Food Use Dom. Cons.,(1000 MT),39772.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Food Use Dom. Cons.,(1000 MT),40584.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Food Use Dom. Cons.,(1000 MT),42778.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Food Use Dom. Cons.,(1000 MT),42163.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Food Use Dom. Cons.,(1000 MT),43321.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Food Use Dom. Cons.,(1000 MT),45007.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Food Use Dom. Cons.,(1000 MT),47501.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Food Use Dom. Cons.,(1000 MT),47197.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Food Use Dom. Cons.,(1000 MT),48386.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Food Use Dom. Cons.,(1000 MT),46065.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Food Use Dom. Cons.,(1000 MT),47876.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Food Use Dom. Cons.,(1000 MT),48082.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Food Use Dom. Cons.,(1000 MT),48470.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Food Use Dom. Cons.,(1000 MT),50115.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Food Use Dom. Cons.,(1000 MT),50877.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Imports,(1000 MT),551.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Imports,(1000 MT),650.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Imports,(1000 MT),596.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Imports,(1000 MT),672.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Imports,(1000 MT),811.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Imports,(1000 MT),834.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Imports,(1000 MT),1126.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Imports,(1000 MT),1298.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Imports,(1000 MT),1505.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Imports,(1000 MT),1416.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Imports,(1000 MT),1810.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Imports,(1000 MT),2037.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Imports,(1000 MT),2334.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Imports,(1000 MT),2349.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Imports,(1000 MT),2830.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Imports,(1000 MT),3319.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Imports,(1000 MT),3140.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Imports,(1000 MT),3692.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Imports,(1000 MT),3901.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Imports,(1000 MT),3998.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Imports,(1000 MT),5110.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Imports,(1000 MT),6070.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Imports,(1000 MT),5573.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Imports,(1000 MT),6091.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Imports,(1000 MT),6735.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Imports,(1000 MT),7692.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Imports,(1000 MT),8307.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Imports,(1000 MT),8214.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Imports,(1000 MT),8650.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Imports,(1000 MT),9985.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Imports,(1000 MT),9960.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Imports,(1000 MT),10048.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Imports,(1000 MT),11560.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Imports,(1000 MT),10384.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Imports,(1000 MT),12021.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Imports,(1000 MT),12403.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Imports,(1000 MT),15192.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Imports,(1000 MT),15600.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Imports,(1000 MT),19014.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Imports,(1000 MT),21418.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Imports,(1000 MT),23542.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Imports,(1000 MT),25138.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Imports,(1000 MT),26147.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Imports,(1000 MT),29837.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Imports,(1000 MT),33029.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Imports,(1000 MT),34048.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Imports,(1000 MT),35070.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Imports,(1000 MT),38048.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Imports,(1000 MT),41661.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Imports,(1000 MT),41479.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Imports,(1000 MT),44215.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Imports,(1000 MT),42102.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Imports,(1000 MT),45901.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Imports,(1000 MT),46278.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Imports,(1000 MT),50193.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Imports,(1000 MT),47130.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Imports,(1000 MT),46769.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Imports,(1000 MT),41911.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Imports,(1000 MT),46641.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Imports,(1000 MT),42359.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Imports,(1000 MT),41358.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Imports,(1000 MT),43364.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Imports,(1000 MT),43383.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Industrial Dom. Cons.,(1000 MT),41.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Industrial Dom. Cons.,(1000 MT),40.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Industrial Dom. Cons.,(1000 MT),41.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Industrial Dom. Cons.,(1000 MT),43.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Industrial Dom. Cons.,(1000 MT),46.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Industrial Dom. Cons.,(1000 MT),49.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Industrial Dom. Cons.,(1000 MT),53.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Industrial Dom. Cons.,(1000 MT),180.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Industrial Dom. Cons.,(1000 MT),198.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Industrial Dom. Cons.,(1000 MT),174.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Industrial Dom. Cons.,(1000 MT),8.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Industrial Dom. Cons.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Industrial Dom. Cons.,(1000 MT),29.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Industrial Dom. Cons.,(1000 MT),15.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Industrial Dom. Cons.,(1000 MT),46.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Industrial Dom. Cons.,(1000 MT),221.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Industrial Dom. Cons.,(1000 MT),71.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Industrial Dom. Cons.,(1000 MT),229.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Industrial Dom. Cons.,(1000 MT),568.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Industrial Dom. Cons.,(1000 MT),511.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Industrial Dom. Cons.,(1000 MT),720.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Industrial Dom. Cons.,(1000 MT),1184.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Industrial Dom. Cons.,(1000 MT),1060.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Industrial Dom. Cons.,(1000 MT),1276.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Industrial Dom. Cons.,(1000 MT),1539.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Industrial Dom. Cons.,(1000 MT),1867.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Industrial Dom. Cons.,(1000 MT),1890.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Industrial Dom. Cons.,(1000 MT),1954.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Industrial Dom. Cons.,(1000 MT),2230.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Industrial Dom. Cons.,(1000 MT),2453.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Industrial Dom. Cons.,(1000 MT),2333.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Industrial Dom. Cons.,(1000 MT),2675.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Industrial Dom. Cons.,(1000 MT),2780.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Industrial Dom. Cons.,(1000 MT),2686.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Industrial Dom. Cons.,(1000 MT),2808.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Industrial Dom. Cons.,(1000 MT),2895.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Industrial Dom. Cons.,(1000 MT),3279.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Industrial Dom. Cons.,(1000 MT),3485.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Industrial Dom. Cons.,(1000 MT),4339.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Industrial Dom. Cons.,(1000 MT),5099.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Industrial Dom. Cons.,(1000 MT),6238.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Industrial Dom. Cons.,(1000 MT),6940.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Industrial Dom. Cons.,(1000 MT),7567.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Industrial Dom. Cons.,(1000 MT),8848.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Industrial Dom. Cons.,(1000 MT),9630.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Industrial Dom. Cons.,(1000 MT),9897.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Industrial Dom. Cons.,(1000 MT),10636.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Industrial Dom. Cons.,(1000 MT),12460.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Industrial Dom. Cons.,(1000 MT),14666.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Industrial Dom. Cons.,(1000 MT),16209.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Industrial Dom. Cons.,(1000 MT),14350.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Industrial Dom. Cons.,(1000 MT),16411.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Industrial Dom. Cons.,(1000 MT),16725.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Industrial Dom. Cons.,(1000 MT),19879.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Industrial Dom. Cons.,(1000 MT),22795.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Industrial Dom. Cons.,(1000 MT),23179.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Industrial Dom. Cons.,(1000 MT),23594.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Industrial Dom. Cons.,(1000 MT),22964.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Industrial Dom. Cons.,(1000 MT),25285.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Industrial Dom. Cons.,(1000 MT),26343.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Industrial Dom. Cons.,(1000 MT),26718.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Industrial Dom. Cons.,(1000 MT),27468.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Industrial Dom. Cons.,(1000 MT),27860.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Production,(1000 MT),1243.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Production,(1000 MT),1288.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Production,(1000 MT),1158.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Production,(1000 MT),1359.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Production,(1000 MT),1529.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Production,(1000 MT),1696.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Production,(1000 MT),1922.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Production,(1000 MT),2058.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Production,(1000 MT),2211.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Production,(1000 MT),2558.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Production,(1000 MT),2891.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Production,(1000 MT),3052.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Production,(1000 MT),3363.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Production,(1000 MT),3591.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Production,(1000 MT),4146.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Production,(1000 MT),4660.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Production,(1000 MT),4896.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Production,(1000 MT),5772.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Production,(1000 MT),5733.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Production,(1000 MT),6122.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Production,(1000 MT),6752.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Production,(1000 MT),7994.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Production,(1000 MT),7895.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Production,(1000 MT),8306.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Production,(1000 MT),9474.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Production,(1000 MT),10850.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Production,(1000 MT),11034.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Production,(1000 MT),11473.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Production,(1000 MT),12983.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Production,(1000 MT),13691.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Production,(1000 MT),14670.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Production,(1000 MT),16133.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Production,(1000 MT),17581.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Production,(1000 MT),16897.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Production,(1000 MT),19060.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Production,(1000 MT),21785.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Production,(1000 MT),24307.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Production,(1000 MT),25312.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Production,(1000 MT),27689.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Production,(1000 MT),30028.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Production,(1000 MT),33577.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Production,(1000 MT),35976.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Production,(1000 MT),37529.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Production,(1000 MT),41328.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Production,(1000 MT),44311.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Production,(1000 MT),46192.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Production,(1000 MT),49384.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Production,(1000 MT),52313.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Production,(1000 MT),56338.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Production,(1000 MT),59195.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Production,(1000 MT),62090.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Production,(1000 MT),58751.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Production,(1000 MT),65566.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Production,(1000 MT),70589.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Production,(1000 MT),74159.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Production,(1000 MT),73367.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Production,(1000 MT),73665.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Production,(1000 MT),73320.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Production,(1000 MT),76717.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Production,(1000 MT),76094.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Production,(1000 MT),78843.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Production,(1000 MT),81271.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Production,(1000 MT),81361.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Total Distribution,(1000 MT),1840.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Total Distribution,(1000 MT),1991.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Total Distribution,(1000 MT),1802.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Total Distribution,(1000 MT),2116.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Total Distribution,(1000 MT),2414.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Total Distribution,(1000 MT),2577.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Total Distribution,(1000 MT),3132.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Total Distribution,(1000 MT),3453.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Total Distribution,(1000 MT),3857.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Total Distribution,(1000 MT),4087.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Total Distribution,(1000 MT),4937.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Total Distribution,(1000 MT),5387.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Total Distribution,(1000 MT),6016.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Total Distribution,(1000 MT),6264.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Total Distribution,(1000 MT),7446.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Total Distribution,(1000 MT),8589.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Total Distribution,(1000 MT),8645.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Total Distribution,(1000 MT),9959.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Total Distribution,(1000 MT),10404.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Total Distribution,(1000 MT),10669.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Total Distribution,(1000 MT),12705.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Total Distribution,(1000 MT),15099.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Total Distribution,(1000 MT),14931.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Total Distribution,(1000 MT),15769.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Total Distribution,(1000 MT),17621.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Total Distribution,(1000 MT),20161.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Total Distribution,(1000 MT),21040.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Total Distribution,(1000 MT),21111.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Total Distribution,(1000 MT),23102.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Total Distribution,(1000 MT),25462.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Total Distribution,(1000 MT),25946.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Total Distribution,(1000 MT),27649.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Total Distribution,(1000 MT),30971.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Total Distribution,(1000 MT),29329.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Total Distribution,(1000 MT),32894.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Total Distribution,(1000 MT),36851.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Total Distribution,(1000 MT),42442.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Total Distribution,(1000 MT),44269.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Total Distribution,(1000 MT),50101.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Total Distribution,(1000 MT),55273.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Total Distribution,(1000 MT),61777.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Total Distribution,(1000 MT),65998.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Total Distribution,(1000 MT),69282.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Total Distribution,(1000 MT),77390.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Total Distribution,(1000 MT),83510.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Total Distribution,(1000 MT),86552.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Total Distribution,(1000 MT),90973.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Total Distribution,(1000 MT),98865.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Total Distribution,(1000 MT),107588.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Total Distribution,(1000 MT),110176.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Total Distribution,(1000 MT),115961.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Total Distribution,(1000 MT),111725.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Total Distribution,(1000 MT),120120.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Total Distribution,(1000 MT),127329.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Total Distribution,(1000 MT),137379.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Total Distribution,(1000 MT),135343.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Total Distribution,(1000 MT),136338.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Total Distribution,(1000 MT),130386.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Total Distribution,(1000 MT),140183.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Total Distribution,(1000 MT),135446.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Total Distribution,(1000 MT),136183.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Total Distribution,(1000 MT),139619.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Total Distribution,(1000 MT),140163.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1964,Total Supply,(1000 MT),1841.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1965,Total Supply,(1000 MT),1991.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1966,Total Supply,(1000 MT),1803.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1967,Total Supply,(1000 MT),2116.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1968,Total Supply,(1000 MT),2415.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1969,Total Supply,(1000 MT),2577.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1970,Total Supply,(1000 MT),3132.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1971,Total Supply,(1000 MT),3453.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1972,Total Supply,(1000 MT),3857.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1973,Total Supply,(1000 MT),4087.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1974,Total Supply,(1000 MT),4937.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1975,Total Supply,(1000 MT),5387.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1976,Total Supply,(1000 MT),6016.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1977,Total Supply,(1000 MT),6264.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1978,Total Supply,(1000 MT),7446.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1979,Total Supply,(1000 MT),8589.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1980,Total Supply,(1000 MT),8645.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1981,Total Supply,(1000 MT),9959.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1982,Total Supply,(1000 MT),10404.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1983,Total Supply,(1000 MT),10669.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1984,Total Supply,(1000 MT),12705.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1985,Total Supply,(1000 MT),15099.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1986,Total Supply,(1000 MT),14931.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1987,Total Supply,(1000 MT),15769.0,1,78,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1988,Total Supply,(1000 MT),17621.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1989,Total Supply,(1000 MT),20161.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1990,Total Supply,(1000 MT),21040.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1991,Total Supply,(1000 MT),21111.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1992,Total Supply,(1000 MT),23102.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1993,Total Supply,(1000 MT),25462.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1994,Total Supply,(1000 MT),25946.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1995,Total Supply,(1000 MT),27649.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1996,Total Supply,(1000 MT),30971.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1997,Total Supply,(1000 MT),29329.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1998,Total Supply,(1000 MT),32894.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,1999,Total Supply,(1000 MT),36851.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2000,Total Supply,(1000 MT),42442.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2001,Total Supply,(1000 MT),44269.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2002,Total Supply,(1000 MT),50101.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2003,Total Supply,(1000 MT),55273.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2004,Total Supply,(1000 MT),61777.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2005,Total Supply,(1000 MT),65998.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2006,Total Supply,(1000 MT),69282.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2007,Total Supply,(1000 MT),77390.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2008,Total Supply,(1000 MT),83510.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2009,Total Supply,(1000 MT),86552.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2010,Total Supply,(1000 MT),90973.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2011,Total Supply,(1000 MT),98865.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2012,Total Supply,(1000 MT),107588.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2013,Total Supply,(1000 MT),110176.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2014,Total Supply,(1000 MT),115961.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2015,Total Supply,(1000 MT),111725.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2016,Total Supply,(1000 MT),120120.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2017,Total Supply,(1000 MT),127329.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2018,Total Supply,(1000 MT),137379.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2019,Total Supply,(1000 MT),135343.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2020,Total Supply,(1000 MT),136338.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2021,Total Supply,(1000 MT),130386.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2022,Total Supply,(1000 MT),140183.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2023,Total Supply,(1000 MT),135446.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2024,Total Supply,(1000 MT),136183.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2025,Total Supply,(1000 MT),139619.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Palm",World,2026,Total Supply,(1000 MT),140163.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

@@ -1,21 +1,35 @@
 # Foodberg — Historical Food Price Explorer
 
-**A full-stack web application for exploring historical food commodity prices, built with React and FastAPI. ~166,500 records from 5 public data sources (plus derived composite indices) covering 50+ agricultural commodities.**
+**🟢 LIVE AT [foodberg.org](https://foodberg.org)** — A full-stack web application for exploring historical food commodity prices, built with React and FastAPI. **745 MB SQLite database with ~1.3M+ records across USDA NASS history, World Bank Pink Sheet, FAO producer prices, and BLS retail data** covering 50+ agricultural commodities with honest coverage badges.
 
-> **Project state:** A historical food-price explorer that harmonizes public commodity data into a single SQLite database (~166,500 records) behind a React frontend and a FastAPI backend. It runs locally; it is not a deployed/hosted service. See the data-source table below for per-source record counts and provenance.
+> **Project state:** Deployed via Carson on a self-hosted Docker box behind Cloudflare Tunnel (FastAPI + Caddy → SPA). Data is acquired by Robin collectors, rebaked through `rebake_history.py`, and baked into the production Docker image. Multi-source Price Explorer with source-picker tabs; three-mode Geographic page (FAOSTAT producer, US state NASS, World Bank indicators); honest coverage badges — no fabricated trend lines.
 
 ---
 
 ## Why This Exists
 
-Understanding food prices requires combining data from scattered government sources (USDA, BLS, FAO, World Bank, FRED) into a single queryable interface. Foodberg harmonizes these into a SQLite database with a React frontend for interactive exploration — designed for researchers, journalists, and historically minded chefs who want to see the data behind the food system.
+Understanding food prices requires combining data from scattered government sources (USDA, BLS, FAO, World Bank) into a single queryable interface. Foodberg harmonizes these into a SQLite database with a React frontend for interactive exploration — designed for researchers, journalists, and historically minded chefs who want to see the data behind the food system.
+
+---
+
+## Architecture
+
+```
+Robin/DATA/*  ──►  rebake_history.py  ──►  foodberg.db  ──►  Docker image
+                                                          │
+Projects/Foodberg/frontend  ──npm build──►  dist/  ──────┤
+                                                          ▼
+                                              foodberg.org (Caddy → FastAPI + SPA)
+```
+
+Data is acquired offline by Robin collectors into `Council/Robin/DATA/` (NASS history, FAOSTAT bulk, Pink Sheet, BLS AP). The rebake script (`Council/Carson/Technical/deploy/foodberg/backend/database/rebake_history.py`) reads from Robin stores and produces `foodberg.db`, which is baked into the Docker image. No runtime API calls in production.
 
 ---
 
 ## Quick Start
 
 ```bash
-git clone https://github.com/andenick/Foodberg.git
+git clone https://github.com/<your-username>/Foodberg.git
 cd Foodberg
 
 # Backend
@@ -36,11 +50,11 @@ npm run dev                      # Starts on http://localhost:3000
 
 ## Features
 
-- **Food Price Index**: Composite indices for 6 food groups (meat, dairy, cereals, oils, sugar, produce) from FAO and BLS data, 1990–present
-- **Price Explorer**: Browse 50+ agricultural commodities from USDA WASDE data
-- **Geographic Comparison**: Compare prices across US states and regions
-- **Historical Trends**: Multi-commodity comparison with correlation analysis
-- **Live Terminal Prices**: USDA Market News API integration (requires `USDA_API_KEY`)
+- **Price Explorer**: Multi-source price browsing with source-picker tabs (NASS farm gate, global spot/Pink Sheet, BLS retail). Coverage badges and stat cards for thin series. CSV download per chart.
+- **Geographic Comparison**: Three-mode toggle — FAOSTAT producer prices by country, US state NASS prices, World Bank development indicators.
+- **Historical Trends**: Multi-commodity line charts; eligibility restricted to commodities with real multi-year history.
+- **Food Price Index**: Composite indices for 6 food groups (meat, dairy, cereals, oils, sugar, produce) from FAO and BLS data.
+- **Data Sources**: Database overview with per-source record counts and status cards.
 
 ---
 
@@ -48,12 +62,13 @@ npm run dev                      # Starts on http://localhost:3000
 
 | Source | Records | Coverage | Access |
 |--------|---------|----------|--------|
-| USDA WASDE | 147,369 | 50 US agricultural commodities (grains, livestock, dairy, fruits) | [USDA ERS](https://www.ers.usda.gov/data-products/wheat-data/) |
-| FRED | 10,290 | CPI, PPI, interest rates, economic indicators | [FRED API](https://fred.stlouisfed.org/docs/api/) |
-| BLS CPI | 840 | Food at Home, Food Away, 5 sub-components (2015–2025) | [BLS](https://www.bls.gov/cpi/) |
-| FAO | 2,586 | Global food price indices: meat, dairy, cereals, oils, sugar (1990–2025) | [FAO FPMA](https://www.fao.org/worldfoodsituation/foodpricesindex/) |
-| World Bank | 2,705 | Agricultural production/trade indicators for 9 countries | [WDI](https://data.worldbank.org/) |
-| Composite Indices | 2,715 | Computed from FAO + BLS data | Derived |
+| USDA NASS (history) | ~1.06M | 44 commodities, national + state prices, 1908–2026 | [USDA Quick Stats](https://quickstats.nass.usda.gov/) |
+| FAO FAOSTAT | ~167K | Producer prices by country + country food CPIs | [FAOSTAT Bulk](https://www.fao.org/faostat/en/#data/) |
+| World Bank Pink Sheet | ~49K | CMO monthly commodity prices | [World Bank CMO](https://www.worldbank.org/en/research/commodity-markets) |
+| BLS AP (retail) | ~20K | Average price series, monthly 1980–2026 | [BLS](https://www.bls.gov/cpi/) via FRED mirror |
+| World Bank WDI | ~3K | Development indicators | [WDI](https://data.worldbank.org/) |
+| USDA PSD | 192 MB | Supply & demand quantities (acquired, not surfaced in UI) | [USDA PSD](https://apps.fas.usda.gov/psdonline/) |
+| Composite Indices | ~3K | Computed from FAO + BLS data | Derived |
 
 ---
 
@@ -62,18 +77,20 @@ npm run dev                      # Starts on http://localhost:3000
 ```
 Foodberg/
 ├── README.md
-├── backend/                FastAPI server (24 GET endpoints)
+├── backend/                FastAPI server (project-local, lags deploy tree)
 │   ├── main.py             API endpoints
 │   ├── database/           SQLAlchemy models, importers
 │   ├── indices/            Composite index computation
 │   ├── data/               SQLite database (foodberg.db)
 │   └── data_sources/       API clients (FRED, FAO, World Bank, USDA)
-├── frontend/               React app
-│   └── src/pages/          7 pages (Home, Index, Explorer, Detail, Geographic, Trends, Sources)
-├── Inputs/                 Raw data (gitignored — re-downloadable from public APIs)
-├── Technical/              Processing scripts, docs, deployment configs
-└── Outputs/                Deliverables
+├── frontend/               React app (canonical source for frontend)
+│   └── src/pages/          9 pages (Home, PriceIndex, Explorer, Detail, Geographic, Trends, Sources, Downloads, SupplyDemand)
+├── Inputs/                 Raw data & ~802 acquired PDFs (gitignored)
+├── Technical/              Processing scripts, docs, progress log
+└── Outputs/                Deliverables (wishlists, PSD exports)
 ```
+
+> **Deploy tree (canonical production backend):** `Council/Carson/Technical/deploy/foodberg/backend/` — includes main.py, worldbank_client.py, rebake_history.py, and the baked `data/foodberg.db` (gitignored, in Docker image only).
 
 ---
 
@@ -83,8 +100,9 @@ Foodberg/
 |-------|-----------|
 | Frontend | React 19, TypeScript, Vite, Tailwind CSS, Recharts |
 | Backend | FastAPI, Python, SQLAlchemy |
-| Database | SQLite (~166.5K records) |
-| Deployment | Netlify (frontend) + Render (backend), all free tier |
+| Database | SQLite (~1.3M rows, 745 MB) |
+| Deployment | Docker + Caddy + Cloudflare Tunnel (self-hosted Carson box) |
+| Data Pipeline | Robin collectors → rebake_history.py → baked image |
 
 ---
 
@@ -92,7 +110,7 @@ Foodberg/
 
 - **Python 3.11+** — backend
 - **Node.js 18+** — frontend
-- **API keys** (optional) — `USDA_API_KEY` for live terminal prices, `FRED_API_KEY` for FRED data refresh
+- **API keys** (optional) — `USDA_NASS_API_KEY` for Robin NASS collector, `FRED_API_KEY` for FRED data refresh
 
 ---
 
@@ -103,7 +121,7 @@ Foodberg/
   title = {Foodberg: Historical Food Price Explorer},
   author = {Anderson, Nicholas},
   year = {2026},
-  url = {https://github.com/andenick/Foodberg}
+  url = {https://foodberg.org}
 }
 ```
 

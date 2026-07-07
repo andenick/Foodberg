@@ -1,0 +1,939 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+Sorghum,World,1960,Area Harvested,(1000 HA),40481.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Area Harvested,(1000 HA),42605.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Area Harvested,(1000 HA),44064.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Area Harvested,(1000 HA),43990.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Area Harvested,(1000 HA),42886.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Area Harvested,(1000 HA),45308.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Area Harvested,(1000 HA),45179.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Area Harvested,(1000 HA),47000.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Area Harvested,(1000 HA),45876.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Area Harvested,(1000 HA),48232.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Area Harvested,(1000 HA),47853.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Area Harvested,(1000 HA),46821.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Area Harvested,(1000 HA),42265.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Area Harvested,(1000 HA),47435.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Area Harvested,(1000 HA),45959.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Area Harvested,(1000 HA),47862.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Area Harvested,(1000 HA),47068.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Area Harvested,(1000 HA),46022.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Area Harvested,(1000 HA),45890.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Area Harvested,(1000 HA),45903.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Area Harvested,(1000 HA),45304.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Area Harvested,(1000 HA),48470.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Area Harvested,(1000 HA),47966.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Area Harvested,(1000 HA),46214.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Area Harvested,(1000 HA),44742.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Area Harvested,(1000 HA),47524.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Area Harvested,(1000 HA),45136.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Area Harvested,(1000 HA),42147.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Area Harvested,(1000 HA),42035.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Area Harvested,(1000 HA),41701.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Area Harvested,(1000 HA),38660.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Area Harvested,(1000 HA),39904.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Area Harvested,(1000 HA),43204.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Area Harvested,(1000 HA),39602.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Area Harvested,(1000 HA),42292.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Area Harvested,(1000 HA),41234.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Area Harvested,(1000 HA),45226.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Area Harvested,(1000 HA),41136.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Area Harvested,(1000 HA),40626.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Area Harvested,(1000 HA),39843.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Area Harvested,(1000 HA),41468.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Area Harvested,(1000 HA),43791.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Area Harvested,(1000 HA),40859.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Area Harvested,(1000 HA),43811.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Area Harvested,(1000 HA),39937.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Area Harvested,(1000 HA),45478.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Area Harvested,(1000 HA),42670.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Area Harvested,(1000 HA),44176.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Area Harvested,(1000 HA),44279.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Area Harvested,(1000 HA),40250.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Area Harvested,(1000 HA),40989.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Area Harvested,(1000 HA),41239.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Area Harvested,(1000 HA),38690.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Area Harvested,(1000 HA),42383.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Area Harvested,(1000 HA),43825.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Area Harvested,(1000 HA),40342.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Area Harvested,(1000 HA),42937.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Area Harvested,(1000 HA),40210.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Area Harvested,(1000 HA),41210.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Area Harvested,(1000 HA),39966.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Area Harvested,(1000 HA),39744.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Area Harvested,(1000 HA),40551.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Area Harvested,(1000 HA),40368.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Area Harvested,(1000 HA),39238.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Area Harvested,(1000 HA),39357.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Area Harvested,(1000 HA),39205.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Area Harvested,(1000 HA),40315.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,Beginning Stocks,(1000 MT),19076.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Beginning Stocks,(1000 MT),21891.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Beginning Stocks,(1000 MT),21715.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Beginning Stocks,(1000 MT),22943.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Beginning Stocks,(1000 MT),22454.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Beginning Stocks,(1000 MT),20156.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Beginning Stocks,(1000 MT),14475.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Beginning Stocks,(1000 MT),13073.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Beginning Stocks,(1000 MT),14974.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Beginning Stocks,(1000 MT),13780.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Beginning Stocks,(1000 MT),12123.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Beginning Stocks,(1000 MT),8046.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Beginning Stocks,(1000 MT),9263.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Beginning Stocks,(1000 MT),7285.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Beginning Stocks,(1000 MT),7656.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Beginning Stocks,(1000 MT),8977.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Beginning Stocks,(1000 MT),9310.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Beginning Stocks,(1000 MT),10147.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Beginning Stocks,(1000 MT),12844.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Beginning Stocks,(1000 MT),12660.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Beginning Stocks,(1000 MT),11512.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Beginning Stocks,(1000 MT),11571.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Beginning Stocks,(1000 MT),15547.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Beginning Stocks,(1000 MT),17403.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Beginning Stocks,(1000 MT),13949.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Beginning Stocks,(1000 MT),13737.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Beginning Stocks,(1000 MT),19083.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Beginning Stocks,(1000 MT),23324.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Beginning Stocks,(1000 MT),20007.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Beginning Stocks,(1000 MT),15973.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Beginning Stocks,(1000 MT),10228.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Beginning Stocks,(1000 MT),7652.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Beginning Stocks,(1000 MT),5869.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Beginning Stocks,(1000 MT),9511.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Beginning Stocks,(1000 MT),4190.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Beginning Stocks,(1000 MT),4271.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Beginning Stocks,(1000 MT),2890.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Beginning Stocks,(1000 MT),5339.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Beginning Stocks,(1000 MT),5045.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Beginning Stocks,(1000 MT),6363.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Beginning Stocks,(1000 MT),5228.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Beginning Stocks,(1000 MT),3928.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Beginning Stocks,(1000 MT),4875.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Beginning Stocks,(1000 MT),4489.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Beginning Stocks,(1000 MT),5553.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Beginning Stocks,(1000 MT),4849.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Beginning Stocks,(1000 MT),5125.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Beginning Stocks,(1000 MT),3855.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Beginning Stocks,(1000 MT),6178.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Beginning Stocks,(1000 MT),6144.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Beginning Stocks,(1000 MT),4523.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Beginning Stocks,(1000 MT),5556.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Beginning Stocks,(1000 MT),4273.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Beginning Stocks,(1000 MT),3582.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Beginning Stocks,(1000 MT),4635.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Beginning Stocks,(1000 MT),4954.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Beginning Stocks,(1000 MT),4511.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Beginning Stocks,(1000 MT),4813.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Beginning Stocks,(1000 MT),4382.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Beginning Stocks,(1000 MT),5193.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Beginning Stocks,(1000 MT),3724.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Beginning Stocks,(1000 MT),3835.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Beginning Stocks,(1000 MT),4248.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Beginning Stocks,(1000 MT),4011.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Beginning Stocks,(1000 MT),3940.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Beginning Stocks,(1000 MT),4730.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Beginning Stocks,(1000 MT),3792.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,Domestic Consumption,(1000 MT),37829.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Domestic Consumption,(1000 MT),38091.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Domestic Consumption,(1000 MT),40403.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Domestic Consumption,(1000 MT),43990.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Domestic Consumption,(1000 MT),43601.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Domestic Consumption,(1000 MT),50012.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Domestic Consumption,(1000 MT),52184.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Domestic Consumption,(1000 MT),51740.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Domestic Consumption,(1000 MT),52201.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Domestic Consumption,(1000 MT),55437.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Domestic Consumption,(1000 MT),58482.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Domestic Consumption,(1000 MT),57269.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Domestic Consumption,(1000 MT),54053.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Domestic Consumption,(1000 MT),63797.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Domestic Consumption,(1000 MT),58293.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Domestic Consumption,(1000 MT),61901.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Domestic Consumption,(1000 MT),61358.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Domestic Consumption,(1000 MT),60949.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Domestic Consumption,(1000 MT),64474.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Domestic Consumption,(1000 MT),63485.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Domestic Consumption,(1000 MT),57853.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Domestic Consumption,(1000 MT),66679.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Domestic Consumption,(1000 MT),63885.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Domestic Consumption,(1000 MT),62431.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Domestic Consumption,(1000 MT),65963.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Domestic Consumption,(1000 MT),65623.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Domestic Consumption,(1000 MT),60337.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Domestic Consumption,(1000 MT),59698.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Domestic Consumption,(1000 MT),59253.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Domestic Consumption,(1000 MT),60357.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Domestic Consumption,(1000 MT),56063.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Domestic Consumption,(1000 MT),55941.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Domestic Consumption,(1000 MT),61569.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Domestic Consumption,(1000 MT),61076.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Domestic Consumption,(1000 MT),57249.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Domestic Consumption,(1000 MT),56347.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Domestic Consumption,(1000 MT),67000.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Domestic Consumption,(1000 MT),57902.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Domestic Consumption,(1000 MT),59561.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Domestic Consumption,(1000 MT),59922.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Domestic Consumption,(1000 MT),57090.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Domestic Consumption,(1000 MT),58493.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Domestic Consumption,(1000 MT),54116.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Domestic Consumption,(1000 MT),59234.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Domestic Consumption,(1000 MT),58872.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Domestic Consumption,(1000 MT),58870.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Domestic Consumption,(1000 MT),57059.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Domestic Consumption,(1000 MT),64032.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Domestic Consumption,(1000 MT),63312.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Domestic Consumption,(1000 MT),57137.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Domestic Consumption,(1000 MT),59929.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Domestic Consumption,(1000 MT),55963.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Domestic Consumption,(1000 MT),55796.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Domestic Consumption,(1000 MT),58869.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Domestic Consumption,(1000 MT),65153.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Domestic Consumption,(1000 MT),62907.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Domestic Consumption,(1000 MT),61636.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Domestic Consumption,(1000 MT),56909.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Domestic Consumption,(1000 MT),57389.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Domestic Consumption,(1000 MT),57518.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Domestic Consumption,(1000 MT),60328.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Domestic Consumption,(1000 MT),60656.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Domestic Consumption,(1000 MT),57257.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Domestic Consumption,(1000 MT),58465.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Domestic Consumption,(1000 MT),62539.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Domestic Consumption,(1000 MT),61486.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Domestic Consumption,(1000 MT),62175.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,Ending Stocks,(1000 MT),21891.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Ending Stocks,(1000 MT),21715.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Ending Stocks,(1000 MT),22943.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Ending Stocks,(1000 MT),22454.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Ending Stocks,(1000 MT),20156.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Ending Stocks,(1000 MT),14475.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Ending Stocks,(1000 MT),13073.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Ending Stocks,(1000 MT),14974.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Ending Stocks,(1000 MT),13780.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Ending Stocks,(1000 MT),12123.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Ending Stocks,(1000 MT),8046.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Ending Stocks,(1000 MT),9263.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Ending Stocks,(1000 MT),7285.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Ending Stocks,(1000 MT),7656.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Ending Stocks,(1000 MT),8977.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Ending Stocks,(1000 MT),9310.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Ending Stocks,(1000 MT),10147.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Ending Stocks,(1000 MT),12844.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Ending Stocks,(1000 MT),12660.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Ending Stocks,(1000 MT),11512.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Ending Stocks,(1000 MT),11571.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Ending Stocks,(1000 MT),15547.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Ending Stocks,(1000 MT),17403.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Ending Stocks,(1000 MT),13949.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Ending Stocks,(1000 MT),13737.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Ending Stocks,(1000 MT),19083.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Ending Stocks,(1000 MT),23324.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Ending Stocks,(1000 MT),20007.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Ending Stocks,(1000 MT),15973.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Ending Stocks,(1000 MT),10228.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Ending Stocks,(1000 MT),7652.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Ending Stocks,(1000 MT),5869.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Ending Stocks,(1000 MT),9511.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Ending Stocks,(1000 MT),4190.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Ending Stocks,(1000 MT),4271.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Ending Stocks,(1000 MT),2890.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Ending Stocks,(1000 MT),5339.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Ending Stocks,(1000 MT),5045.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Ending Stocks,(1000 MT),6363.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Ending Stocks,(1000 MT),5228.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Ending Stocks,(1000 MT),3928.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Ending Stocks,(1000 MT),4875.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Ending Stocks,(1000 MT),4489.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Ending Stocks,(1000 MT),5553.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Ending Stocks,(1000 MT),4849.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Ending Stocks,(1000 MT),5125.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Ending Stocks,(1000 MT),3855.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Ending Stocks,(1000 MT),6178.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Ending Stocks,(1000 MT),6144.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Ending Stocks,(1000 MT),4523.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Ending Stocks,(1000 MT),5556.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Ending Stocks,(1000 MT),4273.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Ending Stocks,(1000 MT),3582.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Ending Stocks,(1000 MT),4635.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Ending Stocks,(1000 MT),4954.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Ending Stocks,(1000 MT),4511.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Ending Stocks,(1000 MT),4813.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Ending Stocks,(1000 MT),4382.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Ending Stocks,(1000 MT),5193.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Ending Stocks,(1000 MT),3724.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Ending Stocks,(1000 MT),3835.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Ending Stocks,(1000 MT),4248.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Ending Stocks,(1000 MT),4011.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Ending Stocks,(1000 MT),3940.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Ending Stocks,(1000 MT),4730.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Ending Stocks,(1000 MT),3792.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Ending Stocks,(1000 MT),3754.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,Exports,(1000 MT),2479.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Exports,(1000 MT),3179.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Exports,(1000 MT),3802.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Exports,(1000 MT),3753.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Exports,(1000 MT),4342.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Exports,(1000 MT),8309.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Exports,(1000 MT),7281.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Exports,(1000 MT),5845.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Exports,(1000 MT),4658.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Exports,(1000 MT),6118.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Exports,(1000 MT),7930.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Exports,(1000 MT),5037.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Exports,(1000 MT),8627.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Exports,(1000 MT),10587.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Exports,(1000 MT),9178.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Exports,(1000 MT),10758.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Exports,(1000 MT),11663.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Exports,(1000 MT),11376.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Exports,(1000 MT),9985.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Exports,(1000 MT),11418.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Exports,(1000 MT),14015.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Exports,(1000 MT),13808.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Exports,(1000 MT),11495.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Exports,(1000 MT),12393.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Exports,(1000 MT),12760.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Exports,(1000 MT),8716.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Exports,(1000 MT),7857.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Exports,(1000 MT),8342.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Exports,(1000 MT),10197.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Exports,(1000 MT),9397.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Exports,(1000 MT),7898.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Exports,(1000 MT),9278.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Exports,(1000 MT),9135.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Exports,(1000 MT),6709.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Exports,(1000 MT),6409.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Exports,(1000 MT),6686.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Exports,(1000 MT),6414.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Exports,(1000 MT),6980.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Exports,(1000 MT),6342.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Exports,(1000 MT),8521.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Exports,(1000 MT),7342.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Exports,(1000 MT),7116.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Exports,(1000 MT),5715.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Exports,(1000 MT),6539.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Exports,(1000 MT),5403.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Exports,(1000 MT),5378.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Exports,(1000 MT),5474.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Exports,(1000 MT),9829.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Exports,(1000 MT),6110.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Exports,(1000 MT),6623.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Exports,(1000 MT),6802.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Exports,(1000 MT),6547.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Exports,(1000 MT),5551.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Exports,(1000 MT),7685.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Exports,(1000 MT),12162.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Exports,(1000 MT),10569.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Exports,(1000 MT),7614.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Exports,(1000 MT),6593.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Exports,(1000 MT),3402.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Exports,(1000 MT),6518.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Exports,(1000 MT),11433.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Exports,(1000 MT),11789.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Exports,(1000 MT),6246.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Exports,(1000 MT),9868.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Exports,(1000 MT),6884.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Exports,(1000 MT),9762.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Exports,(1000 MT),9319.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,FSI Consumption,(1000 MT),21809.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,FSI Consumption,(1000 MT),22581.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,FSI Consumption,(1000 MT),24948.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,FSI Consumption,(1000 MT),24391.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,FSI Consumption,(1000 MT),23941.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,FSI Consumption,(1000 MT),24512.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,FSI Consumption,(1000 MT),24347.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,FSI Consumption,(1000 MT),26556.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,FSI Consumption,(1000 MT),25631.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,FSI Consumption,(1000 MT),27054.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,FSI Consumption,(1000 MT),26585.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,FSI Consumption,(1000 MT),25827.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,FSI Consumption,(1000 MT),23163.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,FSI Consumption,(1000 MT),27594.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,FSI Consumption,(1000 MT),30570.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,FSI Consumption,(1000 MT),30884.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,FSI Consumption,(1000 MT),28854.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,FSI Consumption,(1000 MT),28648.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,FSI Consumption,(1000 MT),28857.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,FSI Consumption,(1000 MT),29311.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,FSI Consumption,(1000 MT),26337.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,FSI Consumption,(1000 MT),28173.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,FSI Consumption,(1000 MT),26821.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,FSI Consumption,(1000 MT),25707.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,FSI Consumption,(1000 MT),26552.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,FSI Consumption,(1000 MT),25181.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,FSI Consumption,(1000 MT),24534.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,FSI Consumption,(1000 MT),24326.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,FSI Consumption,(1000 MT),25973.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,FSI Consumption,(1000 MT),28137.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,FSI Consumption,(1000 MT),26351.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,FSI Consumption,(1000 MT),23932.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,FSI Consumption,(1000 MT),28855.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,FSI Consumption,(1000 MT),29429.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,FSI Consumption,(1000 MT),27244.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,FSI Consumption,(1000 MT),28126.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,FSI Consumption,(1000 MT),30410.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,FSI Consumption,(1000 MT),25488.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,FSI Consumption,(1000 MT),27790.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,FSI Consumption,(1000 MT),27896.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,FSI Consumption,(1000 MT),28286.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,FSI Consumption,(1000 MT),29919.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,FSI Consumption,(1000 MT),28570.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,FSI Consumption,(1000 MT),31780.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,FSI Consumption,(1000 MT),32271.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,FSI Consumption,(1000 MT),34460.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,FSI Consumption,(1000 MT),34713.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,FSI Consumption,(1000 MT),35132.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,FSI Consumption,(1000 MT),35952.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,FSI Consumption,(1000 MT),31315.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,FSI Consumption,(1000 MT),33260.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,FSI Consumption,(1000 MT),32717.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,FSI Consumption,(1000 MT),31918.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,FSI Consumption,(1000 MT),32704.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,FSI Consumption,(1000 MT),35148.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,FSI Consumption,(1000 MT),35879.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,FSI Consumption,(1000 MT),38625.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,FSI Consumption,(1000 MT),35680.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,FSI Consumption,(1000 MT),37401.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,FSI Consumption,(1000 MT),37154.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,FSI Consumption,(1000 MT),36308.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,FSI Consumption,(1000 MT),34427.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,FSI Consumption,(1000 MT),36637.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,FSI Consumption,(1000 MT),34363.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,FSI Consumption,(1000 MT),36483.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,FSI Consumption,(1000 MT),36478.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,FSI Consumption,(1000 MT),36594.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,Feed Dom. Consumption,(1000 MT),16020.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Feed Dom. Consumption,(1000 MT),15510.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Feed Dom. Consumption,(1000 MT),15455.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Feed Dom. Consumption,(1000 MT),19599.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Feed Dom. Consumption,(1000 MT),19660.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Feed Dom. Consumption,(1000 MT),25500.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Feed Dom. Consumption,(1000 MT),27837.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Feed Dom. Consumption,(1000 MT),25184.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Feed Dom. Consumption,(1000 MT),26570.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Feed Dom. Consumption,(1000 MT),28383.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Feed Dom. Consumption,(1000 MT),31897.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Feed Dom. Consumption,(1000 MT),31442.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Feed Dom. Consumption,(1000 MT),30890.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Feed Dom. Consumption,(1000 MT),36203.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Feed Dom. Consumption,(1000 MT),27723.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Feed Dom. Consumption,(1000 MT),31017.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Feed Dom. Consumption,(1000 MT),32504.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Feed Dom. Consumption,(1000 MT),32301.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Feed Dom. Consumption,(1000 MT),35617.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Feed Dom. Consumption,(1000 MT),34174.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Feed Dom. Consumption,(1000 MT),31516.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Feed Dom. Consumption,(1000 MT),38506.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Feed Dom. Consumption,(1000 MT),37064.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Feed Dom. Consumption,(1000 MT),36724.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Feed Dom. Consumption,(1000 MT),39411.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Feed Dom. Consumption,(1000 MT),40442.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Feed Dom. Consumption,(1000 MT),35803.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Feed Dom. Consumption,(1000 MT),35372.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Feed Dom. Consumption,(1000 MT),33280.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Feed Dom. Consumption,(1000 MT),32220.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Feed Dom. Consumption,(1000 MT),29712.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Feed Dom. Consumption,(1000 MT),32009.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Feed Dom. Consumption,(1000 MT),32714.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Feed Dom. Consumption,(1000 MT),31647.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Feed Dom. Consumption,(1000 MT),30005.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Feed Dom. Consumption,(1000 MT),28221.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Feed Dom. Consumption,(1000 MT),36590.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Feed Dom. Consumption,(1000 MT),32414.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Feed Dom. Consumption,(1000 MT),31771.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Feed Dom. Consumption,(1000 MT),32026.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Feed Dom. Consumption,(1000 MT),28804.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Feed Dom. Consumption,(1000 MT),28574.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Feed Dom. Consumption,(1000 MT),25546.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Feed Dom. Consumption,(1000 MT),27454.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Feed Dom. Consumption,(1000 MT),26601.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Feed Dom. Consumption,(1000 MT),24410.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Feed Dom. Consumption,(1000 MT),22346.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Feed Dom. Consumption,(1000 MT),28900.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Feed Dom. Consumption,(1000 MT),27360.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Feed Dom. Consumption,(1000 MT),25822.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Feed Dom. Consumption,(1000 MT),26669.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Feed Dom. Consumption,(1000 MT),23246.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Feed Dom. Consumption,(1000 MT),23878.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Feed Dom. Consumption,(1000 MT),26165.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Feed Dom. Consumption,(1000 MT),30005.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Feed Dom. Consumption,(1000 MT),27028.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Feed Dom. Consumption,(1000 MT),23011.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Feed Dom. Consumption,(1000 MT),21229.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Feed Dom. Consumption,(1000 MT),19988.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Feed Dom. Consumption,(1000 MT),20364.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Feed Dom. Consumption,(1000 MT),24020.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Feed Dom. Consumption,(1000 MT),26229.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Feed Dom. Consumption,(1000 MT),20620.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Feed Dom. Consumption,(1000 MT),24102.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Feed Dom. Consumption,(1000 MT),26056.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Feed Dom. Consumption,(1000 MT),25008.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Feed Dom. Consumption,(1000 MT),25581.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,Imports,(1000 MT),2311.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Imports,(1000 MT),2516.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Imports,(1000 MT),3633.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Imports,(1000 MT),3534.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Imports,(1000 MT),4026.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Imports,(1000 MT),6268.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Imports,(1000 MT),8754.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Imports,(1000 MT),6226.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Imports,(1000 MT),4214.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Imports,(1000 MT),5086.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Imports,(1000 MT),7213.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Imports,(1000 MT),5854.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Imports,(1000 MT),6698.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Imports,(1000 MT),8844.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Imports,(1000 MT),8464.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Imports,(1000 MT),9168.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Imports,(1000 MT),11701.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Imports,(1000 MT),10611.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Imports,(1000 MT),10644.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Imports,(1000 MT),12191.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Imports,(1000 MT),12524.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Imports,(1000 MT),14027.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Imports,(1000 MT),12099.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Imports,(1000 MT),12817.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Imports,(1000 MT),12629.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Imports,(1000 MT),9457.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Imports,(1000 MT),7907.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Imports,(1000 MT),8145.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Imports,(1000 MT),10880.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Imports,(1000 MT),8694.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Imports,(1000 MT),7571.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Imports,(1000 MT),9656.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Imports,(1000 MT),8620.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Imports,(1000 MT),6982.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Imports,(1000 MT),6044.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Imports,(1000 MT),6291.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Imports,(1000 MT),6009.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Imports,(1000 MT),6868.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Imports,(1000 MT),6799.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Imports,(1000 MT),8228.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Imports,(1000 MT),7600.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Imports,(1000 MT),7033.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Imports,(1000 MT),5463.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Imports,(1000 MT),6532.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Imports,(1000 MT),5262.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Imports,(1000 MT),5335.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Imports,(1000 MT),4844.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Imports,(1000 MT),9663.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Imports,(1000 MT),6155.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Imports,(1000 MT),6291.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Imports,(1000 MT),6694.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Imports,(1000 MT),5039.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Imports,(1000 MT),6751.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Imports,(1000 MT),6580.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Imports,(1000 MT),12342.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Imports,(1000 MT),10900.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Imports,(1000 MT),7259.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Imports,(1000 MT),6721.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Imports,(1000 MT),3326.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Imports,(1000 MT),5606.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Imports,(1000 MT),9929.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Imports,(1000 MT),12557.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Imports,(1000 MT),6193.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Imports,(1000 MT),9494.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Imports,(1000 MT),7577.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Imports,(1000 MT),9387.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Imports,(1000 MT),8776.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,Production,(1000 MT),40812.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Production,(1000 MT),38578.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Production,(1000 MT),41800.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Production,(1000 MT),43720.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Production,(1000 MT),41619.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Production,(1000 MT),46372.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Production,(1000 MT),49309.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Production,(1000 MT),53260.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Production,(1000 MT),51451.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Production,(1000 MT),54812.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Production,(1000 MT),55122.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Production,(1000 MT),57669.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Production,(1000 MT),54004.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Production,(1000 MT),65911.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Production,(1000 MT),60328.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Production,(1000 MT),63824.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Production,(1000 MT),62157.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Production,(1000 MT),64411.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Production,(1000 MT),63631.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Production,(1000 MT),61564.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Production,(1000 MT),59403.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Production,(1000 MT),70436.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Production,(1000 MT),65137.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Production,(1000 MT),58553.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Production,(1000 MT),65882.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Production,(1000 MT),70228.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Production,(1000 MT),64528.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Production,(1000 MT),56578.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Production,(1000 MT),54536.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Production,(1000 MT),55315.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Production,(1000 MT),53814.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Production,(1000 MT),53780.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Production,(1000 MT),65726.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Production,(1000 MT),55482.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Production,(1000 MT),57695.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Production,(1000 MT),55361.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Production,(1000 MT),69854.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Production,(1000 MT),57720.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Production,(1000 MT),60422.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Production,(1000 MT),59080.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Production,(1000 MT),55532.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Production,(1000 MT),59523.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Production,(1000 MT),53982.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Production,(1000 MT),60305.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Production,(1000 MT),58309.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Production,(1000 MT),59189.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Production,(1000 MT),56419.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Production,(1000 MT),66521.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Production,(1000 MT),63233.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Production,(1000 MT),55848.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Production,(1000 MT),61070.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Production,(1000 MT),56188.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Production,(1000 MT),53905.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Production,(1000 MT),61027.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Production,(1000 MT),65292.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Production,(1000 MT),62133.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Production,(1000 MT),62293.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Production,(1000 MT),56350.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Production,(1000 MT),58276.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Production,(1000 MT),56961.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Production,(1000 MT),61943.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Production,(1000 MT),60301.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Production,(1000 MT),57073.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Production,(1000 MT),58768.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Production,(1000 MT),62636.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Production,(1000 MT),60923.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Production,(1000 MT),62680.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,TY Exports,(1000 MT),2702.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,TY Exports,(1000 MT),3193.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,TY Exports,(1000 MT),3769.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,TY Exports,(1000 MT),3598.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,TY Exports,(1000 MT),4073.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,TY Exports,(1000 MT),7276.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,TY Exports,(1000 MT),8910.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,TY Exports,(1000 MT),5596.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,TY Exports,(1000 MT),4790.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,TY Exports,(1000 MT),5081.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,TY Exports,(1000 MT),7391.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,TY Exports,(1000 MT),5545.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,TY Exports,(1000 MT),7120.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,TY Exports,(1000 MT),10301.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,TY Exports,(1000 MT),8821.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,TY Exports,(1000 MT),10015.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,TY Exports,(1000 MT),12292.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,TY Exports,(1000 MT),10699.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,TY Exports,(1000 MT),10647.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,TY Exports,(1000 MT),11436.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,TY Exports,(1000 MT),13869.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,TY Exports,(1000 MT),13431.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,TY Exports,(1000 MT),11433.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,TY Exports,(1000 MT),12896.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,TY Exports,(1000 MT),13020.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,TY Exports,(1000 MT),8569.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,TY Exports,(1000 MT),8196.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,TY Exports,(1000 MT),8290.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,TY Exports,(1000 MT),11061.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,TY Exports,(1000 MT),8771.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,TY Exports,(1000 MT),7561.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,TY Exports,(1000 MT),9655.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,TY Exports,(1000 MT),9074.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,TY Exports,(1000 MT),6819.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,TY Exports,(1000 MT),6440.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,TY Exports,(1000 MT),6546.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,TY Exports,(1000 MT),6249.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,TY Exports,(1000 MT),6887.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,TY Exports,(1000 MT),6541.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,TY Exports,(1000 MT),8132.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,TY Exports,(1000 MT),7627.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,TY Exports,(1000 MT),7256.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,TY Exports,(1000 MT),5878.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,TY Exports,(1000 MT),6206.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,TY Exports,(1000 MT),5366.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,TY Exports,(1000 MT),5496.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,TY Exports,(1000 MT),5790.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,TY Exports,(1000 MT),8932.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,TY Exports,(1000 MT),6224.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,TY Exports,(1000 MT),6328.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,TY Exports,(1000 MT),6660.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,TY Exports,(1000 MT),5448.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,TY Exports,(1000 MT),7296.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,TY Exports,(1000 MT),7747.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,TY Exports,(1000 MT),12588.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,TY Exports,(1000 MT),9881.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,TY Exports,(1000 MT),7748.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,TY Exports,(1000 MT),6550.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,TY Exports,(1000 MT),3335.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,TY Exports,(1000 MT),6389.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,TY Exports,(1000 MT),10561.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,TY Exports,(1000 MT),11843.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,TY Exports,(1000 MT),6820.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,TY Exports,(1000 MT),9600.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,TY Exports,(1000 MT),6664.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,TY Exports,(1000 MT),9832.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,TY Exports,(1000 MT),9412.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,TY Imp. from U.S.,(1000 MT),1469.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,TY Imp. from U.S.,(1000 MT),1340.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,TY Imp. from U.S.,(1000 MT),2314.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,TY Imp. from U.S.,(1000 MT),2020.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,TY Imp. from U.S.,(1000 MT),2399.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,TY Imp. from U.S.,(1000 MT),4188.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,TY Imp. from U.S.,(1000 MT),6705.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,TY Imp. from U.S.,(1000 MT),4412.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,TY Imp. from U.S.,(1000 MT),2569.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,TY Imp. from U.S.,(1000 MT),3003.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,TY Imp. from U.S.,(1000 MT),4111.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,TY Imp. from U.S.,(1000 MT),2372.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,TY Imp. from U.S.,(1000 MT),4653.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,TY Imp. from U.S.,(1000 MT),5593.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,TY Imp. from U.S.,(1000 MT),4887.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,TY Imp. from U.S.,(1000 MT),6553.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,TY Imp. from U.S.,(1000 MT),6897.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,TY Imp. from U.S.,(1000 MT),5671.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,TY Imp. from U.S.,(1000 MT),4965.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,TY Imp. from U.S.,(1000 MT),8625.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,TY Imp. from U.S.,(1000 MT),7641.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,TY Imp. from U.S.,(1000 MT),6483.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,TY Imp. from U.S.,(1000 MT),5870.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,TY Imp. from U.S.,(1000 MT),6231.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,TY Imp. from U.S.,(1000 MT),7328.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,TY Imp. from U.S.,(1000 MT),4411.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,TY Imp. from U.S.,(1000 MT),4937.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,TY Imp. from U.S.,(1000 MT),6134.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,TY Imp. from U.S.,(1000 MT),8116.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,TY Imp. from U.S.,(1000 MT),7376.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,TY Imp. from U.S.,(1000 MT),5929.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,TY Imp. from U.S.,(1000 MT),7493.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,TY Imp. from U.S.,(1000 MT),6630.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,TY Imp. from U.S.,(1000 MT),5236.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,TY Imp. from U.S.,(1000 MT),5575.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,TY Imp. from U.S.,(1000 MT),3822.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,TY Imp. from U.S.,(1000 MT),4849.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,TY Imp. from U.S.,(1000 MT),5189.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,TY Imp. from U.S.,(1000 MT),5300.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,TY Imp. from U.S.,(1000 MT),6333.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,TY Imp. from U.S.,(1000 MT),5928.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,TY Imp. from U.S.,(1000 MT),6154.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,TY Imp. from U.S.,(1000 MT),4870.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,TY Imp. from U.S.,(1000 MT),4851.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,TY Imp. from U.S.,(1000 MT),4515.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,TY Imp. from U.S.,(1000 MT),4927.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,TY Imp. from U.S.,(1000 MT),4490.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,TY Imp. from U.S.,(1000 MT),6277.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,TY Imp. from U.S.,(1000 MT),3456.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,TY Imp. from U.S.,(1000 MT),4022.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,TY Imp. from U.S.,(1000 MT),3817.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,TY Imp. from U.S.,(1000 MT),1518.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,TY Imp. from U.S.,(1000 MT),2112.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,TY Imp. from U.S.,(1000 MT),5588.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,TY Imp. from U.S.,(1000 MT),9278.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,TY Imp. from U.S.,(1000 MT),7795.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,TY Imp. from U.S.,(1000 MT),5955.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,TY Imp. from U.S.,(1000 MT),4897.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,TY Imp. from U.S.,(1000 MT),2383.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,TY Imp. from U.S.,(1000 MT),5326.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,TY Imp. from U.S.,(1000 MT),6877.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,TY Imp. from U.S.,(1000 MT),7330.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,TY Imp. from U.S.,(1000 MT),2891.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,TY Imp. from U.S.,(1000 MT),5887.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,TY Imp. from U.S.,(1000 MT),2278.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,TY Imp. from U.S.,(1000 MT),0.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,TY Imp. from U.S.,(1000 MT),0.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,TY Imports,(1000 MT),2275.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,TY Imports,(1000 MT),2496.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,TY Imports,(1000 MT),3572.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,TY Imports,(1000 MT),3556.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,TY Imports,(1000 MT),4031.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,TY Imports,(1000 MT),6368.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,TY Imports,(1000 MT),8778.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,TY Imports,(1000 MT),6235.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,TY Imports,(1000 MT),4273.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,TY Imports,(1000 MT),5089.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,TY Imports,(1000 MT),7153.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,TY Imports,(1000 MT),5820.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,TY Imports,(1000 MT),6339.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,TY Imports,(1000 MT),9130.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,TY Imports,(1000 MT),8578.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,TY Imports,(1000 MT),9166.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,TY Imports,(1000 MT),11713.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,TY Imports,(1000 MT),10734.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,TY Imports,(1000 MT),10606.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,TY Imports,(1000 MT),12145.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,TY Imports,(1000 MT),13946.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,TY Imports,(1000 MT),13086.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,TY Imports,(1000 MT),11541.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,TY Imports,(1000 MT),13081.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,TY Imports,(1000 MT),12420.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,TY Imports,(1000 MT),8575.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,TY Imports,(1000 MT),7913.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,TY Imports,(1000 MT),8204.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,TY Imports,(1000 MT),10838.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,TY Imports,(1000 MT),8651.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,TY Imports,(1000 MT),7504.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,TY Imports,(1000 MT),9463.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,TY Imports,(1000 MT),8788.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,TY Imports,(1000 MT),6744.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,TY Imports,(1000 MT),6282.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,TY Imports,(1000 MT),6283.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,TY Imports,(1000 MT),6025.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,TY Imports,(1000 MT),6866.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,TY Imports,(1000 MT),6754.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,TY Imports,(1000 MT),8277.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,TY Imports,(1000 MT),7571.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,TY Imports,(1000 MT),7055.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,TY Imports,(1000 MT),5647.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,TY Imports,(1000 MT),6357.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,TY Imports,(1000 MT),5249.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,TY Imports,(1000 MT),5346.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,TY Imports,(1000 MT),5697.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,TY Imports,(1000 MT),9044.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,TY Imports,(1000 MT),5739.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,TY Imports,(1000 MT),6314.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,TY Imports,(1000 MT),6693.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,TY Imports,(1000 MT),5093.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,TY Imports,(1000 MT),6860.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,TY Imports,(1000 MT),6713.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,TY Imports,(1000 MT),12090.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,TY Imports,(1000 MT),10963.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,TY Imports,(1000 MT),7373.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,TY Imports,(1000 MT),6757.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,TY Imports,(1000 MT),3248.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,TY Imports,(1000 MT),5629.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,TY Imports,(1000 MT),9968.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,TY Imports,(1000 MT),12535.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,TY Imports,(1000 MT),6133.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,TY Imports,(1000 MT),9491.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,TY Imports,(1000 MT),7795.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,TY Imports,(1000 MT),9379.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,TY Imports,(1000 MT),8775.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,Total Distribution,(1000 MT),62199.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Total Distribution,(1000 MT),62985.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Total Distribution,(1000 MT),67148.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Total Distribution,(1000 MT),70197.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Total Distribution,(1000 MT),68099.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Total Distribution,(1000 MT),72796.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Total Distribution,(1000 MT),72538.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Total Distribution,(1000 MT),72559.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Total Distribution,(1000 MT),70639.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Total Distribution,(1000 MT),73678.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Total Distribution,(1000 MT),74458.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Total Distribution,(1000 MT),71569.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Total Distribution,(1000 MT),69965.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Total Distribution,(1000 MT),82040.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Total Distribution,(1000 MT),76448.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Total Distribution,(1000 MT),81969.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Total Distribution,(1000 MT),83168.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Total Distribution,(1000 MT),85169.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Total Distribution,(1000 MT),87119.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Total Distribution,(1000 MT),86415.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Total Distribution,(1000 MT),83439.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Total Distribution,(1000 MT),96034.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Total Distribution,(1000 MT),92783.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Total Distribution,(1000 MT),88773.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Total Distribution,(1000 MT),92460.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Total Distribution,(1000 MT),93422.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Total Distribution,(1000 MT),91518.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Total Distribution,(1000 MT),88047.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Total Distribution,(1000 MT),85423.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Total Distribution,(1000 MT),79982.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Total Distribution,(1000 MT),71613.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Total Distribution,(1000 MT),71088.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Total Distribution,(1000 MT),80215.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Total Distribution,(1000 MT),71975.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Total Distribution,(1000 MT),67929.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Total Distribution,(1000 MT),65923.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Total Distribution,(1000 MT),78753.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Total Distribution,(1000 MT),69927.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Total Distribution,(1000 MT),72266.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Total Distribution,(1000 MT),73671.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Total Distribution,(1000 MT),68360.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Total Distribution,(1000 MT),70484.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Total Distribution,(1000 MT),64320.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Total Distribution,(1000 MT),71326.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Total Distribution,(1000 MT),69124.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Total Distribution,(1000 MT),69373.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Total Distribution,(1000 MT),66388.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Total Distribution,(1000 MT),80039.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Total Distribution,(1000 MT),75566.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Total Distribution,(1000 MT),68283.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Total Distribution,(1000 MT),72287.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Total Distribution,(1000 MT),66783.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Total Distribution,(1000 MT),64929.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Total Distribution,(1000 MT),71189.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Total Distribution,(1000 MT),82269.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Total Distribution,(1000 MT),77987.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Total Distribution,(1000 MT),74063.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Total Distribution,(1000 MT),67884.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Total Distribution,(1000 MT),65984.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Total Distribution,(1000 MT),67760.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Total Distribution,(1000 MT),75596.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Total Distribution,(1000 MT),76693.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Total Distribution,(1000 MT),67514.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Total Distribution,(1000 MT),72273.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Total Distribution,(1000 MT),74153.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Total Distribution,(1000 MT),75040.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Total Distribution,(1000 MT),75248.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1960,Total Supply,(1000 MT),62199.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1961,Total Supply,(1000 MT),62985.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1962,Total Supply,(1000 MT),67148.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1963,Total Supply,(1000 MT),70197.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1964,Total Supply,(1000 MT),68099.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1965,Total Supply,(1000 MT),72796.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1966,Total Supply,(1000 MT),72538.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1967,Total Supply,(1000 MT),72559.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1968,Total Supply,(1000 MT),70639.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1969,Total Supply,(1000 MT),73678.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1970,Total Supply,(1000 MT),74458.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1971,Total Supply,(1000 MT),71569.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1972,Total Supply,(1000 MT),69965.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1973,Total Supply,(1000 MT),82040.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1974,Total Supply,(1000 MT),76448.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1975,Total Supply,(1000 MT),81969.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1976,Total Supply,(1000 MT),83168.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1977,Total Supply,(1000 MT),85169.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1978,Total Supply,(1000 MT),87119.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1979,Total Supply,(1000 MT),86415.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1980,Total Supply,(1000 MT),83439.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1981,Total Supply,(1000 MT),96034.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1982,Total Supply,(1000 MT),92783.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1983,Total Supply,(1000 MT),88773.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1984,Total Supply,(1000 MT),92460.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1985,Total Supply,(1000 MT),93422.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1986,Total Supply,(1000 MT),91518.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1987,Total Supply,(1000 MT),88047.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1988,Total Supply,(1000 MT),85423.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1989,Total Supply,(1000 MT),79982.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1990,Total Supply,(1000 MT),71613.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1991,Total Supply,(1000 MT),71088.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1992,Total Supply,(1000 MT),80215.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1993,Total Supply,(1000 MT),71975.0,1,61,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1994,Total Supply,(1000 MT),67929.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1995,Total Supply,(1000 MT),65923.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1996,Total Supply,(1000 MT),78753.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1997,Total Supply,(1000 MT),69927.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1998,Total Supply,(1000 MT),72266.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,1999,Total Supply,(1000 MT),73671.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2000,Total Supply,(1000 MT),68360.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2001,Total Supply,(1000 MT),70484.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2002,Total Supply,(1000 MT),64320.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2003,Total Supply,(1000 MT),71326.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2004,Total Supply,(1000 MT),69124.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2005,Total Supply,(1000 MT),69373.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2006,Total Supply,(1000 MT),66388.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2007,Total Supply,(1000 MT),80039.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2008,Total Supply,(1000 MT),75566.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2009,Total Supply,(1000 MT),68283.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2010,Total Supply,(1000 MT),72287.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2011,Total Supply,(1000 MT),66783.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2012,Total Supply,(1000 MT),64929.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2013,Total Supply,(1000 MT),71189.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2014,Total Supply,(1000 MT),82269.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2015,Total Supply,(1000 MT),77987.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2016,Total Supply,(1000 MT),74063.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2017,Total Supply,(1000 MT),67884.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2018,Total Supply,(1000 MT),65984.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2019,Total Supply,(1000 MT),67760.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2020,Total Supply,(1000 MT),75596.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2021,Total Supply,(1000 MT),76693.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2022,Total Supply,(1000 MT),67514.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2023,Total Supply,(1000 MT),72273.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2024,Total Supply,(1000 MT),74153.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2025,Total Supply,(1000 MT),75040.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Sorghum,World,2026,Total Supply,(1000 MT),75248.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

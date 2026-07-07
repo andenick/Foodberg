@@ -1,5 +1,5 @@
 import { ArrowDown, ArrowUp, BarChart3, Minus } from 'lucide-react'
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import {
     CartesianGrid,
     Legend,
@@ -13,6 +13,7 @@ import { api } from '../services/api'
 import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 import { ChartMetaStrip, ScrollableDataTable } from '../components/ChartDetails'
 import GlobalIndices from '../components/GlobalIndices'
+import { ReindexControl, distinctYearsFromDate, reindexRowsByDate } from '../components/ReindexControl'
 
 const COLORS: Record<string, string> = {
     fao_overall: '#10B981',
@@ -49,7 +50,22 @@ export default function FoodPriceIndex() {
     const [loading, setLoading] = useState(true)
     const [selectedCategories, setSelectedCategories] = useState<string[]>(['fao_overall', 'bls_overall'])
     const [timeRange, setTimeRange] = useState<string>('10y')
+    const [baseYear, setBaseYear] = useState<number | null>(null)
     const t = useArkTheme()
+
+    // Reindex base-year options come from the years actually shown.
+    const baseYears = useMemo(() => distinctYearsFromDate(chartData, 'date'), [chartData])
+
+    // Client-side reindexed view of exactly what's plotted (raw when base = Off).
+    const displayData = useMemo(
+        () => reindexRowsByDate(chartData, selectedCategories, baseYear, 'date'),
+        [chartData, selectedCategories, baseYear],
+    )
+
+    // Keep the chosen base year valid when the visible window/series changes.
+    useEffect(() => {
+        if (baseYear !== null && !baseYears.includes(baseYear)) setBaseYear(null)
+    }, [baseYears, baseYear])
 
     useEffect(() => {
         loadIndices()
@@ -211,24 +227,32 @@ export default function FoodPriceIndex() {
                         <BarChart3 className="w-5 h-5 mr-2 text-emerald-400" />
                         Food Price Indices Over Time
                     </h2>
-                    <button
-                        type="button"
-                        className="ark-btn ark-btn-sm ark-btn-ghost"
-                        onClick={() => downloadCsv(chartData, 'foodberg_food_price_indices')}
-                        disabled={chartData.length === 0}
-                    >
-                        Download CSV
-                    </button>
+                    <div className="flex items-center gap-3 flex-wrap">
+                        <ReindexControl
+                            id="fpi-reindex"
+                            years={baseYears}
+                            baseYear={baseYear}
+                            onChange={setBaseYear}
+                        />
+                        <button
+                            type="button"
+                            className="ark-btn ark-btn-sm ark-btn-ghost"
+                            onClick={() => downloadCsv(displayData, 'foodberg_food_price_indices')}
+                            disabled={displayData.length === 0}
+                        >
+                            Download CSV
+                        </button>
+                    </div>
                 </div>
 
                 {loading ? (
                     <div className="h-[500px] flex items-center justify-center">
                         <div className="animate-spin w-8 h-8 border-2 border-emerald-400 border-t-transparent rounded-full"></div>
                     </div>
-                ) : chartData.length > 0 ? (
+                ) : displayData.length > 0 ? (
                     <div className="h-[500px]">
                         <ResponsiveContainer width="100%" height="100%">
-                            <LineChart data={chartData}>
+                            <LineChart data={displayData}>
                                 <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
                                 <XAxis
                                     dataKey="date"
@@ -272,19 +296,23 @@ export default function FoodPriceIndex() {
                     </div>
                 )}
 
-                {chartData.length > 0 && (
+                {displayData.length > 0 && (
                     <>
                         <ChartMetaStrip
                             meta={{
                                 source: 'FAO Food Price Index + US BLS CPI components (local dataset, offline)',
-                                unit: 'Index (FAO base 2014-2016 = 100 · BLS base 1982-84 = 100)',
-                                dateRange: `${chartData[0].date} → ${chartData[chartData.length - 1].date}`,
-                                points: chartData.length,
-                                note: 'Monthly observations. FAO and BLS indices use different base periods — compare shapes, not levels.',
+                                unit: baseYear
+                                    ? `Reindexed (${baseYear} = 100, computed in-browser)`
+                                    : 'Index (FAO base 2014-2016 = 100 · BLS base 1982-84 = 100)',
+                                dateRange: `${displayData[0].date} → ${displayData[displayData.length - 1].date}`,
+                                points: displayData.length,
+                                note: baseYear
+                                    ? `Every series rescaled to 100 at ${baseYear} so levels are directly comparable.`
+                                    : 'Monthly observations. FAO and BLS indices use different base periods — compare shapes, not levels.',
                             }}
                         />
                         <ScrollableDataTable
-                            rows={chartData}
+                            rows={displayData}
                             columns={[
                                 { key: 'date', label: 'Month' },
                                 ...selectedCategories.map(c => ({ key: c, label: CATEGORY_LABELS[c] || c, numeric: true })),

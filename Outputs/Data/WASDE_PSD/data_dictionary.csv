@@ -1,0 +1,648 @@
+commodity,attribute,attribute_id,unit,n_rows,additive_across_countries
+"Animal Numbers, Cattle",Beef Cows Beg. Stocks,025,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Beginning Stocks,020,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Calf Slaughter,122,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Cow Slaughter,118,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Dairy Cows Beg. Stocks,023,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Ending Stocks,176,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Exports,088,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Imports,057,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Loss and Residual,172,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Production,028,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Total Distribution,178,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Total Slaughter,117,(1000 HEAD),2722,True
+"Animal Numbers, Cattle",Total Supply,086,(1000 HEAD),2722,True
+"Animal Numbers, Swine",Beginning Stocks,020,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Ending Stocks,176,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Exports,088,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Imports,057,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Loss and Residual,172,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Production,028,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Sow Beginning Stocks,022,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Sow Slaughter,121,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Total Distribution,178,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Total Slaughter,117,(1000 HEAD),2248,True
+"Animal Numbers, Swine",Total Supply,086,(1000 HEAD),2248,True
+Barley,Area Harvested,004,(1000 HA),4276,True
+Barley,Beginning Stocks,020,(1000 MT),4276,True
+Barley,Domestic Consumption,125,(1000 MT),4276,True
+Barley,Ending Stocks,176,(1000 MT),4276,True
+Barley,Exports,088,(1000 MT),4276,True
+Barley,FSI Consumption,192,(1000 MT),4276,True
+Barley,Feed Dom. Consumption,130,(1000 MT),4276,True
+Barley,Imports,057,(1000 MT),4276,True
+Barley,Production,028,(1000 MT),4276,True
+Barley,TY Exports,113,(1000 MT),4276,True
+Barley,TY Imp. from U.S.,084,(1000 MT),4276,True
+Barley,TY Imports,081,(1000 MT),4276,True
+Barley,Total Distribution,178,(1000 MT),4276,True
+Barley,Total Supply,086,(1000 MT),4276,True
+Barley,Yield,184,(MT/HA),4209,False
+"Coffee, Green",Arabica Production,029,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Bean Exports,090,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Bean Imports,058,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Beginning Stocks,020,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Domestic Consumption,125,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Ending Stocks,176,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Exports,088,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Imports,057,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Other Production,056,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Production,028,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Roast & Ground Exports,107,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Roast & Ground Imports,075,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Robusta Production,053,(1000 60 KG BAGS),4589,True
+"Coffee, Green","Rst,Ground Dom. Consum",141,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Soluble Dom. Cons.,154,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Soluble Exports,114,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Soluble Imports,082,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Total Distribution,178,(1000 60 KG BAGS),4589,True
+"Coffee, Green",Total Supply,086,(1000 60 KG BAGS),4589,True
+Corn,Area Harvested,004,(1000 HA),7653,True
+Corn,Beginning Stocks,020,(1000 MT),7653,True
+Corn,Domestic Consumption,125,(1000 MT),7653,True
+Corn,Ending Stocks,176,(1000 MT),7653,True
+Corn,Exports,088,(1000 MT),7653,True
+Corn,FSI Consumption,192,(1000 MT),7653,True
+Corn,Feed Dom. Consumption,130,(1000 MT),7653,True
+Corn,Imports,057,(1000 MT),7653,True
+Corn,Production,028,(1000 MT),7653,True
+Corn,TY Exports,113,(1000 MT),7653,True
+Corn,TY Imp. from U.S.,084,(1000 MT),7653,True
+Corn,TY Imports,081,(1000 MT),7653,True
+Corn,Total Distribution,178,(1000 MT),7653,True
+Corn,Total Supply,086,(1000 MT),7653,True
+Corn,Yield,184,(MT/HA),7586,False
+Cotton,Area Harvested,004,(1000 HA),7844,True
+Cotton,Beginning Stocks,020,1000 480 lb. Bales,7844,True
+Cotton,Domestic Use,142,1000 480 lb. Bales,7844,True
+Cotton,Ending Stocks,176,1000 480 lb. Bales,7844,True
+Cotton,Exports,088,1000 480 lb. Bales,7844,True
+Cotton,Imports,057,1000 480 lb. Bales,7844,True
+Cotton,Loss,150,1000 480 lb. Bales,7844,True
+Cotton,Production,028,1000 480 lb. Bales,7844,True
+Cotton,Stocks-to-Use,195,(PERCENT),7777,False
+Cotton,Total Distribution,178,1000 480 lb. Bales,7844,True
+Cotton,Total Supply,086,1000 480 lb. Bales,7844,True
+Cotton,Yield,184,(KG/HA),7777,False
+"Dairy, Butter",Beginning Stocks,020,(1000 MT),1856,True
+"Dairy, Butter",Domestic Consumption,125,(1000 MT),1856,True
+"Dairy, Butter",Ending Stocks,176,(1000 MT),1856,True
+"Dairy, Butter",Exports,088,(1000 MT),1856,True
+"Dairy, Butter",Imports,057,(1000 MT),1856,True
+"Dairy, Butter",Production,028,(1000 MT),1856,True
+"Dairy, Butter",Total Distribution,178,(1000 MT),1856,True
+"Dairy, Butter",Total Supply,086,(1000 MT),1856,True
+"Dairy, Butter",Total Use,174,(1000 MT),1856,True
+"Dairy, Cheese",Beginning Stocks,020,(1000 MT),1878,True
+"Dairy, Cheese",Domestic Consumption,125,(1000 MT),1878,True
+"Dairy, Cheese",Ending Stocks,176,(1000 MT),1878,True
+"Dairy, Cheese",Exports,088,(1000 MT),1878,True
+"Dairy, Cheese",Imports,057,(1000 MT),1878,True
+"Dairy, Cheese",Production,028,(1000 MT),1878,True
+"Dairy, Cheese",Total Distribution,178,(1000 MT),1878,True
+"Dairy, Cheese",Total Supply,086,(1000 MT),1878,True
+"Dairy, Cheese",Total Use,174,(1000 MT),1878,True
+"Dairy, Dry Whole Milk Powder",Beginning Stocks,020,(1000 MT),966,True
+"Dairy, Dry Whole Milk Powder",Domestic Consumption,125,(1000 MT),966,True
+"Dairy, Dry Whole Milk Powder",Ending Stocks,176,(1000 MT),966,True
+"Dairy, Dry Whole Milk Powder",Exports,088,(1000 MT),966,True
+"Dairy, Dry Whole Milk Powder",Imports,057,(1000 MT),966,True
+"Dairy, Dry Whole Milk Powder",Production,028,(1000 MT),966,True
+"Dairy, Dry Whole Milk Powder",Total Distribution,178,(1000 MT),966,True
+"Dairy, Dry Whole Milk Powder",Total Supply,086,(1000 MT),966,True
+"Dairy, Dry Whole Milk Powder",Total Use,174,(1000 MT),966,True
+"Dairy, Milk, Fluid",Cows In Milk,006,(1000 HEAD),1980,True
+"Dairy, Milk, Fluid",Cows Milk Production,032,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Domestic Consumption,125,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Exports,088,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Factory Use Consum.,147,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Feed Use Dom. Consum.,158,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Fluid Use Dom. Consum.,131,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Imports,057,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Other Milk Production,049,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Production,028,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Total Distribution,178,(1000 MT),1980,True
+"Dairy, Milk, Fluid",Total Supply,086,(1000 MT),1980,True
+"Dairy, Milk, Nonfat Dry",Beginning Stocks,020,(1000 MT),1966,True
+"Dairy, Milk, Nonfat Dry",Domestic Consumption,125,(1000 MT),1966,True
+"Dairy, Milk, Nonfat Dry",Ending Stocks,176,(1000 MT),1966,True
+"Dairy, Milk, Nonfat Dry",Exports,088,(1000 MT),1966,True
+"Dairy, Milk, Nonfat Dry",Imports,057,(1000 MT),1966,True
+"Dairy, Milk, Nonfat Dry",Production,028,(1000 MT),1966,True
+"Dairy, Milk, Nonfat Dry",Total Distribution,178,(1000 MT),1966,True
+"Dairy, Milk, Nonfat Dry",Total Supply,086,(1000 MT),1966,True
+"Dairy, Milk, Nonfat Dry",Total Use,174,(1000 MT),1966,True
+"Meal, Copra",Beginning Stocks,020,(1000 MT),1624,True
+"Meal, Copra",Crush,007,(1000 MT),1624,True
+"Meal, Copra",Domestic Consumption,125,(1000 MT),1624,True
+"Meal, Copra",Ending Stocks,176,(1000 MT),1624,True
+"Meal, Copra",Exports,088,(1000 MT),1624,True
+"Meal, Copra","Extr. Rate, 999.9999",181,(PERCENT),1561,False
+"Meal, Copra",Feed Waste Dom. Cons.,161,(1000 MT),1624,True
+"Meal, Copra",Food Use Dom. Cons.,149,(1000 MT),1624,True
+"Meal, Copra",Imports,057,(1000 MT),1624,True
+"Meal, Copra",Industrial Dom. Cons.,140,(1000 MT),1624,True
+"Meal, Copra",Production,028,(1000 MT),1624,True
+"Meal, Copra",SME,194,(1000 MT),1624,True
+"Meal, Copra",Total Distribution,178,(1000 MT),1624,True
+"Meal, Copra",Total Supply,086,(1000 MT),1624,True
+"Meal, Cottonseed",Beginning Stocks,020,(1000 MT),2867,True
+"Meal, Cottonseed",Crush,007,(1000 MT),2867,True
+"Meal, Cottonseed",Domestic Consumption,125,(1000 MT),2867,True
+"Meal, Cottonseed",Ending Stocks,176,(1000 MT),2867,True
+"Meal, Cottonseed",Exports,088,(1000 MT),2867,True
+"Meal, Cottonseed","Extr. Rate, 999.9999",181,(PERCENT),2806,False
+"Meal, Cottonseed",Feed Waste Dom. Cons.,161,(1000 MT),2867,True
+"Meal, Cottonseed",Food Use Dom. Cons.,149,(1000 MT),2867,True
+"Meal, Cottonseed",Imports,057,(1000 MT),2867,True
+"Meal, Cottonseed",Industrial Dom. Cons.,140,(1000 MT),2867,True
+"Meal, Cottonseed",Production,028,(1000 MT),2867,True
+"Meal, Cottonseed",SME,194,(1000 MT),2867,True
+"Meal, Cottonseed",Total Distribution,178,(1000 MT),2867,True
+"Meal, Cottonseed",Total Supply,086,(1000 MT),2867,True
+"Meal, Fish",Beginning Stocks,020,(1000 MT),2168,True
+"Meal, Fish",Catch For Reduction,005,(1000 MT),2168,True
+"Meal, Fish",Domestic Consumption,125,(1000 MT),2168,True
+"Meal, Fish",Ending Stocks,176,(1000 MT),2168,True
+"Meal, Fish",Exports,088,(1000 MT),2168,True
+"Meal, Fish","Extr. Rate, 999.9999",181,(PERCENT),2106,False
+"Meal, Fish",Feed Waste Dom. Cons.,161,(1000 MT),2168,True
+"Meal, Fish",Food Use Dom. Cons.,149,(1000 MT),2168,True
+"Meal, Fish",Imports,057,(1000 MT),2168,True
+"Meal, Fish",Industrial Dom. Cons.,140,(1000 MT),2168,True
+"Meal, Fish",Production,028,(1000 MT),2168,True
+"Meal, Fish",SME,194,(1000 MT),2168,True
+"Meal, Fish",Total Distribution,178,(1000 MT),2168,True
+"Meal, Fish",Total Supply,086,(1000 MT),2168,True
+"Meal, Palm Kernel",Beginning Stocks,020,(1000 MT),1774,True
+"Meal, Palm Kernel",Crush,007,(1000 MT),1774,True
+"Meal, Palm Kernel",Domestic Consumption,125,(1000 MT),1774,True
+"Meal, Palm Kernel",Ending Stocks,176,(1000 MT),1774,True
+"Meal, Palm Kernel",Exports,088,(1000 MT),1774,True
+"Meal, Palm Kernel","Extr. Rate, 999.9999",181,(PERCENT),1708,False
+"Meal, Palm Kernel",Feed Waste Dom. Cons.,161,(1000 MT),1774,True
+"Meal, Palm Kernel",Food Use Dom. Cons.,149,(1000 MT),1774,True
+"Meal, Palm Kernel",Imports,057,(1000 MT),1774,True
+"Meal, Palm Kernel",Industrial Dom. Cons.,140,(1000 MT),1774,True
+"Meal, Palm Kernel",Production,028,(1000 MT),1774,True
+"Meal, Palm Kernel",SME,194,(1000 MT),1774,True
+"Meal, Palm Kernel",Total Distribution,178,(1000 MT),1774,True
+"Meal, Palm Kernel",Total Supply,086,(1000 MT),1774,True
+"Meal, Peanut",Beginning Stocks,020,(1000 MT),1959,True
+"Meal, Peanut",Crush,007,(1000 MT),1959,True
+"Meal, Peanut",Domestic Consumption,125,(1000 MT),1959,True
+"Meal, Peanut",Ending Stocks,176,(1000 MT),1959,True
+"Meal, Peanut",Exports,088,(1000 MT),1959,True
+"Meal, Peanut","Extr. Rate, 999.9999",181,(PERCENT),1904,False
+"Meal, Peanut",Feed Waste Dom. Cons.,161,(1000 MT),1959,True
+"Meal, Peanut",Food Use Dom. Cons.,149,(1000 MT),1959,True
+"Meal, Peanut",Imports,057,(1000 MT),1959,True
+"Meal, Peanut",Industrial Dom. Cons.,140,(1000 MT),1959,True
+"Meal, Peanut",Production,028,(1000 MT),1959,True
+"Meal, Peanut",SME,194,(1000 MT),1959,True
+"Meal, Peanut",Total Distribution,178,(1000 MT),1959,True
+"Meal, Peanut",Total Supply,086,(1000 MT),1959,True
+"Meal, Rapeseed",Beginning Stocks,020,(1000 MT),2123,True
+"Meal, Rapeseed",Crush,007,(1000 MT),2123,True
+"Meal, Rapeseed",Domestic Consumption,125,(1000 MT),2123,True
+"Meal, Rapeseed",Ending Stocks,176,(1000 MT),2123,True
+"Meal, Rapeseed",Exports,088,(1000 MT),2123,True
+"Meal, Rapeseed","Extr. Rate, 999.9999",181,(PERCENT),2060,False
+"Meal, Rapeseed",Feed Waste Dom. Cons.,161,(1000 MT),2123,True
+"Meal, Rapeseed",Food Use Dom. Cons.,149,(1000 MT),2123,True
+"Meal, Rapeseed",Imports,057,(1000 MT),2123,True
+"Meal, Rapeseed",Industrial Dom. Cons.,140,(1000 MT),2123,True
+"Meal, Rapeseed",Production,028,(1000 MT),2123,True
+"Meal, Rapeseed",SME,194,(1000 MT),2123,True
+"Meal, Rapeseed",Total Distribution,178,(1000 MT),2123,True
+"Meal, Rapeseed",Total Supply,086,(1000 MT),2123,True
+"Meal, Soybean",Beginning Stocks,020,(1000 MT),4833,True
+"Meal, Soybean",Crush,007,(1000 MT),4833,True
+"Meal, Soybean",Domestic Consumption,125,(1000 MT),4833,True
+"Meal, Soybean",Ending Stocks,176,(1000 MT),4833,True
+"Meal, Soybean",Exports,088,(1000 MT),4833,True
+"Meal, Soybean","Extr. Rate, 999.9999",181,(PERCENT),4770,False
+"Meal, Soybean",Feed Waste Dom. Cons.,161,(1000 MT),4833,True
+"Meal, Soybean",Food Use Dom. Cons.,149,(1000 MT),4833,True
+"Meal, Soybean",Imports,057,(1000 MT),4833,True
+"Meal, Soybean",Industrial Dom. Cons.,140,(1000 MT),4833,True
+"Meal, Soybean",Production,028,(1000 MT),4833,True
+"Meal, Soybean",SME,194,(1000 MT),4833,True
+"Meal, Soybean",Total Distribution,178,(1000 MT),4833,True
+"Meal, Soybean",Total Supply,086,(1000 MT),4833,True
+"Meal, Soybean (Local)",Beginning Stocks,020,(1000 MT),189,True
+"Meal, Soybean (Local)",Crush,007,(1000 MT),189,True
+"Meal, Soybean (Local)",Domestic Consumption,125,(1000 MT),189,True
+"Meal, Soybean (Local)",Ending Stocks,176,(1000 MT),189,True
+"Meal, Soybean (Local)",Exports,088,(1000 MT),189,True
+"Meal, Soybean (Local)","Extr. Rate, 999.9999",181,(PERCENT),126,False
+"Meal, Soybean (Local)",Feed Waste Dom. Cons.,161,(1000 MT),189,True
+"Meal, Soybean (Local)",Food Use Dom. Cons.,149,(1000 MT),189,True
+"Meal, Soybean (Local)",Imports,057,(1000 MT),189,True
+"Meal, Soybean (Local)",Industrial Dom. Cons.,140,(1000 MT),189,True
+"Meal, Soybean (Local)",Production,028,(1000 MT),189,True
+"Meal, Soybean (Local)",SME,194,(1000 MT),189,True
+"Meal, Soybean (Local)",Total Distribution,178,(1000 MT),189,True
+"Meal, Soybean (Local)",Total Supply,086,(1000 MT),189,True
+"Meal, Sunflowerseed",Beginning Stocks,020,(1000 MT),2035,True
+"Meal, Sunflowerseed",Crush,007,(1000 MT),2035,True
+"Meal, Sunflowerseed",Domestic Consumption,125,(1000 MT),2035,True
+"Meal, Sunflowerseed",Ending Stocks,176,(1000 MT),2035,True
+"Meal, Sunflowerseed",Exports,088,(1000 MT),2035,True
+"Meal, Sunflowerseed","Extr. Rate, 999.9999",181,(PERCENT),1972,False
+"Meal, Sunflowerseed",Feed Waste Dom. Cons.,161,(1000 MT),2035,True
+"Meal, Sunflowerseed",Food Use Dom. Cons.,149,(1000 MT),2035,True
+"Meal, Sunflowerseed",Imports,057,(1000 MT),2035,True
+"Meal, Sunflowerseed",Industrial Dom. Cons.,140,(1000 MT),2035,True
+"Meal, Sunflowerseed",Production,028,(1000 MT),2035,True
+"Meal, Sunflowerseed",SME,194,(1000 MT),2035,True
+"Meal, Sunflowerseed",Total Distribution,178,(1000 MT),2035,True
+"Meal, Sunflowerseed",Total Supply,086,(1000 MT),2035,True
+"Meat, Beef and Veal",Beginning Stocks,020,(1000 MT CWE),3606,True
+"Meat, Beef and Veal",Domestic Consumption,125,(1000 MT CWE),3606,True
+"Meat, Beef and Veal",Ending Stocks,176,(1000 MT CWE),3606,True
+"Meat, Beef and Veal",Exports,088,(1000 MT CWE),3606,True
+"Meat, Beef and Veal",Imports,057,(1000 MT CWE),3606,True
+"Meat, Beef and Veal",Production,028,(1000 MT CWE),3606,True
+"Meat, Beef and Veal",Total Distribution,178,(1000 MT CWE),3606,True
+"Meat, Beef and Veal",Total Supply,086,(1000 MT CWE),3606,True
+"Meat, Chicken",Beginning Stocks,020,(1000 MT),1319,True
+"Meat, Chicken",Domestic Consumption,125,(1000 MT),1319,True
+"Meat, Chicken",Ending Stocks,176,(1000 MT),1319,True
+"Meat, Chicken",Exports,088,(1000 MT),1319,True
+"Meat, Chicken",Imports,057,(1000 MT),1319,True
+"Meat, Chicken",Production,028,(1000 MT),1319,True
+"Meat, Chicken",Total Distribution,178,(1000 MT),1319,True
+"Meat, Chicken",Total Supply,086,(1000 MT),1319,True
+"Meat, Chicken",Total Use,174,(1000 MT),1319,True
+"Meat, Swine",Annual % Change Per Cap. Cons.,220,(PERCENT),1218,False
+"Meat, Swine",Beginning Stocks,020,(1000 MT CWE),3240,True
+"Meat, Swine",Domestic Consumption,125,(1000 MT CWE),3240,True
+"Meat, Swine",Ending Stocks,176,(1000 MT CWE),3240,True
+"Meat, Swine",Exports,088,(1000 MT CWE),3240,True
+"Meat, Swine",Imports,057,(1000 MT CWE),3240,True
+"Meat, Swine",Production,028,(1000 MT CWE),3240,True
+"Meat, Swine",Total Distribution,178,(1000 MT CWE),3240,True
+"Meat, Swine",Total Supply,086,(1000 MT CWE),3240,True
+Millet,Area Harvested,004,(1000 HA),3228,True
+Millet,Beginning Stocks,020,(1000 MT),3228,True
+Millet,Domestic Consumption,125,(1000 MT),3228,True
+Millet,Ending Stocks,176,(1000 MT),3228,True
+Millet,Exports,088,(1000 MT),3228,True
+Millet,FSI Consumption,192,(1000 MT),3228,True
+Millet,Feed Dom. Consumption,130,(1000 MT),3228,True
+Millet,Imports,057,(1000 MT),3228,True
+Millet,Production,028,(1000 MT),3228,True
+Millet,TY Exports,113,(1000 MT),3228,True
+Millet,TY Imp. from U.S.,084,(1000 MT),3228,True
+Millet,TY Imports,081,(1000 MT),3228,True
+Millet,Total Distribution,178,(1000 MT),3228,True
+Millet,Total Supply,086,(1000 MT),3228,True
+Millet,Yield,184,(MT/HA),3161,False
+Mixed Grain,Area Harvested,004,(1000 HA),498,True
+Mixed Grain,Beginning Stocks,020,(1000 MT),498,True
+Mixed Grain,Domestic Consumption,125,(1000 MT),498,True
+Mixed Grain,Ending Stocks,176,(1000 MT),498,True
+Mixed Grain,Exports,088,(1000 MT),498,True
+Mixed Grain,FSI Consumption,192,(1000 MT),498,True
+Mixed Grain,Feed Dom. Consumption,130,(1000 MT),498,True
+Mixed Grain,Imports,057,(1000 MT),498,True
+Mixed Grain,Production,028,(1000 MT),498,True
+Mixed Grain,TY Exports,113,(1000 MT),498,True
+Mixed Grain,TY Imp. from U.S.,084,(1000 MT),498,True
+Mixed Grain,TY Imports,081,(1000 MT),498,True
+Mixed Grain,Total Distribution,178,(1000 MT),498,True
+Mixed Grain,Total Supply,086,(1000 MT),498,True
+Mixed Grain,Yield,184,(MT/HA),431,False
+Oats,Area Harvested,004,(1000 HA),2249,True
+Oats,Beginning Stocks,020,(1000 MT),2249,True
+Oats,Domestic Consumption,125,(1000 MT),2249,True
+Oats,Ending Stocks,176,(1000 MT),2249,True
+Oats,Exports,088,(1000 MT),2249,True
+Oats,FSI Consumption,192,(1000 MT),2249,True
+Oats,Feed Dom. Consumption,130,(1000 MT),2249,True
+Oats,Imports,057,(1000 MT),2249,True
+Oats,Production,028,(1000 MT),2249,True
+Oats,TY Exports,113,(1000 MT),2249,True
+Oats,TY Imp. from U.S.,084,(1000 MT),2249,True
+Oats,TY Imports,081,(1000 MT),2249,True
+Oats,Total Distribution,178,(1000 MT),2249,True
+Oats,Total Supply,086,(1000 MT),2249,True
+Oats,Yield,184,(MT/HA),2182,False
+"Oil, Coconut",Beginning Stocks,020,(1000 MT),2280,True
+"Oil, Coconut",Crush,007,(1000 MT),2280,True
+"Oil, Coconut",Domestic Consumption,125,(1000 MT),2280,True
+"Oil, Coconut",Ending Stocks,176,(1000 MT),2280,True
+"Oil, Coconut",Exports,088,(1000 MT),2280,True
+"Oil, Coconut","Extr. Rate, 999.9999",181,(PERCENT),2217,False
+"Oil, Coconut",Feed Waste Dom. Cons.,161,(1000 MT),2280,True
+"Oil, Coconut",Food Use Dom. Cons.,149,(1000 MT),2280,True
+"Oil, Coconut",Imports,057,(1000 MT),2280,True
+"Oil, Coconut",Industrial Dom. Cons.,140,(1000 MT),2280,True
+"Oil, Coconut",Production,028,(1000 MT),2280,True
+"Oil, Coconut",Total Distribution,178,(1000 MT),2280,True
+"Oil, Coconut",Total Supply,086,(1000 MT),2280,True
+"Oil, Cottonseed",Beginning Stocks,020,(1000 MT),2853,True
+"Oil, Cottonseed",Crush,007,(1000 MT),2854,True
+"Oil, Cottonseed",Domestic Consumption,125,(1000 MT),2853,True
+"Oil, Cottonseed",Ending Stocks,176,(1000 MT),2853,True
+"Oil, Cottonseed",Exports,088,(1000 MT),2853,True
+"Oil, Cottonseed","Extr. Rate, 999.9999",181,(PERCENT),2792,False
+"Oil, Cottonseed",Feed Waste Dom. Cons.,161,(1000 MT),2853,True
+"Oil, Cottonseed",Food Use Dom. Cons.,149,(1000 MT),2853,True
+"Oil, Cottonseed",Imports,057,(1000 MT),2853,True
+"Oil, Cottonseed",Industrial Dom. Cons.,140,(1000 MT),2853,True
+"Oil, Cottonseed",Production,028,(1000 MT),2853,True
+"Oil, Cottonseed",Total Distribution,178,(1000 MT),2853,True
+"Oil, Cottonseed",Total Supply,086,(1000 MT),2853,True
+"Oil, Olive",Beginning Stocks,020,(1000 MT),1471,True
+"Oil, Olive",Domestic Consumption,125,(1000 MT),1471,True
+"Oil, Olive",Ending Stocks,176,(1000 MT),1471,True
+"Oil, Olive",Exports,088,(1000 MT),1471,True
+"Oil, Olive",Feed Waste Dom. Cons.,161,(1000 MT),1471,True
+"Oil, Olive",Food Use Dom. Cons.,149,(1000 MT),1471,True
+"Oil, Olive",Imports,057,(1000 MT),1471,True
+"Oil, Olive",Industrial Dom. Cons.,140,(1000 MT),1471,True
+"Oil, Olive",Production,028,(1000 MT),1471,True
+"Oil, Olive",Total Distribution,178,(1000 MT),1471,True
+"Oil, Olive",Total Supply,086,(1000 MT),1471,True
+"Oil, Palm",Area Harvested,004,(1000 HA),4215,True
+"Oil, Palm",Beginning Stocks,020,(1000 MT),4215,True
+"Oil, Palm",Domestic Consumption,125,(1000 MT),4215,True
+"Oil, Palm",Ending Stocks,176,(1000 MT),4215,True
+"Oil, Palm",Exports,088,(1000 MT),4215,True
+"Oil, Palm",Feed Waste Dom. Cons.,161,(1000 MT),4215,True
+"Oil, Palm",Food Use Dom. Cons.,149,(1000 MT),4215,True
+"Oil, Palm",Imports,057,(1000 MT),4215,True
+"Oil, Palm",Industrial Dom. Cons.,140,(1000 MT),4215,True
+"Oil, Palm",Production,028,(1000 MT),4215,True
+"Oil, Palm",Total Distribution,178,(1000 MT),4215,True
+"Oil, Palm",Total Supply,086,(1000 MT),4215,True
+"Oil, Palm",Yield,184,(MT/HA),4152,False
+"Oil, Palm Kernel",Beginning Stocks,020,(1000 MT),2271,True
+"Oil, Palm Kernel",Crush,007,(1000 MT),2271,True
+"Oil, Palm Kernel",Domestic Consumption,125,(1000 MT),2271,True
+"Oil, Palm Kernel",Ending Stocks,176,(1000 MT),2271,True
+"Oil, Palm Kernel",Exports,088,(1000 MT),2271,True
+"Oil, Palm Kernel","Extr. Rate, 999.9999",181,(PERCENT),2205,False
+"Oil, Palm Kernel",Feed Waste Dom. Cons.,161,(1000 MT),2271,True
+"Oil, Palm Kernel",Food Use Dom. Cons.,149,(1000 MT),2271,True
+"Oil, Palm Kernel",Imports,057,(1000 MT),2271,True
+"Oil, Palm Kernel",Industrial Dom. Cons.,140,(1000 MT),2271,True
+"Oil, Palm Kernel",Production,028,(1000 MT),2271,True
+"Oil, Palm Kernel",Total Distribution,178,(1000 MT),2271,True
+"Oil, Palm Kernel",Total Supply,086,(1000 MT),2271,True
+"Oil, Peanut",Beginning Stocks,020,(1000 MT),2024,True
+"Oil, Peanut",Crush,007,(1000 MT),2024,True
+"Oil, Peanut",Domestic Consumption,125,(1000 MT),2024,True
+"Oil, Peanut",Ending Stocks,176,(1000 MT),2024,True
+"Oil, Peanut",Exports,088,(1000 MT),2024,True
+"Oil, Peanut","Extr. Rate, 999.9999",181,(PERCENT),1969,False
+"Oil, Peanut",Feed Waste Dom. Cons.,161,(1000 MT),2024,True
+"Oil, Peanut",Food Use Dom. Cons.,149,(1000 MT),2024,True
+"Oil, Peanut",Imports,057,(1000 MT),2024,True
+"Oil, Peanut",Industrial Dom. Cons.,140,(1000 MT),2024,True
+"Oil, Peanut",Production,028,(1000 MT),2024,True
+"Oil, Peanut",Total Distribution,178,(1000 MT),2024,True
+"Oil, Peanut",Total Supply,086,(1000 MT),2024,True
+"Oil, Rapeseed",Beginning Stocks,020,(1000 MT),2454,True
+"Oil, Rapeseed",Crush,007,(1000 MT),2454,True
+"Oil, Rapeseed",Domestic Consumption,125,(1000 MT),2454,True
+"Oil, Rapeseed",Ending Stocks,176,(1000 MT),2454,True
+"Oil, Rapeseed",Exports,088,(1000 MT),2454,True
+"Oil, Rapeseed","Extr. Rate, 999.9999",181,(PERCENT),2391,False
+"Oil, Rapeseed",Feed Waste Dom. Cons.,161,(1000 MT),2454,True
+"Oil, Rapeseed",Food Use Dom. Cons.,149,(1000 MT),2454,True
+"Oil, Rapeseed",Imports,057,(1000 MT),2454,True
+"Oil, Rapeseed",Industrial Dom. Cons.,140,(1000 MT),2454,True
+"Oil, Rapeseed",Production,028,(1000 MT),2454,True
+"Oil, Rapeseed",Total Distribution,178,(1000 MT),2454,True
+"Oil, Rapeseed",Total Supply,086,(1000 MT),2454,True
+"Oil, Soybean",Beginning Stocks,020,(1000 MT),4822,True
+"Oil, Soybean",Crush,007,(1000 MT),4822,True
+"Oil, Soybean",Domestic Consumption,125,(1000 MT),4822,True
+"Oil, Soybean",Ending Stocks,176,(1000 MT),4822,True
+"Oil, Soybean",Exports,088,(1000 MT),4822,True
+"Oil, Soybean","Extr. Rate, 999.9999",181,(PERCENT),4759,False
+"Oil, Soybean",Feed Waste Dom. Cons.,161,(1000 MT),4822,True
+"Oil, Soybean",Food Use Dom. Cons.,149,(1000 MT),4822,True
+"Oil, Soybean",Imports,057,(1000 MT),4822,True
+"Oil, Soybean",Industrial Dom. Cons.,140,(1000 MT),4822,True
+"Oil, Soybean",Production,028,(1000 MT),4822,True
+"Oil, Soybean",Total Distribution,178,(1000 MT),4822,True
+"Oil, Soybean",Total Supply,086,(1000 MT),4822,True
+"Oil, Soybean (Local)",Beginning Stocks,020,(1000 MT),189,True
+"Oil, Soybean (Local)",Crush,007,(1000 MT),189,True
+"Oil, Soybean (Local)",Domestic Consumption,125,(1000 MT),189,True
+"Oil, Soybean (Local)",Ending Stocks,176,(1000 MT),189,True
+"Oil, Soybean (Local)",Exports,088,(1000 MT),189,True
+"Oil, Soybean (Local)","Extr. Rate, 999.9999",181,(PERCENT),126,False
+"Oil, Soybean (Local)",Feed Waste Dom. Cons.,161,(1000 MT),189,True
+"Oil, Soybean (Local)",Food Use Dom. Cons.,149,(1000 MT),189,True
+"Oil, Soybean (Local)",Imports,057,(1000 MT),189,True
+"Oil, Soybean (Local)",Industrial Dom. Cons.,140,(1000 MT),189,True
+"Oil, Soybean (Local)",Production,028,(1000 MT),189,True
+"Oil, Soybean (Local)",Total Distribution,178,(1000 MT),189,True
+"Oil, Soybean (Local)",Total Supply,086,(1000 MT),189,True
+"Oil, Sunflowerseed",Beginning Stocks,020,(1000 MT),2729,True
+"Oil, Sunflowerseed",Crush,007,(1000 MT),2729,True
+"Oil, Sunflowerseed",Domestic Consumption,125,(1000 MT),2729,True
+"Oil, Sunflowerseed",Ending Stocks,176,(1000 MT),2729,True
+"Oil, Sunflowerseed",Exports,088,(1000 MT),2729,True
+"Oil, Sunflowerseed","Extr. Rate, 999.9999",181,(PERCENT),2666,False
+"Oil, Sunflowerseed",Feed Waste Dom. Cons.,161,(1000 MT),2729,True
+"Oil, Sunflowerseed",Food Use Dom. Cons.,149,(1000 MT),2729,True
+"Oil, Sunflowerseed",Imports,057,(1000 MT),2729,True
+"Oil, Sunflowerseed",Industrial Dom. Cons.,140,(1000 MT),2729,True
+"Oil, Sunflowerseed",Production,028,(1000 MT),2729,True
+"Oil, Sunflowerseed",Total Distribution,178,(1000 MT),2729,True
+"Oil, Sunflowerseed",Total Supply,086,(1000 MT),2729,True
+"Oilseed, Copra",Beginning Stocks,020,(1000 MT),1915,True
+"Oilseed, Copra",Crush,007,(1000 MT),1915,True
+"Oilseed, Copra",Domestic Consumption,125,(1000 MT),1915,True
+"Oilseed, Copra",Ending Stocks,176,(1000 MT),1915,True
+"Oilseed, Copra",Exports,088,(1000 MT),1915,True
+"Oilseed, Copra",Feed Waste Dom. Cons.,161,(1000 MT),1915,True
+"Oilseed, Copra",Food Use Dom. Cons.,149,(1000 MT),1915,True
+"Oilseed, Copra",Imports,057,(1000 MT),1915,True
+"Oilseed, Copra",Production,028,(1000 MT),1915,True
+"Oilseed, Copra",Total Distribution,178,(1000 MT),1915,True
+"Oilseed, Copra",Total Supply,086,(1000 MT),1915,True
+"Oilseed, Copra",Yield,184,(MT/HA),1852,False
+"Oilseed, Cottonseed",Area Harvested,004,(1000 HA),2402,True
+"Oilseed, Cottonseed",Beginning Stocks,020,(1000 MT),2402,True
+"Oilseed, Cottonseed",Crush,007,(1000 MT),2402,True
+"Oilseed, Cottonseed",Domestic Consumption,125,(1000 MT),2402,True
+"Oilseed, Cottonseed",Ending Stocks,176,(1000 MT),2402,True
+"Oilseed, Cottonseed",Exports,088,(1000 MT),2402,True
+"Oilseed, Cottonseed",Feed Waste Dom. Cons.,161,(1000 MT),2402,True
+"Oilseed, Cottonseed",Food Use Dom. Cons.,149,(1000 MT),2402,True
+"Oilseed, Cottonseed",Imports,057,(1000 MT),2402,True
+"Oilseed, Cottonseed",Production,028,(1000 MT),2402,True
+"Oilseed, Cottonseed",Seed to Lint Ratio,183,(RATIO),2341,False
+"Oilseed, Cottonseed",Total Distribution,178,(1000 MT),2402,True
+"Oilseed, Cottonseed",Total Supply,086,(1000 MT),2402,True
+"Oilseed, Cottonseed",Yield,184,(MT/HA),2341,False
+"Oilseed, Palm Kernel",Beginning Stocks,020,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Crush,007,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Domestic Consumption,125,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Ending Stocks,176,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Exports,088,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Feed Waste Dom. Cons.,161,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Food Use Dom. Cons.,149,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Imports,057,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Production,028,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Total Distribution,178,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Total Supply,086,(1000 MT),1819,True
+"Oilseed, Palm Kernel",Yield,184,(MT/HA),1752,False
+"Oilseed, Peanut",Area Harvested,004,(1000 HA),3090,True
+"Oilseed, Peanut",Beginning Stocks,020,(1000 MT),3090,True
+"Oilseed, Peanut",Crush,007,(1000 MT),3090,True
+"Oilseed, Peanut",Domestic Consumption,125,(1000 MT),3090,True
+"Oilseed, Peanut",Ending Stocks,176,(1000 MT),3090,True
+"Oilseed, Peanut",Exports,088,(1000 MT),3090,True
+"Oilseed, Peanut",Feed Waste Dom. Cons.,161,(1000 MT),3090,True
+"Oilseed, Peanut",Food Use Dom. Cons.,149,(1000 MT),3090,True
+"Oilseed, Peanut",Imports,057,(1000 MT),3090,True
+"Oilseed, Peanut",Production,028,(1000 MT),3090,True
+"Oilseed, Peanut",Total Distribution,178,(1000 MT),3090,True
+"Oilseed, Peanut",Total Supply,086,(1000 MT),3090,True
+"Oilseed, Peanut",Yield,184,(MT/HA),3035,False
+"Oilseed, Rapeseed",Area Harvested,004,(1000 HA),1994,True
+"Oilseed, Rapeseed",Beginning Stocks,020,(1000 MT),1994,True
+"Oilseed, Rapeseed",Crush,007,(1000 MT),1994,True
+"Oilseed, Rapeseed",Domestic Consumption,125,(1000 MT),1994,True
+"Oilseed, Rapeseed",Ending Stocks,176,(1000 MT),1994,True
+"Oilseed, Rapeseed",Exports,088,(1000 MT),1994,True
+"Oilseed, Rapeseed",Feed Waste Dom. Cons.,161,(1000 MT),1994,True
+"Oilseed, Rapeseed",Food Use Dom. Cons.,149,(1000 MT),1994,True
+"Oilseed, Rapeseed",Imports,057,(1000 MT),1994,True
+"Oilseed, Rapeseed",Production,028,(1000 MT),1994,True
+"Oilseed, Rapeseed",Total Distribution,178,(1000 MT),1994,True
+"Oilseed, Rapeseed",Total Supply,086,(1000 MT),1994,True
+"Oilseed, Rapeseed",Yield,184,(MT/HA),1931,False
+"Oilseed, Soybean",Area Harvested,004,(1000 HA),3871,True
+"Oilseed, Soybean",Beginning Stocks,020,(1000 MT),3871,True
+"Oilseed, Soybean",Crush,007,(1000 MT),3871,True
+"Oilseed, Soybean",Domestic Consumption,125,(1000 MT),3871,True
+"Oilseed, Soybean",Ending Stocks,176,(1000 MT),3871,True
+"Oilseed, Soybean",Exports,088,(1000 MT),3871,True
+"Oilseed, Soybean",Feed Waste Dom. Cons.,161,(1000 MT),3871,True
+"Oilseed, Soybean",Food Use Dom. Cons.,149,(1000 MT),3871,True
+"Oilseed, Soybean",Imports,057,(1000 MT),3871,True
+"Oilseed, Soybean",Production,028,(1000 MT),3871,True
+"Oilseed, Soybean",Total Distribution,178,(1000 MT),3871,True
+"Oilseed, Soybean",Total Supply,086,(1000 MT),3871,True
+"Oilseed, Soybean",Yield,184,(MT/HA),3808,False
+"Oilseed, Soybean (Local)",Area Harvested,004,(1000 HA),189,True
+"Oilseed, Soybean (Local)",Beginning Stocks,020,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Crush,007,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Domestic Consumption,125,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Ending Stocks,176,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Exports,088,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Feed Waste Dom. Cons.,161,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Food Use Dom. Cons.,149,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Imports,057,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Production,028,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Total Distribution,178,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Total Supply,086,(1000 MT),189,True
+"Oilseed, Soybean (Local)",Yield,184,(MT/HA),126,False
+"Oilseed, Sunflowerseed",Area Harvested,004,(1000 HA),2038,True
+"Oilseed, Sunflowerseed",Beginning Stocks,020,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Crush,007,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Domestic Consumption,125,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Ending Stocks,176,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Exports,088,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Feed Waste Dom. Cons.,161,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Food Use Dom. Cons.,149,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Imports,057,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Production,028,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Total Distribution,178,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Total Supply,086,(1000 MT),2038,True
+"Oilseed, Sunflowerseed",Yield,184,(MT/HA),1975,False
+"Poultry, Meat, Broiler",Annual % Change Per Cap. Cons.,220,(PERCENT),977,False
+"Poultry, Meat, Broiler",Beginning Stocks,020,(1000 MT),2526,True
+"Poultry, Meat, Broiler",Domestic Consumption,125,(1000 MT),2526,True
+"Poultry, Meat, Broiler",Ending Stocks,176,(1000 MT),2526,True
+"Poultry, Meat, Broiler",Exports,088,(1000 MT),2526,True
+"Poultry, Meat, Broiler",Imports,057,(1000 MT),2526,True
+"Poultry, Meat, Broiler",Production,028,(1000 MT),2526,True
+"Poultry, Meat, Broiler",Total Distribution,178,(1000 MT),2526,True
+"Poultry, Meat, Broiler",Total Supply,086,(1000 MT),2526,True
+"Poultry, Meat, Broiler",Total Use,174,(1000 MT),2526,True
+"Rice, Milled",Area Harvested,004,(1000 HA),7683,True
+"Rice, Milled",Beginning Stocks,020,(1000 MT),7683,True
+"Rice, Milled",Domestic Consumption,125,(1000 MT),7683,True
+"Rice, Milled",Ending Stocks,176,(1000 MT),7683,True
+"Rice, Milled",Exports,088,(1000 MT),7683,True
+"Rice, Milled",Imports,057,(1000 MT),7683,True
+"Rice, Milled",Milling Rate (.9999),182,(1000 MT),7616,False
+"Rice, Milled",Production,028,(1000 MT),7683,True
+"Rice, Milled",Rough Production,054,(1000 MT),7683,True
+"Rice, Milled",TY Exports,113,(1000 MT),7683,True
+"Rice, Milled",TY Imp. from U.S.,084,(1000 MT),7683,True
+"Rice, Milled",TY Imports,081,(1000 MT),7683,True
+"Rice, Milled",Total Distribution,178,(1000 MT),7683,True
+"Rice, Milled",Total Supply,086,(1000 MT),7683,True
+"Rice, Milled",Yield,184,(MT/HA),7616,False
+Rye,Area Harvested,004,(1000 HA),1632,True
+Rye,Beginning Stocks,020,(1000 MT),1632,True
+Rye,Domestic Consumption,125,(1000 MT),1632,True
+Rye,Ending Stocks,176,(1000 MT),1632,True
+Rye,Exports,088,(1000 MT),1632,True
+Rye,FSI Consumption,192,(1000 MT),1632,True
+Rye,Feed Dom. Consumption,130,(1000 MT),1632,True
+Rye,Imports,057,(1000 MT),1632,True
+Rye,Production,028,(1000 MT),1632,True
+Rye,TY Exports,113,(1000 MT),1632,True
+Rye,TY Imp. from U.S.,084,(1000 MT),1632,True
+Rye,TY Imports,081,(1000 MT),1632,True
+Rye,Total Distribution,178,(1000 MT),1632,True
+Rye,Total Supply,086,(1000 MT),1632,True
+Rye,Yield,184,(MT/HA),1565,False
+Sorghum,Area Harvested,004,(1000 HA),4332,True
+Sorghum,Beginning Stocks,020,(1000 MT),4332,True
+Sorghum,Domestic Consumption,125,(1000 MT),4332,True
+Sorghum,Ending Stocks,176,(1000 MT),4332,True
+Sorghum,Exports,088,(1000 MT),4332,True
+Sorghum,FSI Consumption,192,(1000 MT),4332,True
+Sorghum,Feed Dom. Consumption,130,(1000 MT),4332,True
+Sorghum,Imports,057,(1000 MT),4332,True
+Sorghum,Production,028,(1000 MT),4332,True
+Sorghum,TY Exports,113,(1000 MT),4332,True
+Sorghum,TY Imp. from U.S.,084,(1000 MT),4332,True
+Sorghum,TY Imports,081,(1000 MT),4332,True
+Sorghum,Total Distribution,178,(1000 MT),4332,True
+Sorghum,Total Supply,086,(1000 MT),4332,True
+Sorghum,Yield,184,(MT/HA),4265,False
+"Sugar, Centrifugal",Beet Sugar Production,030,(1000 MT),9568,True
+"Sugar, Centrifugal",Beginning Stocks,020,(1000 MT),9568,True
+"Sugar, Centrifugal",Cane Sugar Production,043,(1000 MT),9568,True
+"Sugar, Centrifugal",Ending Stocks,176,(1000 MT),9568,True
+"Sugar, Centrifugal",Exports,088,(1000 MT),9568,True
+"Sugar, Centrifugal",Human Dom. Consumption,139,(1000 MT),9568,True
+"Sugar, Centrifugal",Imports,057,(1000 MT),9568,True
+"Sugar, Centrifugal",Other Disappearance,151,(1000 MT),9568,True
+"Sugar, Centrifugal",Production,028,(1000 MT),9568,True
+"Sugar, Centrifugal",Raw Exports,089,(1000 MT),9568,True
+"Sugar, Centrifugal",Raw Imports,064,(1000 MT),9568,True
+"Sugar, Centrifugal",Refined Exp.(Raw Val),099,(1000 MT),9568,True
+"Sugar, Centrifugal",Refined Imp.(Raw Val),074,(1000 MT),9568,True
+"Sugar, Centrifugal",Total Disappearance,126,(1000 MT),9568,True
+"Sugar, Centrifugal",Total Distribution,178,(1000 MT),9568,True
+"Sugar, Centrifugal",Total Supply,086,(1000 MT),9568,True
+Wheat,Area Harvested,004,(1000 HA),7821,True
+Wheat,Beginning Stocks,020,(1000 MT),7821,True
+Wheat,Domestic Consumption,125,(1000 MT),7821,True
+Wheat,Ending Stocks,176,(1000 MT),7821,True
+Wheat,Exports,088,(1000 MT),7821,True
+Wheat,FSI Consumption,192,(1000 MT),7821,True
+Wheat,Feed Dom. Consumption,130,(1000 MT),7821,True
+Wheat,Imports,057,(1000 MT),7821,True
+Wheat,Production,028,(1000 MT),7821,True
+Wheat,TY Exports,113,(1000 MT),7821,True
+Wheat,TY Imp. from U.S.,084,(1000 MT),7821,True
+Wheat,TY Imports,081,(1000 MT),7821,True
+Wheat,Total Distribution,178,(1000 MT),7821,True
+Wheat,Total Supply,086,(1000 MT),7821,True
+Wheat,Yield,184,(MT/HA),7754,False

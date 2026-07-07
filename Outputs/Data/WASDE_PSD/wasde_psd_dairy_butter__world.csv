@@ -1,0 +1,568 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Dairy, Butter",World,1964,Beginning Stocks,(1000 MT),254.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1965,Beginning Stocks,(1000 MT),233.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1966,Beginning Stocks,(1000 MT),304.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1967,Beginning Stocks,(1000 MT),358.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1968,Beginning Stocks,(1000 MT),465.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1969,Beginning Stocks,(1000 MT),605.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1970,Beginning Stocks,(1000 MT),619.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1971,Beginning Stocks,(1000 MT),415.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1972,Beginning Stocks,(1000 MT),308.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1973,Beginning Stocks,(1000 MT),573.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1974,Beginning Stocks,(1000 MT),445.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1975,Beginning Stocks,(1000 MT),400.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1976,Beginning Stocks,(1000 MT),496.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1977,Beginning Stocks,(1000 MT),607.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1978,Beginning Stocks,(1000 MT),671.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1979,Beginning Stocks,(1000 MT),870.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1980,Beginning Stocks,(1000 MT),766.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1981,Beginning Stocks,(1000 MT),652.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1982,Beginning Stocks,(1000 MT),634.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1983,Beginning Stocks,(1000 MT),946.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1984,Beginning Stocks,(1000 MT),1465.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1985,Beginning Stocks,(1000 MT),1644.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1986,Beginning Stocks,(1000 MT),1749.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1987,Beginning Stocks,(1000 MT),2084.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1988,Beginning Stocks,(1000 MT),1436.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1989,Beginning Stocks,(1000 MT),637.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1990,Beginning Stocks,(1000 MT),517.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1991,Beginning Stocks,(1000 MT),689.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1992,Beginning Stocks,(1000 MT),856.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1993,Beginning Stocks,(1000 MT),762.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1994,Beginning Stocks,(1000 MT),662.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1995,Beginning Stocks,(1000 MT),438.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1996,Beginning Stocks,(1000 MT),463.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1997,Beginning Stocks,(1000 MT),342.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1998,Beginning Stocks,(1000 MT),274.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1999,Beginning Stocks,(1000 MT),276.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2000,Beginning Stocks,(1000 MT),340.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2001,Beginning Stocks,(1000 MT),325.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2002,Beginning Stocks,(1000 MT),359.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2003,Beginning Stocks,(1000 MT),453.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2004,Beginning Stocks,(1000 MT),432.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2005,Beginning Stocks,(1000 MT),372.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2006,Beginning Stocks,(1000 MT),359.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2007,Beginning Stocks,(1000 MT),263.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2008,Beginning Stocks,(1000 MT),186.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2009,Beginning Stocks,(1000 MT),235.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2010,Beginning Stocks,(1000 MT),257.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2011,Beginning Stocks,(1000 MT),175.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2012,Beginning Stocks,(1000 MT),213.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2013,Beginning Stocks,(1000 MT),247.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2014,Beginning Stocks,(1000 MT),231.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2015,Beginning Stocks,(1000 MT),251.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2016,Beginning Stocks,(1000 MT),332.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2017,Beginning Stocks,(1000 MT),314.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2018,Beginning Stocks,(1000 MT),334.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2019,Beginning Stocks,(1000 MT),359.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2020,Beginning Stocks,(1000 MT),333.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2021,Beginning Stocks,(1000 MT),390.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2022,Beginning Stocks,(1000 MT),348.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2023,Beginning Stocks,(1000 MT),320.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2024,Beginning Stocks,(1000 MT),255.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2025,Beginning Stocks,(1000 MT),268.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2026,Beginning Stocks,(1000 MT),251.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1964,Domestic Consumption,(1000 MT),4240.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1965,Domestic Consumption,(1000 MT),4458.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1966,Domestic Consumption,(1000 MT),4494.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1967,Domestic Consumption,(1000 MT),5087.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1968,Domestic Consumption,(1000 MT),5103.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1969,Domestic Consumption,(1000 MT),5016.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1970,Domestic Consumption,(1000 MT),5100.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1971,Domestic Consumption,(1000 MT),5109.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1972,Domestic Consumption,(1000 MT),5138.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1973,Domestic Consumption,(1000 MT),5585.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1974,Domestic Consumption,(1000 MT),5469.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1975,Domestic Consumption,(1000 MT),5600.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1976,Domestic Consumption,(1000 MT),5674.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1977,Domestic Consumption,(1000 MT),5837.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1978,Domestic Consumption,(1000 MT),5743.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1979,Domestic Consumption,(1000 MT),5977.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1980,Domestic Consumption,(1000 MT),5982.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1981,Domestic Consumption,(1000 MT),5776.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1982,Domestic Consumption,(1000 MT),5721.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1983,Domestic Consumption,(1000 MT),6066.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1984,Domestic Consumption,(1000 MT),6219.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1985,Domestic Consumption,(1000 MT),6443.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1986,Domestic Consumption,(1000 MT),6568.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1987,Domestic Consumption,(1000 MT),6963.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1988,Domestic Consumption,(1000 MT),7070.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1989,Domestic Consumption,(1000 MT),6404.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1990,Domestic Consumption,(1000 MT),6382.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1991,Domestic Consumption,(1000 MT),5893.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1992,Domestic Consumption,(1000 MT),5875.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1993,Domestic Consumption,(1000 MT),5286.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1994,Domestic Consumption,(1000 MT),5188.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1995,Domestic Consumption,(1000 MT),4966.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1996,Domestic Consumption,(1000 MT),4844.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1997,Domestic Consumption,(1000 MT),4927.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1998,Domestic Consumption,(1000 MT),5089.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1999,Domestic Consumption,(1000 MT),5259.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2000,Domestic Consumption,(1000 MT),5429.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2001,Domestic Consumption,(1000 MT),5797.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2002,Domestic Consumption,(1000 MT),6072.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2003,Domestic Consumption,(1000 MT),6162.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2004,Domestic Consumption,(1000 MT),6290.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2005,Domestic Consumption,(1000 MT),6399.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2006,Domestic Consumption,(1000 MT),6801.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2007,Domestic Consumption,(1000 MT),7321.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2008,Domestic Consumption,(1000 MT),7501.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2009,Domestic Consumption,(1000 MT),7601.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2010,Domestic Consumption,(1000 MT),7850.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2011,Domestic Consumption,(1000 MT),8271.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2012,Domestic Consumption,(1000 MT),8629.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2013,Domestic Consumption,(1000 MT),8874.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2014,Domestic Consumption,(1000 MT),9217.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2015,Domestic Consumption,(1000 MT),9373.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2016,Domestic Consumption,(1000 MT),9411.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2017,Domestic Consumption,(1000 MT),9703.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2018,Domestic Consumption,(1000 MT),9949.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2019,Domestic Consumption,(1000 MT),10317.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2020,Domestic Consumption,(1000 MT),10680.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2021,Domestic Consumption,(1000 MT),10876.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2022,Domestic Consumption,(1000 MT),10962.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2023,Domestic Consumption,(1000 MT),11332.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2024,Domestic Consumption,(1000 MT),11559.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2025,Domestic Consumption,(1000 MT),11826.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2026,Domestic Consumption,(1000 MT),12188.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1964,Ending Stocks,(1000 MT),233.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1965,Ending Stocks,(1000 MT),304.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1966,Ending Stocks,(1000 MT),439.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1967,Ending Stocks,(1000 MT),465.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1968,Ending Stocks,(1000 MT),605.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1969,Ending Stocks,(1000 MT),619.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1970,Ending Stocks,(1000 MT),415.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1971,Ending Stocks,(1000 MT),308.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1972,Ending Stocks,(1000 MT),568.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1973,Ending Stocks,(1000 MT),445.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1974,Ending Stocks,(1000 MT),400.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1975,Ending Stocks,(1000 MT),496.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1976,Ending Stocks,(1000 MT),602.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1977,Ending Stocks,(1000 MT),676.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1978,Ending Stocks,(1000 MT),870.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1979,Ending Stocks,(1000 MT),763.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1980,Ending Stocks,(1000 MT),652.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1981,Ending Stocks,(1000 MT),634.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1982,Ending Stocks,(1000 MT),946.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1983,Ending Stocks,(1000 MT),1465.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1984,Ending Stocks,(1000 MT),1642.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1985,Ending Stocks,(1000 MT),1746.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1986,Ending Stocks,(1000 MT),2087.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1987,Ending Stocks,(1000 MT),1436.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1988,Ending Stocks,(1000 MT),640.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1989,Ending Stocks,(1000 MT),518.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1990,Ending Stocks,(1000 MT),747.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1991,Ending Stocks,(1000 MT),855.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1992,Ending Stocks,(1000 MT),779.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1993,Ending Stocks,(1000 MT),671.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1994,Ending Stocks,(1000 MT),439.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1995,Ending Stocks,(1000 MT),463.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1996,Ending Stocks,(1000 MT),476.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1997,Ending Stocks,(1000 MT),274.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1998,Ending Stocks,(1000 MT),338.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1999,Ending Stocks,(1000 MT),344.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2000,Ending Stocks,(1000 MT),325.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2001,Ending Stocks,(1000 MT),359.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2002,Ending Stocks,(1000 MT),453.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2003,Ending Stocks,(1000 MT),432.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2004,Ending Stocks,(1000 MT),372.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2005,Ending Stocks,(1000 MT),359.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2006,Ending Stocks,(1000 MT),263.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2007,Ending Stocks,(1000 MT),186.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2008,Ending Stocks,(1000 MT),235.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2009,Ending Stocks,(1000 MT),257.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2010,Ending Stocks,(1000 MT),176.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2011,Ending Stocks,(1000 MT),213.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2012,Ending Stocks,(1000 MT),247.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2013,Ending Stocks,(1000 MT),231.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2014,Ending Stocks,(1000 MT),251.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2015,Ending Stocks,(1000 MT),332.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2016,Ending Stocks,(1000 MT),314.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2017,Ending Stocks,(1000 MT),334.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2018,Ending Stocks,(1000 MT),359.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2019,Ending Stocks,(1000 MT),333.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2020,Ending Stocks,(1000 MT),390.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2021,Ending Stocks,(1000 MT),348.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2022,Ending Stocks,(1000 MT),320.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2023,Ending Stocks,(1000 MT),255.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2024,Ending Stocks,(1000 MT),268.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2025,Ending Stocks,(1000 MT),251.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2026,Ending Stocks,(1000 MT),241.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1964,Exports,(1000 MT),588.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1965,Exports,(1000 MT),644.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1966,Exports,(1000 MT),727.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1967,Exports,(1000 MT),741.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1968,Exports,(1000 MT),744.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1969,Exports,(1000 MT),727.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1970,Exports,(1000 MT),948.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1971,Exports,(1000 MT),788.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1972,Exports,(1000 MT),675.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1973,Exports,(1000 MT),1080.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1974,Exports,(1000 MT),958.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1975,Exports,(1000 MT),895.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1976,Exports,(1000 MT),994.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1977,Exports,(1000 MT),1001.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1978,Exports,(1000 MT),1027.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1979,Exports,(1000 MT),1233.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1980,Exports,(1000 MT),1355.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1981,Exports,(1000 MT),1343.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1982,Exports,(1000 MT),1312.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1983,Exports,(1000 MT),1197.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1984,Exports,(1000 MT),1337.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1985,Exports,(1000 MT),1400.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1986,Exports,(1000 MT),1310.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1987,Exports,(1000 MT),1820.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1988,Exports,(1000 MT),2090.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1989,Exports,(1000 MT),1769.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1990,Exports,(1000 MT),1368.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1991,Exports,(1000 MT),1410.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1992,Exports,(1000 MT),1442.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1993,Exports,(1000 MT),1422.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1994,Exports,(1000 MT),1320.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1995,Exports,(1000 MT),1233.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1996,Exports,(1000 MT),1131.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1997,Exports,(1000 MT),749.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1998,Exports,(1000 MT),627.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1999,Exports,(1000 MT),630.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2000,Exports,(1000 MT),752.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2001,Exports,(1000 MT),727.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2002,Exports,(1000 MT),831.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2003,Exports,(1000 MT),875.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2004,Exports,(1000 MT),870.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2005,Exports,(1000 MT),816.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2006,Exports,(1000 MT),879.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2007,Exports,(1000 MT),839.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2008,Exports,(1000 MT),754.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2009,Exports,(1000 MT),878.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2010,Exports,(1000 MT),780.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2011,Exports,(1000 MT),771.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2012,Exports,(1000 MT),820.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2013,Exports,(1000 MT),869.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2014,Exports,(1000 MT),928.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2015,Exports,(1000 MT),908.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2016,Exports,(1000 MT),1100.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2017,Exports,(1000 MT),966.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2018,Exports,(1000 MT),1048.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2019,Exports,(1000 MT),1094.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2020,Exports,(1000 MT),1027.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2021,Exports,(1000 MT),990.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2022,Exports,(1000 MT),1053.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2023,Exports,(1000 MT),1047.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2024,Exports,(1000 MT),1042.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2025,Exports,(1000 MT),1173.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2026,Exports,(1000 MT),1117.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1964,Imports,(1000 MT),649.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1965,Imports,(1000 MT),619.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1966,Imports,(1000 MT),700.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1967,Imports,(1000 MT),626.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1968,Imports,(1000 MT),601.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1969,Imports,(1000 MT),598.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1970,Imports,(1000 MT),683.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1971,Imports,(1000 MT),651.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1972,Imports,(1000 MT),596.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1973,Imports,(1000 MT),946.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1974,Imports,(1000 MT),818.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1975,Imports,(1000 MT),843.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1976,Imports,(1000 MT),747.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1977,Imports,(1000 MT),700.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1978,Imports,(1000 MT),739.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1979,Imports,(1000 MT),847.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1980,Imports,(1000 MT),932.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1981,Imports,(1000 MT),1026.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1982,Imports,(1000 MT),970.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1983,Imports,(1000 MT),864.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1984,Imports,(1000 MT),876.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1985,Imports,(1000 MT),1016.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1986,Imports,(1000 MT),999.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1987,Imports,(1000 MT),1398.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1988,Imports,(1000 MT),1760.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1989,Imports,(1000 MT),1307.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1990,Imports,(1000 MT),1183.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1991,Imports,(1000 MT),1163.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1992,Imports,(1000 MT),1184.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1993,Imports,(1000 MT),960.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1994,Imports,(1000 MT),937.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1995,Imports,(1000 MT),1006.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1996,Imports,(1000 MT),852.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1997,Imports,(1000 MT),441.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1998,Imports,(1000 MT),377.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1999,Imports,(1000 MT),286.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2000,Imports,(1000 MT),303.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2001,Imports,(1000 MT),361.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2002,Imports,(1000 MT),402.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2003,Imports,(1000 MT),439.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2004,Imports,(1000 MT),448.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2005,Imports,(1000 MT),378.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2006,Imports,(1000 MT),392.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2007,Imports,(1000 MT),431.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2008,Imports,(1000 MT),334.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2009,Imports,(1000 MT),380.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2010,Imports,(1000 MT),308.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2011,Imports,(1000 MT),323.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2012,Imports,(1000 MT),367.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2013,Imports,(1000 MT),376.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2014,Imports,(1000 MT),417.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2015,Imports,(1000 MT),363.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2016,Imports,(1000 MT),555.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2017,Imports,(1000 MT),528.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2018,Imports,(1000 MT),570.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2019,Imports,(1000 MT),610.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2020,Imports,(1000 MT),611.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2021,Imports,(1000 MT),572.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2022,Imports,(1000 MT),584.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2023,Imports,(1000 MT),570.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2024,Imports,(1000 MT),623.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2025,Imports,(1000 MT),661.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2026,Imports,(1000 MT),673.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1964,Production,(1000 MT),4163.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1965,Production,(1000 MT),4557.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1966,Production,(1000 MT),4660.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1967,Production,(1000 MT),5309.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1968,Production,(1000 MT),5388.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1969,Production,(1000 MT),5161.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1970,Production,(1000 MT),5162.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1971,Production,(1000 MT),5142.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1972,Production,(1000 MT),5480.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1973,Production,(1000 MT),5593.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1974,Production,(1000 MT),5564.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1975,Production,(1000 MT),5748.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1976,Production,(1000 MT),6027.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1977,Production,(1000 MT),6207.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1978,Production,(1000 MT),6230.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1979,Production,(1000 MT),6256.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1980,Production,(1000 MT),6291.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1981,Production,(1000 MT),6075.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1982,Production,(1000 MT),6375.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1983,Production,(1000 MT),6918.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1984,Production,(1000 MT),6857.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1985,Production,(1000 MT),6929.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1986,Production,(1000 MT),7217.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1987,Production,(1000 MT),6737.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1988,Production,(1000 MT),6604.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1989,Production,(1000 MT),6747.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1990,Production,(1000 MT),6797.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1991,Production,(1000 MT),6306.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1992,Production,(1000 MT),6056.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1993,Production,(1000 MT),5657.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1994,Production,(1000 MT),5348.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1995,Production,(1000 MT),5218.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1996,Production,(1000 MT),5136.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1997,Production,(1000 MT),5167.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1998,Production,(1000 MT),5403.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1999,Production,(1000 MT),5671.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2000,Production,(1000 MT),5863.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2001,Production,(1000 MT),6197.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2002,Production,(1000 MT),6595.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2003,Production,(1000 MT),6577.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2004,Production,(1000 MT),6652.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2005,Production,(1000 MT),6824.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2006,Production,(1000 MT),7192.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2007,Production,(1000 MT),7652.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2008,Production,(1000 MT),7970.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2009,Production,(1000 MT),8121.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2010,Production,(1000 MT),8241.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2011,Production,(1000 MT),8757.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2012,Production,(1000 MT),9116.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2013,Production,(1000 MT),9351.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2014,Production,(1000 MT),9748.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2015,Production,(1000 MT),9999.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2016,Production,(1000 MT),9938.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2017,Production,(1000 MT),10161.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2018,Production,(1000 MT),10452.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2019,Production,(1000 MT),10775.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2020,Production,(1000 MT),11153.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2021,Production,(1000 MT),11252.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2022,Production,(1000 MT),11403.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2023,Production,(1000 MT),11744.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2024,Production,(1000 MT),11991.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2025,Production,(1000 MT),12321.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2026,Production,(1000 MT),12622.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1964,Total Distribution,(1000 MT),5061.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1965,Total Distribution,(1000 MT),5406.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1966,Total Distribution,(1000 MT),5660.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1967,Total Distribution,(1000 MT),6293.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1968,Total Distribution,(1000 MT),6452.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1969,Total Distribution,(1000 MT),6362.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1970,Total Distribution,(1000 MT),6463.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1971,Total Distribution,(1000 MT),6205.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1972,Total Distribution,(1000 MT),6381.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1973,Total Distribution,(1000 MT),7110.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1974,Total Distribution,(1000 MT),6827.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1975,Total Distribution,(1000 MT),6991.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1976,Total Distribution,(1000 MT),7270.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1977,Total Distribution,(1000 MT),7514.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1978,Total Distribution,(1000 MT),7640.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1979,Total Distribution,(1000 MT),7973.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1980,Total Distribution,(1000 MT),7989.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1981,Total Distribution,(1000 MT),7753.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1982,Total Distribution,(1000 MT),7979.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1983,Total Distribution,(1000 MT),8728.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1984,Total Distribution,(1000 MT),9198.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1985,Total Distribution,(1000 MT),9589.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1986,Total Distribution,(1000 MT),9965.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1987,Total Distribution,(1000 MT),10219.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1988,Total Distribution,(1000 MT),9800.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1989,Total Distribution,(1000 MT),8691.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1990,Total Distribution,(1000 MT),8497.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1991,Total Distribution,(1000 MT),8158.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1992,Total Distribution,(1000 MT),8096.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1993,Total Distribution,(1000 MT),7379.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1994,Total Distribution,(1000 MT),6947.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1995,Total Distribution,(1000 MT),6662.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1996,Total Distribution,(1000 MT),6451.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1997,Total Distribution,(1000 MT),5950.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1998,Total Distribution,(1000 MT),6054.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1999,Total Distribution,(1000 MT),6233.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2000,Total Distribution,(1000 MT),6506.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2001,Total Distribution,(1000 MT),6883.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2002,Total Distribution,(1000 MT),7356.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2003,Total Distribution,(1000 MT),7469.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2004,Total Distribution,(1000 MT),7532.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2005,Total Distribution,(1000 MT),7574.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2006,Total Distribution,(1000 MT),7943.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2007,Total Distribution,(1000 MT),8346.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2008,Total Distribution,(1000 MT),8490.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2009,Total Distribution,(1000 MT),8736.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2010,Total Distribution,(1000 MT),8806.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2011,Total Distribution,(1000 MT),9255.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2012,Total Distribution,(1000 MT),9696.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2013,Total Distribution,(1000 MT),9974.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2014,Total Distribution,(1000 MT),10396.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2015,Total Distribution,(1000 MT),10613.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2016,Total Distribution,(1000 MT),10825.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2017,Total Distribution,(1000 MT),11003.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2018,Total Distribution,(1000 MT),11356.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2019,Total Distribution,(1000 MT),11744.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2020,Total Distribution,(1000 MT),12097.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2021,Total Distribution,(1000 MT),12214.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2022,Total Distribution,(1000 MT),12335.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2023,Total Distribution,(1000 MT),12634.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2024,Total Distribution,(1000 MT),12869.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2025,Total Distribution,(1000 MT),13250.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2026,Total Distribution,(1000 MT),13546.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1964,Total Supply,(1000 MT),5066.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1965,Total Supply,(1000 MT),5409.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1966,Total Supply,(1000 MT),5664.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1967,Total Supply,(1000 MT),6293.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1968,Total Supply,(1000 MT),6454.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1969,Total Supply,(1000 MT),6364.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1970,Total Supply,(1000 MT),6464.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1971,Total Supply,(1000 MT),6208.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1972,Total Supply,(1000 MT),6384.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1973,Total Supply,(1000 MT),7112.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1974,Total Supply,(1000 MT),6827.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1975,Total Supply,(1000 MT),6991.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1976,Total Supply,(1000 MT),7270.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1977,Total Supply,(1000 MT),7514.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1978,Total Supply,(1000 MT),7640.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1979,Total Supply,(1000 MT),7973.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1980,Total Supply,(1000 MT),7989.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1981,Total Supply,(1000 MT),7753.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1982,Total Supply,(1000 MT),7979.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1983,Total Supply,(1000 MT),8728.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1984,Total Supply,(1000 MT),9198.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1985,Total Supply,(1000 MT),9589.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1986,Total Supply,(1000 MT),9965.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1987,Total Supply,(1000 MT),10219.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1988,Total Supply,(1000 MT),9800.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1989,Total Supply,(1000 MT),8691.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1990,Total Supply,(1000 MT),8497.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1991,Total Supply,(1000 MT),8158.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1992,Total Supply,(1000 MT),8096.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1993,Total Supply,(1000 MT),7379.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1994,Total Supply,(1000 MT),6947.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1995,Total Supply,(1000 MT),6662.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1996,Total Supply,(1000 MT),6451.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1997,Total Supply,(1000 MT),5950.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1998,Total Supply,(1000 MT),6054.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1999,Total Supply,(1000 MT),6233.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2000,Total Supply,(1000 MT),6506.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2001,Total Supply,(1000 MT),6883.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2002,Total Supply,(1000 MT),7356.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2003,Total Supply,(1000 MT),7469.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2004,Total Supply,(1000 MT),7532.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2005,Total Supply,(1000 MT),7574.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2006,Total Supply,(1000 MT),7943.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2007,Total Supply,(1000 MT),8346.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2008,Total Supply,(1000 MT),8490.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2009,Total Supply,(1000 MT),8736.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2010,Total Supply,(1000 MT),8806.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2011,Total Supply,(1000 MT),9255.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2012,Total Supply,(1000 MT),9696.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2013,Total Supply,(1000 MT),9974.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2014,Total Supply,(1000 MT),10396.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2015,Total Supply,(1000 MT),10613.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2016,Total Supply,(1000 MT),10825.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2017,Total Supply,(1000 MT),11003.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2018,Total Supply,(1000 MT),11356.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2019,Total Supply,(1000 MT),11744.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2020,Total Supply,(1000 MT),12097.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2021,Total Supply,(1000 MT),12214.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2022,Total Supply,(1000 MT),12335.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2023,Total Supply,(1000 MT),12634.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2024,Total Supply,(1000 MT),12869.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2025,Total Supply,(1000 MT),13250.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2026,Total Supply,(1000 MT),13546.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1964,Total Use,(1000 MT),4828.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1965,Total Use,(1000 MT),5102.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1966,Total Use,(1000 MT),5221.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1967,Total Use,(1000 MT),5828.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1968,Total Use,(1000 MT),5847.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1969,Total Use,(1000 MT),5743.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1970,Total Use,(1000 MT),6048.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1971,Total Use,(1000 MT),5897.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1972,Total Use,(1000 MT),5813.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1973,Total Use,(1000 MT),6665.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1974,Total Use,(1000 MT),6427.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1975,Total Use,(1000 MT),6495.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1976,Total Use,(1000 MT),6668.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1977,Total Use,(1000 MT),6838.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1978,Total Use,(1000 MT),6770.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1979,Total Use,(1000 MT),7210.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1980,Total Use,(1000 MT),7337.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1981,Total Use,(1000 MT),7119.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1982,Total Use,(1000 MT),7033.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1983,Total Use,(1000 MT),7263.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1984,Total Use,(1000 MT),7556.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1985,Total Use,(1000 MT),7843.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1986,Total Use,(1000 MT),7878.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1987,Total Use,(1000 MT),8783.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1988,Total Use,(1000 MT),9160.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1989,Total Use,(1000 MT),8173.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1990,Total Use,(1000 MT),7750.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1991,Total Use,(1000 MT),7303.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1992,Total Use,(1000 MT),7317.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1993,Total Use,(1000 MT),6708.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1994,Total Use,(1000 MT),6508.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1995,Total Use,(1000 MT),6199.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1996,Total Use,(1000 MT),5975.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1997,Total Use,(1000 MT),5676.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1998,Total Use,(1000 MT),5716.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,1999,Total Use,(1000 MT),5889.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2000,Total Use,(1000 MT),6181.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2001,Total Use,(1000 MT),6524.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2002,Total Use,(1000 MT),6903.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2003,Total Use,(1000 MT),7037.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2004,Total Use,(1000 MT),7160.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2005,Total Use,(1000 MT),7215.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2006,Total Use,(1000 MT),7680.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2007,Total Use,(1000 MT),8160.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2008,Total Use,(1000 MT),8255.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2009,Total Use,(1000 MT),8479.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2010,Total Use,(1000 MT),8630.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2011,Total Use,(1000 MT),9042.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2012,Total Use,(1000 MT),9449.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2013,Total Use,(1000 MT),9743.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2014,Total Use,(1000 MT),10145.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2015,Total Use,(1000 MT),10281.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2016,Total Use,(1000 MT),10511.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2017,Total Use,(1000 MT),10669.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2018,Total Use,(1000 MT),10997.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2019,Total Use,(1000 MT),11411.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2020,Total Use,(1000 MT),11707.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2021,Total Use,(1000 MT),11866.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2022,Total Use,(1000 MT),12015.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2023,Total Use,(1000 MT),12379.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2024,Total Use,(1000 MT),12601.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2025,Total Use,(1000 MT),12999.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Butter",World,2026,Total Use,(1000 MT),13305.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

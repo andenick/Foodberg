@@ -1,0 +1,716 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Oilseed, Sunflowerseed",United States,1972,Area Harvested,(1000 HA),329.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Area Harvested,(1000 HA),301.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Area Harvested,(1000 HA),263.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Area Harvested,(1000 HA),481.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Area Harvested,(1000 HA),425.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Area Harvested,(1000 HA),959.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Area Harvested,(1000 HA),1132.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Area Harvested,(1000 HA),2189.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Area Harvested,(1000 HA),1490.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Area Harvested,(1000 HA),1542.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Area Harvested,(1000 HA),1912.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Area Harvested,(1000 HA),1240.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Area Harvested,(1000 HA),1494.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Area Harvested,(1000 HA),1151.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Area Harvested,(1000 HA),791.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Area Harvested,(1000 HA),718.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Area Harvested,(1000 HA),777.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Area Harvested,(1000 HA),723.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Area Harvested,(1000 HA),749.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Area Harvested,(1000 HA),1082.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Area Harvested,(1000 HA),827.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Area Harvested,(1000 HA),1006.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Area Harvested,(1000 HA),1388.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Area Harvested,(1000 HA),1363.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Area Harvested,(1000 HA),1003.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Area Harvested,(1000 HA),1130.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Area Harvested,(1000 HA),1413.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Area Harvested,(1000 HA),1393.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Area Harvested,(1000 HA),1071.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Area Harvested,(1000 HA),1034.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Area Harvested,(1000 HA),877.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Area Harvested,(1000 HA),889.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Area Harvested,(1000 HA),692.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Area Harvested,(1000 HA),1056.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Area Harvested,(1000 HA),716.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Area Harvested,(1000 HA),814.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Area Harvested,(1000 HA),970.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Area Harvested,(1000 HA),791.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Area Harvested,(1000 HA),758.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Area Harvested,(1000 HA),590.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Area Harvested,(1000 HA),745.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Area Harvested,(1000 HA),593.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Area Harvested,(1000 HA),609.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Area Harvested,(1000 HA),729.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Area Harvested,(1000 HA),620.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Area Harvested,(1000 HA),540.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Area Harvested,(1000 HA),491.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Area Harvested,(1000 HA),506.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Area Harvested,(1000 HA),673.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Area Harvested,(1000 HA),503.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Area Harvested,(1000 HA),647.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Area Harvested,(1000 HA),511.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Area Harvested,(1000 HA),277.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Area Harvested,(1000 HA),504.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Area Harvested,(1000 HA),537.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Beginning Stocks,(1000 MT),33.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Beginning Stocks,(1000 MT),23.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Beginning Stocks,(1000 MT),77.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Beginning Stocks,(1000 MT),90.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Beginning Stocks,(1000 MT),896.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Beginning Stocks,(1000 MT),182.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Beginning Stocks,(1000 MT),143.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Beginning Stocks,(1000 MT),297.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Beginning Stocks,(1000 MT),38.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Beginning Stocks,(1000 MT),91.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Beginning Stocks,(1000 MT),212.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Beginning Stocks,(1000 MT),253.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Beginning Stocks,(1000 MT),197.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Beginning Stocks,(1000 MT),80.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Beginning Stocks,(1000 MT),26.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Beginning Stocks,(1000 MT),88.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Beginning Stocks,(1000 MT),262.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Beginning Stocks,(1000 MT),69.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Beginning Stocks,(1000 MT),71.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Beginning Stocks,(1000 MT),103.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Beginning Stocks,(1000 MT),205.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Beginning Stocks,(1000 MT),196.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Beginning Stocks,(1000 MT),92.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Beginning Stocks,(1000 MT),231.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Beginning Stocks,(1000 MT),231.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Beginning Stocks,(1000 MT),156.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Beginning Stocks,(1000 MT),109.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Beginning Stocks,(1000 MT),199.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Beginning Stocks,(1000 MT),163.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Beginning Stocks,(1000 MT),90.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Beginning Stocks,(1000 MT),356.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Beginning Stocks,(1000 MT),137.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Beginning Stocks,(1000 MT),120.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Beginning Stocks,(1000 MT),223.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Beginning Stocks,(1000 MT),177.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Beginning Stocks,(1000 MT),117.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Beginning Stocks,(1000 MT),87.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Beginning Stocks,(1000 MT),154.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Beginning Stocks,(1000 MT),91.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Beginning Stocks,(1000 MT),108.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Beginning Stocks,(1000 MT),187.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Beginning Stocks,(1000 MT),267.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Beginning Stocks,(1000 MT),175.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Beginning Stocks,(1000 MT),130.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Beginning Stocks,(1000 MT),88.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Beginning Stocks,(1000 MT),179.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Beginning Stocks,(1000 MT),134.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Beginning Stocks,(1000 MT),166.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Beginning Stocks,(1000 MT),259.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Beginning Stocks,(1000 MT),95.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Beginning Stocks,(1000 MT),147.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Crush,(1000 MT),74.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Crush,(1000 MT),75.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Crush,(1000 MT),30.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Crush,(1000 MT),180.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Crush,(1000 MT),35.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Crush,(1000 MT),219.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Crush,(1000 MT),292.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Crush,(1000 MT),547.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Crush,(1000 MT),780.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Crush,(1000 MT),374.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Crush,(1000 MT),766.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Crush,(1000 MT),591.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Crush,(1000 MT),567.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Crush,(1000 MT),674.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Crush,(1000 MT),635.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Crush,(1000 MT),900.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Crush,(1000 MT),575.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Crush,(1000 MT),546.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Crush,(1000 MT),593.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Crush,(1000 MT),952.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Crush,(1000 MT),923.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Crush,(1000 MT),661.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Crush,(1000 MT),1313.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Crush,(1000 MT),915.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Crush,(1000 MT),844.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Crush,(1000 MT),1061.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Crush,(1000 MT),1178.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Crush,(1000 MT),1139.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Crush,(1000 MT),923.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Crush,(1000 MT),760.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Crush,(1000 MT),319.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Crush,(1000 MT),627.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Crush,(1000 MT),276.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Crush,(1000 MT),566.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Crush,(1000 MT),659.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Crush,(1000 MT),683.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Crush,(1000 MT),661.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Crush,(1000 MT),776.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Crush,(1000 MT),588.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Crush,(1000 MT),349.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Crush,(1000 MT),451.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Crush,(1000 MT),463.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Crush,(1000 MT),366.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Crush,(1000 MT),495.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Crush,(1000 MT),508.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Crush,(1000 MT),475.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Crush,(1000 MT),485.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Crush,(1000 MT),389.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Crush,(1000 MT),504.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Crush,(1000 MT),435.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Crush,(1000 MT),411.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Crush,(1000 MT),378.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Crush,(1000 MT),361.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Crush,(1000 MT),450.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Crush,(1000 MT),432.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Domestic Consumption,(1000 MT),157.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Domestic Consumption,(1000 MT),148.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Domestic Consumption,(1000 MT),89.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Domestic Consumption,(1000 MT),270.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Domestic Consumption,(1000 MT),105.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Domestic Consumption,(1000 MT),337.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Domestic Consumption,(1000 MT),360.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Domestic Consumption,(1000 MT),693.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Domestic Consumption,(1000 MT),934.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Domestic Consumption,(1000 MT),551.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Domestic Consumption,(1000 MT),957.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Domestic Consumption,(1000 MT),697.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Domestic Consumption,(1000 MT),680.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Domestic Consumption,(1000 MT),970.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Domestic Consumption,(1000 MT),877.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Domestic Consumption,(1000 MT),979.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Domestic Consumption,(1000 MT),869.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Domestic Consumption,(1000 MT),776.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Domestic Consumption,(1000 MT),888.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Domestic Consumption,(1000 MT),1396.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Domestic Consumption,(1000 MT),1285.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Domestic Consumption,(1000 MT),1090.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Domestic Consumption,(1000 MT),1916.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Domestic Consumption,(1000 MT),1514.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Domestic Consumption,(1000 MT),1492.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Domestic Consumption,(1000 MT),1612.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Domestic Consumption,(1000 MT),2027.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Domestic Consumption,(1000 MT),1805.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Domestic Consumption,(1000 MT),1548.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Domestic Consumption,(1000 MT),1439.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Domestic Consumption,(1000 MT),954.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Domestic Consumption,(1000 MT),1165.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Domestic Consumption,(1000 MT),906.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Domestic Consumption,(1000 MT),1417.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Domestic Consumption,(1000 MT),1121.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Domestic Consumption,(1000 MT),1205.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Domestic Consumption,(1000 MT),1336.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Domestic Consumption,(1000 MT),1290.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Domestic Consumption,(1000 MT),1182.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Domestic Consumption,(1000 MT),893.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Domestic Consumption,(1000 MT),1092.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Domestic Consumption,(1000 MT),925.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Domestic Consumption,(1000 MT),946.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Domestic Consumption,(1000 MT),1221.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Domestic Consumption,(1000 MT),1113.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Domestic Consumption,(1000 MT),1080.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Domestic Consumption,(1000 MT),1049.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Domestic Consumption,(1000 MT),1062.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Domestic Consumption,(1000 MT),1371.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Domestic Consumption,(1000 MT),1031.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Domestic Consumption,(1000 MT),1332.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Domestic Consumption,(1000 MT),1050.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Domestic Consumption,(1000 MT),810.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Domestic Consumption,(1000 MT),1139.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Domestic Consumption,(1000 MT),1196.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Ending Stocks,(1000 MT),33.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Ending Stocks,(1000 MT),23.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Ending Stocks,(1000 MT),77.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Ending Stocks,(1000 MT),90.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Ending Stocks,(1000 MT),896.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Ending Stocks,(1000 MT),182.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Ending Stocks,(1000 MT),143.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Ending Stocks,(1000 MT),297.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Ending Stocks,(1000 MT),38.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Ending Stocks,(1000 MT),91.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Ending Stocks,(1000 MT),212.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Ending Stocks,(1000 MT),253.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Ending Stocks,(1000 MT),197.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Ending Stocks,(1000 MT),80.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Ending Stocks,(1000 MT),26.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Ending Stocks,(1000 MT),88.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Ending Stocks,(1000 MT),262.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Ending Stocks,(1000 MT),69.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Ending Stocks,(1000 MT),71.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Ending Stocks,(1000 MT),103.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Ending Stocks,(1000 MT),205.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Ending Stocks,(1000 MT),196.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Ending Stocks,(1000 MT),92.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Ending Stocks,(1000 MT),231.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Ending Stocks,(1000 MT),231.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Ending Stocks,(1000 MT),156.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Ending Stocks,(1000 MT),109.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Ending Stocks,(1000 MT),199.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Ending Stocks,(1000 MT),163.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Ending Stocks,(1000 MT),90.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Ending Stocks,(1000 MT),356.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Ending Stocks,(1000 MT),137.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Ending Stocks,(1000 MT),120.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Ending Stocks,(1000 MT),223.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Ending Stocks,(1000 MT),177.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Ending Stocks,(1000 MT),117.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Ending Stocks,(1000 MT),87.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Ending Stocks,(1000 MT),154.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Ending Stocks,(1000 MT),91.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Ending Stocks,(1000 MT),108.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Ending Stocks,(1000 MT),187.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Ending Stocks,(1000 MT),267.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Ending Stocks,(1000 MT),175.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Ending Stocks,(1000 MT),130.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Ending Stocks,(1000 MT),88.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Ending Stocks,(1000 MT),179.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Ending Stocks,(1000 MT),134.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Ending Stocks,(1000 MT),166.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Ending Stocks,(1000 MT),259.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Ending Stocks,(1000 MT),95.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Ending Stocks,(1000 MT),147.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Ending Stocks,(1000 MT),161.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Exports,(1000 MT),179.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Exports,(1000 MT),207.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Exports,(1000 MT),151.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Exports,(1000 MT),306.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Exports,(1000 MT),337.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Exports,(1000 MT),942.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Exports,(1000 MT),1366.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Exports,(1000 MT),1820.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Exports,(1000 MT),1505.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Exports,(1000 MT),1555.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Exports,(1000 MT),1348.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Exports,(1000 MT),1044.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Exports,(1000 MT),991.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Exports,(1000 MT),365.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Exports,(1000 MT),304.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Exports,(1000 MT),270.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Exports,(1000 MT),86.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Exports,(1000 MT),96.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Exports,(1000 MT),121.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Exports,(1000 MT),144.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Exports,(1000 MT),118.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Exports,(1000 MT),99.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Exports,(1000 MT),287.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Exports,(1000 MT),224.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Exports,(1000 MT),149.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Exports,(1000 MT),189.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Exports,(1000 MT),260.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Exports,(1000 MT),205.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Exports,(1000 MT),201.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Exports,(1000 MT),235.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Exports,(1000 MT),166.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Exports,(1000 MT),170.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Exports,(1000 MT),141.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Exports,(1000 MT),178.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Exports,(1000 MT),182.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Exports,(1000 MT),200.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Exports,(1000 MT),184.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Exports,(1000 MT),179.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Exports,(1000 MT),160.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Exports,(1000 MT),106.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Exports,(1000 MT),136.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Exports,(1000 MT),120.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Exports,(1000 MT),116.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Exports,(1000 MT),99.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Exports,(1000 MT),90.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Exports,(1000 MT),79.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Exports,(1000 MT),64.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Exports,(1000 MT),45.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Exports,(1000 MT),59.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Exports,(1000 MT),50.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Exports,(1000 MT),50.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Exports,(1000 MT),38.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Exports,(1000 MT),34.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Exports,(1000 MT),37.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Exports,(1000 MT),34.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Feed Waste Dom. Cons.,(1000 MT),83.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Feed Waste Dom. Cons.,(1000 MT),73.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Feed Waste Dom. Cons.,(1000 MT),59.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Feed Waste Dom. Cons.,(1000 MT),90.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Feed Waste Dom. Cons.,(1000 MT),70.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Feed Waste Dom. Cons.,(1000 MT),118.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Feed Waste Dom. Cons.,(1000 MT),68.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Feed Waste Dom. Cons.,(1000 MT),146.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Feed Waste Dom. Cons.,(1000 MT),154.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Feed Waste Dom. Cons.,(1000 MT),177.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Feed Waste Dom. Cons.,(1000 MT),191.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Feed Waste Dom. Cons.,(1000 MT),106.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Feed Waste Dom. Cons.,(1000 MT),113.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Feed Waste Dom. Cons.,(1000 MT),296.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Feed Waste Dom. Cons.,(1000 MT),242.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Feed Waste Dom. Cons.,(1000 MT),79.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Feed Waste Dom. Cons.,(1000 MT),294.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Feed Waste Dom. Cons.,(1000 MT),230.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Feed Waste Dom. Cons.,(1000 MT),295.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Feed Waste Dom. Cons.,(1000 MT),444.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Feed Waste Dom. Cons.,(1000 MT),362.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Feed Waste Dom. Cons.,(1000 MT),429.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Feed Waste Dom. Cons.,(1000 MT),603.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Feed Waste Dom. Cons.,(1000 MT),599.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Feed Waste Dom. Cons.,(1000 MT),648.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Feed Waste Dom. Cons.,(1000 MT),551.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Feed Waste Dom. Cons.,(1000 MT),849.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Feed Waste Dom. Cons.,(1000 MT),666.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Feed Waste Dom. Cons.,(1000 MT),625.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Feed Waste Dom. Cons.,(1000 MT),679.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Feed Waste Dom. Cons.,(1000 MT),635.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Feed Waste Dom. Cons.,(1000 MT),538.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Feed Waste Dom. Cons.,(1000 MT),630.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Feed Waste Dom. Cons.,(1000 MT),851.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Feed Waste Dom. Cons.,(1000 MT),462.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Feed Waste Dom. Cons.,(1000 MT),522.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Feed Waste Dom. Cons.,(1000 MT),675.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Feed Waste Dom. Cons.,(1000 MT),514.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Feed Waste Dom. Cons.,(1000 MT),594.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Feed Waste Dom. Cons.,(1000 MT),544.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Feed Waste Dom. Cons.,(1000 MT),641.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Feed Waste Dom. Cons.,(1000 MT),462.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Feed Waste Dom. Cons.,(1000 MT),580.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Feed Waste Dom. Cons.,(1000 MT),726.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Feed Waste Dom. Cons.,(1000 MT),605.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Feed Waste Dom. Cons.,(1000 MT),605.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Feed Waste Dom. Cons.,(1000 MT),564.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Feed Waste Dom. Cons.,(1000 MT),673.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Feed Waste Dom. Cons.,(1000 MT),867.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Feed Waste Dom. Cons.,(1000 MT),596.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Feed Waste Dom. Cons.,(1000 MT),921.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Feed Waste Dom. Cons.,(1000 MT),672.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Feed Waste Dom. Cons.,(1000 MT),449.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Feed Waste Dom. Cons.,(1000 MT),689.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Feed Waste Dom. Cons.,(1000 MT),764.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Food Use Dom. Cons.,(1000 MT),0.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Food Use Dom. Cons.,(1000 MT),0.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Food Use Dom. Cons.,(1000 MT),0.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Food Use Dom. Cons.,(1000 MT),0.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Food Use Dom. Cons.,(1000 MT),0.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Food Use Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Food Use Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Food Use Dom. Cons.,(1000 MT),0.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Food Use Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Food Use Dom. Cons.,(1000 MT),0.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Food Use Dom. Cons.,(1000 MT),0.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Food Use Dom. Cons.,(1000 MT),0.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Food Use Dom. Cons.,(1000 MT),0.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Food Use Dom. Cons.,(1000 MT),0.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Food Use Dom. Cons.,(1000 MT),0.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Food Use Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Food Use Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Food Use Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Imports,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Imports,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Imports,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Imports,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Imports,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Imports,(1000 MT),3.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Imports,(1000 MT),7.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Imports,(1000 MT),10.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Imports,(1000 MT),28.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Imports,(1000 MT),32.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Imports,(1000 MT),40.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Imports,(1000 MT),31.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Imports,(1000 MT),26.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Imports,(1000 MT),26.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Imports,(1000 MT),8.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Imports,(1000 MT),10.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Imports,(1000 MT),25.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Imports,(1000 MT),20.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Imports,(1000 MT),40.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Imports,(1000 MT),75.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Imports,(1000 MT),47.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Imports,(1000 MT),24.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Imports,(1000 MT),42.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Imports,(1000 MT),21.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Imports,(1000 MT),18.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Imports,(1000 MT),29.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Imports,(1000 MT),34.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Imports,(1000 MT),41.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Imports,(1000 MT),66.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Imports,(1000 MT),76.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Imports,(1000 MT),98.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Imports,(1000 MT),90.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Imports,(1000 MT),44.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Imports,(1000 MT),39.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Imports,(1000 MT),112.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Imports,(1000 MT),87.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Imports,(1000 MT),70.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Imports,(1000 MT),46.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Imports,(1000 MT),41.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Imports,(1000 MT),44.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Imports,(1000 MT),54.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Imports,(1000 MT),65.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Imports,(1000 MT),75.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Imports,(1000 MT),72.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Imports,(1000 MT),80.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Imports,(1000 MT),97.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Imports,(1000 MT),115.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Imports,(1000 MT),181.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Imports,(1000 MT),170.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Imports,(1000 MT),174.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Imports,(1000 MT),140.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Imports,(1000 MT),157.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Imports,(1000 MT),162.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Imports,(1000 MT),175.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Imports,(1000 MT),175.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Production,(1000 MT),334.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Production,(1000 MT),353.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Production,(1000 MT),272.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Production,(1000 MT),541.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Production,(1000 MT),463.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Production,(1000 MT),1330.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Production,(1000 MT),1732.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Production,(1000 MT),3309.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Production,(1000 MT),1697.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Production,(1000 MT),2035.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Production,(1000 MT),2419.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Production,(1000 MT),1451.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Production,(1000 MT),1698.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Production,(1000 MT),1430.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Production,(1000 MT),1214.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Production,(1000 MT),1183.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Production,(1000 MT),813.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Production,(1000 MT),798.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Production,(1000 MT),1031.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Production,(1000 MT),1639.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Production,(1000 MT),1163.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Production,(1000 MT),1167.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Production,(1000 MT),2193.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Production,(1000 MT),1819.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Production,(1000 MT),1614.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Production,(1000 MT),1668.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Production,(1000 MT),2392.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Production,(1000 MT),1969.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Production,(1000 MT),1608.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Production,(1000 MT),1551.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Production,(1000 MT),1112.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Production,(1000 MT),1209.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Production,(1000 MT),930.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Production,(1000 MT),1822.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Production,(1000 MT),972.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Production,(1000 MT),1301.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Production,(1000 MT),1553.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Production,(1000 MT),1377.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Production,(1000 MT),1241.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Production,(1000 MT),925.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Production,(1000 MT),1241.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Production,(1000 MT),917.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Production,(1000 MT),1004.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Production,(1000 MT),1327.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Production,(1000 MT),1203.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Production,(1000 MT),970.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Production,(1000 MT),953.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Production,(1000 MT),884.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Production,(1000 MT),1351.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Production,(1000 MT),862.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Production,(1000 MT),1274.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Production,(1000 MT),1024.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Production,(1000 MT),518.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Production,(1000 MT),1053.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Production,(1000 MT),1069.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Total Distribution,(1000 MT),336.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Total Distribution,(1000 MT),355.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Total Distribution,(1000 MT),273.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Total Distribution,(1000 MT),576.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Total Distribution,(1000 MT),465.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Total Distribution,(1000 MT),1356.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Total Distribution,(1000 MT),1816.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Total Distribution,(1000 MT),3409.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Total Distribution,(1000 MT),2621.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Total Distribution,(1000 MT),2249.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Total Distribution,(1000 MT),2602.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Total Distribution,(1000 MT),1779.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Total Distribution,(1000 MT),1762.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Total Distribution,(1000 MT),1547.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Total Distribution,(1000 MT),1434.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Total Distribution,(1000 MT),1446.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Total Distribution,(1000 MT),1035.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Total Distribution,(1000 MT),898.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Total Distribution,(1000 MT),1097.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Total Distribution,(1000 MT),1802.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Total Distribution,(1000 MT),1472.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Total Distribution,(1000 MT),1260.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Total Distribution,(1000 MT),2306.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Total Distribution,(1000 MT),1943.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Total Distribution,(1000 MT),1837.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Total Distribution,(1000 MT),1893.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Total Distribution,(1000 MT),2518.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Total Distribution,(1000 MT),2241.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Total Distribution,(1000 MT),1905.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Total Distribution,(1000 MT),1783.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Total Distribution,(1000 MT),1319.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Total Distribution,(1000 MT),1498.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Total Distribution,(1000 MT),1137.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Total Distribution,(1000 MT),1951.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Total Distribution,(1000 MT),1440.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Total Distribution,(1000 MT),1525.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Total Distribution,(1000 MT),1743.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Total Distribution,(1000 MT),1646.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Total Distribution,(1000 MT),1459.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Total Distribution,(1000 MT),1086.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Total Distribution,(1000 MT),1382.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Total Distribution,(1000 MT),1136.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Total Distribution,(1000 MT),1170.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Total Distribution,(1000 MT),1507.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Total Distribution,(1000 MT),1470.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Total Distribution,(1000 MT),1334.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Total Distribution,(1000 MT),1243.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Total Distribution,(1000 MT),1195.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Total Distribution,(1000 MT),1609.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Total Distribution,(1000 MT),1215.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Total Distribution,(1000 MT),1548.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Total Distribution,(1000 MT),1347.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Total Distribution,(1000 MT),939.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Total Distribution,(1000 MT),1323.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Total Distribution,(1000 MT),1391.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Total Supply,(1000 MT),336.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Total Supply,(1000 MT),355.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Total Supply,(1000 MT),273.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Total Supply,(1000 MT),576.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Total Supply,(1000 MT),465.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Total Supply,(1000 MT),1356.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Total Supply,(1000 MT),1816.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Total Supply,(1000 MT),3409.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Total Supply,(1000 MT),2621.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Total Supply,(1000 MT),2249.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Total Supply,(1000 MT),2602.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Total Supply,(1000 MT),1779.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Total Supply,(1000 MT),1762.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Total Supply,(1000 MT),1547.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Total Supply,(1000 MT),1434.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Total Supply,(1000 MT),1446.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Total Supply,(1000 MT),1035.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Total Supply,(1000 MT),898.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Total Supply,(1000 MT),1097.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Total Supply,(1000 MT),1802.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Total Supply,(1000 MT),1472.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Total Supply,(1000 MT),1260.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Total Supply,(1000 MT),2306.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Total Supply,(1000 MT),1943.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Total Supply,(1000 MT),1837.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Total Supply,(1000 MT),1893.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Total Supply,(1000 MT),2518.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Total Supply,(1000 MT),2241.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Total Supply,(1000 MT),1905.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Total Supply,(1000 MT),1783.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Total Supply,(1000 MT),1319.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Total Supply,(1000 MT),1498.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Total Supply,(1000 MT),1137.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Total Supply,(1000 MT),1951.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Total Supply,(1000 MT),1440.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Total Supply,(1000 MT),1525.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Total Supply,(1000 MT),1743.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Total Supply,(1000 MT),1646.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Total Supply,(1000 MT),1459.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Total Supply,(1000 MT),1086.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Total Supply,(1000 MT),1382.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Total Supply,(1000 MT),1136.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Total Supply,(1000 MT),1170.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Total Supply,(1000 MT),1507.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Total Supply,(1000 MT),1470.0,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Total Supply,(1000 MT),1334.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Total Supply,(1000 MT),1243.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Total Supply,(1000 MT),1195.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Total Supply,(1000 MT),1609.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Total Supply,(1000 MT),1215.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Total Supply,(1000 MT),1548.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Total Supply,(1000 MT),1347.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Total Supply,(1000 MT),939.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Total Supply,(1000 MT),1323.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Total Supply,(1000 MT),1391.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1972,Yield,(MT/HA),1.02,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1973,Yield,(MT/HA),1.17,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1974,Yield,(MT/HA),1.03,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1975,Yield,(MT/HA),1.12,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1976,Yield,(MT/HA),1.09,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1977,Yield,(MT/HA),1.39,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1978,Yield,(MT/HA),1.53,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1979,Yield,(MT/HA),1.51,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1980,Yield,(MT/HA),1.14,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1981,Yield,(MT/HA),1.32,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1982,Yield,(MT/HA),1.27,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1983,Yield,(MT/HA),1.17,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1984,Yield,(MT/HA),1.14,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1985,Yield,(MT/HA),1.24,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1986,Yield,(MT/HA),1.53,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1987,Yield,(MT/HA),1.65,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1988,Yield,(MT/HA),1.05,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1989,Yield,(MT/HA),1.1,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1990,Yield,(MT/HA),1.38,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1991,Yield,(MT/HA),1.51,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1992,Yield,(MT/HA),1.41,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1993,Yield,(MT/HA),1.16,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1994,Yield,(MT/HA),1.58,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1995,Yield,(MT/HA),1.33,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1996,Yield,(MT/HA),1.61,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1997,Yield,(MT/HA),1.48,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1998,Yield,(MT/HA),1.69,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,1999,Yield,(MT/HA),1.41,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2000,Yield,(MT/HA),1.5,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2001,Yield,(MT/HA),1.5,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2002,Yield,(MT/HA),1.27,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2003,Yield,(MT/HA),1.36,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2004,Yield,(MT/HA),1.34,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2005,Yield,(MT/HA),1.73,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2006,Yield,(MT/HA),1.36,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2007,Yield,(MT/HA),1.6,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2008,Yield,(MT/HA),1.6,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2009,Yield,(MT/HA),1.74,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2010,Yield,(MT/HA),1.64,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2011,Yield,(MT/HA),1.57,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2012,Yield,(MT/HA),1.67,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2013,Yield,(MT/HA),1.55,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2014,Yield,(MT/HA),1.65,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2015,Yield,(MT/HA),1.82,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2016,Yield,(MT/HA),1.94,0,1,03,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2017,Yield,(MT/HA),1.8,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2018,Yield,(MT/HA),1.94,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2019,Yield,(MT/HA),1.75,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2020,Yield,(MT/HA),2.01,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2021,Yield,(MT/HA),1.71,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2022,Yield,(MT/HA),1.97,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2023,Yield,(MT/HA),2.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2024,Yield,(MT/HA),1.87,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2025,Yield,(MT/HA),2.09,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Sunflowerseed",United States,2026,Yield,(MT/HA),1.99,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

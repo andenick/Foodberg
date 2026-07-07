@@ -1,0 +1,671 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+Cotton,World,1960,Area Harvested,(1000 HA),32196.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Area Harvested,(1000 HA),32418.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Area Harvested,(1000 HA),31763.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Area Harvested,(1000 HA),32849.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Area Harvested,(1000 HA),33523.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Area Harvested,(1000 HA),33285.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Area Harvested,(1000 HA),31168.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Area Harvested,(1000 HA),30921.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Area Harvested,(1000 HA),31910.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Area Harvested,(1000 HA),32469.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Area Harvested,(1000 HA),31800.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Area Harvested,(1000 HA),33023.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Area Harvested,(1000 HA),33552.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Area Harvested,(1000 HA),32846.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Area Harvested,(1000 HA),33506.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Area Harvested,(1000 HA),29871.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Area Harvested,(1000 HA),30533.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Area Harvested,(1000 HA),33565.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Area Harvested,(1000 HA),32814.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Area Harvested,(1000 HA),32222.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Area Harvested,(1000 HA),32351.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Area Harvested,(1000 HA),32938.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Area Harvested,(1000 HA),31377.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Area Harvested,(1000 HA),30919.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Area Harvested,(1000 HA),33741.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Area Harvested,(1000 HA),31599.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Area Harvested,(1000 HA),29290.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Area Harvested,(1000 HA),30842.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Area Harvested,(1000 HA),33833.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Area Harvested,(1000 HA),31671.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Area Harvested,(1000 HA),33067.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Area Harvested,(1000 HA),34704.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Area Harvested,(1000 HA),32591.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Area Harvested,(1000 HA),30718.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Area Harvested,(1000 HA),32180.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Area Harvested,(1000 HA),35913.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Area Harvested,(1000 HA),33763.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Area Harvested,(1000 HA),33772.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Area Harvested,(1000 HA),32871.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Area Harvested,(1000 HA),32341.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Area Harvested,(1000 HA),31945.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Area Harvested,(1000 HA),33783.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Area Harvested,(1000 HA),30727.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Area Harvested,(1000 HA),31895.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Area Harvested,(1000 HA),35581.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Area Harvested,(1000 HA),35026.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Area Harvested,(1000 HA),34324.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Area Harvested,(1000 HA),32883.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Area Harvested,(1000 HA),30834.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Area Harvested,(1000 HA),30188.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Area Harvested,(1000 HA),33252.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Area Harvested,(1000 HA),36000.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Area Harvested,(1000 HA),34757.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Area Harvested,(1000 HA),32558.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Area Harvested,(1000 HA),33942.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Area Harvested,(1000 HA),30774.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Area Harvested,(1000 HA),29780.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Area Harvested,(1000 HA),33171.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Area Harvested,(1000 HA),32414.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Area Harvested,(1000 HA),34090.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Area Harvested,(1000 HA),31304.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Area Harvested,(1000 HA),32001.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Area Harvested,(1000 HA),31532.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Area Harvested,(1000 HA),30898.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Area Harvested,(1000 HA),30020.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Area Harvested,(1000 HA),29444.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Area Harvested,(1000 HA),29241.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1960,Beginning Stocks,1000 480 lb. Bales,19561.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Beginning Stocks,1000 480 lb. Bales,18875.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Beginning Stocks,1000 480 lb. Bales,19181.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Beginning Stocks,1000 480 lb. Bales,23033.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Beginning Stocks,1000 480 lb. Bales,26048.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Beginning Stocks,1000 480 lb. Bales,29001.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Beginning Stocks,1000 480 lb. Bales,32550.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Beginning Stocks,1000 480 lb. Bales,28456.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Beginning Stocks,1000 480 lb. Bales,23581.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Beginning Stocks,1000 480 lb. Bales,23976.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Beginning Stocks,1000 480 lb. Bales,22390.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Beginning Stocks,1000 480 lb. Bales,21845.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Beginning Stocks,1000 480 lb. Bales,22449.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Beginning Stocks,1000 480 lb. Bales,24487.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Beginning Stocks,1000 480 lb. Bales,27158.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Beginning Stocks,1000 480 lb. Bales,33352.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Beginning Stocks,1000 480 lb. Bales,25901.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Beginning Stocks,1000 480 lb. Bales,22380.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Beginning Stocks,1000 480 lb. Bales,25637.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Beginning Stocks,1000 480 lb. Bales,21856.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Beginning Stocks,1000 480 lb. Bales,21232.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Beginning Stocks,1000 480 lb. Bales,20609.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Beginning Stocks,1000 480 lb. Bales,25834.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Beginning Stocks,1000 480 lb. Bales,25454.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Beginning Stocks,1000 480 lb. Bales,24281.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Beginning Stocks,1000 480 lb. Bales,42126.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Beginning Stocks,1000 480 lb. Bales,47588.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Beginning Stocks,1000 480 lb. Bales,35420.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Beginning Stocks,1000 480 lb. Bales,32612.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Beginning Stocks,1000 480 lb. Bales,31055.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Beginning Stocks,1000 480 lb. Bales,24983.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Beginning Stocks,1000 480 lb. Bales,27483.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Beginning Stocks,1000 480 lb. Bales,37051.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Beginning Stocks,1000 480 lb. Bales,34603.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Beginning Stocks,1000 480 lb. Bales,27872.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Beginning Stocks,1000 480 lb. Bales,31996.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Beginning Stocks,1000 480 lb. Bales,40041.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Beginning Stocks,1000 480 lb. Bales,44501.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Beginning Stocks,1000 480 lb. Bales,49143.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Beginning Stocks,1000 480 lb. Bales,52572.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Beginning Stocks,1000 480 lb. Bales,51100.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Beginning Stocks,1000 480 lb. Bales,49111.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Beginning Stocks,1000 480 lb. Bales,54933.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Beginning Stocks,1000 480 lb. Bales,47675.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Beginning Stocks,1000 480 lb. Bales,45835.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Beginning Stocks,1000 480 lb. Bales,58434.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Beginning Stocks,1000 480 lb. Bales,60767.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Beginning Stocks,1000 480 lb. Bales,59699.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Beginning Stocks,1000 480 lb. Bales,58049.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Beginning Stocks,1000 480 lb. Bales,59002.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Beginning Stocks,1000 480 lb. Bales,43695.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Beginning Stocks,1000 480 lb. Bales,43206.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Beginning Stocks,1000 480 lb. Bales,66680.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Beginning Stocks,1000 480 lb. Bales,86820.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Beginning Stocks,1000 480 lb. Bales,96372.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Beginning Stocks,1000 480 lb. Bales,103634.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Beginning Stocks,1000 480 lb. Bales,87753.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Beginning Stocks,1000 480 lb. Bales,76062.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Beginning Stocks,1000 480 lb. Bales,74697.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Beginning Stocks,1000 480 lb. Bales,70692.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Beginning Stocks,1000 480 lb. Bales,83669.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Beginning Stocks,1000 480 lb. Bales,72717.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Beginning Stocks,1000 480 lb. Bales,71191.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Beginning Stocks,1000 480 lb. Bales,75859.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Beginning Stocks,1000 480 lb. Bales,73449.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Beginning Stocks,1000 480 lb. Bales,74515.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Beginning Stocks,1000 480 lb. Bales,76629.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1960,Domestic Use,1000 480 lb. Bales,46224.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Domestic Use,1000 480 lb. Bales,44804.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Domestic Use,1000 480 lb. Bales,43990.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Domestic Use,1000 480 lb. Bales,47786.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Domestic Use,1000 480 lb. Bales,51225.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Domestic Use,1000 480 lb. Bales,53827.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Domestic Use,1000 480 lb. Bales,56043.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Domestic Use,1000 480 lb. Bales,56192.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Domestic Use,1000 480 lb. Bales,56368.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Domestic Use,1000 480 lb. Bales,55970.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Domestic Use,1000 480 lb. Bales,57133.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Domestic Use,1000 480 lb. Bales,58381.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Domestic Use,1000 480 lb. Bales,59499.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Domestic Use,1000 480 lb. Bales,60268.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Domestic Use,1000 480 lb. Bales,57041.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Domestic Use,1000 480 lb. Bales,61600.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Domestic Use,1000 480 lb. Bales,60238.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Domestic Use,1000 480 lb. Bales,61022.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Domestic Use,1000 480 lb. Bales,63229.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Domestic Use,1000 480 lb. Bales,65904.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Domestic Use,1000 480 lb. Bales,65021.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Domestic Use,1000 480 lb. Bales,63309.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Domestic Use,1000 480 lb. Bales,66966.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Domestic Use,1000 480 lb. Bales,68680.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Domestic Use,1000 480 lb. Bales,70816.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Domestic Use,1000 480 lb. Bales,75330.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Domestic Use,1000 480 lb. Bales,82095.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Domestic Use,1000 480 lb. Bales,84146.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Domestic Use,1000 480 lb. Bales,85238.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Domestic Use,1000 480 lb. Bales,86905.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Domestic Use,1000 480 lb. Bales,85559.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Domestic Use,1000 480 lb. Bales,86188.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Domestic Use,1000 480 lb. Bales,86323.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Domestic Use,1000 480 lb. Bales,85435.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Domestic Use,1000 480 lb. Bales,84462.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Domestic Use,1000 480 lb. Bales,85853.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Domestic Use,1000 480 lb. Bales,87851.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Domestic Use,1000 480 lb. Bales,87070.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Domestic Use,1000 480 lb. Bales,84358.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Domestic Use,1000 480 lb. Bales,90534.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Domestic Use,1000 480 lb. Bales,91713.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Domestic Use,1000 480 lb. Bales,94269.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Domestic Use,1000 480 lb. Bales,98293.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Domestic Use,1000 480 lb. Bales,98034.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Domestic Use,1000 480 lb. Bales,109007.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Domestic Use,1000 480 lb. Bales,116448.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Domestic Use,1000 480 lb. Bales,123925.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Domestic Use,1000 480 lb. Bales,123890.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Domestic Use,1000 480 lb. Bales,110628.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Domestic Use,1000 480 lb. Bales,119584.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Domestic Use,1000 480 lb. Bales,115552.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Domestic Use,1000 480 lb. Bales,103914.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Domestic Use,1000 480 lb. Bales,107745.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Domestic Use,1000 480 lb. Bales,109240.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Domestic Use,1000 480 lb. Bales,112825.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Domestic Use,1000 480 lb. Bales,113522.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Domestic Use,1000 480 lb. Bales,116532.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Domestic Use,1000 480 lb. Bales,122932.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Domestic Use,1000 480 lb. Bales,118905.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Domestic Use,1000 480 lb. Bales,105198.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Domestic Use,1000 480 lb. Bales,124468.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Domestic Use,1000 480 lb. Bales,115708.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Domestic Use,1000 480 lb. Bales,112700.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Domestic Use,1000 480 lb. Bales,114831.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Domestic Use,1000 480 lb. Bales,119107.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Domestic Use,1000 480 lb. Bales,120108.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Domestic Use,1000 480 lb. Bales,121763.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1960,Ending Stocks,1000 480 lb. Bales,18875.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Ending Stocks,1000 480 lb. Bales,19181.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Ending Stocks,1000 480 lb. Bales,23033.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Ending Stocks,1000 480 lb. Bales,26048.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Ending Stocks,1000 480 lb. Bales,29001.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Ending Stocks,1000 480 lb. Bales,32550.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Ending Stocks,1000 480 lb. Bales,28454.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Ending Stocks,1000 480 lb. Bales,23581.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Ending Stocks,1000 480 lb. Bales,23976.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Ending Stocks,1000 480 lb. Bales,22390.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Ending Stocks,1000 480 lb. Bales,21845.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Ending Stocks,1000 480 lb. Bales,22449.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Ending Stocks,1000 480 lb. Bales,24487.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Ending Stocks,1000 480 lb. Bales,27158.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Ending Stocks,1000 480 lb. Bales,33352.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Ending Stocks,1000 480 lb. Bales,25901.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Ending Stocks,1000 480 lb. Bales,22380.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Ending Stocks,1000 480 lb. Bales,25637.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Ending Stocks,1000 480 lb. Bales,21856.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Ending Stocks,1000 480 lb. Bales,21232.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Ending Stocks,1000 480 lb. Bales,20609.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Ending Stocks,1000 480 lb. Bales,25834.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Ending Stocks,1000 480 lb. Bales,25454.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Ending Stocks,1000 480 lb. Bales,24281.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Ending Stocks,1000 480 lb. Bales,42126.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Ending Stocks,1000 480 lb. Bales,47588.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Ending Stocks,1000 480 lb. Bales,35420.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Ending Stocks,1000 480 lb. Bales,32612.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Ending Stocks,1000 480 lb. Bales,31055.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Ending Stocks,1000 480 lb. Bales,24983.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Ending Stocks,1000 480 lb. Bales,27483.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Ending Stocks,1000 480 lb. Bales,37051.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Ending Stocks,1000 480 lb. Bales,34603.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Ending Stocks,1000 480 lb. Bales,27872.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Ending Stocks,1000 480 lb. Bales,31996.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Ending Stocks,1000 480 lb. Bales,40041.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Ending Stocks,1000 480 lb. Bales,44501.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Ending Stocks,1000 480 lb. Bales,49143.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Ending Stocks,1000 480 lb. Bales,52572.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Ending Stocks,1000 480 lb. Bales,51100.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Ending Stocks,1000 480 lb. Bales,49111.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Ending Stocks,1000 480 lb. Bales,54933.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Ending Stocks,1000 480 lb. Bales,47675.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Ending Stocks,1000 480 lb. Bales,45835.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Ending Stocks,1000 480 lb. Bales,58434.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Ending Stocks,1000 480 lb. Bales,60767.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Ending Stocks,1000 480 lb. Bales,59699.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Ending Stocks,1000 480 lb. Bales,58049.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Ending Stocks,1000 480 lb. Bales,59002.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Ending Stocks,1000 480 lb. Bales,43695.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Ending Stocks,1000 480 lb. Bales,43206.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Ending Stocks,1000 480 lb. Bales,66680.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Ending Stocks,1000 480 lb. Bales,86820.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Ending Stocks,1000 480 lb. Bales,96372.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Ending Stocks,1000 480 lb. Bales,103634.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Ending Stocks,1000 480 lb. Bales,87753.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Ending Stocks,1000 480 lb. Bales,76062.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Ending Stocks,1000 480 lb. Bales,74697.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Ending Stocks,1000 480 lb. Bales,70692.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Ending Stocks,1000 480 lb. Bales,83669.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Ending Stocks,1000 480 lb. Bales,72717.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Ending Stocks,1000 480 lb. Bales,71191.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Ending Stocks,1000 480 lb. Bales,75859.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Ending Stocks,1000 480 lb. Bales,73449.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Ending Stocks,1000 480 lb. Bales,74515.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Ending Stocks,1000 480 lb. Bales,76629.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Ending Stocks,1000 480 lb. Bales,71130.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1960,Exports,1000 480 lb. Bales,17137.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Exports,1000 480 lb. Bales,15635.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Exports,1000 480 lb. Bales,15928.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Exports,1000 480 lb. Bales,17988.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Exports,1000 480 lb. Bales,16938.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Exports,1000 480 lb. Bales,16966.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Exports,1000 480 lb. Bales,18307.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Exports,1000 480 lb. Bales,17620.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Exports,1000 480 lb. Bales,17030.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Exports,1000 480 lb. Bales,17735.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Exports,1000 480 lb. Bales,23582.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Exports,1000 480 lb. Bales,24835.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Exports,1000 480 lb. Bales,27816.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Exports,1000 480 lb. Bales,26220.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Exports,1000 480 lb. Bales,24295.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Exports,1000 480 lb. Bales,25967.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Exports,1000 480 lb. Bales,24603.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Exports,1000 480 lb. Bales,26441.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Exports,1000 480 lb. Bales,27253.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Exports,1000 480 lb. Bales,30662.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Exports,1000 480 lb. Bales,26265.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Exports,1000 480 lb. Bales,25764.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Exports,1000 480 lb. Bales,25515.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Exports,1000 480 lb. Bales,25333.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Exports,1000 480 lb. Bales,27200.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Exports,1000 480 lb. Bales,28078.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Exports,1000 480 lb. Bales,33350.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Exports,1000 480 lb. Bales,30103.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Exports,1000 480 lb. Bales,33481.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Exports,1000 480 lb. Bales,31357.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Exports,1000 480 lb. Bales,29560.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Exports,1000 480 lb. Bales,28204.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Exports,1000 480 lb. Bales,25435.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Exports,1000 480 lb. Bales,26620.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Exports,1000 480 lb. Bales,28018.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Exports,1000 480 lb. Bales,27296.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Exports,1000 480 lb. Bales,26602.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Exports,1000 480 lb. Bales,26777.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Exports,1000 480 lb. Bales,23507.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Exports,1000 480 lb. Bales,27126.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Exports,1000 480 lb. Bales,26156.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Exports,1000 480 lb. Bales,29081.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Exports,1000 480 lb. Bales,30400.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Exports,1000 480 lb. Bales,33072.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Exports,1000 480 lb. Bales,34949.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Exports,1000 480 lb. Bales,44922.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Exports,1000 480 lb. Bales,37416.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Exports,1000 480 lb. Bales,38868.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Exports,1000 480 lb. Bales,30207.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Exports,1000 480 lb. Bales,35805.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Exports,1000 480 lb. Bales,34936.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Exports,1000 480 lb. Bales,46005.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Exports,1000 480 lb. Bales,46372.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Exports,1000 480 lb. Bales,41290.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Exports,1000 480 lb. Bales,36264.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Exports,1000 480 lb. Bales,34904.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Exports,1000 480 lb. Bales,38083.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Exports,1000 480 lb. Bales,41562.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Exports,1000 480 lb. Bales,41336.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Exports,1000 480 lb. Bales,40810.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Exports,1000 480 lb. Bales,48463.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Exports,1000 480 lb. Bales,42666.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Exports,1000 480 lb. Bales,36554.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Exports,1000 480 lb. Bales,44065.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Exports,1000 480 lb. Bales,42426.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Exports,1000 480 lb. Bales,44377.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Exports,1000 480 lb. Bales,43319.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1960,Imports,1000 480 lb. Bales,17314.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Imports,1000 480 lb. Bales,15986.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Imports,1000 480 lb. Bales,16472.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Imports,1000 480 lb. Bales,17790.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Imports,1000 480 lb. Bales,17370.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Imports,1000 480 lb. Bales,17133.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Imports,1000 480 lb. Bales,18009.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Imports,1000 480 lb. Bales,17368.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Imports,1000 480 lb. Bales,16935.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Imports,1000 480 lb. Bales,17698.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Imports,1000 480 lb. Bales,24612.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Imports,1000 480 lb. Bales,24669.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Imports,1000 480 lb. Bales,27377.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Imports,1000 480 lb. Bales,26744.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Imports,1000 480 lb. Bales,23824.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Imports,1000 480 lb. Bales,26286.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Imports,1000 480 lb. Bales,24931.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Imports,1000 480 lb. Bales,27120.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Imports,1000 480 lb. Bales,27129.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Imports,1000 480 lb. Bales,30506.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Imports,1000 480 lb. Bales,27253.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Imports,1000 480 lb. Bales,25698.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Imports,1000 480 lb. Bales,26071.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Imports,1000 480 lb. Bales,27059.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Imports,1000 480 lb. Bales,27629.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Imports,1000 480 lb. Bales,28981.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Imports,1000 480 lb. Bales,33093.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Imports,1000 480 lb. Bales,30529.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Imports,1000 480 lb. Bales,33582.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Imports,1000 480 lb. Bales,32703.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Imports,1000 480 lb. Bales,30578.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Imports,1000 480 lb. Bales,29024.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Imports,1000 480 lb. Bales,27067.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Imports,1000 480 lb. Bales,27917.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Imports,1000 480 lb. Bales,30340.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Imports,1000 480 lb. Bales,26994.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Imports,1000 480 lb. Bales,28564.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Imports,1000 480 lb. Bales,25909.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Imports,1000 480 lb. Bales,24460.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Imports,1000 480 lb. Bales,27968.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Imports,1000 480 lb. Bales,26182.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Imports,1000 480 lb. Bales,29266.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Imports,1000 480 lb. Bales,30151.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Imports,1000 480 lb. Bales,34119.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Imports,1000 480 lb. Bales,33939.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Imports,1000 480 lb. Bales,44649.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Imports,1000 480 lb. Bales,38285.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Imports,1000 480 lb. Bales,39451.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Imports,1000 480 lb. Bales,30534.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Imports,1000 480 lb. Bales,36931.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Imports,1000 480 lb. Bales,36449.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Imports,1000 480 lb. Bales,45432.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Imports,1000 480 lb. Bales,47479.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Imports,1000 480 lb. Bales,41436.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Imports,1000 480 lb. Bales,36528.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Imports,1000 480 lb. Bales,35626.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Imports,1000 480 lb. Bales,37760.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Imports,1000 480 lb. Bales,41336.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Imports,1000 480 lb. Bales,42374.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Imports,1000 480 lb. Bales,40725.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Imports,1000 480 lb. Bales,48578.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Imports,1000 480 lb. Bales,42917.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Imports,1000 480 lb. Bales,37738.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Imports,1000 480 lb. Bales,44045.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Imports,1000 480 lb. Bales,43031.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Imports,1000 480 lb. Bales,43755.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Imports,1000 480 lb. Bales,43344.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1960,Loss,1000 480 lb. Bales,-295.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Loss,1000 480 lb. Bales,-193.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Loss,1000 480 lb. Bales,-309.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Loss,1000 480 lb. Bales,-184.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Loss,1000 480 lb. Bales,1.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Loss,1000 480 lb. Bales,-273.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Loss,1000 480 lb. Bales,17.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Loss,1000 480 lb. Bales,-9.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Loss,1000 480 lb. Bales,36.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Loss,1000 480 lb. Bales,-95.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Loss,1000 480 lb. Bales,14.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Loss,1000 480 lb. Bales,1.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Loss,1000 480 lb. Bales,-109.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Loss,1000 480 lb. Bales,63.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Loss,1000 480 lb. Bales,111.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Loss,1000 480 lb. Bales,145.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Loss,1000 480 lb. Bales,138.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Loss,1000 480 lb. Bales,308.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Loss,1000 480 lb. Bales,-76.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Loss,1000 480 lb. Bales,10.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Loss,1000 480 lb. Bales,-33.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Loss,1000 480 lb. Bales,239.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Loss,1000 480 lb. Bales,302.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Loss,1000 480 lb. Bales,496.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Loss,1000 480 lb. Bales,474.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Loss,1000 480 lb. Bales,252.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Loss,1000 480 lb. Bales,179.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Loss,1000 480 lb. Bales,534.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Loss,1000 480 lb. Bales,642.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Loss,1000 480 lb. Bales,234.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Loss,1000 480 lb. Bales,170.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Loss,1000 480 lb. Bales,368.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Loss,1000 480 lb. Bales,63.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Loss,1000 480 lb. Bales,143.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Loss,1000 480 lb. Bales,-330.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Loss,1000 480 lb. Bales,-544.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Loss,1000 480 lb. Bales,-535.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Loss,1000 480 lb. Bales,-506.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Loss,1000 480 lb. Bales,-1014.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Loss,1000 480 lb. Bales,-477.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Loss,1000 480 lb. Bales,-1249.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Loss,1000 480 lb. Bales,-631.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Loss,1000 480 lb. Bales,-654.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Loss,1000 480 lb. Bales,-759.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Loss,1000 480 lb. Bales,-1095.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Loss,1000 480 lb. Bales,-1666.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Loss,1000 480 lb. Bales,-1588.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Loss,1000 480 lb. Bales,-1992.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Loss,1000 480 lb. Bales,-1389.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Loss,1000 480 lb. Bales,20.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Loss,1000 480 lb. Bales,82.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Loss,1000 480 lb. Bales,-327.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Loss,1000 480 lb. Bales,-477.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Loss,1000 480 lb. Bales,-38.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Loss,1000 480 lb. Bales,208.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Loss,1000 480 lb. Bales,89.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Loss,1000 480 lb. Bales,-64.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Loss,1000 480 lb. Bales,-195.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Loss,1000 480 lb. Bales,-130.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Loss,1000 480 lb. Bales,-54.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Loss,1000 480 lb. Bales,-140.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Loss,1000 480 lb. Bales,404.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Loss,1000 480 lb. Bales,-265.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Loss,1000 480 lb. Bales,-207.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Loss,1000 480 lb. Bales,-227.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Loss,1000 480 lb. Bales,-188.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Loss,1000 480 lb. Bales,-195.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1960,Production,1000 480 lb. Bales,45066.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Production,1000 480 lb. Bales,44566.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Production,1000 480 lb. Bales,46989.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Production,1000 480 lb. Bales,50815.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Production,1000 480 lb. Bales,53747.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Production,1000 480 lb. Bales,56936.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Production,1000 480 lb. Bales,52262.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Production,1000 480 lb. Bales,51560.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Production,1000 480 lb. Bales,56894.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Production,1000 480 lb. Bales,54326.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Production,1000 480 lb. Bales,55572.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Production,1000 480 lb. Bales,59152.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Production,1000 480 lb. Bales,61867.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Production,1000 480 lb. Bales,62478.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Production,1000 480 lb. Bales,63817.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Production,1000 480 lb. Bales,53975.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Production,1000 480 lb. Bales,56527.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Production,1000 480 lb. Bales,63908.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Production,1000 480 lb. Bales,59496.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Production,1000 480 lb. Bales,65446.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Production,1000 480 lb. Bales,63377.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Production,1000 480 lb. Bales,68839.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Production,1000 480 lb. Bales,66332.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Production,1000 480 lb. Bales,66277.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Production,1000 480 lb. Bales,88706.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Production,1000 480 lb. Bales,80141.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Production,1000 480 lb. Bales,70363.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Production,1000 480 lb. Bales,81446.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Production,1000 480 lb. Bales,84222.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Production,1000 480 lb. Bales,79721.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Production,1000 480 lb. Bales,87211.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Production,1000 480 lb. Bales,95304.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Production,1000 480 lb. Bales,82306.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Production,1000 480 lb. Bales,77550.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Production,1000 480 lb. Bales,85934.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Production,1000 480 lb. Bales,93656.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Production,1000 480 lb. Bales,89814.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Production,1000 480 lb. Bales,92074.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Production,1000 480 lb. Bales,85820.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Production,1000 480 lb. Bales,87743.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Production,1000 480 lb. Bales,88449.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Production,1000 480 lb. Bales,99275.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Production,1000 480 lb. Bales,90630.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Production,1000 480 lb. Bales,94388.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Production,1000 480 lb. Bales,121521.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Production,1000 480 lb. Bales,117388.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Production,1000 480 lb. Bales,120400.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Production,1000 480 lb. Bales,119665.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Production,1000 480 lb. Bales,109865.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Production,1000 480 lb. Bales,103171.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Production,1000 480 lb. Bales,113632.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Production,1000 480 lb. Bales,127634.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Production,1000 480 lb. Bales,126301.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Production,1000 480 lb. Bales,118608.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Production,1000 480 lb. Bales,120031.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Production,1000 480 lb. Bales,97008.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Production,1000 480 lb. Bales,105100.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Production,1000 480 lb. Bales,121598.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Production,1000 480 lb. Bales,113732.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Production,1000 480 lb. Bales,118206.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Production,1000 480 lb. Bales,113261.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Production,1000 480 lb. Bales,114335.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Production,1000 480 lb. Bales,115919.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Production,1000 480 lb. Bales,112234.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Production,1000 480 lb. Bales,119341.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Production,1000 480 lb. Bales,122656.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Production,1000 480 lb. Bales,116044.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1960,Total Distribution,1000 480 lb. Bales,81941.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Total Distribution,1000 480 lb. Bales,79427.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Total Distribution,1000 480 lb. Bales,82642.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Total Distribution,1000 480 lb. Bales,91638.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Total Distribution,1000 480 lb. Bales,97165.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Total Distribution,1000 480 lb. Bales,103070.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Total Distribution,1000 480 lb. Bales,102821.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Total Distribution,1000 480 lb. Bales,97384.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Total Distribution,1000 480 lb. Bales,97410.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Total Distribution,1000 480 lb. Bales,96000.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Total Distribution,1000 480 lb. Bales,102574.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Total Distribution,1000 480 lb. Bales,105666.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Total Distribution,1000 480 lb. Bales,111693.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Total Distribution,1000 480 lb. Bales,113709.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Total Distribution,1000 480 lb. Bales,114799.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Total Distribution,1000 480 lb. Bales,113613.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Total Distribution,1000 480 lb. Bales,107359.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Total Distribution,1000 480 lb. Bales,113408.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Total Distribution,1000 480 lb. Bales,112262.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Total Distribution,1000 480 lb. Bales,117808.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Total Distribution,1000 480 lb. Bales,111862.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Total Distribution,1000 480 lb. Bales,115146.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Total Distribution,1000 480 lb. Bales,118237.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Total Distribution,1000 480 lb. Bales,118790.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Total Distribution,1000 480 lb. Bales,140616.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Total Distribution,1000 480 lb. Bales,151248.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Total Distribution,1000 480 lb. Bales,151044.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Total Distribution,1000 480 lb. Bales,147395.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Total Distribution,1000 480 lb. Bales,150416.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Total Distribution,1000 480 lb. Bales,143479.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Total Distribution,1000 480 lb. Bales,142772.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Total Distribution,1000 480 lb. Bales,151811.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Total Distribution,1000 480 lb. Bales,146424.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Total Distribution,1000 480 lb. Bales,140070.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Total Distribution,1000 480 lb. Bales,144146.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Total Distribution,1000 480 lb. Bales,152646.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Total Distribution,1000 480 lb. Bales,158419.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Total Distribution,1000 480 lb. Bales,162484.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Total Distribution,1000 480 lb. Bales,159423.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Total Distribution,1000 480 lb. Bales,168283.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Total Distribution,1000 480 lb. Bales,165731.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Total Distribution,1000 480 lb. Bales,177652.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Total Distribution,1000 480 lb. Bales,175714.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Total Distribution,1000 480 lb. Bales,176182.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Total Distribution,1000 480 lb. Bales,201295.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Total Distribution,1000 480 lb. Bales,220471.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Total Distribution,1000 480 lb. Bales,219452.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Total Distribution,1000 480 lb. Bales,218815.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Total Distribution,1000 480 lb. Bales,198448.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Total Distribution,1000 480 lb. Bales,199104.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Total Distribution,1000 480 lb. Bales,193776.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Total Distribution,1000 480 lb. Bales,216272.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Total Distribution,1000 480 lb. Bales,240460.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Total Distribution,1000 480 lb. Bales,246864.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Total Distribution,1000 480 lb. Bales,252931.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Total Distribution,1000 480 lb. Bales,236268.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Total Distribution,1000 480 lb. Bales,230613.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Total Distribution,1000 480 lb. Bales,238996.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Total Distribution,1000 480 lb. Bales,230803.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Total Distribution,1000 480 lb. Bales,229623.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Total Distribution,1000 480 lb. Bales,245508.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Total Distribution,1000 480 lb. Bales,229969.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Total Distribution,1000 480 lb. Bales,224848.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Total Distribution,1000 480 lb. Bales,232138.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Total Distribution,1000 480 lb. Bales,235821.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Total Distribution,1000 480 lb. Bales,240926.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Total Distribution,1000 480 lb. Bales,236017.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1960,Total Supply,1000 480 lb. Bales,81941.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1961,Total Supply,1000 480 lb. Bales,79427.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1962,Total Supply,1000 480 lb. Bales,82642.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1963,Total Supply,1000 480 lb. Bales,91638.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1964,Total Supply,1000 480 lb. Bales,97165.0,1,95,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1965,Total Supply,1000 480 lb. Bales,103070.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1966,Total Supply,1000 480 lb. Bales,102821.0,1,104,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1967,Total Supply,1000 480 lb. Bales,97384.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1968,Total Supply,1000 480 lb. Bales,97410.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1969,Total Supply,1000 480 lb. Bales,96000.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1970,Total Supply,1000 480 lb. Bales,102574.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1971,Total Supply,1000 480 lb. Bales,105666.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1972,Total Supply,1000 480 lb. Bales,111693.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1973,Total Supply,1000 480 lb. Bales,113709.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1974,Total Supply,1000 480 lb. Bales,114799.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1975,Total Supply,1000 480 lb. Bales,113613.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1976,Total Supply,1000 480 lb. Bales,107359.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1977,Total Supply,1000 480 lb. Bales,113408.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1978,Total Supply,1000 480 lb. Bales,112262.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1979,Total Supply,1000 480 lb. Bales,117808.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1980,Total Supply,1000 480 lb. Bales,111862.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1981,Total Supply,1000 480 lb. Bales,115146.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1982,Total Supply,1000 480 lb. Bales,118237.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1983,Total Supply,1000 480 lb. Bales,118790.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1984,Total Supply,1000 480 lb. Bales,140616.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1985,Total Supply,1000 480 lb. Bales,151248.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1986,Total Supply,1000 480 lb. Bales,151044.0,1,106,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1987,Total Supply,1000 480 lb. Bales,147395.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1988,Total Supply,1000 480 lb. Bales,150416.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1989,Total Supply,1000 480 lb. Bales,143479.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1990,Total Supply,1000 480 lb. Bales,142772.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1991,Total Supply,1000 480 lb. Bales,151811.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1992,Total Supply,1000 480 lb. Bales,146424.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1993,Total Supply,1000 480 lb. Bales,140070.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1994,Total Supply,1000 480 lb. Bales,144146.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1995,Total Supply,1000 480 lb. Bales,152646.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1996,Total Supply,1000 480 lb. Bales,158419.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1997,Total Supply,1000 480 lb. Bales,162484.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1998,Total Supply,1000 480 lb. Bales,159423.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,1999,Total Supply,1000 480 lb. Bales,168283.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2000,Total Supply,1000 480 lb. Bales,165731.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2001,Total Supply,1000 480 lb. Bales,177652.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2002,Total Supply,1000 480 lb. Bales,175714.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2003,Total Supply,1000 480 lb. Bales,176182.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2004,Total Supply,1000 480 lb. Bales,201295.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2005,Total Supply,1000 480 lb. Bales,220471.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2006,Total Supply,1000 480 lb. Bales,219452.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2007,Total Supply,1000 480 lb. Bales,218815.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2008,Total Supply,1000 480 lb. Bales,198448.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2009,Total Supply,1000 480 lb. Bales,199104.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2010,Total Supply,1000 480 lb. Bales,193776.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2011,Total Supply,1000 480 lb. Bales,216272.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2012,Total Supply,1000 480 lb. Bales,240460.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2013,Total Supply,1000 480 lb. Bales,246864.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2014,Total Supply,1000 480 lb. Bales,252931.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2015,Total Supply,1000 480 lb. Bales,236268.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2016,Total Supply,1000 480 lb. Bales,230613.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2017,Total Supply,1000 480 lb. Bales,238996.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2018,Total Supply,1000 480 lb. Bales,230803.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2019,Total Supply,1000 480 lb. Bales,229623.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2020,Total Supply,1000 480 lb. Bales,245508.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2021,Total Supply,1000 480 lb. Bales,229969.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2022,Total Supply,1000 480 lb. Bales,224848.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2023,Total Supply,1000 480 lb. Bales,232138.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2024,Total Supply,1000 480 lb. Bales,235821.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2025,Total Supply,1000 480 lb. Bales,240926.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Cotton,World,2026,Total Supply,1000 480 lb. Bales,236017.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

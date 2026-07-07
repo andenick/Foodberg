@@ -1,0 +1,757 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Dairy, Milk, Fluid",World,1964,Cows In Milk,(1000 HEAD),140376.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Cows In Milk,(1000 HEAD),140160.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Cows In Milk,(1000 HEAD),162325.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Cows In Milk,(1000 HEAD),162635.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Cows In Milk,(1000 HEAD),162202.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Cows In Milk,(1000 HEAD),162630.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Cows In Milk,(1000 HEAD),161489.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Cows In Milk,(1000 HEAD),161321.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Cows In Milk,(1000 HEAD),162944.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Cows In Milk,(1000 HEAD),161692.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Cows In Milk,(1000 HEAD),162982.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Cows In Milk,(1000 HEAD),160285.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Cows In Milk,(1000 HEAD),161104.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Cows In Milk,(1000 HEAD),160551.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Cows In Milk,(1000 HEAD),160951.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Cows In Milk,(1000 HEAD),161589.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Cows In Milk,(1000 HEAD),161316.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Cows In Milk,(1000 HEAD),160573.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Cows In Milk,(1000 HEAD),170180.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Cows In Milk,(1000 HEAD),172311.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Cows In Milk,(1000 HEAD),173725.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Cows In Milk,(1000 HEAD),173077.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Cows In Milk,(1000 HEAD),171928.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Cows In Milk,(1000 HEAD),127308.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Cows In Milk,(1000 HEAD),166624.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Cows In Milk,(1000 HEAD),160641.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Cows In Milk,(1000 HEAD),160456.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Cows In Milk,(1000 HEAD),156809.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Cows In Milk,(1000 HEAD),159870.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Cows In Milk,(1000 HEAD),143714.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Cows In Milk,(1000 HEAD),139091.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Cows In Milk,(1000 HEAD),135353.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Cows In Milk,(1000 HEAD),132908.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Cows In Milk,(1000 HEAD),131334.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Cows In Milk,(1000 HEAD),129565.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Cows In Milk,(1000 HEAD),131722.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Cows In Milk,(1000 HEAD),131049.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Cows In Milk,(1000 HEAD),130557.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Cows In Milk,(1000 HEAD),129605.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Cows In Milk,(1000 HEAD),130164.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Cows In Milk,(1000 HEAD),129914.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Cows In Milk,(1000 HEAD),129722.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Cows In Milk,(1000 HEAD),132281.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Cows In Milk,(1000 HEAD),132592.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Cows In Milk,(1000 HEAD),129730.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Cows In Milk,(1000 HEAD),129666.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Cows In Milk,(1000 HEAD),129539.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Cows In Milk,(1000 HEAD),130757.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Cows In Milk,(1000 HEAD),133112.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Cows In Milk,(1000 HEAD),135073.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Cows In Milk,(1000 HEAD),137550.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Cows In Milk,(1000 HEAD),139714.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Cows In Milk,(1000 HEAD),139500.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Cows In Milk,(1000 HEAD),137498.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Cows In Milk,(1000 HEAD),134773.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Cows In Milk,(1000 HEAD),136082.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Cows In Milk,(1000 HEAD),137348.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Cows In Milk,(1000 HEAD),138787.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Cows In Milk,(1000 HEAD),140129.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Cows In Milk,(1000 HEAD),141342.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Cows In Milk,(1000 HEAD),141517.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Cows In Milk,(1000 HEAD),140965.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Cows In Milk,(1000 HEAD),139172.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Cows Milk Production,(1000 MT),293291.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Cows Milk Production,(1000 MT),306650.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Cows Milk Production,(1000 MT),320344.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Cows Milk Production,(1000 MT),328143.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Cows Milk Production,(1000 MT),333341.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Cows Milk Production,(1000 MT),334828.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Cows Milk Production,(1000 MT),335801.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Cows Milk Production,(1000 MT),338004.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Cows Milk Production,(1000 MT),345649.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Cows Milk Production,(1000 MT),353069.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Cows Milk Production,(1000 MT),359911.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Cows Milk Production,(1000 MT),360841.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Cows Milk Production,(1000 MT),366473.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Cows Milk Production,(1000 MT),375675.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Cows Milk Production,(1000 MT),381003.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Cows Milk Production,(1000 MT),386267.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Cows Milk Production,(1000 MT),390328.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Cows Milk Production,(1000 MT),388759.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Cows Milk Production,(1000 MT),404706.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Cows Milk Production,(1000 MT),420639.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Cows Milk Production,(1000 MT),423697.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Cows Milk Production,(1000 MT),429463.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Cows Milk Production,(1000 MT),437576.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Cows Milk Production,(1000 MT),435177.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Cows Milk Production,(1000 MT),435798.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Cows Milk Production,(1000 MT),437720.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Cows Milk Production,(1000 MT),441301.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Cows Milk Production,(1000 MT),428418.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Cows Milk Production,(1000 MT),423919.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Cows Milk Production,(1000 MT),393620.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Cows Milk Production,(1000 MT),383702.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Cows Milk Production,(1000 MT),380703.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Cows Milk Production,(1000 MT),379874.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Cows Milk Production,(1000 MT),370285.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Cows Milk Production,(1000 MT),373825.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Cows Milk Production,(1000 MT),383281.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Cows Milk Production,(1000 MT),390352.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Cows Milk Production,(1000 MT),395012.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Cows Milk Production,(1000 MT),407574.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Cows Milk Production,(1000 MT),412370.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Cows Milk Production,(1000 MT),409166.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Cows Milk Production,(1000 MT),418378.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Cows Milk Production,(1000 MT),429082.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Cows Milk Production,(1000 MT),430749.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Cows Milk Production,(1000 MT),431837.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Cows Milk Production,(1000 MT),434531.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Cows Milk Production,(1000 MT),441353.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Cows Milk Production,(1000 MT),456655.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Cows Milk Production,(1000 MT),465651.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Cows Milk Production,(1000 MT),466282.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Cows Milk Production,(1000 MT),483972.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Cows Milk Production,(1000 MT),495985.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Cows Milk Production,(1000 MT),500007.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Cows Milk Production,(1000 MT),511533.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Cows Milk Production,(1000 MT),522528.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Cows Milk Production,(1000 MT),527630.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Cows Milk Production,(1000 MT),539558.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Cows Milk Production,(1000 MT),545385.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Cows Milk Production,(1000 MT),545702.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Cows Milk Production,(1000 MT),552696.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Cows Milk Production,(1000 MT),554660.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Cows Milk Production,(1000 MT),561269.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Cows Milk Production,(1000 MT),565433.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Domestic Consumption,(1000 MT),296262.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Domestic Consumption,(1000 MT),312822.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Domestic Consumption,(1000 MT),339204.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Domestic Consumption,(1000 MT),347134.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Domestic Consumption,(1000 MT),352651.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Domestic Consumption,(1000 MT),354860.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Domestic Consumption,(1000 MT),356534.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Domestic Consumption,(1000 MT),359045.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Domestic Consumption,(1000 MT),366235.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Domestic Consumption,(1000 MT),373045.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Domestic Consumption,(1000 MT),380256.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Domestic Consumption,(1000 MT),379982.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Domestic Consumption,(1000 MT),385956.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Domestic Consumption,(1000 MT),395017.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Domestic Consumption,(1000 MT),400706.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Domestic Consumption,(1000 MT),407046.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Domestic Consumption,(1000 MT),412839.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Domestic Consumption,(1000 MT),412163.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Domestic Consumption,(1000 MT),429787.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Domestic Consumption,(1000 MT),448718.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Domestic Consumption,(1000 MT),453504.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Domestic Consumption,(1000 MT),460946.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Domestic Consumption,(1000 MT),470241.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Domestic Consumption,(1000 MT),468944.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Domestic Consumption,(1000 MT),471078.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Domestic Consumption,(1000 MT),470821.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Domestic Consumption,(1000 MT),472395.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Domestic Consumption,(1000 MT),463463.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Domestic Consumption,(1000 MT),460302.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Domestic Consumption,(1000 MT),430680.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Domestic Consumption,(1000 MT),422670.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Domestic Consumption,(1000 MT),419834.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Domestic Consumption,(1000 MT),420987.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Domestic Consumption,(1000 MT),412631.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Domestic Consumption,(1000 MT),417253.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Domestic Consumption,(1000 MT),428475.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Domestic Consumption,(1000 MT),439362.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Domestic Consumption,(1000 MT),446106.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Domestic Consumption,(1000 MT),462424.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Domestic Consumption,(1000 MT),470057.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Domestic Consumption,(1000 MT),470875.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Domestic Consumption,(1000 MT),483416.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Domestic Consumption,(1000 MT),494199.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Domestic Consumption,(1000 MT),499149.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Domestic Consumption,(1000 MT),499308.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Domestic Consumption,(1000 MT),503765.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Domestic Consumption,(1000 MT),513459.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Domestic Consumption,(1000 MT),532912.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Domestic Consumption,(1000 MT),544469.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Domestic Consumption,(1000 MT),548138.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Domestic Consumption,(1000 MT),569875.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Domestic Consumption,(1000 MT),584563.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Domestic Consumption,(1000 MT),595295.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Domestic Consumption,(1000 MT),612346.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Domestic Consumption,(1000 MT),628808.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Domestic Consumption,(1000 MT),634378.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Domestic Consumption,(1000 MT),648736.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Domestic Consumption,(1000 MT),656322.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Domestic Consumption,(1000 MT),659332.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Domestic Consumption,(1000 MT),668783.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Domestic Consumption,(1000 MT),673387.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Domestic Consumption,(1000 MT),682595.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Domestic Consumption,(1000 MT),689567.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Exports,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Exports,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Exports,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Exports,(1000 MT),30.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Exports,(1000 MT),29.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Exports,(1000 MT),31.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Exports,(1000 MT),53.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Exports,(1000 MT),50.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Exports,(1000 MT),102.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Exports,(1000 MT),157.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Exports,(1000 MT),128.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Exports,(1000 MT),166.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Exports,(1000 MT),288.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Exports,(1000 MT),302.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Exports,(1000 MT),300.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Exports,(1000 MT),333.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Exports,(1000 MT),361.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Exports,(1000 MT),423.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Exports,(1000 MT),2397.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Exports,(1000 MT),2309.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Exports,(1000 MT),2472.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Exports,(1000 MT),2809.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Exports,(1000 MT),2492.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Exports,(1000 MT),2750.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Exports,(1000 MT),2920.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Exports,(1000 MT),2792.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Exports,(1000 MT),3732.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Exports,(1000 MT),2993.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Exports,(1000 MT),3457.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Exports,(1000 MT),3850.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Exports,(1000 MT),3790.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Exports,(1000 MT),4680.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Exports,(1000 MT),4487.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Exports,(1000 MT),222.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Exports,(1000 MT),186.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Exports,(1000 MT),368.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Exports,(1000 MT),441.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Exports,(1000 MT),437.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Exports,(1000 MT),473.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Exports,(1000 MT),422.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Exports,(1000 MT),436.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Exports,(1000 MT),402.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Exports,(1000 MT),522.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Exports,(1000 MT),541.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Exports,(1000 MT),530.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Exports,(1000 MT),564.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Exports,(1000 MT),717.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Exports,(1000 MT),790.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Exports,(1000 MT),1036.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Exports,(1000 MT),1086.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Exports,(1000 MT),1330.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Exports,(1000 MT),1531.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Exports,(1000 MT),2728.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Exports,(1000 MT),2939.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Exports,(1000 MT),2976.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Exports,(1000 MT),3214.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Exports,(1000 MT),3325.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Exports,(1000 MT),3535.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Exports,(1000 MT),3227.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Exports,(1000 MT),2943.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Exports,(1000 MT),2887.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Exports,(1000 MT),2833.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Exports,(1000 MT),2768.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Factory Use Consum.,(1000 MT),181159.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Factory Use Consum.,(1000 MT),199564.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Factory Use Consum.,(1000 MT),214391.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Factory Use Consum.,(1000 MT),218603.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Factory Use Consum.,(1000 MT),222428.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Factory Use Consum.,(1000 MT),223539.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Factory Use Consum.,(1000 MT),222040.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Factory Use Consum.,(1000 MT),223886.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Factory Use Consum.,(1000 MT),232006.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Factory Use Consum.,(1000 MT),234646.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Factory Use Consum.,(1000 MT),239483.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Factory Use Consum.,(1000 MT),236401.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Factory Use Consum.,(1000 MT),242150.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Factory Use Consum.,(1000 MT),251700.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Factory Use Consum.,(1000 MT),255101.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Factory Use Consum.,(1000 MT),257599.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Factory Use Consum.,(1000 MT),262014.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Factory Use Consum.,(1000 MT),254992.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Factory Use Consum.,(1000 MT),263270.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Factory Use Consum.,(1000 MT),280167.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Factory Use Consum.,(1000 MT),279860.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Factory Use Consum.,(1000 MT),285425.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Factory Use Consum.,(1000 MT),293589.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Factory Use Consum.,(1000 MT),280589.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Factory Use Consum.,(1000 MT),295441.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Factory Use Consum.,(1000 MT),304057.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Factory Use Consum.,(1000 MT),306828.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Factory Use Consum.,(1000 MT),301648.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Factory Use Consum.,(1000 MT),287475.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Factory Use Consum.,(1000 MT),266840.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Factory Use Consum.,(1000 MT),262585.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Factory Use Consum.,(1000 MT),260627.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Factory Use Consum.,(1000 MT),258939.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Factory Use Consum.,(1000 MT),255079.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Factory Use Consum.,(1000 MT),259871.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Factory Use Consum.,(1000 MT),272205.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Factory Use Consum.,(1000 MT),279196.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Factory Use Consum.,(1000 MT),284794.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Factory Use Consum.,(1000 MT),292964.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Factory Use Consum.,(1000 MT),298912.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Factory Use Consum.,(1000 MT),304625.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Factory Use Consum.,(1000 MT),313136.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Factory Use Consum.,(1000 MT),321925.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Factory Use Consum.,(1000 MT),329815.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Factory Use Consum.,(1000 MT),333495.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Factory Use Consum.,(1000 MT),334578.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Factory Use Consum.,(1000 MT),341394.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Factory Use Consum.,(1000 MT),359779.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Factory Use Consum.,(1000 MT),371168.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Factory Use Consum.,(1000 MT),375430.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Factory Use Consum.,(1000 MT),391625.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Factory Use Consum.,(1000 MT),403753.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Factory Use Consum.,(1000 MT),415552.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Factory Use Consum.,(1000 MT),428558.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Factory Use Consum.,(1000 MT),440820.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Factory Use Consum.,(1000 MT),444552.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Factory Use Consum.,(1000 MT),456188.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Factory Use Consum.,(1000 MT),459688.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Factory Use Consum.,(1000 MT),461588.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Factory Use Consum.,(1000 MT),469523.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Factory Use Consum.,(1000 MT),474461.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Factory Use Consum.,(1000 MT),482614.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Factory Use Consum.,(1000 MT),488045.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Feed Use Dom. Consum.,(1000 MT),14218.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Feed Use Dom. Consum.,(1000 MT),11093.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Feed Use Dom. Consum.,(1000 MT),12011.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Feed Use Dom. Consum.,(1000 MT),11716.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Feed Use Dom. Consum.,(1000 MT),11846.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Feed Use Dom. Consum.,(1000 MT),11562.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Feed Use Dom. Consum.,(1000 MT),12687.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Feed Use Dom. Consum.,(1000 MT),12197.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Feed Use Dom. Consum.,(1000 MT),11768.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Feed Use Dom. Consum.,(1000 MT),11690.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Feed Use Dom. Consum.,(1000 MT),11820.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Feed Use Dom. Consum.,(1000 MT),11366.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Feed Use Dom. Consum.,(1000 MT),10739.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Feed Use Dom. Consum.,(1000 MT),10291.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Feed Use Dom. Consum.,(1000 MT),10710.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Feed Use Dom. Consum.,(1000 MT),10093.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Feed Use Dom. Consum.,(1000 MT),9552.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Feed Use Dom. Consum.,(1000 MT),8805.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Feed Use Dom. Consum.,(1000 MT),9293.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Feed Use Dom. Consum.,(1000 MT),9275.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Feed Use Dom. Consum.,(1000 MT),12257.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Feed Use Dom. Consum.,(1000 MT),12699.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Feed Use Dom. Consum.,(1000 MT),12159.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Feed Use Dom. Consum.,(1000 MT),24239.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Feed Use Dom. Consum.,(1000 MT),11557.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Feed Use Dom. Consum.,(1000 MT),11165.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Feed Use Dom. Consum.,(1000 MT),11195.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Feed Use Dom. Consum.,(1000 MT),10420.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Feed Use Dom. Consum.,(1000 MT),16370.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Feed Use Dom. Consum.,(1000 MT),13804.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Feed Use Dom. Consum.,(1000 MT),13081.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Feed Use Dom. Consum.,(1000 MT),12310.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Feed Use Dom. Consum.,(1000 MT),12750.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Feed Use Dom. Consum.,(1000 MT),8089.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Feed Use Dom. Consum.,(1000 MT),7724.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Feed Use Dom. Consum.,(1000 MT),6765.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Feed Use Dom. Consum.,(1000 MT),7400.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Feed Use Dom. Consum.,(1000 MT),7319.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Feed Use Dom. Consum.,(1000 MT),7531.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Feed Use Dom. Consum.,(1000 MT),7338.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Feed Use Dom. Consum.,(1000 MT),7166.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Feed Use Dom. Consum.,(1000 MT),6555.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Feed Use Dom. Consum.,(1000 MT),6890.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Feed Use Dom. Consum.,(1000 MT),6859.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Feed Use Dom. Consum.,(1000 MT),5766.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Feed Use Dom. Consum.,(1000 MT),5745.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Feed Use Dom. Consum.,(1000 MT),5587.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Feed Use Dom. Consum.,(1000 MT),5505.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Feed Use Dom. Consum.,(1000 MT),5527.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Feed Use Dom. Consum.,(1000 MT),5654.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Feed Use Dom. Consum.,(1000 MT),5485.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Feed Use Dom. Consum.,(1000 MT),5280.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Feed Use Dom. Consum.,(1000 MT),5156.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Feed Use Dom. Consum.,(1000 MT),4899.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Feed Use Dom. Consum.,(1000 MT),4772.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Feed Use Dom. Consum.,(1000 MT),4748.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Feed Use Dom. Consum.,(1000 MT),4678.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Feed Use Dom. Consum.,(1000 MT),4625.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Feed Use Dom. Consum.,(1000 MT),4500.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Feed Use Dom. Consum.,(1000 MT),4402.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Feed Use Dom. Consum.,(1000 MT),4369.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Feed Use Dom. Consum.,(1000 MT),4292.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Feed Use Dom. Consum.,(1000 MT),4205.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Fluid Use Dom. Consum.,(1000 MT),96879.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Fluid Use Dom. Consum.,(1000 MT),100819.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Fluid Use Dom. Consum.,(1000 MT),111347.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Fluid Use Dom. Consum.,(1000 MT),115197.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Fluid Use Dom. Consum.,(1000 MT),116777.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Fluid Use Dom. Consum.,(1000 MT),118164.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Fluid Use Dom. Consum.,(1000 MT),120157.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Fluid Use Dom. Consum.,(1000 MT),121275.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Fluid Use Dom. Consum.,(1000 MT),120838.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Fluid Use Dom. Consum.,(1000 MT),125049.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Fluid Use Dom. Consum.,(1000 MT),127303.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Fluid Use Dom. Consum.,(1000 MT),130555.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Fluid Use Dom. Consum.,(1000 MT),131307.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Fluid Use Dom. Consum.,(1000 MT),133026.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Fluid Use Dom. Consum.,(1000 MT),134895.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Fluid Use Dom. Consum.,(1000 MT),139354.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Fluid Use Dom. Consum.,(1000 MT),141273.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Fluid Use Dom. Consum.,(1000 MT),148366.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Fluid Use Dom. Consum.,(1000 MT),157224.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Fluid Use Dom. Consum.,(1000 MT),159276.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Fluid Use Dom. Consum.,(1000 MT),161387.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Fluid Use Dom. Consum.,(1000 MT),162822.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Fluid Use Dom. Consum.,(1000 MT),164493.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Fluid Use Dom. Consum.,(1000 MT),164116.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Fluid Use Dom. Consum.,(1000 MT),164080.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Fluid Use Dom. Consum.,(1000 MT),155599.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Fluid Use Dom. Consum.,(1000 MT),154372.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Fluid Use Dom. Consum.,(1000 MT),151395.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Fluid Use Dom. Consum.,(1000 MT),156457.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Fluid Use Dom. Consum.,(1000 MT),150036.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Fluid Use Dom. Consum.,(1000 MT),147004.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Fluid Use Dom. Consum.,(1000 MT),146897.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Fluid Use Dom. Consum.,(1000 MT),149298.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Fluid Use Dom. Consum.,(1000 MT),149463.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Fluid Use Dom. Consum.,(1000 MT),149658.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Fluid Use Dom. Consum.,(1000 MT),149505.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Fluid Use Dom. Consum.,(1000 MT),152766.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Fluid Use Dom. Consum.,(1000 MT),153993.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Fluid Use Dom. Consum.,(1000 MT),161929.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Fluid Use Dom. Consum.,(1000 MT),163807.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Fluid Use Dom. Consum.,(1000 MT),159084.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Fluid Use Dom. Consum.,(1000 MT),163725.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Fluid Use Dom. Consum.,(1000 MT),165384.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Fluid Use Dom. Consum.,(1000 MT),162475.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Fluid Use Dom. Consum.,(1000 MT),160047.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Fluid Use Dom. Consum.,(1000 MT),163442.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Fluid Use Dom. Consum.,(1000 MT),166478.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Fluid Use Dom. Consum.,(1000 MT),167628.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Fluid Use Dom. Consum.,(1000 MT),167774.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Fluid Use Dom. Consum.,(1000 MT),167054.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Fluid Use Dom. Consum.,(1000 MT),172765.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Fluid Use Dom. Consum.,(1000 MT),175530.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Fluid Use Dom. Consum.,(1000 MT),174587.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Fluid Use Dom. Consum.,(1000 MT),178889.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Fluid Use Dom. Consum.,(1000 MT),183216.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Fluid Use Dom. Consum.,(1000 MT),185078.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Fluid Use Dom. Consum.,(1000 MT),187870.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Fluid Use Dom. Consum.,(1000 MT),192009.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Fluid Use Dom. Consum.,(1000 MT),193244.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Fluid Use Dom. Consum.,(1000 MT),194858.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Fluid Use Dom. Consum.,(1000 MT),194557.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Fluid Use Dom. Consum.,(1000 MT),195689.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Fluid Use Dom. Consum.,(1000 MT),197317.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Imports,(1000 MT),2548.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Imports,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Imports,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Imports,(1000 MT),12.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Imports,(1000 MT),29.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Imports,(1000 MT),2.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Imports,(1000 MT),50.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Imports,(1000 MT),211.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Imports,(1000 MT),125.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Imports,(1000 MT),113.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Imports,(1000 MT),410.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Imports,(1000 MT),227.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Imports,(1000 MT),389.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Imports,(1000 MT),306.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Imports,(1000 MT),269.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Imports,(1000 MT),191.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Imports,(1000 MT),262.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Imports,(1000 MT),313.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Imports,(1000 MT),580.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Imports,(1000 MT),2425.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Imports,(1000 MT),2755.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Imports,(1000 MT),3120.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Imports,(1000 MT),2703.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Imports,(1000 MT),2833.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Imports,(1000 MT),3145.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Imports,(1000 MT),2933.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Imports,(1000 MT),3229.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Imports,(1000 MT),3522.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Imports,(1000 MT),3997.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Imports,(1000 MT),4103.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Imports,(1000 MT),4446.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Imports,(1000 MT),5208.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Imports,(1000 MT),4929.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Imports,(1000 MT),139.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Imports,(1000 MT),242.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Imports,(1000 MT),203.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Imports,(1000 MT),238.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Imports,(1000 MT),198.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Imports,(1000 MT),202.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Imports,(1000 MT),269.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Imports,(1000 MT),291.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Imports,(1000 MT),291.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Imports,(1000 MT),265.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Imports,(1000 MT),322.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Imports,(1000 MT),263.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Imports,(1000 MT),299.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Imports,(1000 MT),385.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Imports,(1000 MT),435.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Imports,(1000 MT),612.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Imports,(1000 MT),746.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Imports,(1000 MT),960.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Imports,(1000 MT),1047.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Imports,(1000 MT),2026.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Imports,(1000 MT),2273.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Imports,(1000 MT),2358.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Imports,(1000 MT),2481.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Imports,(1000 MT),2625.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Imports,(1000 MT),2803.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Imports,(1000 MT),2570.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Imports,(1000 MT),2420.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Imports,(1000 MT),2432.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Imports,(1000 MT),2312.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Imports,(1000 MT),2318.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Other Milk Production,(1000 MT),487.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Other Milk Production,(1000 MT),6238.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Other Milk Production,(1000 MT),18925.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Other Milk Production,(1000 MT),19009.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Other Milk Production,(1000 MT),19310.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Other Milk Production,(1000 MT),20061.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Other Milk Production,(1000 MT),20736.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Other Milk Production,(1000 MT),20880.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Other Milk Production,(1000 MT),20630.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Other Milk Production,(1000 MT),20020.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Other Milk Production,(1000 MT),20063.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Other Milk Production,(1000 MT),19080.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Other Milk Production,(1000 MT),19382.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Other Milk Production,(1000 MT),19338.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Other Milk Production,(1000 MT),19734.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Other Milk Production,(1000 MT),20921.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Other Milk Production,(1000 MT),22610.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Other Milk Production,(1000 MT),23514.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Other Milk Production,(1000 MT),26898.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Other Milk Production,(1000 MT),27963.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Other Milk Production,(1000 MT),29524.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Other Milk Production,(1000 MT),31172.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Other Milk Production,(1000 MT),32454.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Other Milk Production,(1000 MT),33684.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Other Milk Production,(1000 MT),35055.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Other Milk Production,(1000 MT),32960.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Other Milk Production,(1000 MT),31597.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Other Milk Production,(1000 MT),34516.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Other Milk Production,(1000 MT),35843.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Other Milk Production,(1000 MT),36807.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Other Milk Production,(1000 MT),38312.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Other Milk Production,(1000 MT),38603.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Other Milk Production,(1000 MT),40671.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Other Milk Production,(1000 MT),42429.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Other Milk Production,(1000 MT),43372.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Other Milk Production,(1000 MT),45359.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Other Milk Production,(1000 MT),49213.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Other Milk Production,(1000 MT),51333.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Other Milk Production,(1000 MT),55121.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Other Milk Production,(1000 MT),57840.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Other Milk Production,(1000 MT),61854.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Other Milk Production,(1000 MT),65150.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Other Milk Production,(1000 MT),65374.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Other Milk Production,(1000 MT),68619.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Other Milk Production,(1000 MT),67738.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Other Milk Production,(1000 MT),69499.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Other Milk Production,(1000 MT),72438.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Other Milk Production,(1000 MT),76612.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Other Milk Production,(1000 MT),79242.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Other Milk Production,(1000 MT),82196.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Other Milk Production,(1000 MT),86273.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Other Milk Production,(1000 MT),89062.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Other Milk Production,(1000 MT),95990.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Other Milk Production,(1000 MT),101479.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Other Milk Production,(1000 MT),106898.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Other Milk Production,(1000 MT),107481.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Other Milk Production,(1000 MT),109878.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Other Milk Production,(1000 MT),111669.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Other Milk Production,(1000 MT),114287.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Other Milk Production,(1000 MT),116610.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Other Milk Production,(1000 MT),119182.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Other Milk Production,(1000 MT),121847.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Other Milk Production,(1000 MT),124584.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Production,(1000 MT),293778.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Production,(1000 MT),312888.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Production,(1000 MT),339269.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Production,(1000 MT),347152.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Production,(1000 MT),352651.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Production,(1000 MT),354889.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Production,(1000 MT),356537.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Production,(1000 MT),358884.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Production,(1000 MT),366279.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Production,(1000 MT),373089.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Production,(1000 MT),379974.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Production,(1000 MT),379921.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Production,(1000 MT),385855.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Production,(1000 MT),395013.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Production,(1000 MT),400737.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Production,(1000 MT),407188.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Production,(1000 MT),412938.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Production,(1000 MT),412273.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Production,(1000 MT),431604.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Production,(1000 MT),448602.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Production,(1000 MT),453221.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Production,(1000 MT),460635.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Production,(1000 MT),470030.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Production,(1000 MT),468861.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Production,(1000 MT),470853.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Production,(1000 MT),470680.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Production,(1000 MT),472898.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Production,(1000 MT),462934.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Production,(1000 MT),459762.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Production,(1000 MT),430427.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Production,(1000 MT),422014.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Production,(1000 MT),419306.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Production,(1000 MT),420545.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Production,(1000 MT),412714.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Production,(1000 MT),417197.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Production,(1000 MT),428640.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Production,(1000 MT),439565.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Production,(1000 MT),446345.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Production,(1000 MT),462695.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Production,(1000 MT),470210.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Production,(1000 MT),471020.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Production,(1000 MT),483528.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Production,(1000 MT),494456.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Production,(1000 MT),499368.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Production,(1000 MT),499575.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Production,(1000 MT),504030.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Production,(1000 MT),513791.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Production,(1000 MT),533267.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Production,(1000 MT),544893.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Production,(1000 MT),548478.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Production,(1000 MT),570245.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Production,(1000 MT),585047.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Production,(1000 MT),595997.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Production,(1000 MT),613012.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Production,(1000 MT),629426.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Production,(1000 MT),635111.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Production,(1000 MT),649436.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Production,(1000 MT),657054.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Production,(1000 MT),659989.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Production,(1000 MT),669306.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Production,(1000 MT),673842.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Production,(1000 MT),683116.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Production,(1000 MT),690017.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Total Distribution,(1000 MT),296262.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Total Distribution,(1000 MT),312822.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Total Distribution,(1000 MT),339204.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Total Distribution,(1000 MT),347164.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Total Distribution,(1000 MT),352680.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Total Distribution,(1000 MT),354891.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Total Distribution,(1000 MT),356587.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Total Distribution,(1000 MT),359095.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Total Distribution,(1000 MT),366337.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Total Distribution,(1000 MT),373202.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Total Distribution,(1000 MT),380384.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Total Distribution,(1000 MT),380148.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Total Distribution,(1000 MT),386244.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Total Distribution,(1000 MT),395319.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Total Distribution,(1000 MT),401006.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Total Distribution,(1000 MT),407379.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Total Distribution,(1000 MT),413200.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Total Distribution,(1000 MT),412586.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Total Distribution,(1000 MT),432184.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Total Distribution,(1000 MT),451027.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Total Distribution,(1000 MT),455976.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Total Distribution,(1000 MT),463755.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Total Distribution,(1000 MT),472733.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Total Distribution,(1000 MT),471694.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Total Distribution,(1000 MT),473998.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Total Distribution,(1000 MT),473613.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Total Distribution,(1000 MT),476127.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Total Distribution,(1000 MT),466456.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Total Distribution,(1000 MT),463759.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Total Distribution,(1000 MT),434530.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Total Distribution,(1000 MT),426460.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Total Distribution,(1000 MT),424514.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Total Distribution,(1000 MT),425474.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Total Distribution,(1000 MT),412853.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Total Distribution,(1000 MT),417439.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Total Distribution,(1000 MT),428843.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Total Distribution,(1000 MT),439803.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Total Distribution,(1000 MT),446543.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Total Distribution,(1000 MT),462897.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Total Distribution,(1000 MT),470479.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Total Distribution,(1000 MT),471311.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Total Distribution,(1000 MT),483818.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Total Distribution,(1000 MT),494721.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Total Distribution,(1000 MT),499690.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Total Distribution,(1000 MT),499838.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Total Distribution,(1000 MT),504329.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Total Distribution,(1000 MT),514176.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Total Distribution,(1000 MT),533702.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Total Distribution,(1000 MT),545505.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Total Distribution,(1000 MT),549224.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Total Distribution,(1000 MT),571205.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Total Distribution,(1000 MT),586094.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Total Distribution,(1000 MT),598023.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Total Distribution,(1000 MT),615285.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Total Distribution,(1000 MT),631784.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Total Distribution,(1000 MT),637592.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Total Distribution,(1000 MT),652061.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Total Distribution,(1000 MT),659857.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Total Distribution,(1000 MT),662559.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Total Distribution,(1000 MT),671726.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Total Distribution,(1000 MT),676274.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Total Distribution,(1000 MT),685428.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Total Distribution,(1000 MT),692335.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1964,Total Supply,(1000 MT),296326.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1965,Total Supply,(1000 MT),312888.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1966,Total Supply,(1000 MT),339269.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1967,Total Supply,(1000 MT),347164.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1968,Total Supply,(1000 MT),352680.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1969,Total Supply,(1000 MT),354891.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1970,Total Supply,(1000 MT),356587.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1971,Total Supply,(1000 MT),359095.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1972,Total Supply,(1000 MT),366404.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1973,Total Supply,(1000 MT),373202.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1974,Total Supply,(1000 MT),380384.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1975,Total Supply,(1000 MT),380148.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1976,Total Supply,(1000 MT),386244.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1977,Total Supply,(1000 MT),395319.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1978,Total Supply,(1000 MT),401006.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1979,Total Supply,(1000 MT),407379.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1980,Total Supply,(1000 MT),413200.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1981,Total Supply,(1000 MT),412586.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1982,Total Supply,(1000 MT),432184.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1983,Total Supply,(1000 MT),451027.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1984,Total Supply,(1000 MT),455976.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1985,Total Supply,(1000 MT),463755.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1986,Total Supply,(1000 MT),472733.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1987,Total Supply,(1000 MT),471694.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1988,Total Supply,(1000 MT),473998.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1989,Total Supply,(1000 MT),473613.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1990,Total Supply,(1000 MT),476127.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1991,Total Supply,(1000 MT),466456.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1992,Total Supply,(1000 MT),463759.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1993,Total Supply,(1000 MT),434530.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1994,Total Supply,(1000 MT),426460.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1995,Total Supply,(1000 MT),424514.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1996,Total Supply,(1000 MT),425474.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1997,Total Supply,(1000 MT),412853.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1998,Total Supply,(1000 MT),417439.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,1999,Total Supply,(1000 MT),428843.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2000,Total Supply,(1000 MT),439803.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2001,Total Supply,(1000 MT),446543.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2002,Total Supply,(1000 MT),462897.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2003,Total Supply,(1000 MT),470479.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2004,Total Supply,(1000 MT),471311.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2005,Total Supply,(1000 MT),483818.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2006,Total Supply,(1000 MT),494721.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2007,Total Supply,(1000 MT),499690.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2008,Total Supply,(1000 MT),499838.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2009,Total Supply,(1000 MT),504329.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2010,Total Supply,(1000 MT),514176.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2011,Total Supply,(1000 MT),533702.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2012,Total Supply,(1000 MT),545505.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2013,Total Supply,(1000 MT),549224.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2014,Total Supply,(1000 MT),571205.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2015,Total Supply,(1000 MT),586094.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2016,Total Supply,(1000 MT),598023.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2017,Total Supply,(1000 MT),615285.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2018,Total Supply,(1000 MT),631784.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2019,Total Supply,(1000 MT),637592.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2020,Total Supply,(1000 MT),652061.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2021,Total Supply,(1000 MT),659857.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2022,Total Supply,(1000 MT),662559.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2023,Total Supply,(1000 MT),671726.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2024,Total Supply,(1000 MT),676274.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2025,Total Supply,(1000 MT),685428.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Fluid",World,2026,Total Supply,(1000 MT),692335.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

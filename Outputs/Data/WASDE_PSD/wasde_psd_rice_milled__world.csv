@@ -1,0 +1,872 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Rice, Milled",World,1960,Area Harvested,(1000 HA),120140.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Area Harvested,(1000 HA),115817.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Area Harvested,(1000 HA),119719.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Area Harvested,(1000 HA),121151.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Area Harvested,(1000 HA),125403.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Area Harvested,(1000 HA),123967.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Area Harvested,(1000 HA),125679.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Area Harvested,(1000 HA),126990.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Area Harvested,(1000 HA),128593.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Area Harvested,(1000 HA),131419.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Area Harvested,(1000 HA),132658.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Area Harvested,(1000 HA),134831.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Area Harvested,(1000 HA),132518.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Area Harvested,(1000 HA),136290.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Area Harvested,(1000 HA),137796.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Area Harvested,(1000 HA),142737.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Area Harvested,(1000 HA),141029.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Area Harvested,(1000 HA),142909.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Area Harvested,(1000 HA),143218.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Area Harvested,(1000 HA),141319.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Area Harvested,(1000 HA),144402.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Area Harvested,(1000 HA),144383.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Area Harvested,(1000 HA),140514.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Area Harvested,(1000 HA),144648.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Area Harvested,(1000 HA),144050.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Area Harvested,(1000 HA),144676.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Area Harvested,(1000 HA),144778.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Area Harvested,(1000 HA),141434.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Area Harvested,(1000 HA),146576.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Area Harvested,(1000 HA),147816.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Area Harvested,(1000 HA),146963.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Area Harvested,(1000 HA),147543.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Area Harvested,(1000 HA),146414.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Area Harvested,(1000 HA),145280.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Area Harvested,(1000 HA),147289.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Area Harvested,(1000 HA),148297.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Area Harvested,(1000 HA),150165.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Area Harvested,(1000 HA),151725.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Area Harvested,(1000 HA),153303.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Area Harvested,(1000 HA),155850.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Area Harvested,(1000 HA),152727.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Area Harvested,(1000 HA),151671.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Area Harvested,(1000 HA),147634.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Area Harvested,(1000 HA),149502.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Area Harvested,(1000 HA),151367.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Area Harvested,(1000 HA),154161.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Area Harvested,(1000 HA),154418.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Area Harvested,(1000 HA),154843.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Area Harvested,(1000 HA),158540.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Area Harvested,(1000 HA),155963.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Area Harvested,(1000 HA),158473.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Area Harvested,(1000 HA),160063.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Area Harvested,(1000 HA),160273.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Area Harvested,(1000 HA),163537.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Area Harvested,(1000 HA),163128.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Area Harvested,(1000 HA),161643.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Area Harvested,(1000 HA),164600.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Area Harvested,(1000 HA),164168.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Area Harvested,(1000 HA),163749.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Area Harvested,(1000 HA),161924.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Area Harvested,(1000 HA),165501.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Area Harvested,(1000 HA),166948.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Area Harvested,(1000 HA),167445.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Area Harvested,(1000 HA),167895.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Area Harvested,(1000 HA),172740.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Area Harvested,(1000 HA),173553.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Area Harvested,(1000 HA),170832.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,Beginning Stocks,(1000 MT),16274.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Beginning Stocks,(1000 MT),10496.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Beginning Stocks,(1000 MT),8532.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Beginning Stocks,(1000 MT),12537.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Beginning Stocks,(1000 MT),16260.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Beginning Stocks,(1000 MT),17192.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Beginning Stocks,(1000 MT),18088.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Beginning Stocks,(1000 MT),18569.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Beginning Stocks,(1000 MT),21278.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Beginning Stocks,(1000 MT),24554.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Beginning Stocks,(1000 MT),26427.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Beginning Stocks,(1000 MT),28827.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Beginning Stocks,(1000 MT),28710.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Beginning Stocks,(1000 MT),24151.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Beginning Stocks,(1000 MT),29313.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Beginning Stocks,(1000 MT),28760.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Beginning Stocks,(1000 MT),39390.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Beginning Stocks,(1000 MT),38840.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Beginning Stocks,(1000 MT),44786.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Beginning Stocks,(1000 MT),54847.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Beginning Stocks,(1000 MT),54024.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Beginning Stocks,(1000 MT),52589.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Beginning Stocks,(1000 MT),50506.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Beginning Stocks,(1000 MT),56774.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Beginning Stocks,(1000 MT),69311.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Beginning Stocks,(1000 MT),87659.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Beginning Stocks,(1000 MT),97702.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Beginning Stocks,(1000 MT),103305.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Beginning Stocks,(1000 MT),105260.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Beginning Stocks,(1000 MT),111646.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Beginning Stocks,(1000 MT),120604.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Beginning Stocks,(1000 MT),126641.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Beginning Stocks,(1000 MT),126677.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Beginning Stocks,(1000 MT),123155.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Beginning Stocks,(1000 MT),118926.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Beginning Stocks,(1000 MT),117561.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Beginning Stocks,(1000 MT),118061.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Beginning Stocks,(1000 MT),120255.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Beginning Stocks,(1000 MT),127718.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Beginning Stocks,(1000 MT),134052.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Beginning Stocks,(1000 MT),143104.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Beginning Stocks,(1000 MT),146710.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Beginning Stocks,(1000 MT),133063.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Beginning Stocks,(1000 MT),103196.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Beginning Stocks,(1000 MT),82150.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Beginning Stocks,(1000 MT),74932.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Beginning Stocks,(1000 MT),77402.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Beginning Stocks,(1000 MT),76358.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Beginning Stocks,(1000 MT),82312.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Beginning Stocks,(1000 MT),95011.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Beginning Stocks,(1000 MT),97498.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Beginning Stocks,(1000 MT),102795.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Beginning Stocks,(1000 MT),112699.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Beginning Stocks,(1000 MT),123556.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Beginning Stocks,(1000 MT),128666.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Beginning Stocks,(1000 MT),136215.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Beginning Stocks,(1000 MT),143908.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Beginning Stocks,(1000 MT),151711.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Beginning Stocks,(1000 MT),164856.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Beginning Stocks,(1000 MT),177841.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Beginning Stocks,(1000 MT),183329.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Beginning Stocks,(1000 MT),189238.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Beginning Stocks,(1000 MT),184720.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Beginning Stocks,(1000 MT),180622.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Beginning Stocks,(1000 MT),179678.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Beginning Stocks,(1000 MT),190953.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Beginning Stocks,(1000 MT),196164.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,Domestic Consumption,(1000 MT),156142.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Domestic Consumption,(1000 MT),149497.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Domestic Consumption,(1000 MT),149999.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Domestic Consumption,(1000 MT),165035.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Domestic Consumption,(1000 MT),179101.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Domestic Consumption,(1000 MT),171610.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Domestic Consumption,(1000 MT),178207.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Domestic Consumption,(1000 MT),185706.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Domestic Consumption,(1000 MT),191177.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Domestic Consumption,(1000 MT),198164.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Domestic Consumption,(1000 MT),209877.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Domestic Consumption,(1000 MT),215920.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Domestic Consumption,(1000 MT),212976.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Domestic Consumption,(1000 MT),222581.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Domestic Consumption,(1000 MT),226505.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Domestic Consumption,(1000 MT),232285.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Domestic Consumption,(1000 MT),234714.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Domestic Consumption,(1000 MT),244050.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Domestic Consumption,(1000 MT),252126.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Domestic Consumption,(1000 MT),256156.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Domestic Consumption,(1000 MT),270190.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Domestic Consumption,(1000 MT),278521.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Domestic Consumption,(1000 MT),277865.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Domestic Consumption,(1000 MT),292660.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Domestic Consumption,(1000 MT),298297.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Domestic Consumption,(1000 MT),306781.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Domestic Consumption,(1000 MT),308072.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Domestic Consumption,(1000 MT),312050.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Domestic Consumption,(1000 MT),323346.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Domestic Consumption,(1000 MT),335459.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Domestic Consumption,(1000 MT),343812.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Domestic Consumption,(1000 MT),350806.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Domestic Consumption,(1000 MT),355452.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Domestic Consumption,(1000 MT),359156.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Domestic Consumption,(1000 MT),363742.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Domestic Consumption,(1000 MT),366462.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Domestic Consumption,(1000 MT),375701.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Domestic Consumption,(1000 MT),377493.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Domestic Consumption,(1000 MT),388174.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Domestic Consumption,(1000 MT),397663.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Domestic Consumption,(1000 MT),393757.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Domestic Consumption,(1000 MT),412115.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Domestic Consumption,(1000 MT),405442.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Domestic Consumption,(1000 MT),410934.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Domestic Consumption,(1000 MT),405889.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Domestic Consumption,(1000 MT),412334.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Domestic Consumption,(1000 MT),418299.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Domestic Consumption,(1000 MT),426644.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Domestic Consumption,(1000 MT),435792.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Domestic Consumption,(1000 MT),435237.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Domestic Consumption,(1000 MT),443941.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Domestic Consumption,(1000 MT),455213.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Domestic Consumption,(1000 MT),462514.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Domestic Consumption,(1000 MT),472529.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Domestic Consumption,(1000 MT),473527.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Domestic Consumption,(1000 MT),467833.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Domestic Consumption,(1000 MT),478405.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Domestic Consumption,(1000 MT),481522.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Domestic Consumption,(1000 MT),485421.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Domestic Consumption,(1000 MT),492245.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Domestic Consumption,(1000 MT),498626.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Domestic Consumption,(1000 MT),516603.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Domestic Consumption,(1000 MT),523269.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Domestic Consumption,(1000 MT),521725.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Domestic Consumption,(1000 MT),527230.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Domestic Consumption,(1000 MT),536225.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Domestic Consumption,(1000 MT),537868.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,Ending Stocks,(1000 MT),10496.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Ending Stocks,(1000 MT),8532.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Ending Stocks,(1000 MT),12537.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Ending Stocks,(1000 MT),16260.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Ending Stocks,(1000 MT),17192.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Ending Stocks,(1000 MT),18088.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Ending Stocks,(1000 MT),18569.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Ending Stocks,(1000 MT),21278.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Ending Stocks,(1000 MT),24554.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Ending Stocks,(1000 MT),26427.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Ending Stocks,(1000 MT),28827.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Ending Stocks,(1000 MT),28710.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Ending Stocks,(1000 MT),24151.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Ending Stocks,(1000 MT),29313.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Ending Stocks,(1000 MT),28760.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Ending Stocks,(1000 MT),39390.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Ending Stocks,(1000 MT),38840.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Ending Stocks,(1000 MT),44786.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Ending Stocks,(1000 MT),54847.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Ending Stocks,(1000 MT),54024.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Ending Stocks,(1000 MT),52589.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Ending Stocks,(1000 MT),50506.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Ending Stocks,(1000 MT),56774.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Ending Stocks,(1000 MT),69311.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Ending Stocks,(1000 MT),87659.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Ending Stocks,(1000 MT),97702.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Ending Stocks,(1000 MT),103305.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Ending Stocks,(1000 MT),105260.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Ending Stocks,(1000 MT),111646.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Ending Stocks,(1000 MT),120604.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Ending Stocks,(1000 MT),126641.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Ending Stocks,(1000 MT),126677.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Ending Stocks,(1000 MT),123155.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Ending Stocks,(1000 MT),118926.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Ending Stocks,(1000 MT),117561.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Ending Stocks,(1000 MT),118061.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Ending Stocks,(1000 MT),120255.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Ending Stocks,(1000 MT),127718.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Ending Stocks,(1000 MT),134052.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Ending Stocks,(1000 MT),143104.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Ending Stocks,(1000 MT),146710.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Ending Stocks,(1000 MT),133063.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Ending Stocks,(1000 MT),103196.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Ending Stocks,(1000 MT),82150.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Ending Stocks,(1000 MT),74932.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Ending Stocks,(1000 MT),77402.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Ending Stocks,(1000 MT),76358.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Ending Stocks,(1000 MT),82312.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Ending Stocks,(1000 MT),95011.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Ending Stocks,(1000 MT),97498.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Ending Stocks,(1000 MT),102795.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Ending Stocks,(1000 MT),112699.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Ending Stocks,(1000 MT),123556.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Ending Stocks,(1000 MT),128666.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Ending Stocks,(1000 MT),136215.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Ending Stocks,(1000 MT),143908.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Ending Stocks,(1000 MT),151711.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Ending Stocks,(1000 MT),164856.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Ending Stocks,(1000 MT),177841.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Ending Stocks,(1000 MT),183329.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Ending Stocks,(1000 MT),189238.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Ending Stocks,(1000 MT),184720.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Ending Stocks,(1000 MT),180622.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Ending Stocks,(1000 MT),179678.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Ending Stocks,(1000 MT),190953.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Ending Stocks,(1000 MT),196164.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Ending Stocks,(1000 MT),192805.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,Exports,(1000 MT),6359.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Exports,(1000 MT),6191.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Exports,(1000 MT),7175.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Exports,(1000 MT),7820.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Exports,(1000 MT),8016.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Exports,(1000 MT),7856.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Exports,(1000 MT),7697.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Exports,(1000 MT),7175.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Exports,(1000 MT),7343.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Exports,(1000 MT),7846.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Exports,(1000 MT),8465.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Exports,(1000 MT),8446.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Exports,(1000 MT),8496.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Exports,(1000 MT),7714.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Exports,(1000 MT),7400.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Exports,(1000 MT),7838.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Exports,(1000 MT),9831.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Exports,(1000 MT),9426.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Exports,(1000 MT),11486.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Exports,(1000 MT),12039.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Exports,(1000 MT),12413.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Exports,(1000 MT),11726.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Exports,(1000 MT),10731.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Exports,(1000 MT),12515.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Exports,(1000 MT),10740.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Exports,(1000 MT),11485.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Exports,(1000 MT),13063.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Exports,(1000 MT),11572.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Exports,(1000 MT),14015.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Exports,(1000 MT),11484.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Exports,(1000 MT),12115.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Exports,(1000 MT),14453.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Exports,(1000 MT),14876.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Exports,(1000 MT),15837.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Exports,(1000 MT),21058.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Exports,(1000 MT),19820.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Exports,(1000 MT),19110.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Exports,(1000 MT),26646.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Exports,(1000 MT),25671.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Exports,(1000 MT),22843.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Exports,(1000 MT),24035.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Exports,(1000 MT),27019.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Exports,(1000 MT),28696.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Exports,(1000 MT),27494.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Exports,(1000 MT),28316.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Exports,(1000 MT),29775.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Exports,(1000 MT),31356.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Exports,(1000 MT),31542.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Exports,(1000 MT),29071.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Exports,(1000 MT),31421.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Exports,(1000 MT),35216.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Exports,(1000 MT),39956.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Exports,(1000 MT),39407.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Exports,(1000 MT),43342.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Exports,(1000 MT),43867.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Exports,(1000 MT),40735.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Exports,(1000 MT),47892.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Exports,(1000 MT),47885.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Exports,(1000 MT),44248.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Exports,(1000 MT),43566.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Exports,(1000 MT),51992.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Exports,(1000 MT),57812.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Exports,(1000 MT),55270.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Exports,(1000 MT),56831.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Exports,(1000 MT),61512.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Exports,(1000 MT),60376.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Exports,(1000 MT),63008.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,Imports,(1000 MT),5899.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Imports,(1000 MT),6424.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Imports,(1000 MT),6074.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Imports,(1000 MT),7565.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Imports,(1000 MT),7311.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Imports,(1000 MT),7462.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Imports,(1000 MT),7398.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Imports,(1000 MT),6737.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Imports,(1000 MT),6941.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Imports,(1000 MT),6796.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Imports,(1000 MT),7729.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Imports,(1000 MT),8477.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Imports,(1000 MT),7976.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Imports,(1000 MT),7896.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Imports,(1000 MT),7690.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Imports,(1000 MT),7861.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Imports,(1000 MT),8608.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Imports,(1000 MT),9301.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Imports,(1000 MT),11606.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Imports,(1000 MT),11258.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Imports,(1000 MT),11258.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Imports,(1000 MT),10232.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Imports,(1000 MT),9884.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Imports,(1000 MT),10708.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Imports,(1000 MT),10615.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Imports,(1000 MT),10311.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Imports,(1000 MT),10686.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Imports,(1000 MT),10452.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Imports,(1000 MT),11701.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Imports,(1000 MT),10589.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Imports,(1000 MT),10593.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Imports,(1000 MT),12028.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Imports,(1000 MT),12954.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Imports,(1000 MT),16138.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Imports,(1000 MT),19380.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Imports,(1000 MT),18127.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Imports,(1000 MT),16666.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Imports,(1000 MT),24232.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Imports,(1000 MT),25219.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Imports,(1000 MT),20263.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Imports,(1000 MT),22073.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Imports,(1000 MT),25969.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Imports,(1000 MT),26292.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Imports,(1000 MT),25014.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Imports,(1000 MT),25971.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Imports,(1000 MT),26534.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Imports,(1000 MT),28585.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Imports,(1000 MT),30025.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Imports,(1000 MT),27422.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Imports,(1000 MT),28256.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Imports,(1000 MT),33061.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Imports,(1000 MT),35516.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Imports,(1000 MT),36738.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Imports,(1000 MT),39088.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Imports,(1000 MT),41710.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Imports,(1000 MT),38690.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Imports,(1000 MT),41664.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Imports,(1000 MT),47321.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Imports,(1000 MT),44326.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Imports,(1000 MT),42608.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Imports,(1000 MT),47111.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Imports,(1000 MT),55711.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Imports,(1000 MT),57514.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Imports,(1000 MT),53803.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Imports,(1000 MT),57984.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Imports,(1000 MT),57069.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Imports,(1000 MT),59698.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,Production,(1000 MT),150824.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Production,(1000 MT),147300.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Production,(1000 MT),155105.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Production,(1000 MT),169013.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Production,(1000 MT),180738.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Production,(1000 MT),172900.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Production,(1000 MT),178987.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Production,(1000 MT),188853.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Production,(1000 MT),194855.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Production,(1000 MT),201087.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Production,(1000 MT),213013.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Production,(1000 MT),215772.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Production,(1000 MT),208937.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Production,(1000 MT),227561.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Production,(1000 MT),225662.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Production,(1000 MT),242892.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Production,(1000 MT),235387.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Production,(1000 MT),250121.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Production,(1000 MT),262067.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Production,(1000 MT),256114.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Production,(1000 MT),269910.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Production,(1000 MT),277932.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Production,(1000 MT),284980.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Production,(1000 MT),307004.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Production,(1000 MT),316770.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Production,(1000 MT),317998.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Production,(1000 MT),316052.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Production,(1000 MT),315125.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Production,(1000 MT),332046.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Production,(1000 MT),345312.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Production,(1000 MT),351371.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Production,(1000 MT),353267.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Production,(1000 MT),353852.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Production,(1000 MT),354626.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Production,(1000 MT),364055.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Production,(1000 MT),368655.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Production,(1000 MT),380339.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Production,(1000 MT),387370.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Production,(1000 MT),394960.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Production,(1000 MT),409295.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Production,(1000 MT),399325.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Production,(1000 MT),399518.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Production,(1000 MT),377979.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Production,(1000 MT),392368.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Production,(1000 MT),401016.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Production,(1000 MT),418045.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Production,(1000 MT),420026.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Production,(1000 MT),434115.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Production,(1000 MT),450140.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Production,(1000 MT),440889.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Production,(1000 MT),451393.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Production,(1000 MT),469557.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Production,(1000 MT),476040.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Production,(1000 MT),481893.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Production,(1000 MT),483233.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Production,(1000 MT),477571.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Production,(1000 MT),492436.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Production,(1000 MT),495231.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Production,(1000 MT),498328.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Production,(1000 MT),498691.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Production,(1000 MT),509416.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Production,(1000 MT),514186.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Production,(1000 MT),516927.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Production,(1000 MT),523809.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Production,(1000 MT),542033.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Production,(1000 MT),544743.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Production,(1000 MT),537819.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,Rough Production,(1000 MT),220617.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Rough Production,(1000 MT),215641.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Rough Production,(1000 MT),228104.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Rough Production,(1000 MT),248337.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Rough Production,(1000 MT),265491.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Rough Production,(1000 MT),253529.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Rough Production,(1000 MT),262045.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Rough Production,(1000 MT),276884.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Rough Production,(1000 MT),285809.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Rough Production,(1000 MT),295233.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Rough Production,(1000 MT),312514.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Rough Production,(1000 MT),316593.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Rough Production,(1000 MT),306231.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Rough Production,(1000 MT),333810.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Rough Production,(1000 MT),331076.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Rough Production,(1000 MT),357008.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Rough Production,(1000 MT),346055.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Rough Production,(1000 MT),367989.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Rough Production,(1000 MT),384942.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Rough Production,(1000 MT),375433.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Rough Production,(1000 MT),396975.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Rough Production,(1000 MT),408342.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Rough Production,(1000 MT),418179.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Rough Production,(1000 MT),451003.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Rough Production,(1000 MT),464937.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Rough Production,(1000 MT),467306.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Rough Production,(1000 MT),464612.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Rough Production,(1000 MT),464814.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Rough Production,(1000 MT),490733.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Rough Production,(1000 MT),510429.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Rough Production,(1000 MT),519405.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Rough Production,(1000 MT),522881.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Rough Production,(1000 MT),523949.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Rough Production,(1000 MT),525996.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Rough Production,(1000 MT),539807.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Rough Production,(1000 MT),547099.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Rough Production,(1000 MT),563723.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Rough Production,(1000 MT),575148.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Rough Production,(1000 MT),587027.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Rough Production,(1000 MT),608817.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Rough Production,(1000 MT),594190.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Rough Production,(1000 MT),594403.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Rough Production,(1000 MT),562661.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Rough Production,(1000 MT),585183.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Rough Production,(1000 MT),596581.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Rough Production,(1000 MT),622465.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Rough Production,(1000 MT),625076.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Rough Production,(1000 MT),644708.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Rough Production,(1000 MT),670202.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Rough Production,(1000 MT),656976.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Rough Production,(1000 MT),673981.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Rough Production,(1000 MT),700612.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Rough Production,(1000 MT),710381.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Rough Production,(1000 MT),719076.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Rough Production,(1000 MT),720921.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Rough Production,(1000 MT),712513.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Rough Production,(1000 MT),735435.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Rough Production,(1000 MT),739441.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Rough Production,(1000 MT),744025.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Rough Production,(1000 MT),744690.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Rough Production,(1000 MT),760676.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Rough Production,(1000 MT),767842.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Rough Production,(1000 MT),772449.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Rough Production,(1000 MT),782881.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Rough Production,(1000 MT),810362.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Rough Production,(1000 MT),814132.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Rough Production,(1000 MT),803885.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,TY Exports,(1000 MT),6512.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,TY Exports,(1000 MT),6349.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,TY Exports,(1000 MT),7342.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,TY Exports,(1000 MT),7731.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,TY Exports,(1000 MT),8245.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,TY Exports,(1000 MT),7880.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,TY Exports,(1000 MT),7779.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,TY Exports,(1000 MT),7166.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,TY Exports,(1000 MT),7494.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,TY Exports,(1000 MT),8197.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,TY Exports,(1000 MT),8553.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,TY Exports,(1000 MT),8719.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,TY Exports,(1000 MT),8295.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,TY Exports,(1000 MT),7549.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,TY Exports,(1000 MT),7209.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,TY Exports,(1000 MT),8149.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,TY Exports,(1000 MT),10270.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,TY Exports,(1000 MT),9543.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,TY Exports,(1000 MT),11796.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,TY Exports,(1000 MT),11990.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,TY Exports,(1000 MT),11910.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,TY Exports,(1000 MT),11307.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,TY Exports,(1000 MT),11154.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,TY Exports,(1000 MT),11875.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,TY Exports,(1000 MT),10990.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,TY Exports,(1000 MT),11830.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,TY Exports,(1000 MT),12880.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,TY Exports,(1000 MT),11429.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,TY Exports,(1000 MT),14006.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,TY Exports,(1000 MT),11666.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,TY Exports,(1000 MT),12267.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,TY Exports,(1000 MT),14355.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,TY Exports,(1000 MT),14938.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,TY Exports,(1000 MT),16560.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,TY Exports,(1000 MT),20812.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,TY Exports,(1000 MT),19733.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,TY Exports,(1000 MT),18855.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,TY Exports,(1000 MT),27648.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,TY Exports,(1000 MT),24855.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,TY Exports,(1000 MT),22793.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,TY Exports,(1000 MT),24302.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,TY Exports,(1000 MT),28004.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,TY Exports,(1000 MT),27559.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,TY Exports,(1000 MT),27343.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,TY Exports,(1000 MT),28958.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,TY Exports,(1000 MT),29050.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,TY Exports,(1000 MT),31898.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,TY Exports,(1000 MT),29721.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,TY Exports,(1000 MT),29510.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,TY Exports,(1000 MT),31882.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,TY Exports,(1000 MT),36484.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,TY Exports,(1000 MT),40008.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,TY Exports,(1000 MT),39490.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,TY Exports,(1000 MT),44454.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,TY Exports,(1000 MT),43026.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,TY Exports,(1000 MT),40533.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,TY Exports,(1000 MT),48722.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,TY Exports,(1000 MT),48256.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,TY Exports,(1000 MT),43987.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,TY Exports,(1000 MT),45472.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,TY Exports,(1000 MT),52935.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,TY Exports,(1000 MT),57005.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,TY Exports,(1000 MT),54050.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,TY Exports,(1000 MT),60118.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,TY Exports,(1000 MT),59593.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,TY Exports,(1000 MT),61345.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,TY Exports,(1000 MT),63125.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,TY Imp. from U.S.,(1000 MT),637.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,TY Imp. from U.S.,(1000 MT),836.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,TY Imp. from U.S.,(1000 MT),944.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,TY Imp. from U.S.,(1000 MT),1074.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,TY Imp. from U.S.,(1000 MT),1133.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,TY Imp. from U.S.,(1000 MT),1181.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,TY Imp. from U.S.,(1000 MT),1549.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,TY Imp. from U.S.,(1000 MT),1584.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,TY Imp. from U.S.,(1000 MT),1689.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,TY Imp. from U.S.,(1000 MT),1762.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,TY Imp. from U.S.,(1000 MT),1161.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,TY Imp. from U.S.,(1000 MT),1871.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,TY Imp. from U.S.,(1000 MT),1359.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,TY Imp. from U.S.,(1000 MT),1674.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,TY Imp. from U.S.,(1000 MT),1963.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,TY Imp. from U.S.,(1000 MT),1923.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,TY Imp. from U.S.,(1000 MT),2158.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,TY Imp. from U.S.,(1000 MT),2191.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,TY Imp. from U.S.,(1000 MT),2139.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,TY Imp. from U.S.,(1000 MT),2916.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,TY Imp. from U.S.,(1000 MT),2843.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,TY Imp. from U.S.,(1000 MT),2256.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,TY Imp. from U.S.,(1000 MT),2183.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,TY Imp. from U.S.,(1000 MT),1949.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,TY Imp. from U.S.,(1000 MT),1751.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,TY Imp. from U.S.,(1000 MT),2264.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,TY Imp. from U.S.,(1000 MT),2296.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,TY Imp. from U.S.,(1000 MT),2018.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,TY Imp. from U.S.,(1000 MT),2573.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,TY Imp. from U.S.,(1000 MT),2200.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,TY Imp. from U.S.,(1000 MT),1910.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,TY Imp. from U.S.,(1000 MT),1619.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,TY Imp. from U.S.,(1000 MT),2096.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,TY Imp. from U.S.,(1000 MT),2507.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,TY Imp. from U.S.,(1000 MT),2794.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,TY Imp. from U.S.,(1000 MT),2384.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,TY Imp. from U.S.,(1000 MT),2209.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,TY Imp. from U.S.,(1000 MT),3074.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,TY Imp. from U.S.,(1000 MT),2566.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,TY Imp. from U.S.,(1000 MT),2801.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,TY Imp. from U.S.,(1000 MT),2554.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,TY Imp. from U.S.,(1000 MT),3148.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,TY Imp. from U.S.,(1000 MT),3819.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,TY Imp. from U.S.,(1000 MT),3109.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,TY Imp. from U.S.,(1000 MT),3708.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,TY Imp. from U.S.,(1000 MT),3311.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,TY Imp. from U.S.,(1000 MT),2958.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,TY Imp. from U.S.,(1000 MT),3216.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,TY Imp. from U.S.,(1000 MT),2920.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,TY Imp. from U.S.,(1000 MT),3787.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,TY Imp. from U.S.,(1000 MT),3191.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,TY Imp. from U.S.,(1000 MT),3238.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,TY Imp. from U.S.,(1000 MT),3234.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,TY Imp. from U.S.,(1000 MT),2884.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,TY Imp. from U.S.,(1000 MT),3290.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,TY Imp. from U.S.,(1000 MT),3246.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,TY Imp. from U.S.,(1000 MT),3295.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,TY Imp. from U.S.,(1000 MT),2718.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,TY Imp. from U.S.,(1000 MT),3116.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,TY Imp. from U.S.,(1000 MT),2820.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,TY Imp. from U.S.,(1000 MT),2896.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,TY Imp. from U.S.,(1000 MT),2043.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,TY Imp. from U.S.,(1000 MT),1964.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,TY Imp. from U.S.,(1000 MT),2771.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,TY Imp. from U.S.,(1000 MT),2525.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,TY Imp. from U.S.,(1000 MT),0.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,TY Imp. from U.S.,(1000 MT),0.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,TY Imports,(1000 MT),5889.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,TY Imports,(1000 MT),6038.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,TY Imports,(1000 MT),6731.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,TY Imports,(1000 MT),7390.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,TY Imports,(1000 MT),7306.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,TY Imports,(1000 MT),7421.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,TY Imports,(1000 MT),6955.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,TY Imports,(1000 MT),6597.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,TY Imports,(1000 MT),6976.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,TY Imports,(1000 MT),7642.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,TY Imports,(1000 MT),7818.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,TY Imports,(1000 MT),8349.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,TY Imports,(1000 MT),7911.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,TY Imports,(1000 MT),7986.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,TY Imports,(1000 MT),7634.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,TY Imports,(1000 MT),8520.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,TY Imports,(1000 MT),9458.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,TY Imports,(1000 MT),9171.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,TY Imports,(1000 MT),11383.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,TY Imports,(1000 MT),11173.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,TY Imports,(1000 MT),11900.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,TY Imports,(1000 MT),10360.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,TY Imports,(1000 MT),10089.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,TY Imports,(1000 MT),10948.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,TY Imports,(1000 MT),9528.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,TY Imports,(1000 MT),10377.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,TY Imports,(1000 MT),11204.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,TY Imports,(1000 MT),9709.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,TY Imports,(1000 MT),12679.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,TY Imports,(1000 MT),10101.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,TY Imports,(1000 MT),10585.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,TY Imports,(1000 MT),13135.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,TY Imports,(1000 MT),13432.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,TY Imports,(1000 MT),15660.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,TY Imports,(1000 MT),19967.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,TY Imports,(1000 MT),18312.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,TY Imports,(1000 MT),17535.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,TY Imports,(1000 MT),26700.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,TY Imports,(1000 MT),23236.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,TY Imports,(1000 MT),21043.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,TY Imports,(1000 MT),23055.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,TY Imports,(1000 MT),25939.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,TY Imports,(1000 MT),26133.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,TY Imports,(1000 MT),25799.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,TY Imports,(1000 MT),26801.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,TY Imports,(1000 MT),26640.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,TY Imports,(1000 MT),29808.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,TY Imports,(1000 MT),28482.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,TY Imports,(1000 MT),27151.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,TY Imports,(1000 MT),29364.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,TY Imports,(1000 MT),34121.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,TY Imports,(1000 MT),36901.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,TY Imports,(1000 MT),36309.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,TY Imports,(1000 MT),41484.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,TY Imports,(1000 MT),40319.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,TY Imports,(1000 MT),38069.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,TY Imports,(1000 MT),45830.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,TY Imports,(1000 MT),46343.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,TY Imports,(1000 MT),42437.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,TY Imports,(1000 MT),44146.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,TY Imports,(1000 MT),50857.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,TY Imports,(1000 MT),56195.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,TY Imports,(1000 MT),52367.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,TY Imports,(1000 MT),57819.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,TY Imports,(1000 MT),57424.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,TY Imports,(1000 MT),58620.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,TY Imports,(1000 MT),60164.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,Total Distribution,(1000 MT),172997.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Total Distribution,(1000 MT),164220.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Total Distribution,(1000 MT),169711.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Total Distribution,(1000 MT),189115.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Total Distribution,(1000 MT),204309.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Total Distribution,(1000 MT),197554.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Total Distribution,(1000 MT),204473.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Total Distribution,(1000 MT),214159.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Total Distribution,(1000 MT),223074.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Total Distribution,(1000 MT),232437.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Total Distribution,(1000 MT),247169.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Total Distribution,(1000 MT),253076.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Total Distribution,(1000 MT),245623.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Total Distribution,(1000 MT),259608.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Total Distribution,(1000 MT),262665.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Total Distribution,(1000 MT),279513.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Total Distribution,(1000 MT),283385.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Total Distribution,(1000 MT),298262.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Total Distribution,(1000 MT),318459.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Total Distribution,(1000 MT),322219.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Total Distribution,(1000 MT),335192.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Total Distribution,(1000 MT),340753.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Total Distribution,(1000 MT),345354.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Total Distribution,(1000 MT),374486.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Total Distribution,(1000 MT),396696.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Total Distribution,(1000 MT),415968.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Total Distribution,(1000 MT),424440.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Total Distribution,(1000 MT),428882.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Total Distribution,(1000 MT),449007.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Total Distribution,(1000 MT),467547.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Total Distribution,(1000 MT),482568.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Total Distribution,(1000 MT),491936.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Total Distribution,(1000 MT),493483.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Total Distribution,(1000 MT),493919.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Total Distribution,(1000 MT),502361.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Total Distribution,(1000 MT),504343.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Total Distribution,(1000 MT),515066.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Total Distribution,(1000 MT),531857.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Total Distribution,(1000 MT),547897.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Total Distribution,(1000 MT),563610.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Total Distribution,(1000 MT),564502.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Total Distribution,(1000 MT),572197.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Total Distribution,(1000 MT),537334.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Total Distribution,(1000 MT),520578.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Total Distribution,(1000 MT),509137.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Total Distribution,(1000 MT),519511.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Total Distribution,(1000 MT),526013.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Total Distribution,(1000 MT),540498.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Total Distribution,(1000 MT),559874.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Total Distribution,(1000 MT),564156.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Total Distribution,(1000 MT),581952.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Total Distribution,(1000 MT),607868.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Total Distribution,(1000 MT),625477.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Total Distribution,(1000 MT),644537.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Total Distribution,(1000 MT),653609.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Total Distribution,(1000 MT),652476.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Total Distribution,(1000 MT),678008.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Total Distribution,(1000 MT),694263.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Total Distribution,(1000 MT),707510.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Total Distribution,(1000 MT),719140.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Total Distribution,(1000 MT),739856.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Total Distribution,(1000 MT),759135.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Total Distribution,(1000 MT),759161.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Total Distribution,(1000 MT),758234.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Total Distribution,(1000 MT),779695.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Total Distribution,(1000 MT),792765.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Total Distribution,(1000 MT),793681.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1960,Total Supply,(1000 MT),172997.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1961,Total Supply,(1000 MT),164220.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1962,Total Supply,(1000 MT),169711.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1963,Total Supply,(1000 MT),189115.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1964,Total Supply,(1000 MT),204309.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1965,Total Supply,(1000 MT),197554.0,1,109,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1966,Total Supply,(1000 MT),204473.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1967,Total Supply,(1000 MT),214159.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1968,Total Supply,(1000 MT),223074.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1969,Total Supply,(1000 MT),232437.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1970,Total Supply,(1000 MT),247169.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1971,Total Supply,(1000 MT),253076.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1972,Total Supply,(1000 MT),245623.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1973,Total Supply,(1000 MT),259608.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1974,Total Supply,(1000 MT),262665.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1975,Total Supply,(1000 MT),279513.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1976,Total Supply,(1000 MT),283385.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1977,Total Supply,(1000 MT),298262.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1978,Total Supply,(1000 MT),318459.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1979,Total Supply,(1000 MT),322219.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1980,Total Supply,(1000 MT),335192.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1981,Total Supply,(1000 MT),340753.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1982,Total Supply,(1000 MT),345354.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1983,Total Supply,(1000 MT),374486.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1984,Total Supply,(1000 MT),396696.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1985,Total Supply,(1000 MT),415968.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1986,Total Supply,(1000 MT),424440.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1987,Total Supply,(1000 MT),428882.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1988,Total Supply,(1000 MT),449007.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1989,Total Supply,(1000 MT),467547.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1990,Total Supply,(1000 MT),482568.0,1,119,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1991,Total Supply,(1000 MT),491936.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1992,Total Supply,(1000 MT),493483.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1993,Total Supply,(1000 MT),493919.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1994,Total Supply,(1000 MT),502361.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1995,Total Supply,(1000 MT),504343.0,1,121,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1996,Total Supply,(1000 MT),515066.0,1,120,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1997,Total Supply,(1000 MT),531857.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1998,Total Supply,(1000 MT),547897.0,1,122,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,1999,Total Supply,(1000 MT),563610.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2000,Total Supply,(1000 MT),564502.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2001,Total Supply,(1000 MT),572197.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2002,Total Supply,(1000 MT),537334.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2003,Total Supply,(1000 MT),520578.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2004,Total Supply,(1000 MT),509137.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2005,Total Supply,(1000 MT),519511.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2006,Total Supply,(1000 MT),526013.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2007,Total Supply,(1000 MT),540498.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2008,Total Supply,(1000 MT),559874.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2009,Total Supply,(1000 MT),564156.0,1,115,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2010,Total Supply,(1000 MT),581952.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2011,Total Supply,(1000 MT),607868.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2012,Total Supply,(1000 MT),625477.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2013,Total Supply,(1000 MT),644537.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2014,Total Supply,(1000 MT),653609.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2015,Total Supply,(1000 MT),652476.0,1,117,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2016,Total Supply,(1000 MT),678008.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2017,Total Supply,(1000 MT),694263.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2018,Total Supply,(1000 MT),707510.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2019,Total Supply,(1000 MT),719140.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2020,Total Supply,(1000 MT),739856.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2021,Total Supply,(1000 MT),759135.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2022,Total Supply,(1000 MT),759161.0,1,116,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2023,Total Supply,(1000 MT),758234.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2024,Total Supply,(1000 MT),779695.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2025,Total Supply,(1000 MT),792765.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Rice, Milled",World,2026,Total Supply,(1000 MT),793681.0,1,114,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

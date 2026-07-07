@@ -1,0 +1,939 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+Oats,World,1960,Area Harvested,(1000 HA),41704.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Area Harvested,(1000 HA),38487.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Area Harvested,(1000 HA),33640.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Area Harvested,(1000 HA),31148.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Area Harvested,(1000 HA),29243.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Area Harvested,(1000 HA),29209.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Area Harvested,(1000 HA),29514.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Area Harvested,(1000 HA),29781.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Area Harvested,(1000 HA),30674.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Area Harvested,(1000 HA),30478.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Area Harvested,(1000 HA),30572.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Area Harvested,(1000 HA),29221.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Area Harvested,(1000 HA),29277.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Area Harvested,(1000 HA),29944.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Area Harvested,(1000 HA),28210.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Area Harvested,(1000 HA),29143.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Area Harvested,(1000 HA),27358.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Area Harvested,(1000 HA),29060.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Area Harvested,(1000 HA),27389.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Area Harvested,(1000 HA),26211.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Area Harvested,(1000 HA),24970.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Area Harvested,(1000 HA),26419.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Area Harvested,(1000 HA),25851.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Area Harvested,(1000 HA),26082.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Area Harvested,(1000 HA),25209.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Area Harvested,(1000 HA),24932.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Area Harvested,(1000 HA),24540.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Area Harvested,(1000 HA),23146.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Area Harvested,(1000 HA),21729.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Area Harvested,(1000 HA),22089.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Area Harvested,(1000 HA),19908.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Area Harvested,(1000 HA),19351.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Area Harvested,(1000 HA),18587.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Area Harvested,(1000 HA),18094.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Area Harvested,(1000 HA),18182.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Area Harvested,(1000 HA),16748.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Area Harvested,(1000 HA),15978.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Area Harvested,(1000 HA),15238.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Area Harvested,(1000 HA),13473.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Area Harvested,(1000 HA),12762.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Area Harvested,(1000 HA),12651.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Area Harvested,(1000 HA),13132.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Area Harvested,(1000 HA),12356.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Area Harvested,(1000 HA),12057.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Area Harvested,(1000 HA),11566.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Area Harvested,(1000 HA),11261.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Area Harvested,(1000 HA),11645.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Area Harvested,(1000 HA),11868.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Area Harvested,(1000 HA),11199.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Area Harvested,(1000 HA),10081.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Area Harvested,(1000 HA),9073.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Area Harvested,(1000 HA),9524.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Area Harvested,(1000 HA),9481.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Area Harvested,(1000 HA),9671.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Area Harvested,(1000 HA),9561.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Area Harvested,(1000 HA),9549.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Area Harvested,(1000 HA),9799.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Area Harvested,(1000 HA),9754.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Area Harvested,(1000 HA),9785.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Area Harvested,(1000 HA),9489.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Area Harvested,(1000 HA),10090.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Area Harvested,(1000 HA),9655.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Area Harvested,(1000 HA),9376.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Area Harvested,(1000 HA),8345.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Area Harvested,(1000 HA),8688.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Area Harvested,(1000 HA),9113.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Area Harvested,(1000 HA),8871.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,Beginning Stocks,(1000 MT),7175.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Beginning Stocks,(1000 MT),8518.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Beginning Stocks,(1000 MT),7861.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Beginning Stocks,(1000 MT),9181.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Beginning Stocks,(1000 MT),10037.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Beginning Stocks,(1000 MT),8258.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Beginning Stocks,(1000 MT),8970.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Beginning Stocks,(1000 MT),7851.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Beginning Stocks,(1000 MT),7601.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Beginning Stocks,(1000 MT),10699.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Beginning Stocks,(1000 MT),12446.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Beginning Stocks,(1000 MT),12845.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Beginning Stocks,(1000 MT),13224.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Beginning Stocks,(1000 MT),9626.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Beginning Stocks,(1000 MT),7593.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Beginning Stocks,(1000 MT),6451.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Beginning Stocks,(1000 MT),6204.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Beginning Stocks,(1000 MT),6088.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Beginning Stocks,(1000 MT),8539.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Beginning Stocks,(1000 MT),8365.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Beginning Stocks,(1000 MT),6471.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Beginning Stocks,(1000 MT),5229.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Beginning Stocks,(1000 MT),4981.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Beginning Stocks,(1000 MT),6415.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Beginning Stocks,(1000 MT),5477.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Beginning Stocks,(1000 MT),5791.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Beginning Stocks,(1000 MT),5391.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Beginning Stocks,(1000 MT),4669.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Beginning Stocks,(1000 MT),4529.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Beginning Stocks,(1000 MT),4187.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Beginning Stocks,(1000 MT),5413.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Beginning Stocks,(1000 MT),6147.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Beginning Stocks,(1000 MT),4843.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Beginning Stocks,(1000 MT),4460.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Beginning Stocks,(1000 MT),5736.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Beginning Stocks,(1000 MT),5484.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Beginning Stocks,(1000 MT),3367.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Beginning Stocks,(1000 MT),3723.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Beginning Stocks,(1000 MT),5341.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Beginning Stocks,(1000 MT),4455.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Beginning Stocks,(1000 MT),3754.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Beginning Stocks,(1000 MT),3902.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Beginning Stocks,(1000 MT),4011.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Beginning Stocks,(1000 MT),3391.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Beginning Stocks,(1000 MT),3315.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Beginning Stocks,(1000 MT),3544.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Beginning Stocks,(1000 MT),3164.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Beginning Stocks,(1000 MT),2854.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Beginning Stocks,(1000 MT),3365.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Beginning Stocks,(1000 MT),4751.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Beginning Stocks,(1000 MT),4401.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Beginning Stocks,(1000 MT),3165.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Beginning Stocks,(1000 MT),3364.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Beginning Stocks,(1000 MT),2495.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Beginning Stocks,(1000 MT),3023.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Beginning Stocks,(1000 MT),3010.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Beginning Stocks,(1000 MT),3243.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Beginning Stocks,(1000 MT),3336.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Beginning Stocks,(1000 MT),3019.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Beginning Stocks,(1000 MT),2193.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Beginning Stocks,(1000 MT),2241.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Beginning Stocks,(1000 MT),3057.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Beginning Stocks,(1000 MT),2466.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Beginning Stocks,(1000 MT),3798.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Beginning Stocks,(1000 MT),2568.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Beginning Stocks,(1000 MT),2580.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Beginning Stocks,(1000 MT),3732.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,Domestic Consumption,(1000 MT),54640.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Domestic Consumption,(1000 MT),49490.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Domestic Consumption,(1000 MT),47450.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Domestic Consumption,(1000 MT),44740.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Domestic Consumption,(1000 MT),44281.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Domestic Consumption,(1000 MT),43958.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Domestic Consumption,(1000 MT),47297.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Domestic Consumption,(1000 MT),48472.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Domestic Consumption,(1000 MT),48473.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Domestic Consumption,(1000 MT),50194.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Domestic Consumption,(1000 MT),51366.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Domestic Consumption,(1000 MT),53403.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Domestic Consumption,(1000 MT),51414.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Domestic Consumption,(1000 MT),51474.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Domestic Consumption,(1000 MT),47815.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Domestic Consumption,(1000 MT),44770.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Domestic Consumption,(1000 MT),45993.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Domestic Consumption,(1000 MT),45907.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Domestic Consumption,(1000 MT),48483.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Domestic Consumption,(1000 MT),44195.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Domestic Consumption,(1000 MT),42507.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Domestic Consumption,(1000 MT),40346.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Domestic Consumption,(1000 MT),44478.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Domestic Consumption,(1000 MT),44312.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Domestic Consumption,(1000 MT),45406.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Domestic Consumption,(1000 MT),47368.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Domestic Consumption,(1000 MT),45062.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Domestic Consumption,(1000 MT),40819.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Domestic Consumption,(1000 MT),35923.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Domestic Consumption,(1000 MT),37865.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Domestic Consumption,(1000 MT),38415.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Domestic Consumption,(1000 MT),34280.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Domestic Consumption,(1000 MT),34068.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Domestic Consumption,(1000 MT),33896.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Domestic Consumption,(1000 MT),33022.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Domestic Consumption,(1000 MT),30690.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Domestic Consumption,(1000 MT),30108.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Domestic Consumption,(1000 MT),29341.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Domestic Consumption,(1000 MT),26495.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Domestic Consumption,(1000 MT),24744.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Domestic Consumption,(1000 MT),25419.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Domestic Consumption,(1000 MT),26868.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Domestic Consumption,(1000 MT),25859.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Domestic Consumption,(1000 MT),25877.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Domestic Consumption,(1000 MT),25042.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Domestic Consumption,(1000 MT),23750.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Domestic Consumption,(1000 MT),22850.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Domestic Consumption,(1000 MT),24335.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Domestic Consumption,(1000 MT),23935.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Domestic Consumption,(1000 MT),23228.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Domestic Consumption,(1000 MT),20502.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Domestic Consumption,(1000 MT),21610.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Domestic Consumption,(1000 MT),21628.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Domestic Consumption,(1000 MT),22511.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Domestic Consumption,(1000 MT),22227.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Domestic Consumption,(1000 MT),21806.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Domestic Consumption,(1000 MT),24143.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Domestic Consumption,(1000 MT),23819.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Domestic Consumption,(1000 MT),22917.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Domestic Consumption,(1000 MT),23127.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Domestic Consumption,(1000 MT),24909.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Domestic Consumption,(1000 MT),23282.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Domestic Consumption,(1000 MT),24181.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Domestic Consumption,(1000 MT),20606.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Domestic Consumption,(1000 MT),22230.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Domestic Consumption,(1000 MT),24151.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Domestic Consumption,(1000 MT),23364.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,Ending Stocks,(1000 MT),8472.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Ending Stocks,(1000 MT),7861.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Ending Stocks,(1000 MT),9181.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Ending Stocks,(1000 MT),10037.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Ending Stocks,(1000 MT),8258.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Ending Stocks,(1000 MT),8970.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Ending Stocks,(1000 MT),7851.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Ending Stocks,(1000 MT),7601.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Ending Stocks,(1000 MT),10699.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Ending Stocks,(1000 MT),12446.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Ending Stocks,(1000 MT),12845.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Ending Stocks,(1000 MT),13224.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Ending Stocks,(1000 MT),9626.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Ending Stocks,(1000 MT),7593.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Ending Stocks,(1000 MT),6451.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Ending Stocks,(1000 MT),6204.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Ending Stocks,(1000 MT),6088.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Ending Stocks,(1000 MT),8539.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Ending Stocks,(1000 MT),8365.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Ending Stocks,(1000 MT),6471.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Ending Stocks,(1000 MT),5229.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Ending Stocks,(1000 MT),4981.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Ending Stocks,(1000 MT),6415.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Ending Stocks,(1000 MT),5477.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Ending Stocks,(1000 MT),5791.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Ending Stocks,(1000 MT),5391.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Ending Stocks,(1000 MT),4669.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Ending Stocks,(1000 MT),4529.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Ending Stocks,(1000 MT),4187.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Ending Stocks,(1000 MT),5413.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Ending Stocks,(1000 MT),6147.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Ending Stocks,(1000 MT),4918.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Ending Stocks,(1000 MT),4460.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Ending Stocks,(1000 MT),5736.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Ending Stocks,(1000 MT),5484.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Ending Stocks,(1000 MT),3367.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Ending Stocks,(1000 MT),3723.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Ending Stocks,(1000 MT),5341.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Ending Stocks,(1000 MT),4455.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Ending Stocks,(1000 MT),3754.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Ending Stocks,(1000 MT),3902.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Ending Stocks,(1000 MT),4011.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Ending Stocks,(1000 MT),3391.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Ending Stocks,(1000 MT),3315.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Ending Stocks,(1000 MT),3544.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Ending Stocks,(1000 MT),3164.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Ending Stocks,(1000 MT),2854.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Ending Stocks,(1000 MT),3365.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Ending Stocks,(1000 MT),4751.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Ending Stocks,(1000 MT),4401.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Ending Stocks,(1000 MT),3165.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Ending Stocks,(1000 MT),3364.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Ending Stocks,(1000 MT),2495.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Ending Stocks,(1000 MT),3023.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Ending Stocks,(1000 MT),3010.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Ending Stocks,(1000 MT),3243.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Ending Stocks,(1000 MT),3336.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Ending Stocks,(1000 MT),3019.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Ending Stocks,(1000 MT),2193.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Ending Stocks,(1000 MT),2241.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Ending Stocks,(1000 MT),3057.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Ending Stocks,(1000 MT),2466.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Ending Stocks,(1000 MT),3798.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Ending Stocks,(1000 MT),2568.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Ending Stocks,(1000 MT),2580.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Ending Stocks,(1000 MT),3732.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Ending Stocks,(1000 MT),3477.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,Exports,(1000 MT),1193.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Exports,(1000 MT),1477.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Exports,(1000 MT),1289.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Exports,(1000 MT),1352.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Exports,(1000 MT),1337.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Exports,(1000 MT),1526.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Exports,(1000 MT),1328.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Exports,(1000 MT),1152.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Exports,(1000 MT),1106.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Exports,(1000 MT),1046.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Exports,(1000 MT),1830.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Exports,(1000 MT),1897.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Exports,(1000 MT),1505.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Exports,(1000 MT),1561.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Exports,(1000 MT),773.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Exports,(1000 MT),1073.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Exports,(1000 MT),1151.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Exports,(1000 MT),1073.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Exports,(1000 MT),1277.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Exports,(1000 MT),1166.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Exports,(1000 MT),949.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Exports,(1000 MT),771.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Exports,(1000 MT),710.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Exports,(1000 MT),989.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Exports,(1000 MT),1316.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Exports,(1000 MT),953.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Exports,(1000 MT),1086.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Exports,(1000 MT),1252.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Exports,(1000 MT),1433.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Exports,(1000 MT),2065.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Exports,(1000 MT),1568.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Exports,(1000 MT),1642.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Exports,(1000 MT),1458.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Exports,(1000 MT),2387.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Exports,(1000 MT),2123.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Exports,(1000 MT),1728.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Exports,(1000 MT),2278.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Exports,(1000 MT),2037.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Exports,(1000 MT),2238.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Exports,(1000 MT),2059.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Exports,(1000 MT),2353.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Exports,(1000 MT),1990.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Exports,(1000 MT),2025.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Exports,(1000 MT),2113.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Exports,(1000 MT),1910.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Exports,(1000 MT),1931.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Exports,(1000 MT),2127.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Exports,(1000 MT),2840.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Exports,(1000 MT),2299.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Exports,(1000 MT),2082.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Exports,(1000 MT),1899.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Exports,(1000 MT),2216.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Exports,(1000 MT),2068.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Exports,(1000 MT),2344.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Exports,(1000 MT),2350.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Exports,(1000 MT),2126.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Exports,(1000 MT),2464.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Exports,(1000 MT),2550.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Exports,(1000 MT),2359.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Exports,(1000 MT),2529.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Exports,(1000 MT),2766.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Exports,(1000 MT),2517.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Exports,(1000 MT),2754.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Exports,(1000 MT),2374.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Exports,(1000 MT),2773.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Exports,(1000 MT),2828.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Exports,(1000 MT),2649.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,FSI Consumption,(1000 MT),6205.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,FSI Consumption,(1000 MT),6373.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,FSI Consumption,(1000 MT),7314.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,FSI Consumption,(1000 MT),7449.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,FSI Consumption,(1000 MT),6601.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,FSI Consumption,(1000 MT),6476.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,FSI Consumption,(1000 MT),6821.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,FSI Consumption,(1000 MT),6778.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,FSI Consumption,(1000 MT),7037.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,FSI Consumption,(1000 MT),7218.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,FSI Consumption,(1000 MT),7018.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,FSI Consumption,(1000 MT),6966.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,FSI Consumption,(1000 MT),7443.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,FSI Consumption,(1000 MT),7737.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,FSI Consumption,(1000 MT),7469.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,FSI Consumption,(1000 MT),7279.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,FSI Consumption,(1000 MT),8029.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,FSI Consumption,(1000 MT),7882.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,FSI Consumption,(1000 MT),7556.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,FSI Consumption,(1000 MT),7281.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,FSI Consumption,(1000 MT),7690.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,FSI Consumption,(1000 MT),7124.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,FSI Consumption,(1000 MT),6836.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,FSI Consumption,(1000 MT),6519.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,FSI Consumption,(1000 MT),6786.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,FSI Consumption,(1000 MT),6460.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,FSI Consumption,(1000 MT),6709.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,FSI Consumption,(1000 MT),6555.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,FSI Consumption,(1000 MT),7232.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,FSI Consumption,(1000 MT),6872.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,FSI Consumption,(1000 MT),7256.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,FSI Consumption,(1000 MT),6489.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,FSI Consumption,(1000 MT),6988.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,FSI Consumption,(1000 MT),6931.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,FSI Consumption,(1000 MT),6993.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,FSI Consumption,(1000 MT),7092.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,FSI Consumption,(1000 MT),6736.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,FSI Consumption,(1000 MT),6384.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,FSI Consumption,(1000 MT),7161.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,FSI Consumption,(1000 MT),7417.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,FSI Consumption,(1000 MT),6387.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,FSI Consumption,(1000 MT),6891.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,FSI Consumption,(1000 MT),6607.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,FSI Consumption,(1000 MT),6622.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,FSI Consumption,(1000 MT),6577.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,FSI Consumption,(1000 MT),6525.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,FSI Consumption,(1000 MT),6478.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,FSI Consumption,(1000 MT),6278.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,FSI Consumption,(1000 MT),6249.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,FSI Consumption,(1000 MT),6262.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,FSI Consumption,(1000 MT),6248.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,FSI Consumption,(1000 MT),6405.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,FSI Consumption,(1000 MT),6266.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,FSI Consumption,(1000 MT),6359.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,FSI Consumption,(1000 MT),6479.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,FSI Consumption,(1000 MT),6806.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,FSI Consumption,(1000 MT),6927.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,FSI Consumption,(1000 MT),7206.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,FSI Consumption,(1000 MT),7116.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,FSI Consumption,(1000 MT),7540.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,FSI Consumption,(1000 MT),7694.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,FSI Consumption,(1000 MT),7767.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,FSI Consumption,(1000 MT),7786.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,FSI Consumption,(1000 MT),7453.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,FSI Consumption,(1000 MT),7635.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,FSI Consumption,(1000 MT),7931.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,FSI Consumption,(1000 MT),7709.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,Feed Dom. Consumption,(1000 MT),48435.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Feed Dom. Consumption,(1000 MT),43117.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Feed Dom. Consumption,(1000 MT),40136.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Feed Dom. Consumption,(1000 MT),37291.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Feed Dom. Consumption,(1000 MT),37680.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Feed Dom. Consumption,(1000 MT),37482.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Feed Dom. Consumption,(1000 MT),40476.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Feed Dom. Consumption,(1000 MT),41694.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Feed Dom. Consumption,(1000 MT),41436.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Feed Dom. Consumption,(1000 MT),42976.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Feed Dom. Consumption,(1000 MT),44348.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Feed Dom. Consumption,(1000 MT),46437.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Feed Dom. Consumption,(1000 MT),43971.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Feed Dom. Consumption,(1000 MT),43737.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Feed Dom. Consumption,(1000 MT),40346.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Feed Dom. Consumption,(1000 MT),37491.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Feed Dom. Consumption,(1000 MT),37964.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Feed Dom. Consumption,(1000 MT),38025.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Feed Dom. Consumption,(1000 MT),40927.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Feed Dom. Consumption,(1000 MT),36914.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Feed Dom. Consumption,(1000 MT),34770.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Feed Dom. Consumption,(1000 MT),33222.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Feed Dom. Consumption,(1000 MT),37642.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Feed Dom. Consumption,(1000 MT),37793.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Feed Dom. Consumption,(1000 MT),38620.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Feed Dom. Consumption,(1000 MT),40908.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Feed Dom. Consumption,(1000 MT),38353.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Feed Dom. Consumption,(1000 MT),34264.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Feed Dom. Consumption,(1000 MT),28691.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Feed Dom. Consumption,(1000 MT),30993.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Feed Dom. Consumption,(1000 MT),31159.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Feed Dom. Consumption,(1000 MT),27791.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Feed Dom. Consumption,(1000 MT),27080.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Feed Dom. Consumption,(1000 MT),26965.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Feed Dom. Consumption,(1000 MT),26029.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Feed Dom. Consumption,(1000 MT),23598.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Feed Dom. Consumption,(1000 MT),23372.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Feed Dom. Consumption,(1000 MT),22957.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Feed Dom. Consumption,(1000 MT),19334.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Feed Dom. Consumption,(1000 MT),17327.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Feed Dom. Consumption,(1000 MT),19032.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Feed Dom. Consumption,(1000 MT),19977.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Feed Dom. Consumption,(1000 MT),19252.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Feed Dom. Consumption,(1000 MT),19255.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Feed Dom. Consumption,(1000 MT),18465.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Feed Dom. Consumption,(1000 MT),17225.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Feed Dom. Consumption,(1000 MT),16372.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Feed Dom. Consumption,(1000 MT),18057.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Feed Dom. Consumption,(1000 MT),17686.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Feed Dom. Consumption,(1000 MT),16966.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Feed Dom. Consumption,(1000 MT),14254.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Feed Dom. Consumption,(1000 MT),15205.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Feed Dom. Consumption,(1000 MT),15362.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Feed Dom. Consumption,(1000 MT),16152.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Feed Dom. Consumption,(1000 MT),15748.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Feed Dom. Consumption,(1000 MT),15000.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Feed Dom. Consumption,(1000 MT),17216.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Feed Dom. Consumption,(1000 MT),16613.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Feed Dom. Consumption,(1000 MT),15801.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Feed Dom. Consumption,(1000 MT),15587.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Feed Dom. Consumption,(1000 MT),17215.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Feed Dom. Consumption,(1000 MT),15515.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Feed Dom. Consumption,(1000 MT),16395.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Feed Dom. Consumption,(1000 MT),13153.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Feed Dom. Consumption,(1000 MT),14595.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Feed Dom. Consumption,(1000 MT),16220.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Feed Dom. Consumption,(1000 MT),15655.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,Imports,(1000 MT),1197.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Imports,(1000 MT),1439.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Imports,(1000 MT),1383.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Imports,(1000 MT),1139.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Imports,(1000 MT),1272.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Imports,(1000 MT),1578.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Imports,(1000 MT),1240.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Imports,(1000 MT),1252.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Imports,(1000 MT),1222.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Imports,(1000 MT),1069.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Imports,(1000 MT),1955.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Imports,(1000 MT),1880.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Imports,(1000 MT),1698.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Imports,(1000 MT),1238.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Imports,(1000 MT),753.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Imports,(1000 MT),981.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Imports,(1000 MT),1234.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Imports,(1000 MT),1056.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Imports,(1000 MT),1068.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Imports,(1000 MT),922.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Imports,(1000 MT),706.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Imports,(1000 MT),665.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Imports,(1000 MT),433.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Imports,(1000 MT),826.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Imports,(1000 MT),1224.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Imports,(1000 MT),922.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Imports,(1000 MT),885.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Imports,(1000 MT),1290.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Imports,(1000 MT),1587.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Imports,(1000 MT),1884.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Imports,(1000 MT),1391.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Imports,(1000 MT),1680.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Imports,(1000 MT),1279.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Imports,(1000 MT),2178.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Imports,(1000 MT),1989.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Imports,(1000 MT),1723.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Imports,(1000 MT),2110.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Imports,(1000 MT),2033.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Imports,(1000 MT),2157.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Imports,(1000 MT),2059.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Imports,(1000 MT),2130.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Imports,(1000 MT),2035.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Imports,(1000 MT),1977.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Imports,(1000 MT),1864.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Imports,(1000 MT),1902.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Imports,(1000 MT),1899.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Imports,(1000 MT),2207.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Imports,(1000 MT),2542.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Imports,(1000 MT),2288.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Imports,(1000 MT),1990.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Imports,(1000 MT),1825.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Imports,(1000 MT),2063.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Imports,(1000 MT),2048.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Imports,(1000 MT),2193.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Imports,(1000 MT),2441.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Imports,(1000 MT),2083.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Imports,(1000 MT),2354.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Imports,(1000 MT),2474.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Imports,(1000 MT),2347.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Imports,(1000 MT),2513.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Imports,(1000 MT),2529.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Imports,(1000 MT),2407.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Imports,(1000 MT),2754.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Imports,(1000 MT),2359.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Imports,(1000 MT),2523.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Imports,(1000 MT),2658.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Imports,(1000 MT),2605.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,Production,(1000 MT),55933.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Production,(1000 MT),48871.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Production,(1000 MT),48676.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Production,(1000 MT),45809.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Production,(1000 MT),42567.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Production,(1000 MT),44618.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Production,(1000 MT),46266.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Production,(1000 MT),48122.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Production,(1000 MT),51455.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Production,(1000 MT),51918.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Production,(1000 MT),51640.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Production,(1000 MT),53799.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Production,(1000 MT),47623.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Production,(1000 MT),49764.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Production,(1000 MT),46693.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Production,(1000 MT),44615.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Production,(1000 MT),45794.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Production,(1000 MT),48375.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Production,(1000 MT),48518.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Production,(1000 MT),42545.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Production,(1000 MT),41461.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Production,(1000 MT),40204.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Production,(1000 MT),46189.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Production,(1000 MT),43537.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Production,(1000 MT),45812.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Production,(1000 MT),46999.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Production,(1000 MT),44541.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Production,(1000 MT),40641.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Production,(1000 MT),35427.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Production,(1000 MT),39272.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Production,(1000 MT),39326.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Production,(1000 MT),33013.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Production,(1000 MT),33864.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Production,(1000 MT),35381.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Production,(1000 MT),32904.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Production,(1000 MT),28578.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Production,(1000 MT),30632.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Production,(1000 MT),30963.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Production,(1000 MT),25690.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Production,(1000 MT),24043.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Production,(1000 MT),25790.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Production,(1000 MT),26932.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Production,(1000 MT),25287.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Production,(1000 MT),26050.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Production,(1000 MT),25279.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Production,(1000 MT),23402.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Production,(1000 MT),22460.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Production,(1000 MT),25144.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Production,(1000 MT),25332.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Production,(1000 MT),22970.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Production,(1000 MT),19340.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Production,(1000 MT),21962.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Production,(1000 MT),20779.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Production,(1000 MT),23190.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Production,(1000 MT),22123.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Production,(1000 MT),22082.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Production,(1000 MT),24346.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Production,(1000 MT),23578.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Production,(1000 MT),22103.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Production,(1000 MT),23191.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Production,(1000 MT),25962.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Production,(1000 MT),22801.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Production,(1000 MT),25513.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Production,(1000 MT),19391.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Production,(1000 MT),22492.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Production,(1000 MT),25473.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Production,(1000 MT),23153.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,TY Exports,(1000 MT),1189.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,TY Exports,(1000 MT),1537.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,TY Exports,(1000 MT),1319.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,TY Exports,(1000 MT),1205.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,TY Exports,(1000 MT),1472.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,TY Exports,(1000 MT),1636.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,TY Exports,(1000 MT),1270.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,TY Exports,(1000 MT),1148.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,TY Exports,(1000 MT),1129.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,TY Exports,(1000 MT),936.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,TY Exports,(1000 MT),1908.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,TY Exports,(1000 MT),1969.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,TY Exports,(1000 MT),1654.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,TY Exports,(1000 MT),1501.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,TY Exports,(1000 MT),748.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,TY Exports,(1000 MT),971.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,TY Exports,(1000 MT),1168.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,TY Exports,(1000 MT),1139.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,TY Exports,(1000 MT),1335.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,TY Exports,(1000 MT),1125.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,TY Exports,(1000 MT),1036.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,TY Exports,(1000 MT),807.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,TY Exports,(1000 MT),628.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,TY Exports,(1000 MT),955.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,TY Exports,(1000 MT),1186.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,TY Exports,(1000 MT),891.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,TY Exports,(1000 MT),910.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,TY Exports,(1000 MT),1236.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,TY Exports,(1000 MT),1585.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,TY Exports,(1000 MT),1651.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,TY Exports,(1000 MT),1463.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,TY Exports,(1000 MT),1503.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,TY Exports,(1000 MT),1616.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,TY Exports,(1000 MT),2339.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,TY Exports,(1000 MT),2187.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,TY Exports,(1000 MT),1650.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,TY Exports,(1000 MT),2312.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,TY Exports,(1000 MT),2346.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,TY Exports,(1000 MT),1974.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,TY Exports,(1000 MT),2103.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,TY Exports,(1000 MT),2338.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,TY Exports,(1000 MT),2014.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,TY Exports,(1000 MT),2048.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,TY Exports,(1000 MT),1773.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,TY Exports,(1000 MT),1955.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,TY Exports,(1000 MT),2254.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,TY Exports,(1000 MT),2179.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,TY Exports,(1000 MT),2741.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,TY Exports,(1000 MT),2146.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,TY Exports,(1000 MT),2069.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,TY Exports,(1000 MT),1907.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,TY Exports,(1000 MT),2245.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,TY Exports,(1000 MT),1791.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,TY Exports,(1000 MT),2396.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,TY Exports,(1000 MT),2410.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,TY Exports,(1000 MT),2244.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,TY Exports,(1000 MT),2372.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,TY Exports,(1000 MT),2524.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,TY Exports,(1000 MT),2328.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,TY Exports,(1000 MT),2632.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,TY Exports,(1000 MT),2698.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,TY Exports,(1000 MT),2364.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,TY Exports,(1000 MT),2939.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,TY Exports,(1000 MT),2304.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,TY Exports,(1000 MT),2703.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,TY Exports,(1000 MT),2797.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,TY Exports,(1000 MT),2650.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,TY Imp. from U.S.,(1000 MT),565.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,TY Imp. from U.S.,(1000 MT),378.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,TY Imp. from U.S.,(1000 MT),451.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,TY Imp. from U.S.,(1000 MT),352.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,TY Imp. from U.S.,(1000 MT),124.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,TY Imp. from U.S.,(1000 MT),407.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,TY Imp. from U.S.,(1000 MT),299.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,TY Imp. from U.S.,(1000 MT),99.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,TY Imp. from U.S.,(1000 MT),58.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,TY Imp. from U.S.,(1000 MT),10.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,TY Imp. from U.S.,(1000 MT),268.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,TY Imp. from U.S.,(1000 MT),384.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,TY Imp. from U.S.,(1000 MT),177.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,TY Imp. from U.S.,(1000 MT),786.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,TY Imp. from U.S.,(1000 MT),197.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,TY Imp. from U.S.,(1000 MT),154.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,TY Imp. from U.S.,(1000 MT),163.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,TY Imp. from U.S.,(1000 MT),128.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,TY Imp. from U.S.,(1000 MT),123.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,TY Imp. from U.S.,(1000 MT),33.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,TY Imp. from U.S.,(1000 MT),125.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,TY Imp. from U.S.,(1000 MT),64.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,TY Imp. from U.S.,(1000 MT),22.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,TY Imp. from U.S.,(1000 MT),9.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,TY Imp. from U.S.,(1000 MT),7.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,TY Imp. from U.S.,(1000 MT),15.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,TY Imp. from U.S.,(1000 MT),10.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,TY Imp. from U.S.,(1000 MT),2.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,TY Imp. from U.S.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,TY Imp. from U.S.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,TY Imp. from U.S.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,TY Imp. from U.S.,(1000 MT),2.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,TY Imp. from U.S.,(1000 MT),28.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,TY Imp. from U.S.,(1000 MT),11.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,TY Imp. from U.S.,(1000 MT),13.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,TY Imp. from U.S.,(1000 MT),31.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,TY Imp. from U.S.,(1000 MT),19.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,TY Imp. from U.S.,(1000 MT),25.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,TY Imp. from U.S.,(1000 MT),22.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,TY Imp. from U.S.,(1000 MT),15.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,TY Imp. from U.S.,(1000 MT),27.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,TY Imp. from U.S.,(1000 MT),32.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,TY Imp. from U.S.,(1000 MT),33.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,TY Imp. from U.S.,(1000 MT),34.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,TY Imp. from U.S.,(1000 MT),28.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,TY Imp. from U.S.,(1000 MT),38.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,TY Imp. from U.S.,(1000 MT),28.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,TY Imp. from U.S.,(1000 MT),35.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,TY Imp. from U.S.,(1000 MT),28.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,TY Imp. from U.S.,(1000 MT),27.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,TY Imp. from U.S.,(1000 MT),28.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,TY Imp. from U.S.,(1000 MT),21.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,TY Imp. from U.S.,(1000 MT),16.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,TY Imp. from U.S.,(1000 MT),20.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,TY Imp. from U.S.,(1000 MT),20.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,TY Imp. from U.S.,(1000 MT),26.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,TY Imp. from U.S.,(1000 MT),37.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,TY Imp. from U.S.,(1000 MT),24.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,TY Imp. from U.S.,(1000 MT),20.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,TY Imp. from U.S.,(1000 MT),23.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,TY Imp. from U.S.,(1000 MT),43.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,TY Imp. from U.S.,(1000 MT),26.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,TY Imp. from U.S.,(1000 MT),25.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,TY Imp. from U.S.,(1000 MT),27.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,TY Imp. from U.S.,(1000 MT),28.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,TY Imp. from U.S.,(1000 MT),0.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,TY Imp. from U.S.,(1000 MT),0.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,TY Imports,(1000 MT),1216.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,TY Imports,(1000 MT),1408.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,TY Imports,(1000 MT),1422.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,TY Imports,(1000 MT),1139.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,TY Imports,(1000 MT),1305.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,TY Imports,(1000 MT),1565.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,TY Imports,(1000 MT),1264.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,TY Imports,(1000 MT),1231.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,TY Imports,(1000 MT),1250.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,TY Imports,(1000 MT),1048.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,TY Imports,(1000 MT),2080.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,TY Imports,(1000 MT),1999.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,TY Imports,(1000 MT),1637.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,TY Imports,(1000 MT),1307.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,TY Imports,(1000 MT),803.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,TY Imports,(1000 MT),991.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,TY Imports,(1000 MT),1168.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,TY Imports,(1000 MT),992.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,TY Imports,(1000 MT),1055.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,TY Imports,(1000 MT),953.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,TY Imports,(1000 MT),709.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,TY Imports,(1000 MT),865.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,TY Imports,(1000 MT),600.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,TY Imports,(1000 MT),684.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,TY Imports,(1000 MT),1227.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,TY Imports,(1000 MT),897.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,TY Imports,(1000 MT),878.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,TY Imports,(1000 MT),1288.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,TY Imports,(1000 MT),1673.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,TY Imports,(1000 MT),1813.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,TY Imports,(1000 MT),1529.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,TY Imports,(1000 MT),1527.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,TY Imports,(1000 MT),1426.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,TY Imports,(1000 MT),2254.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,TY Imports,(1000 MT),2086.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,TY Imports,(1000 MT),1472.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,TY Imports,(1000 MT),2362.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,TY Imports,(1000 MT),2281.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,TY Imports,(1000 MT),1936.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,TY Imports,(1000 MT),2055.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,TY Imports,(1000 MT),2188.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,TY Imports,(1000 MT),1854.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,TY Imports,(1000 MT),2118.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,TY Imports,(1000 MT),1654.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,TY Imports,(1000 MT),1941.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,TY Imports,(1000 MT),2204.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,TY Imports,(1000 MT),2150.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,TY Imports,(1000 MT),2663.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,TY Imports,(1000 MT),2118.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,TY Imports,(1000 MT),1935.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,TY Imports,(1000 MT),1845.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,TY Imports,(1000 MT),2190.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,TY Imports,(1000 MT),1795.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,TY Imports,(1000 MT),2377.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,TY Imports,(1000 MT),2333.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,TY Imports,(1000 MT),2110.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,TY Imports,(1000 MT),2315.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,TY Imports,(1000 MT),2496.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,TY Imports,(1000 MT),2246.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,TY Imports,(1000 MT),2519.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,TY Imports,(1000 MT),2616.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,TY Imports,(1000 MT),2339.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,TY Imports,(1000 MT),2841.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,TY Imports,(1000 MT),2217.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,TY Imports,(1000 MT),2522.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,TY Imports,(1000 MT),2640.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,TY Imports,(1000 MT),2574.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,Total Distribution,(1000 MT),64305.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Total Distribution,(1000 MT),58828.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Total Distribution,(1000 MT),57920.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Total Distribution,(1000 MT),56129.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Total Distribution,(1000 MT),53876.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Total Distribution,(1000 MT),54454.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Total Distribution,(1000 MT),56476.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Total Distribution,(1000 MT),57225.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Total Distribution,(1000 MT),60278.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Total Distribution,(1000 MT),63686.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Total Distribution,(1000 MT),66041.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Total Distribution,(1000 MT),68524.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Total Distribution,(1000 MT),62545.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Total Distribution,(1000 MT),60628.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Total Distribution,(1000 MT),55039.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Total Distribution,(1000 MT),52047.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Total Distribution,(1000 MT),53232.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Total Distribution,(1000 MT),55519.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Total Distribution,(1000 MT),58125.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Total Distribution,(1000 MT),51832.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Total Distribution,(1000 MT),48685.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Total Distribution,(1000 MT),46098.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Total Distribution,(1000 MT),51603.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Total Distribution,(1000 MT),50778.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Total Distribution,(1000 MT),52513.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Total Distribution,(1000 MT),53712.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Total Distribution,(1000 MT),50817.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Total Distribution,(1000 MT),46600.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Total Distribution,(1000 MT),41543.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Total Distribution,(1000 MT),45343.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Total Distribution,(1000 MT),46130.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Total Distribution,(1000 MT),40840.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Total Distribution,(1000 MT),39986.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Total Distribution,(1000 MT),42019.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Total Distribution,(1000 MT),40629.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Total Distribution,(1000 MT),35785.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Total Distribution,(1000 MT),36109.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Total Distribution,(1000 MT),36719.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Total Distribution,(1000 MT),33188.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Total Distribution,(1000 MT),30557.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Total Distribution,(1000 MT),31674.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Total Distribution,(1000 MT),32869.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Total Distribution,(1000 MT),31275.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Total Distribution,(1000 MT),31305.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Total Distribution,(1000 MT),30496.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Total Distribution,(1000 MT),28845.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Total Distribution,(1000 MT),27831.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Total Distribution,(1000 MT),30540.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Total Distribution,(1000 MT),30985.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Total Distribution,(1000 MT),29711.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Total Distribution,(1000 MT),25566.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Total Distribution,(1000 MT),27190.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Total Distribution,(1000 MT),26191.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Total Distribution,(1000 MT),27878.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Total Distribution,(1000 MT),27587.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Total Distribution,(1000 MT),27175.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Total Distribution,(1000 MT),29943.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Total Distribution,(1000 MT),29388.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Total Distribution,(1000 MT),27469.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Total Distribution,(1000 MT),27897.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Total Distribution,(1000 MT),30732.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Total Distribution,(1000 MT),28265.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Total Distribution,(1000 MT),30733.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Total Distribution,(1000 MT),25548.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Total Distribution,(1000 MT),27583.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Total Distribution,(1000 MT),30711.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Total Distribution,(1000 MT),29490.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1960,Total Supply,(1000 MT),64305.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1961,Total Supply,(1000 MT),58828.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1962,Total Supply,(1000 MT),57920.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1963,Total Supply,(1000 MT),56129.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1964,Total Supply,(1000 MT),53876.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1965,Total Supply,(1000 MT),54454.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1966,Total Supply,(1000 MT),56476.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1967,Total Supply,(1000 MT),57225.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1968,Total Supply,(1000 MT),60278.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1969,Total Supply,(1000 MT),63686.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1970,Total Supply,(1000 MT),66041.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1971,Total Supply,(1000 MT),68524.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1972,Total Supply,(1000 MT),62545.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1973,Total Supply,(1000 MT),60628.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1974,Total Supply,(1000 MT),55039.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1975,Total Supply,(1000 MT),52047.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1976,Total Supply,(1000 MT),53232.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1977,Total Supply,(1000 MT),55519.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1978,Total Supply,(1000 MT),58125.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1979,Total Supply,(1000 MT),51832.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1980,Total Supply,(1000 MT),48685.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1981,Total Supply,(1000 MT),46098.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1982,Total Supply,(1000 MT),51603.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1983,Total Supply,(1000 MT),50778.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1984,Total Supply,(1000 MT),52513.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1985,Total Supply,(1000 MT),53712.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1986,Total Supply,(1000 MT),50817.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1987,Total Supply,(1000 MT),46600.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1988,Total Supply,(1000 MT),41543.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1989,Total Supply,(1000 MT),45343.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1990,Total Supply,(1000 MT),46130.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1991,Total Supply,(1000 MT),40840.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1992,Total Supply,(1000 MT),39986.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1993,Total Supply,(1000 MT),42019.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1994,Total Supply,(1000 MT),40629.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1995,Total Supply,(1000 MT),35785.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1996,Total Supply,(1000 MT),36109.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1997,Total Supply,(1000 MT),36719.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1998,Total Supply,(1000 MT),33188.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,1999,Total Supply,(1000 MT),30557.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2000,Total Supply,(1000 MT),31674.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2001,Total Supply,(1000 MT),32869.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2002,Total Supply,(1000 MT),31275.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2003,Total Supply,(1000 MT),31305.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2004,Total Supply,(1000 MT),30496.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2005,Total Supply,(1000 MT),28845.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2006,Total Supply,(1000 MT),27831.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2007,Total Supply,(1000 MT),30540.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2008,Total Supply,(1000 MT),30985.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2009,Total Supply,(1000 MT),29711.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2010,Total Supply,(1000 MT),25566.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2011,Total Supply,(1000 MT),27190.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2012,Total Supply,(1000 MT),26191.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2013,Total Supply,(1000 MT),27878.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2014,Total Supply,(1000 MT),27587.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2015,Total Supply,(1000 MT),27175.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2016,Total Supply,(1000 MT),29943.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2017,Total Supply,(1000 MT),29388.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2018,Total Supply,(1000 MT),27469.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2019,Total Supply,(1000 MT),27897.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2020,Total Supply,(1000 MT),30732.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2021,Total Supply,(1000 MT),28265.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2022,Total Supply,(1000 MT),30733.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2023,Total Supply,(1000 MT),25548.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2024,Total Supply,(1000 MT),27583.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2025,Total Supply,(1000 MT),30711.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Oats,World,2026,Total Supply,(1000 MT),29490.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

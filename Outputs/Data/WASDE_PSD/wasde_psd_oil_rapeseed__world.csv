@@ -1,0 +1,757 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Oil, Rapeseed",World,1964,Beginning Stocks,(1000 MT),7.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Beginning Stocks,(1000 MT),10.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Beginning Stocks,(1000 MT),10.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Beginning Stocks,(1000 MT),11.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Beginning Stocks,(1000 MT),11.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Beginning Stocks,(1000 MT),11.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Beginning Stocks,(1000 MT),12.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Beginning Stocks,(1000 MT),16.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Beginning Stocks,(1000 MT),114.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Beginning Stocks,(1000 MT),58.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Beginning Stocks,(1000 MT),61.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Beginning Stocks,(1000 MT),53.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Beginning Stocks,(1000 MT),45.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Beginning Stocks,(1000 MT),121.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Beginning Stocks,(1000 MT),187.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Beginning Stocks,(1000 MT),218.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Beginning Stocks,(1000 MT),243.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Beginning Stocks,(1000 MT),200.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Beginning Stocks,(1000 MT),126.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Beginning Stocks,(1000 MT),155.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Beginning Stocks,(1000 MT),185.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Beginning Stocks,(1000 MT),181.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Beginning Stocks,(1000 MT),331.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Beginning Stocks,(1000 MT),406.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Beginning Stocks,(1000 MT),611.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Beginning Stocks,(1000 MT),660.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Beginning Stocks,(1000 MT),477.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Beginning Stocks,(1000 MT),374.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Beginning Stocks,(1000 MT),467.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Beginning Stocks,(1000 MT),400.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Beginning Stocks,(1000 MT),429.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Beginning Stocks,(1000 MT),345.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Beginning Stocks,(1000 MT),460.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Beginning Stocks,(1000 MT),409.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Beginning Stocks,(1000 MT),496.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Beginning Stocks,(1000 MT),446.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Beginning Stocks,(1000 MT),1010.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Beginning Stocks,(1000 MT),1027.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Beginning Stocks,(1000 MT),939.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Beginning Stocks,(1000 MT),836.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Beginning Stocks,(1000 MT),601.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Beginning Stocks,(1000 MT),790.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Beginning Stocks,(1000 MT),1017.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Beginning Stocks,(1000 MT),827.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Beginning Stocks,(1000 MT),1126.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Beginning Stocks,(1000 MT),1469.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Beginning Stocks,(1000 MT),2139.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Beginning Stocks,(1000 MT),2306.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Beginning Stocks,(1000 MT),3206.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Beginning Stocks,(1000 MT),4833.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Beginning Stocks,(1000 MT),6151.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Beginning Stocks,(1000 MT),6587.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Beginning Stocks,(1000 MT),5582.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Beginning Stocks,(1000 MT),4159.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Beginning Stocks,(1000 MT),3314.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Beginning Stocks,(1000 MT),2889.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Beginning Stocks,(1000 MT),2909.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Beginning Stocks,(1000 MT),3665.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Beginning Stocks,(1000 MT),2544.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Beginning Stocks,(1000 MT),3438.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Beginning Stocks,(1000 MT),3457.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Beginning Stocks,(1000 MT),3296.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Beginning Stocks,(1000 MT),3307.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Crush,(1000 MT),4087.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Crush,(1000 MT),4550.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Crush,(1000 MT),4227.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Crush,(1000 MT),4876.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Crush,(1000 MT),5259.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Crush,(1000 MT),4744.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Crush,(1000 MT),5832.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Crush,(1000 MT),6499.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Crush,(1000 MT),6746.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Crush,(1000 MT),6547.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Crush,(1000 MT),6684.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Crush,(1000 MT),7042.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Crush,(1000 MT),7410.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Crush,(1000 MT),7191.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Crush,(1000 MT),8673.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Crush,(1000 MT),8663.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Crush,(1000 MT),10345.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Crush,(1000 MT),11842.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Crush,(1000 MT),13580.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Crush,(1000 MT),13254.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Crush,(1000 MT),15265.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Crush,(1000 MT),16730.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Crush,(1000 MT),18132.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Crush,(1000 MT),20757.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Crush,(1000 MT),20341.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Crush,(1000 MT),20635.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Crush,(1000 MT),23498.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Crush,(1000 MT),25473.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Crush,(1000 MT),22937.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Crush,(1000 MT),24519.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Crush,(1000 MT),27038.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Crush,(1000 MT),30257.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Crush,(1000 MT),28714.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Crush,(1000 MT),31199.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Crush,(1000 MT),31890.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Crush,(1000 MT),37125.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Crush,(1000 MT),35543.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Crush,(1000 MT),33507.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Crush,(1000 MT),31654.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Crush,(1000 MT),36498.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Crush,(1000 MT),40721.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Crush,(1000 MT),45200.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Crush,(1000 MT),44315.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Crush,(1000 MT),47143.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Crush,(1000 MT),52763.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Crush,(1000 MT),57170.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Crush,(1000 MT),57623.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Crush,(1000 MT),60483.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Crush,(1000 MT),62324.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Crush,(1000 MT),66621.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Crush,(1000 MT),67562.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Crush,(1000 MT),67139.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Crush,(1000 MT),67935.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Crush,(1000 MT),68915.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Crush,(1000 MT),68729.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Crush,(1000 MT),69241.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Crush,(1000 MT),72107.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Crush,(1000 MT),72012.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Crush,(1000 MT),82107.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Crush,(1000 MT),84679.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Crush,(1000 MT),84627.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Crush,(1000 MT),88696.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Crush,(1000 MT),91820.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Domestic Consumption,(1000 MT),1485.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Domestic Consumption,(1000 MT),1710.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Domestic Consumption,(1000 MT),1535.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Domestic Consumption,(1000 MT),1844.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Domestic Consumption,(1000 MT),1976.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Domestic Consumption,(1000 MT),1775.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Domestic Consumption,(1000 MT),2221.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Domestic Consumption,(1000 MT),2311.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Domestic Consumption,(1000 MT),2439.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Domestic Consumption,(1000 MT),2325.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Domestic Consumption,(1000 MT),2456.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Domestic Consumption,(1000 MT),2540.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Domestic Consumption,(1000 MT),2738.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Domestic Consumption,(1000 MT),2533.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Domestic Consumption,(1000 MT),3192.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Domestic Consumption,(1000 MT),3147.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Domestic Consumption,(1000 MT),3861.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Domestic Consumption,(1000 MT),4365.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Domestic Consumption,(1000 MT),4910.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Domestic Consumption,(1000 MT),4883.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Domestic Consumption,(1000 MT),5429.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Domestic Consumption,(1000 MT),5945.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Domestic Consumption,(1000 MT),6572.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Domestic Consumption,(1000 MT),7265.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Domestic Consumption,(1000 MT),7570.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Domestic Consumption,(1000 MT),7869.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Domestic Consumption,(1000 MT),8709.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Domestic Consumption,(1000 MT),9484.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Domestic Consumption,(1000 MT),8763.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Domestic Consumption,(1000 MT),9228.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Domestic Consumption,(1000 MT),10529.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Domestic Consumption,(1000 MT),11301.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Domestic Consumption,(1000 MT),10757.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Domestic Consumption,(1000 MT),11732.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Domestic Consumption,(1000 MT),12085.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Domestic Consumption,(1000 MT),14068.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Domestic Consumption,(1000 MT),14047.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Domestic Consumption,(1000 MT),13393.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Domestic Consumption,(1000 MT),12665.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Domestic Consumption,(1000 MT),14772.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Domestic Consumption,(1000 MT),15889.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Domestic Consumption,(1000 MT),17682.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Domestic Consumption,(1000 MT),18313.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Domestic Consumption,(1000 MT),18920.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Domestic Consumption,(1000 MT),21109.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Domestic Consumption,(1000 MT),22883.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Domestic Consumption,(1000 MT),23306.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Domestic Consumption,(1000 MT),23957.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Domestic Consumption,(1000 MT),23860.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Domestic Consumption,(1000 MT),25859.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Domestic Consumption,(1000 MT),27078.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Domestic Consumption,(1000 MT),28479.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Domestic Consumption,(1000 MT),29141.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Domestic Consumption,(1000 MT),29169.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Domestic Consumption,(1000 MT),28386.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Domestic Consumption,(1000 MT),28331.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Domestic Consumption,(1000 MT),28594.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Domestic Consumption,(1000 MT),30162.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Domestic Consumption,(1000 MT),32714.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Domestic Consumption,(1000 MT),34348.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Domestic Consumption,(1000 MT),34380.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Domestic Consumption,(1000 MT),35701.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Domestic Consumption,(1000 MT),37025.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Ending Stocks,(1000 MT),10.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Ending Stocks,(1000 MT),10.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Ending Stocks,(1000 MT),11.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Ending Stocks,(1000 MT),11.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Ending Stocks,(1000 MT),11.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Ending Stocks,(1000 MT),12.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Ending Stocks,(1000 MT),16.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Ending Stocks,(1000 MT),114.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Ending Stocks,(1000 MT),58.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Ending Stocks,(1000 MT),61.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Ending Stocks,(1000 MT),53.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Ending Stocks,(1000 MT),45.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Ending Stocks,(1000 MT),121.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Ending Stocks,(1000 MT),187.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Ending Stocks,(1000 MT),218.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Ending Stocks,(1000 MT),243.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Ending Stocks,(1000 MT),200.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Ending Stocks,(1000 MT),126.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Ending Stocks,(1000 MT),155.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Ending Stocks,(1000 MT),185.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Ending Stocks,(1000 MT),181.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Ending Stocks,(1000 MT),331.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Ending Stocks,(1000 MT),406.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Ending Stocks,(1000 MT),611.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Ending Stocks,(1000 MT),660.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Ending Stocks,(1000 MT),477.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Ending Stocks,(1000 MT),424.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Ending Stocks,(1000 MT),467.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Ending Stocks,(1000 MT),400.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Ending Stocks,(1000 MT),429.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Ending Stocks,(1000 MT),345.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Ending Stocks,(1000 MT),460.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Ending Stocks,(1000 MT),409.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Ending Stocks,(1000 MT),496.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Ending Stocks,(1000 MT),486.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Ending Stocks,(1000 MT),1010.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Ending Stocks,(1000 MT),1027.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Ending Stocks,(1000 MT),939.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Ending Stocks,(1000 MT),836.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Ending Stocks,(1000 MT),601.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Ending Stocks,(1000 MT),790.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Ending Stocks,(1000 MT),1017.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Ending Stocks,(1000 MT),827.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Ending Stocks,(1000 MT),1126.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Ending Stocks,(1000 MT),1469.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Ending Stocks,(1000 MT),2139.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Ending Stocks,(1000 MT),2306.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Ending Stocks,(1000 MT),3206.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Ending Stocks,(1000 MT),4833.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Ending Stocks,(1000 MT),6151.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Ending Stocks,(1000 MT),6587.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Ending Stocks,(1000 MT),5630.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Ending Stocks,(1000 MT),4159.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Ending Stocks,(1000 MT),3314.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Ending Stocks,(1000 MT),2889.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Ending Stocks,(1000 MT),2909.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Ending Stocks,(1000 MT),3665.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Ending Stocks,(1000 MT),2544.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Ending Stocks,(1000 MT),3438.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Ending Stocks,(1000 MT),3457.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Ending Stocks,(1000 MT),3296.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Ending Stocks,(1000 MT),3307.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Ending Stocks,(1000 MT),3234.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Exports,(1000 MT),84.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Exports,(1000 MT),126.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Exports,(1000 MT),151.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Exports,(1000 MT),180.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Exports,(1000 MT),193.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Exports,(1000 MT),137.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Exports,(1000 MT),197.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Exports,(1000 MT),257.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Exports,(1000 MT),350.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Exports,(1000 MT),352.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Exports,(1000 MT),355.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Exports,(1000 MT),405.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Exports,(1000 MT),522.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Exports,(1000 MT),548.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Exports,(1000 MT),607.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Exports,(1000 MT),634.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Exports,(1000 MT),811.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Exports,(1000 MT),820.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Exports,(1000 MT),845.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Exports,(1000 MT),965.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Exports,(1000 MT),1288.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Exports,(1000 MT),1301.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Exports,(1000 MT),1604.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Exports,(1000 MT),1718.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Exports,(1000 MT),1788.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Exports,(1000 MT),1763.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Exports,(1000 MT),1887.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Exports,(1000 MT),1471.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Exports,(1000 MT),1059.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Exports,(1000 MT),1551.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Exports,(1000 MT),1787.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Exports,(1000 MT),1692.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Exports,(1000 MT),1713.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Exports,(1000 MT),1996.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Exports,(1000 MT),1811.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Exports,(1000 MT),1728.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Exports,(1000 MT),1202.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Exports,(1000 MT),1034.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Exports,(1000 MT),911.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Exports,(1000 MT),1325.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Exports,(1000 MT),1293.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Exports,(1000 MT),1650.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Exports,(1000 MT),1995.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Exports,(1000 MT),1907.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Exports,(1000 MT),2474.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Exports,(1000 MT),2750.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Exports,(1000 MT),3434.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Exports,(1000 MT),3977.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Exports,(1000 MT),3953.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Exports,(1000 MT),3836.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Exports,(1000 MT),4062.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Exports,(1000 MT),4168.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Exports,(1000 MT),4642.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Exports,(1000 MT),4835.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Exports,(1000 MT),5261.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Exports,(1000 MT),5873.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Exports,(1000 MT),6416.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Exports,(1000 MT),5214.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Exports,(1000 MT),6535.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Exports,(1000 MT),7517.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Exports,(1000 MT),7142.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Exports,(1000 MT),7992.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Exports,(1000 MT),8705.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Feed Waste Dom. Cons.,(1000 MT),0.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Feed Waste Dom. Cons.,(1000 MT),0.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Feed Waste Dom. Cons.,(1000 MT),0.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Feed Waste Dom. Cons.,(1000 MT),4.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Feed Waste Dom. Cons.,(1000 MT),5.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Feed Waste Dom. Cons.,(1000 MT),10.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Feed Waste Dom. Cons.,(1000 MT),11.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Feed Waste Dom. Cons.,(1000 MT),11.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Feed Waste Dom. Cons.,(1000 MT),9.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Feed Waste Dom. Cons.,(1000 MT),6.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Feed Waste Dom. Cons.,(1000 MT),8.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Feed Waste Dom. Cons.,(1000 MT),2.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Feed Waste Dom. Cons.,(1000 MT),1.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Feed Waste Dom. Cons.,(1000 MT),7.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Feed Waste Dom. Cons.,(1000 MT),7.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Feed Waste Dom. Cons.,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Feed Waste Dom. Cons.,(1000 MT),1.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Feed Waste Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Feed Waste Dom. Cons.,(1000 MT),32.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Feed Waste Dom. Cons.,(1000 MT),37.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Feed Waste Dom. Cons.,(1000 MT),31.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Feed Waste Dom. Cons.,(1000 MT),17.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Feed Waste Dom. Cons.,(1000 MT),19.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Feed Waste Dom. Cons.,(1000 MT),75.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Feed Waste Dom. Cons.,(1000 MT),81.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Feed Waste Dom. Cons.,(1000 MT),94.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Feed Waste Dom. Cons.,(1000 MT),68.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Feed Waste Dom. Cons.,(1000 MT),62.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Feed Waste Dom. Cons.,(1000 MT),56.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Feed Waste Dom. Cons.,(1000 MT),47.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Feed Waste Dom. Cons.,(1000 MT),52.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Feed Waste Dom. Cons.,(1000 MT),10.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Feed Waste Dom. Cons.,(1000 MT),12.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Feed Waste Dom. Cons.,(1000 MT),13.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Feed Waste Dom. Cons.,(1000 MT),13.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Feed Waste Dom. Cons.,(1000 MT),7.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Feed Waste Dom. Cons.,(1000 MT),19.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Feed Waste Dom. Cons.,(1000 MT),8.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Feed Waste Dom. Cons.,(1000 MT),3.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Feed Waste Dom. Cons.,(1000 MT),8.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Feed Waste Dom. Cons.,(1000 MT),7.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Feed Waste Dom. Cons.,(1000 MT),36.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Feed Waste Dom. Cons.,(1000 MT),36.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Feed Waste Dom. Cons.,(1000 MT),86.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Feed Waste Dom. Cons.,(1000 MT),96.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Feed Waste Dom. Cons.,(1000 MT),151.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Feed Waste Dom. Cons.,(1000 MT),211.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Feed Waste Dom. Cons.,(1000 MT),291.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Feed Waste Dom. Cons.,(1000 MT),296.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Feed Waste Dom. Cons.,(1000 MT),351.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Feed Waste Dom. Cons.,(1000 MT),351.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Feed Waste Dom. Cons.,(1000 MT),376.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Feed Waste Dom. Cons.,(1000 MT),401.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Feed Waste Dom. Cons.,(1000 MT),401.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Feed Waste Dom. Cons.,(1000 MT),426.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Feed Waste Dom. Cons.,(1000 MT),426.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Feed Waste Dom. Cons.,(1000 MT),476.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Feed Waste Dom. Cons.,(1000 MT),451.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Feed Waste Dom. Cons.,(1000 MT),426.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Feed Waste Dom. Cons.,(1000 MT),426.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Feed Waste Dom. Cons.,(1000 MT),426.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Feed Waste Dom. Cons.,(1000 MT),426.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Feed Waste Dom. Cons.,(1000 MT),450.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Food Use Dom. Cons.,(1000 MT),1417.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Food Use Dom. Cons.,(1000 MT),1610.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Food Use Dom. Cons.,(1000 MT),1449.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Food Use Dom. Cons.,(1000 MT),1729.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Food Use Dom. Cons.,(1000 MT),1843.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Food Use Dom. Cons.,(1000 MT),1717.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Food Use Dom. Cons.,(1000 MT),2065.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Food Use Dom. Cons.,(1000 MT),2164.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Food Use Dom. Cons.,(1000 MT),2327.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Food Use Dom. Cons.,(1000 MT),2190.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Food Use Dom. Cons.,(1000 MT),2314.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Food Use Dom. Cons.,(1000 MT),2386.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Food Use Dom. Cons.,(1000 MT),2536.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Food Use Dom. Cons.,(1000 MT),2350.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Food Use Dom. Cons.,(1000 MT),2937.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Food Use Dom. Cons.,(1000 MT),2950.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Food Use Dom. Cons.,(1000 MT),3618.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Food Use Dom. Cons.,(1000 MT),4088.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Food Use Dom. Cons.,(1000 MT),4564.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Food Use Dom. Cons.,(1000 MT),4513.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Food Use Dom. Cons.,(1000 MT),5029.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Food Use Dom. Cons.,(1000 MT),5509.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Food Use Dom. Cons.,(1000 MT),6030.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Food Use Dom. Cons.,(1000 MT),6803.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Food Use Dom. Cons.,(1000 MT),7052.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Food Use Dom. Cons.,(1000 MT),7282.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Food Use Dom. Cons.,(1000 MT),8112.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Food Use Dom. Cons.,(1000 MT),8857.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Food Use Dom. Cons.,(1000 MT),8209.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Food Use Dom. Cons.,(1000 MT),8550.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Food Use Dom. Cons.,(1000 MT),9546.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Food Use Dom. Cons.,(1000 MT),10290.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Food Use Dom. Cons.,(1000 MT),9733.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Food Use Dom. Cons.,(1000 MT),10744.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Food Use Dom. Cons.,(1000 MT),11195.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Food Use Dom. Cons.,(1000 MT),13042.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Food Use Dom. Cons.,(1000 MT),12883.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Food Use Dom. Cons.,(1000 MT),12211.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Food Use Dom. Cons.,(1000 MT),11329.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Food Use Dom. Cons.,(1000 MT),12888.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Food Use Dom. Cons.,(1000 MT),13200.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Food Use Dom. Cons.,(1000 MT),13787.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Food Use Dom. Cons.,(1000 MT),13350.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Food Use Dom. Cons.,(1000 MT),13637.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Food Use Dom. Cons.,(1000 MT),14545.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Food Use Dom. Cons.,(1000 MT),15331.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Food Use Dom. Cons.,(1000 MT),15695.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Food Use Dom. Cons.,(1000 MT),16502.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Food Use Dom. Cons.,(1000 MT),16565.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Food Use Dom. Cons.,(1000 MT),17908.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Food Use Dom. Cons.,(1000 MT),18882.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Food Use Dom. Cons.,(1000 MT),20068.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Food Use Dom. Cons.,(1000 MT),20509.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Food Use Dom. Cons.,(1000 MT),20522.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Food Use Dom. Cons.,(1000 MT),20236.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Food Use Dom. Cons.,(1000 MT),20172.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Food Use Dom. Cons.,(1000 MT),20364.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Food Use Dom. Cons.,(1000 MT),21955.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Food Use Dom. Cons.,(1000 MT),23322.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Food Use Dom. Cons.,(1000 MT),24186.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Food Use Dom. Cons.,(1000 MT),24974.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Food Use Dom. Cons.,(1000 MT),25378.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Food Use Dom. Cons.,(1000 MT),25862.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Imports,(1000 MT),127.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Imports,(1000 MT),210.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Imports,(1000 MT),169.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Imports,(1000 MT),246.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Imports,(1000 MT),259.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Imports,(1000 MT),207.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Imports,(1000 MT),289.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Imports,(1000 MT),281.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Imports,(1000 MT),281.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Imports,(1000 MT),297.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Imports,(1000 MT),360.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Imports,(1000 MT),345.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Imports,(1000 MT),558.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Imports,(1000 MT),453.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Imports,(1000 MT),584.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Imports,(1000 MT),589.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Imports,(1000 MT),749.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Imports,(1000 MT),765.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Imports,(1000 MT),794.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Imports,(1000 MT),995.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Imports,(1000 MT),1107.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Imports,(1000 MT),1173.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Imports,(1000 MT),1419.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Imports,(1000 MT),1411.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Imports,(1000 MT),1749.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Imports,(1000 MT),1697.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Imports,(1000 MT),1775.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Imports,(1000 MT),1549.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Imports,(1000 MT),1133.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Imports,(1000 MT),1531.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Imports,(1000 MT),1993.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Imports,(1000 MT),1756.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Imports,(1000 MT),1614.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Imports,(1000 MT),2015.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Imports,(1000 MT),1637.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Imports,(1000 MT),1820.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Imports,(1000 MT),1338.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Imports,(1000 MT),1115.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Imports,(1000 MT),892.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Imports,(1000 MT),1357.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Imports,(1000 MT),1202.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Imports,(1000 MT),1475.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Imports,(1000 MT),2213.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Imports,(1000 MT),2048.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Imports,(1000 MT),2477.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Imports,(1000 MT),2960.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Imports,(1000 MT),3389.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Imports,(1000 MT),4084.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Imports,(1000 MT),3939.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Imports,(1000 MT),3816.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Imports,(1000 MT),3955.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Imports,(1000 MT),4128.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Imports,(1000 MT),4555.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Imports,(1000 MT),4838.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Imports,(1000 MT),5180.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Imports,(1000 MT),5803.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Imports,(1000 MT),6328.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Imports,(1000 MT),5110.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Imports,(1000 MT),6896.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Imports,(1000 MT),7498.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Imports,(1000 MT),7080.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Imports,(1000 MT),7707.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Imports,(1000 MT),8374.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Industrial Dom. Cons.,(1000 MT),65.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Industrial Dom. Cons.,(1000 MT),97.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Industrial Dom. Cons.,(1000 MT),82.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Industrial Dom. Cons.,(1000 MT),101.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Industrial Dom. Cons.,(1000 MT),119.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Industrial Dom. Cons.,(1000 MT),44.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Industrial Dom. Cons.,(1000 MT),139.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Industrial Dom. Cons.,(1000 MT),129.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Industrial Dom. Cons.,(1000 MT),97.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Industrial Dom. Cons.,(1000 MT),121.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Industrial Dom. Cons.,(1000 MT),129.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Industrial Dom. Cons.,(1000 MT),145.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Industrial Dom. Cons.,(1000 MT),193.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Industrial Dom. Cons.,(1000 MT),168.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Industrial Dom. Cons.,(1000 MT),198.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Industrial Dom. Cons.,(1000 MT),104.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Industrial Dom. Cons.,(1000 MT),242.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Industrial Dom. Cons.,(1000 MT),277.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Industrial Dom. Cons.,(1000 MT),314.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Industrial Dom. Cons.,(1000 MT),333.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Industrial Dom. Cons.,(1000 MT),369.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Industrial Dom. Cons.,(1000 MT),419.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Industrial Dom. Cons.,(1000 MT),523.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Industrial Dom. Cons.,(1000 MT),387.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Industrial Dom. Cons.,(1000 MT),437.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Industrial Dom. Cons.,(1000 MT),493.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Industrial Dom. Cons.,(1000 MT),529.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Industrial Dom. Cons.,(1000 MT),565.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Industrial Dom. Cons.,(1000 MT),498.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Industrial Dom. Cons.,(1000 MT),631.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Industrial Dom. Cons.,(1000 MT),931.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Industrial Dom. Cons.,(1000 MT),1001.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Industrial Dom. Cons.,(1000 MT),1012.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Industrial Dom. Cons.,(1000 MT),975.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Industrial Dom. Cons.,(1000 MT),877.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Industrial Dom. Cons.,(1000 MT),1019.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Industrial Dom. Cons.,(1000 MT),1145.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Industrial Dom. Cons.,(1000 MT),1174.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Industrial Dom. Cons.,(1000 MT),1333.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Industrial Dom. Cons.,(1000 MT),1876.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Industrial Dom. Cons.,(1000 MT),2682.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Industrial Dom. Cons.,(1000 MT),3859.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Industrial Dom. Cons.,(1000 MT),4927.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Industrial Dom. Cons.,(1000 MT),5197.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Industrial Dom. Cons.,(1000 MT),6468.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Industrial Dom. Cons.,(1000 MT),7401.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Industrial Dom. Cons.,(1000 MT),7400.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Industrial Dom. Cons.,(1000 MT),7164.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Industrial Dom. Cons.,(1000 MT),6999.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Industrial Dom. Cons.,(1000 MT),7600.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Industrial Dom. Cons.,(1000 MT),7845.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Industrial Dom. Cons.,(1000 MT),8035.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Industrial Dom. Cons.,(1000 MT),8231.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Industrial Dom. Cons.,(1000 MT),8246.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Industrial Dom. Cons.,(1000 MT),7724.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Industrial Dom. Cons.,(1000 MT),7733.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Industrial Dom. Cons.,(1000 MT),7754.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Industrial Dom. Cons.,(1000 MT),7756.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Industrial Dom. Cons.,(1000 MT),8966.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Industrial Dom. Cons.,(1000 MT),9736.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Industrial Dom. Cons.,(1000 MT),8980.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Industrial Dom. Cons.,(1000 MT),9897.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Industrial Dom. Cons.,(1000 MT),10713.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Production,(1000 MT),1445.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Production,(1000 MT),1626.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Production,(1000 MT),1518.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Production,(1000 MT),1778.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Production,(1000 MT),1910.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Production,(1000 MT),1706.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Production,(1000 MT),2133.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Production,(1000 MT),2385.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Production,(1000 MT),2452.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Production,(1000 MT),2383.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Production,(1000 MT),2443.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Production,(1000 MT),2592.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Production,(1000 MT),2778.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Production,(1000 MT),2694.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Production,(1000 MT),3246.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Production,(1000 MT),3217.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Production,(1000 MT),3880.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Production,(1000 MT),4346.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Production,(1000 MT),4990.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Production,(1000 MT),4883.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Production,(1000 MT),5606.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Production,(1000 MT),6223.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Production,(1000 MT),6832.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Production,(1000 MT),7777.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Production,(1000 MT),7658.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Production,(1000 MT),7752.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Production,(1000 MT),8768.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Production,(1000 MT),9499.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Production,(1000 MT),8622.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Production,(1000 MT),9277.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Production,(1000 MT),10239.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Production,(1000 MT),11352.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Production,(1000 MT),10805.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Production,(1000 MT),11800.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Production,(1000 MT),12249.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Production,(1000 MT),14540.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Production,(1000 MT),13928.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Production,(1000 MT),13224.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Production,(1000 MT),12581.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Production,(1000 MT),14505.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Production,(1000 MT),16169.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Production,(1000 MT),18084.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Production,(1000 MT),17905.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Production,(1000 MT),19078.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Production,(1000 MT),21449.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Production,(1000 MT),23343.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Production,(1000 MT),23518.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Production,(1000 MT),24750.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Production,(1000 MT),25501.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Production,(1000 MT),27197.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Production,(1000 MT),27621.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Production,(1000 MT),27562.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Production,(1000 MT),27805.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Production,(1000 MT),28321.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Production,(1000 MT),28042.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Production,(1000 MT),28421.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Production,(1000 MT),29438.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Production,(1000 MT),29145.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Production,(1000 MT),33247.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Production,(1000 MT),34386.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Production,(1000 MT),34281.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Production,(1000 MT),35997.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Production,(1000 MT),37283.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Total Distribution,(1000 MT),1579.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Total Distribution,(1000 MT),1846.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Total Distribution,(1000 MT),1697.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Total Distribution,(1000 MT),2035.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Total Distribution,(1000 MT),2180.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Total Distribution,(1000 MT),1924.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Total Distribution,(1000 MT),2434.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Total Distribution,(1000 MT),2682.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Total Distribution,(1000 MT),2847.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Total Distribution,(1000 MT),2738.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Total Distribution,(1000 MT),2864.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Total Distribution,(1000 MT),2990.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Total Distribution,(1000 MT),3381.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Total Distribution,(1000 MT),3268.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Total Distribution,(1000 MT),4017.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Total Distribution,(1000 MT),4024.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Total Distribution,(1000 MT),4872.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Total Distribution,(1000 MT),5311.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Total Distribution,(1000 MT),5910.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Total Distribution,(1000 MT),6033.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Total Distribution,(1000 MT),6898.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Total Distribution,(1000 MT),7577.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Total Distribution,(1000 MT),8582.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Total Distribution,(1000 MT),9594.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Total Distribution,(1000 MT),10018.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Total Distribution,(1000 MT),10109.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Total Distribution,(1000 MT),11020.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Total Distribution,(1000 MT),11422.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Total Distribution,(1000 MT),10222.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Total Distribution,(1000 MT),11208.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Total Distribution,(1000 MT),12661.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Total Distribution,(1000 MT),13453.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Total Distribution,(1000 MT),12879.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Total Distribution,(1000 MT),14224.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Total Distribution,(1000 MT),14382.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Total Distribution,(1000 MT),16806.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Total Distribution,(1000 MT),16276.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Total Distribution,(1000 MT),15366.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Total Distribution,(1000 MT),14412.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Total Distribution,(1000 MT),16698.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Total Distribution,(1000 MT),17972.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Total Distribution,(1000 MT),20349.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Total Distribution,(1000 MT),21135.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Total Distribution,(1000 MT),21953.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Total Distribution,(1000 MT),25052.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Total Distribution,(1000 MT),27772.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Total Distribution,(1000 MT),29046.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Total Distribution,(1000 MT),31140.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Total Distribution,(1000 MT),32646.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Total Distribution,(1000 MT),35846.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Total Distribution,(1000 MT),37727.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Total Distribution,(1000 MT),38277.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Total Distribution,(1000 MT),37942.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Total Distribution,(1000 MT),37318.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Total Distribution,(1000 MT),36536.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Total Distribution,(1000 MT),37113.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Total Distribution,(1000 MT),38675.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Total Distribution,(1000 MT),37920.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Total Distribution,(1000 MT),42687.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Total Distribution,(1000 MT),45322.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Total Distribution,(1000 MT),44818.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Total Distribution,(1000 MT),47000.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Total Distribution,(1000 MT),48964.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1964,Total Supply,(1000 MT),1579.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1965,Total Supply,(1000 MT),1846.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1966,Total Supply,(1000 MT),1697.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1967,Total Supply,(1000 MT),2035.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1968,Total Supply,(1000 MT),2180.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1969,Total Supply,(1000 MT),1924.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1970,Total Supply,(1000 MT),2434.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1971,Total Supply,(1000 MT),2682.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1972,Total Supply,(1000 MT),2847.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1973,Total Supply,(1000 MT),2738.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1974,Total Supply,(1000 MT),2864.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1975,Total Supply,(1000 MT),2990.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1976,Total Supply,(1000 MT),3381.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1977,Total Supply,(1000 MT),3268.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1978,Total Supply,(1000 MT),4017.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1979,Total Supply,(1000 MT),4024.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1980,Total Supply,(1000 MT),4872.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1981,Total Supply,(1000 MT),5311.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1982,Total Supply,(1000 MT),5910.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1983,Total Supply,(1000 MT),6033.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1984,Total Supply,(1000 MT),6898.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1985,Total Supply,(1000 MT),7577.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1986,Total Supply,(1000 MT),8582.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1987,Total Supply,(1000 MT),9594.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1988,Total Supply,(1000 MT),10018.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1989,Total Supply,(1000 MT),10109.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1990,Total Supply,(1000 MT),11020.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1991,Total Supply,(1000 MT),11422.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1992,Total Supply,(1000 MT),10222.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1993,Total Supply,(1000 MT),11208.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1994,Total Supply,(1000 MT),12661.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1995,Total Supply,(1000 MT),13453.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1996,Total Supply,(1000 MT),12879.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1997,Total Supply,(1000 MT),14224.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1998,Total Supply,(1000 MT),14382.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,1999,Total Supply,(1000 MT),16806.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2000,Total Supply,(1000 MT),16276.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2001,Total Supply,(1000 MT),15366.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2002,Total Supply,(1000 MT),14412.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2003,Total Supply,(1000 MT),16698.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2004,Total Supply,(1000 MT),17972.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2005,Total Supply,(1000 MT),20349.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2006,Total Supply,(1000 MT),21135.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2007,Total Supply,(1000 MT),21953.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2008,Total Supply,(1000 MT),25052.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2009,Total Supply,(1000 MT),27772.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2010,Total Supply,(1000 MT),29046.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2011,Total Supply,(1000 MT),31140.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2012,Total Supply,(1000 MT),32646.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2013,Total Supply,(1000 MT),35846.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2014,Total Supply,(1000 MT),37727.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2015,Total Supply,(1000 MT),38277.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2016,Total Supply,(1000 MT),37942.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2017,Total Supply,(1000 MT),37318.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2018,Total Supply,(1000 MT),36536.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2019,Total Supply,(1000 MT),37113.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2020,Total Supply,(1000 MT),38675.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2021,Total Supply,(1000 MT),37920.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2022,Total Supply,(1000 MT),42687.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2023,Total Supply,(1000 MT),45322.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2024,Total Supply,(1000 MT),44818.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2025,Total Supply,(1000 MT),47000.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Rapeseed",World,2026,Total Supply,(1000 MT),48964.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

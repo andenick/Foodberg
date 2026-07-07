@@ -1,0 +1,939 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+Barley,World,1960,Area Harvested,(1000 HA),56945.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Area Harvested,(1000 HA),56914.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Area Harvested,(1000 HA),59168.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Area Harvested,(1000 HA),64117.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Area Harvested,(1000 HA),62901.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Area Harvested,(1000 HA),60864.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Area Harvested,(1000 HA),60944.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Area Harvested,(1000 HA),61307.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Area Harvested,(1000 HA),63936.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Area Harvested,(1000 HA),66674.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Area Harvested,(1000 HA),65630.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Area Harvested,(1000 HA),67421.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Area Harvested,(1000 HA),72893.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Area Harvested,(1000 HA),75905.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Area Harvested,(1000 HA),76794.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Area Harvested,(1000 HA),79103.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Area Harvested,(1000 HA),81651.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Area Harvested,(1000 HA),82991.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Area Harvested,(1000 HA),80944.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Area Harvested,(1000 HA),84007.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Area Harvested,(1000 HA),78624.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Area Harvested,(1000 HA),81643.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Area Harvested,(1000 HA),78733.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Area Harvested,(1000 HA),79816.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Area Harvested,(1000 HA),79188.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Area Harvested,(1000 HA),79948.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Area Harvested,(1000 HA),79597.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Area Harvested,(1000 HA),78713.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Area Harvested,(1000 HA),76299.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Area Harvested,(1000 HA),73678.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Area Harvested,(1000 HA),72399.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Area Harvested,(1000 HA),75870.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Area Harvested,(1000 HA),72590.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Area Harvested,(1000 HA),73186.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Area Harvested,(1000 HA),72154.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Area Harvested,(1000 HA),66383.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Area Harvested,(1000 HA),64236.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Area Harvested,(1000 HA),63800.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Area Harvested,(1000 HA),56676.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Area Harvested,(1000 HA),52102.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Area Harvested,(1000 HA),53074.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Area Harvested,(1000 HA),55629.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Area Harvested,(1000 HA),54600.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Area Harvested,(1000 HA),58329.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Area Harvested,(1000 HA),57351.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Area Harvested,(1000 HA),55145.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Area Harvested,(1000 HA),56333.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Area Harvested,(1000 HA),55906.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Area Harvested,(1000 HA),54771.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Area Harvested,(1000 HA),54117.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Area Harvested,(1000 HA),46910.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Area Harvested,(1000 HA),48898.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Area Harvested,(1000 HA),50203.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Area Harvested,(1000 HA),50696.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Area Harvested,(1000 HA),50733.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Area Harvested,(1000 HA),50669.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Area Harvested,(1000 HA),49219.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Area Harvested,(1000 HA),47864.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Area Harvested,(1000 HA),48518.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Area Harvested,(1000 HA),52170.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Area Harvested,(1000 HA),52472.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Area Harvested,(1000 HA),49493.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Area Harvested,(1000 HA),47154.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Area Harvested,(1000 HA),47046.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Area Harvested,(1000 HA),45735.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Area Harvested,(1000 HA),44431.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Area Harvested,(1000 HA),46278.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,Beginning Stocks,(1000 MT),12539.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Beginning Stocks,(1000 MT),12227.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Beginning Stocks,(1000 MT),10632.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Beginning Stocks,(1000 MT),12664.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Beginning Stocks,(1000 MT),14372.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Beginning Stocks,(1000 MT),20251.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Beginning Stocks,(1000 MT),14646.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Beginning Stocks,(1000 MT),16022.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Beginning Stocks,(1000 MT),18089.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Beginning Stocks,(1000 MT),21682.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Beginning Stocks,(1000 MT),22168.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Beginning Stocks,(1000 MT),18089.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Beginning Stocks,(1000 MT),20236.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Beginning Stocks,(1000 MT),19522.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Beginning Stocks,(1000 MT),19215.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Beginning Stocks,(1000 MT),20433.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Beginning Stocks,(1000 MT),18197.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Beginning Stocks,(1000 MT),21737.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Beginning Stocks,(1000 MT),19857.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Beginning Stocks,(1000 MT),24289.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Beginning Stocks,(1000 MT),18921.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Beginning Stocks,(1000 MT),18339.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Beginning Stocks,(1000 MT),16061.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Beginning Stocks,(1000 MT),21469.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Beginning Stocks,(1000 MT),15518.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Beginning Stocks,(1000 MT),23141.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Beginning Stocks,(1000 MT),29576.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Beginning Stocks,(1000 MT),31576.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Beginning Stocks,(1000 MT),33575.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Beginning Stocks,(1000 MT),31724.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Beginning Stocks,(1000 MT),27528.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Beginning Stocks,(1000 MT),31512.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Beginning Stocks,(1000 MT),34345.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Beginning Stocks,(1000 MT),35042.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Beginning Stocks,(1000 MT),34916.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Beginning Stocks,(1000 MT),30011.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Beginning Stocks,(1000 MT),20505.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Beginning Stocks,(1000 MT),24148.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Beginning Stocks,(1000 MT),32197.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Beginning Stocks,(1000 MT),28958.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Beginning Stocks,(1000 MT),23876.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Beginning Stocks,(1000 MT),22511.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Beginning Stocks,(1000 MT),29104.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Beginning Stocks,(1000 MT),27489.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Beginning Stocks,(1000 MT),23412.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Beginning Stocks,(1000 MT),33025.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Beginning Stocks,(1000 MT),28276.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Beginning Stocks,(1000 MT),21666.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Beginning Stocks,(1000 MT),20642.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Beginning Stocks,(1000 MT),32281.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Beginning Stocks,(1000 MT),36651.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Beginning Stocks,(1000 MT),23530.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Beginning Stocks,(1000 MT),21773.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Beginning Stocks,(1000 MT),21480.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Beginning Stocks,(1000 MT),24779.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Beginning Stocks,(1000 MT),23592.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Beginning Stocks,(1000 MT),25327.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Beginning Stocks,(1000 MT),23635.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Beginning Stocks,(1000 MT),21713.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Beginning Stocks,(1000 MT),20058.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Beginning Stocks,(1000 MT),21932.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Beginning Stocks,(1000 MT),21462.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Beginning Stocks,(1000 MT),18484.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Beginning Stocks,(1000 MT),20879.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Beginning Stocks,(1000 MT),21672.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Beginning Stocks,(1000 MT),18372.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Beginning Stocks,(1000 MT),20721.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,Domestic Consumption,(1000 MT),79181.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Domestic Consumption,(1000 MT),76392.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Domestic Consumption,(1000 MT),85159.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Domestic Consumption,(1000 MT),86770.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Domestic Consumption,(1000 MT),90536.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Domestic Consumption,(1000 MT),97183.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Domestic Consumption,(1000 MT),100876.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Domestic Consumption,(1000 MT),102876.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Domestic Consumption,(1000 MT),111223.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Domestic Consumption,(1000 MT),116845.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Domestic Consumption,(1000 MT),124090.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Domestic Consumption,(1000 MT),128681.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Domestic Consumption,(1000 MT),133435.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Domestic Consumption,(1000 MT),146574.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Domestic Consumption,(1000 MT),148459.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Domestic Consumption,(1000 MT),138652.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Domestic Consumption,(1000 MT),162531.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Domestic Consumption,(1000 MT),158241.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Domestic Consumption,(1000 MT),169566.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Domestic Consumption,(1000 MT),160935.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Domestic Consumption,(1000 MT),157607.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Domestic Consumption,(1000 MT),151633.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Domestic Consumption,(1000 MT),155831.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Domestic Consumption,(1000 MT),163261.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Domestic Consumption,(1000 MT),163116.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Domestic Consumption,(1000 MT),168233.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Domestic Consumption,(1000 MT),173069.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Domestic Consumption,(1000 MT),172760.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Domestic Consumption,(1000 MT),165183.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Domestic Consumption,(1000 MT),169805.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Domestic Consumption,(1000 MT),174413.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Domestic Consumption,(1000 MT),163715.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Domestic Consumption,(1000 MT),162223.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Domestic Consumption,(1000 MT),167402.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Domestic Consumption,(1000 MT),164015.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Domestic Consumption,(1000 MT),150560.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Domestic Consumption,(1000 MT),148575.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Domestic Consumption,(1000 MT),145396.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Domestic Consumption,(1000 MT),139621.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Domestic Consumption,(1000 MT),132298.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Domestic Consumption,(1000 MT),133909.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Domestic Consumption,(1000 MT),136350.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Domestic Consumption,(1000 MT),136590.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Domestic Consumption,(1000 MT),146040.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Domestic Consumption,(1000 MT),143635.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Domestic Consumption,(1000 MT),140875.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Domestic Consumption,(1000 MT),143720.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Domestic Consumption,(1000 MT),134270.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Domestic Consumption,(1000 MT),142542.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Domestic Consumption,(1000 MT),146207.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Domestic Consumption,(1000 MT),133769.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Domestic Consumption,(1000 MT),135300.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Domestic Consumption,(1000 MT),130213.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Domestic Consumption,(1000 MT),141468.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Domestic Consumption,(1000 MT),143369.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Domestic Consumption,(1000 MT),145341.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Domestic Consumption,(1000 MT),148092.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Domestic Consumption,(1000 MT),146334.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Domestic Consumption,(1000 MT),138690.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Domestic Consumption,(1000 MT),157315.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Domestic Consumption,(1000 MT),161925.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Domestic Consumption,(1000 MT),145739.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Domestic Consumption,(1000 MT),149341.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Domestic Consumption,(1000 MT),144737.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Domestic Consumption,(1000 MT),145677.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Domestic Consumption,(1000 MT),150186.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Domestic Consumption,(1000 MT),153382.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,Ending Stocks,(1000 MT),12147.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Ending Stocks,(1000 MT),10632.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Ending Stocks,(1000 MT),12664.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Ending Stocks,(1000 MT),14372.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Ending Stocks,(1000 MT),20251.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Ending Stocks,(1000 MT),14646.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Ending Stocks,(1000 MT),16022.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Ending Stocks,(1000 MT),18089.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Ending Stocks,(1000 MT),21682.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Ending Stocks,(1000 MT),22168.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Ending Stocks,(1000 MT),18089.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Ending Stocks,(1000 MT),20236.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Ending Stocks,(1000 MT),19522.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Ending Stocks,(1000 MT),19215.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Ending Stocks,(1000 MT),20433.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Ending Stocks,(1000 MT),18197.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Ending Stocks,(1000 MT),21737.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Ending Stocks,(1000 MT),19857.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Ending Stocks,(1000 MT),24289.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Ending Stocks,(1000 MT),18921.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Ending Stocks,(1000 MT),18339.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Ending Stocks,(1000 MT),16061.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Ending Stocks,(1000 MT),21469.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Ending Stocks,(1000 MT),15518.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Ending Stocks,(1000 MT),23141.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Ending Stocks,(1000 MT),29576.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Ending Stocks,(1000 MT),33826.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Ending Stocks,(1000 MT),33575.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Ending Stocks,(1000 MT),31724.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Ending Stocks,(1000 MT),27528.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Ending Stocks,(1000 MT),31512.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Ending Stocks,(1000 MT),34910.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Ending Stocks,(1000 MT),35042.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Ending Stocks,(1000 MT),34916.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Ending Stocks,(1000 MT),30011.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Ending Stocks,(1000 MT),20505.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Ending Stocks,(1000 MT),24148.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Ending Stocks,(1000 MT),32197.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Ending Stocks,(1000 MT),28958.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Ending Stocks,(1000 MT),23876.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Ending Stocks,(1000 MT),22511.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Ending Stocks,(1000 MT),29104.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Ending Stocks,(1000 MT),27489.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Ending Stocks,(1000 MT),23412.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Ending Stocks,(1000 MT),33025.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Ending Stocks,(1000 MT),28276.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Ending Stocks,(1000 MT),21666.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Ending Stocks,(1000 MT),20642.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Ending Stocks,(1000 MT),32281.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Ending Stocks,(1000 MT),36651.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Ending Stocks,(1000 MT),23530.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Ending Stocks,(1000 MT),21773.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Ending Stocks,(1000 MT),21480.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Ending Stocks,(1000 MT),24779.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Ending Stocks,(1000 MT),23592.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Ending Stocks,(1000 MT),25327.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Ending Stocks,(1000 MT),23635.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Ending Stocks,(1000 MT),21713.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Ending Stocks,(1000 MT),20058.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Ending Stocks,(1000 MT),21932.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Ending Stocks,(1000 MT),21462.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Ending Stocks,(1000 MT),18484.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Ending Stocks,(1000 MT),20879.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Ending Stocks,(1000 MT),21672.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Ending Stocks,(1000 MT),18372.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Ending Stocks,(1000 MT),20721.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Ending Stocks,(1000 MT),21201.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,Exports,(1000 MT),6261.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Exports,(1000 MT),7245.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Exports,(1000 MT),5203.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Exports,(1000 MT),7699.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Exports,(1000 MT),7341.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Exports,(1000 MT),8705.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Exports,(1000 MT),6914.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Exports,(1000 MT),7024.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Exports,(1000 MT),7224.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Exports,(1000 MT),9181.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Exports,(1000 MT),11362.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Exports,(1000 MT),14475.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Exports,(1000 MT),12156.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Exports,(1000 MT),8249.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Exports,(1000 MT),7644.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Exports,(1000 MT),9596.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Exports,(1000 MT),10652.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Exports,(1000 MT),9748.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Exports,(1000 MT),10303.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Exports,(1000 MT),10405.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Exports,(1000 MT),12904.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Exports,(1000 MT),14527.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Exports,(1000 MT),11855.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Exports,(1000 MT),15730.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Exports,(1000 MT),17584.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Exports,(1000 MT),16325.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Exports,(1000 MT),19881.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Exports,(1000 MT),19584.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Exports,(1000 MT),18930.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Exports,(1000 MT),18508.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Exports,(1000 MT),20334.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Exports,(1000 MT),19025.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Exports,(1000 MT),17539.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Exports,(1000 MT),18340.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Exports,(1000 MT),16612.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Exports,(1000 MT),13451.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Exports,(1000 MT),17821.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Exports,(1000 MT),13152.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Exports,(1000 MT),16843.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Exports,(1000 MT),16418.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Exports,(1000 MT),16723.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Exports,(1000 MT),17286.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Exports,(1000 MT),16246.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Exports,(1000 MT),16359.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Exports,(1000 MT),15046.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Exports,(1000 MT),18206.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Exports,(1000 MT),15354.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Exports,(1000 MT),15433.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Exports,(1000 MT),19998.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Exports,(1000 MT),17140.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Exports,(1000 MT),15916.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Exports,(1000 MT),20400.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Exports,(1000 MT),19630.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Exports,(1000 MT),22857.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Exports,(1000 MT),29030.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Exports,(1000 MT),30823.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Exports,(1000 MT),29492.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Exports,(1000 MT),29124.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Exports,(1000 MT),25570.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Exports,(1000 MT),28939.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Exports,(1000 MT),36282.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Exports,(1000 MT),32318.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Exports,(1000 MT),30483.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Exports,(1000 MT),30760.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Exports,(1000 MT),30322.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Exports,(1000 MT),35482.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Exports,(1000 MT),30044.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,FSI Consumption,(1000 MT),30854.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,FSI Consumption,(1000 MT),30914.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,FSI Consumption,(1000 MT),33222.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,FSI Consumption,(1000 MT),30723.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,FSI Consumption,(1000 MT),31370.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,FSI Consumption,(1000 MT),33242.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,FSI Consumption,(1000 MT),31311.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,FSI Consumption,(1000 MT),32979.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,FSI Consumption,(1000 MT),36792.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,FSI Consumption,(1000 MT),35479.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,FSI Consumption,(1000 MT),36344.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,FSI Consumption,(1000 MT),37171.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,FSI Consumption,(1000 MT),40710.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,FSI Consumption,(1000 MT),41952.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,FSI Consumption,(1000 MT),42723.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,FSI Consumption,(1000 MT),41497.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,FSI Consumption,(1000 MT),44051.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,FSI Consumption,(1000 MT),44424.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,FSI Consumption,(1000 MT),45689.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,FSI Consumption,(1000 MT),42443.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,FSI Consumption,(1000 MT),46396.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,FSI Consumption,(1000 MT),42291.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,FSI Consumption,(1000 MT),42401.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,FSI Consumption,(1000 MT),41263.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,FSI Consumption,(1000 MT),40714.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,FSI Consumption,(1000 MT),40441.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,FSI Consumption,(1000 MT),41019.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,FSI Consumption,(1000 MT),43286.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,FSI Consumption,(1000 MT),43238.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,FSI Consumption,(1000 MT),43773.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,FSI Consumption,(1000 MT),43651.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,FSI Consumption,(1000 MT),43378.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,FSI Consumption,(1000 MT),43256.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,FSI Consumption,(1000 MT),43558.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,FSI Consumption,(1000 MT),43098.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,FSI Consumption,(1000 MT),42777.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,FSI Consumption,(1000 MT),42276.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,FSI Consumption,(1000 MT),41316.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,FSI Consumption,(1000 MT),40156.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,FSI Consumption,(1000 MT),38348.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,FSI Consumption,(1000 MT),39274.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,FSI Consumption,(1000 MT),40788.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,FSI Consumption,(1000 MT),41879.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,FSI Consumption,(1000 MT),42647.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,FSI Consumption,(1000 MT),43492.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,FSI Consumption,(1000 MT),43072.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,FSI Consumption,(1000 MT),45052.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,FSI Consumption,(1000 MT),43025.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,FSI Consumption,(1000 MT),42959.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,FSI Consumption,(1000 MT),43467.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,FSI Consumption,(1000 MT),42916.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,FSI Consumption,(1000 MT),43682.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,FSI Consumption,(1000 MT),43041.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,FSI Consumption,(1000 MT),43884.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,FSI Consumption,(1000 MT),44949.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,FSI Consumption,(1000 MT),44656.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,FSI Consumption,(1000 MT),44873.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,FSI Consumption,(1000 MT),44851.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,FSI Consumption,(1000 MT),44346.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,FSI Consumption,(1000 MT),45880.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,FSI Consumption,(1000 MT),45853.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,FSI Consumption,(1000 MT),45400.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,FSI Consumption,(1000 MT),45422.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,FSI Consumption,(1000 MT),45946.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,FSI Consumption,(1000 MT),45201.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,FSI Consumption,(1000 MT),45938.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,FSI Consumption,(1000 MT),46866.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,Feed Dom. Consumption,(1000 MT),48327.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Feed Dom. Consumption,(1000 MT),45478.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Feed Dom. Consumption,(1000 MT),51937.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Feed Dom. Consumption,(1000 MT),56047.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Feed Dom. Consumption,(1000 MT),59166.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Feed Dom. Consumption,(1000 MT),63941.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Feed Dom. Consumption,(1000 MT),69565.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Feed Dom. Consumption,(1000 MT),69897.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Feed Dom. Consumption,(1000 MT),74431.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Feed Dom. Consumption,(1000 MT),81366.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Feed Dom. Consumption,(1000 MT),87746.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Feed Dom. Consumption,(1000 MT),91510.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Feed Dom. Consumption,(1000 MT),92725.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Feed Dom. Consumption,(1000 MT),104622.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Feed Dom. Consumption,(1000 MT),105736.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Feed Dom. Consumption,(1000 MT),97155.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Feed Dom. Consumption,(1000 MT),118480.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Feed Dom. Consumption,(1000 MT),113817.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Feed Dom. Consumption,(1000 MT),123877.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Feed Dom. Consumption,(1000 MT),118492.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Feed Dom. Consumption,(1000 MT),110846.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Feed Dom. Consumption,(1000 MT),109342.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Feed Dom. Consumption,(1000 MT),113430.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Feed Dom. Consumption,(1000 MT),121998.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Feed Dom. Consumption,(1000 MT),122402.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Feed Dom. Consumption,(1000 MT),127792.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Feed Dom. Consumption,(1000 MT),132050.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Feed Dom. Consumption,(1000 MT),129474.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Feed Dom. Consumption,(1000 MT),121945.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Feed Dom. Consumption,(1000 MT),126032.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Feed Dom. Consumption,(1000 MT),130762.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Feed Dom. Consumption,(1000 MT),120337.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Feed Dom. Consumption,(1000 MT),118967.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Feed Dom. Consumption,(1000 MT),123844.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Feed Dom. Consumption,(1000 MT),120917.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Feed Dom. Consumption,(1000 MT),107783.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Feed Dom. Consumption,(1000 MT),106299.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Feed Dom. Consumption,(1000 MT),104080.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Feed Dom. Consumption,(1000 MT),99465.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Feed Dom. Consumption,(1000 MT),93950.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Feed Dom. Consumption,(1000 MT),94635.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Feed Dom. Consumption,(1000 MT),95562.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Feed Dom. Consumption,(1000 MT),94711.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Feed Dom. Consumption,(1000 MT),103393.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Feed Dom. Consumption,(1000 MT),100143.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Feed Dom. Consumption,(1000 MT),97803.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Feed Dom. Consumption,(1000 MT),98668.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Feed Dom. Consumption,(1000 MT),91245.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Feed Dom. Consumption,(1000 MT),99583.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Feed Dom. Consumption,(1000 MT),102740.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Feed Dom. Consumption,(1000 MT),90853.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Feed Dom. Consumption,(1000 MT),91618.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Feed Dom. Consumption,(1000 MT),87172.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Feed Dom. Consumption,(1000 MT),97584.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Feed Dom. Consumption,(1000 MT),98420.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Feed Dom. Consumption,(1000 MT),100685.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Feed Dom. Consumption,(1000 MT),103219.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Feed Dom. Consumption,(1000 MT),101483.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Feed Dom. Consumption,(1000 MT),94344.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Feed Dom. Consumption,(1000 MT),111435.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Feed Dom. Consumption,(1000 MT),116072.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Feed Dom. Consumption,(1000 MT),100339.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Feed Dom. Consumption,(1000 MT),103919.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Feed Dom. Consumption,(1000 MT),98791.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Feed Dom. Consumption,(1000 MT),100476.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Feed Dom. Consumption,(1000 MT),104248.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Feed Dom. Consumption,(1000 MT),106516.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,Imports,(1000 MT),6145.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Imports,(1000 MT),7735.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Imports,(1000 MT),5253.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Imports,(1000 MT),7006.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Imports,(1000 MT),7496.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Imports,(1000 MT),7621.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Imports,(1000 MT),6629.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Imports,(1000 MT),6943.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Imports,(1000 MT),7042.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Imports,(1000 MT),8543.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Imports,(1000 MT),11556.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Imports,(1000 MT),13890.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Imports,(1000 MT),12376.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Imports,(1000 MT),8468.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Imports,(1000 MT),7771.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Imports,(1000 MT),10062.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Imports,(1000 MT),10545.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Imports,(1000 MT),9045.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Imports,(1000 MT),8693.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Imports,(1000 MT),12143.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Imports,(1000 MT),12200.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Imports,(1000 MT),14412.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Imports,(1000 MT),11915.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Imports,(1000 MT),14520.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Imports,(1000 MT),17867.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Imports,(1000 MT),17406.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Imports,(1000 MT),19171.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Imports,(1000 MT),19005.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Imports,(1000 MT),17890.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Imports,(1000 MT),17988.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Imports,(1000 MT),19273.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Imports,(1000 MT),16300.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Imports,(1000 MT),14214.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Imports,(1000 MT),16676.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Imports,(1000 MT),15022.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Imports,(1000 MT),13332.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Imports,(1000 MT),16902.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Imports,(1000 MT),12721.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Imports,(1000 MT),17250.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Imports,(1000 MT),16246.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Imports,(1000 MT),16291.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Imports,(1000 MT),16744.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Imports,(1000 MT),16999.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Imports,(1000 MT),15396.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Imports,(1000 MT),16098.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Imports,(1000 MT),17548.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Imports,(1000 MT),15162.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Imports,(1000 MT),15707.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Imports,(1000 MT),19408.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Imports,(1000 MT),16920.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Imports,(1000 MT),14158.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Imports,(1000 MT),20831.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Imports,(1000 MT),20235.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Imports,(1000 MT),23223.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Imports,(1000 MT),29925.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Imports,(1000 MT),28647.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Imports,(1000 MT),28772.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Imports,(1000 MT),30246.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Imports,(1000 MT),24591.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Imports,(1000 MT),29004.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Imports,(1000 MT),36227.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Imports,(1000 MT),29900.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Imports,(1000 MT),30617.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Imports,(1000 MT),32788.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Imports,(1000 MT),29311.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Imports,(1000 MT),33521.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Imports,(1000 MT),28442.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,Production,(1000 MT),78905.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Production,(1000 MT),74307.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Production,(1000 MT),87141.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Production,(1000 MT),89171.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Production,(1000 MT),96260.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Production,(1000 MT),92662.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Production,(1000 MT),102537.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Production,(1000 MT),105024.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Production,(1000 MT),114998.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Production,(1000 MT),117969.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Production,(1000 MT),119817.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Production,(1000 MT),131413.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Production,(1000 MT),132501.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Production,(1000 MT),146048.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Production,(1000 MT),149550.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Production,(1000 MT),135950.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Production,(1000 MT),166178.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Production,(1000 MT),157064.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Production,(1000 MT),175608.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Production,(1000 MT),153829.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Production,(1000 MT),157364.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Production,(1000 MT),149470.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Production,(1000 MT),161179.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Production,(1000 MT),158520.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Production,(1000 MT),170456.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Production,(1000 MT),173587.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Production,(1000 MT),178029.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Production,(1000 MT),175338.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Production,(1000 MT),164372.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Production,(1000 MT),166129.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Production,(1000 MT),179458.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Production,(1000 MT),169838.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Production,(1000 MT),166245.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Production,(1000 MT),168940.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Production,(1000 MT),160700.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Production,(1000 MT),141173.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Production,(1000 MT),153137.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Production,(1000 MT),153876.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Production,(1000 MT),135975.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Production,(1000 MT),127388.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Production,(1000 MT),132976.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Production,(1000 MT),143485.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Production,(1000 MT),134222.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Production,(1000 MT),142926.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Production,(1000 MT),152196.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Production,(1000 MT),136784.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Production,(1000 MT),137302.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Production,(1000 MT),132972.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Production,(1000 MT),154771.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Production,(1000 MT),150797.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Production,(1000 MT),122406.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Production,(1000 MT),133112.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Production,(1000 MT),129315.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Production,(1000 MT),144401.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Production,(1000 MT),141287.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Production,(1000 MT),149252.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Production,(1000 MT),147120.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Production,(1000 MT),143290.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Production,(1000 MT),138014.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Production,(1000 MT),159124.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Production,(1000 MT),161510.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Production,(1000 MT),145179.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Production,(1000 MT),151602.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Production,(1000 MT),143502.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Production,(1000 MT),143388.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Production,(1000 MT),154496.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Production,(1000 MT),155464.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,TY Exports,(1000 MT),5978.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,TY Exports,(1000 MT),7632.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,TY Exports,(1000 MT),5003.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,TY Exports,(1000 MT),7562.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,TY Exports,(1000 MT),7524.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,TY Exports,(1000 MT),8557.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,TY Exports,(1000 MT),6725.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,TY Exports,(1000 MT),6988.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,TY Exports,(1000 MT),7103.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,TY Exports,(1000 MT),8935.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,TY Exports,(1000 MT),11547.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,TY Exports,(1000 MT),13882.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,TY Exports,(1000 MT),12086.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,TY Exports,(1000 MT),8655.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,TY Exports,(1000 MT),7745.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,TY Exports,(1000 MT),9435.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,TY Exports,(1000 MT),11168.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,TY Exports,(1000 MT),10072.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,TY Exports,(1000 MT),10580.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,TY Exports,(1000 MT),10161.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,TY Exports,(1000 MT),13508.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,TY Exports,(1000 MT),14463.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,TY Exports,(1000 MT),15981.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,TY Exports,(1000 MT),15846.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,TY Exports,(1000 MT),17409.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,TY Exports,(1000 MT),17675.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,TY Exports,(1000 MT),18304.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,TY Exports,(1000 MT),18290.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,TY Exports,(1000 MT),19017.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,TY Exports,(1000 MT),18531.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,TY Exports,(1000 MT),19591.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,TY Exports,(1000 MT),19441.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,TY Exports,(1000 MT),16407.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,TY Exports,(1000 MT),18761.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,TY Exports,(1000 MT),15298.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,TY Exports,(1000 MT),13359.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,TY Exports,(1000 MT),17921.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,TY Exports,(1000 MT),12831.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,TY Exports,(1000 MT),17837.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,TY Exports,(1000 MT),17805.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,TY Exports,(1000 MT),16262.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,TY Exports,(1000 MT),17166.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,TY Exports,(1000 MT),16306.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,TY Exports,(1000 MT),14806.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,TY Exports,(1000 MT),16978.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,TY Exports,(1000 MT),17435.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,TY Exports,(1000 MT),14597.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,TY Exports,(1000 MT),18543.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,TY Exports,(1000 MT),18180.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,TY Exports,(1000 MT),17261.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,TY Exports,(1000 MT),15197.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,TY Exports,(1000 MT),21403.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,TY Exports,(1000 MT),22162.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,TY Exports,(1000 MT),23827.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,TY Exports,(1000 MT),30092.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,TY Exports,(1000 MT),27601.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,TY Exports,(1000 MT),30760.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,TY Exports,(1000 MT),28017.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,TY Exports,(1000 MT),27138.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,TY Exports,(1000 MT),29478.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,TY Exports,(1000 MT),37437.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,TY Exports,(1000 MT),28374.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,TY Exports,(1000 MT),30366.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,TY Exports,(1000 MT),31908.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,TY Exports,(1000 MT),30874.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,TY Exports,(1000 MT),34268.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,TY Exports,(1000 MT),29442.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,TY Imp. from U.S.,(1000 MT),1705.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,TY Imp. from U.S.,(1000 MT),1552.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,TY Imp. from U.S.,(1000 MT),1562.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,TY Imp. from U.S.,(1000 MT),1416.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,TY Imp. from U.S.,(1000 MT),1150.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,TY Imp. from U.S.,(1000 MT),1687.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,TY Imp. from U.S.,(1000 MT),1029.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,TY Imp. from U.S.,(1000 MT),740.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,TY Imp. from U.S.,(1000 MT),306.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,TY Imp. from U.S.,(1000 MT),343.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,TY Imp. from U.S.,(1000 MT),1635.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,TY Imp. from U.S.,(1000 MT),1148.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,TY Imp. from U.S.,(1000 MT),1064.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,TY Imp. from U.S.,(1000 MT),1711.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,TY Imp. from U.S.,(1000 MT),1124.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,TY Imp. from U.S.,(1000 MT),746.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,TY Imp. from U.S.,(1000 MT),1611.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,TY Imp. from U.S.,(1000 MT),1107.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,TY Imp. from U.S.,(1000 MT),833.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,TY Imp. from U.S.,(1000 MT),1183.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,TY Imp. from U.S.,(1000 MT),1391.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,TY Imp. from U.S.,(1000 MT),1898.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,TY Imp. from U.S.,(1000 MT),891.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,TY Imp. from U.S.,(1000 MT),1755.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,TY Imp. from U.S.,(1000 MT),1041.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,TY Imp. from U.S.,(1000 MT),690.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,TY Imp. from U.S.,(1000 MT),2927.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,TY Imp. from U.S.,(1000 MT),2781.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,TY Imp. from U.S.,(1000 MT),1705.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,TY Imp. from U.S.,(1000 MT),1709.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,TY Imp. from U.S.,(1000 MT),1465.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,TY Imp. from U.S.,(1000 MT),1352.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,TY Imp. from U.S.,(1000 MT),816.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,TY Imp. from U.S.,(1000 MT),1023.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,TY Imp. from U.S.,(1000 MT),1033.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,TY Imp. from U.S.,(1000 MT),1165.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,TY Imp. from U.S.,(1000 MT),813.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,TY Imp. from U.S.,(1000 MT),1027.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,TY Imp. from U.S.,(1000 MT),549.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,TY Imp. from U.S.,(1000 MT),768.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,TY Imp. from U.S.,(1000 MT),1023.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,TY Imp. from U.S.,(1000 MT),490.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,TY Imp. from U.S.,(1000 MT),518.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,TY Imp. from U.S.,(1000 MT),371.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,TY Imp. from U.S.,(1000 MT),731.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,TY Imp. from U.S.,(1000 MT),345.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,TY Imp. from U.S.,(1000 MT),519.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,TY Imp. from U.S.,(1000 MT),876.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,TY Imp. from U.S.,(1000 MT),156.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,TY Imp. from U.S.,(1000 MT),148.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,TY Imp. from U.S.,(1000 MT),181.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,TY Imp. from U.S.,(1000 MT),179.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,TY Imp. from U.S.,(1000 MT),162.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,TY Imp. from U.S.,(1000 MT),331.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,TY Imp. from U.S.,(1000 MT),289.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,TY Imp. from U.S.,(1000 MT),161.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,TY Imp. from U.S.,(1000 MT),125.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,TY Imp. from U.S.,(1000 MT),100.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,TY Imp. from U.S.,(1000 MT),99.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,TY Imp. from U.S.,(1000 MT),154.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,TY Imp. from U.S.,(1000 MT),347.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,TY Imp. from U.S.,(1000 MT),67.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,TY Imp. from U.S.,(1000 MT),56.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,TY Imp. from U.S.,(1000 MT),153.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,TY Imp. from U.S.,(1000 MT),216.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,TY Imp. from U.S.,(1000 MT),0.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,TY Imp. from U.S.,(1000 MT),0.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,TY Imports,(1000 MT),5967.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,TY Imports,(1000 MT),7624.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,TY Imports,(1000 MT),5197.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,TY Imports,(1000 MT),7272.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,TY Imports,(1000 MT),6779.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,TY Imports,(1000 MT),8607.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,TY Imports,(1000 MT),6653.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,TY Imports,(1000 MT),6844.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,TY Imports,(1000 MT),7171.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,TY Imports,(1000 MT),8550.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,TY Imports,(1000 MT),10813.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,TY Imports,(1000 MT),13871.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,TY Imports,(1000 MT),12385.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,TY Imports,(1000 MT),7770.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,TY Imports,(1000 MT),7700.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,TY Imports,(1000 MT),9819.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,TY Imports,(1000 MT),9698.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,TY Imports,(1000 MT),8921.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,TY Imports,(1000 MT),9437.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,TY Imports,(1000 MT),11198.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,TY Imports,(1000 MT),12865.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,TY Imports,(1000 MT),14673.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,TY Imports,(1000 MT),12086.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,TY Imports,(1000 MT),16125.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,TY Imports,(1000 MT),17288.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,TY Imports,(1000 MT),17721.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,TY Imports,(1000 MT),18319.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,TY Imports,(1000 MT),21541.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,TY Imports,(1000 MT),19022.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,TY Imports,(1000 MT),18063.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,TY Imports,(1000 MT),19091.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,TY Imports,(1000 MT),16503.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,TY Imports,(1000 MT),14012.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,TY Imports,(1000 MT),16780.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,TY Imports,(1000 MT),14745.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,TY Imports,(1000 MT),13068.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,TY Imports,(1000 MT),17235.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,TY Imports,(1000 MT),12363.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,TY Imports,(1000 MT),17276.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,TY Imports,(1000 MT),17774.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,TY Imports,(1000 MT),15748.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,TY Imports,(1000 MT),16849.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,TY Imports,(1000 MT),16490.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,TY Imports,(1000 MT),14703.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,TY Imports,(1000 MT),16568.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,TY Imports,(1000 MT),16992.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,TY Imports,(1000 MT),14695.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,TY Imports,(1000 MT),18138.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,TY Imports,(1000 MT),17880.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,TY Imports,(1000 MT),16782.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,TY Imports,(1000 MT),15091.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,TY Imports,(1000 MT),20978.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,TY Imports,(1000 MT),21709.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,TY Imports,(1000 MT),23506.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,TY Imports,(1000 MT),28984.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,TY Imports,(1000 MT),28461.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,TY Imports,(1000 MT),30165.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,TY Imports,(1000 MT),28702.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,TY Imports,(1000 MT),25155.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,TY Imports,(1000 MT),28488.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,TY Imports,(1000 MT),36713.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,TY Imports,(1000 MT),29233.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,TY Imports,(1000 MT),29299.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,TY Imports,(1000 MT),32815.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,TY Imports,(1000 MT),29564.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,TY Imports,(1000 MT),33320.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,TY Imports,(1000 MT),28443.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,Total Distribution,(1000 MT),97589.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Total Distribution,(1000 MT),94269.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Total Distribution,(1000 MT),103026.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Total Distribution,(1000 MT),108841.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Total Distribution,(1000 MT),118128.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Total Distribution,(1000 MT),120534.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Total Distribution,(1000 MT),123812.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Total Distribution,(1000 MT),127989.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Total Distribution,(1000 MT),140129.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Total Distribution,(1000 MT),148194.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Total Distribution,(1000 MT),153541.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Total Distribution,(1000 MT),163392.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Total Distribution,(1000 MT),165113.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Total Distribution,(1000 MT),174038.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Total Distribution,(1000 MT),176536.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Total Distribution,(1000 MT),166445.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Total Distribution,(1000 MT),194920.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Total Distribution,(1000 MT),187846.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Total Distribution,(1000 MT),204158.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Total Distribution,(1000 MT),190261.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Total Distribution,(1000 MT),188850.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Total Distribution,(1000 MT),182221.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Total Distribution,(1000 MT),189155.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Total Distribution,(1000 MT),194509.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Total Distribution,(1000 MT),203841.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Total Distribution,(1000 MT),214134.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Total Distribution,(1000 MT),226776.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Total Distribution,(1000 MT),225919.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Total Distribution,(1000 MT),215837.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Total Distribution,(1000 MT),215841.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Total Distribution,(1000 MT),226259.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Total Distribution,(1000 MT),217650.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Total Distribution,(1000 MT),214804.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Total Distribution,(1000 MT),220658.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Total Distribution,(1000 MT),210638.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Total Distribution,(1000 MT),184516.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Total Distribution,(1000 MT),190544.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Total Distribution,(1000 MT),190745.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Total Distribution,(1000 MT),185422.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Total Distribution,(1000 MT),172592.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Total Distribution,(1000 MT),173143.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Total Distribution,(1000 MT),182740.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Total Distribution,(1000 MT),180325.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Total Distribution,(1000 MT),185811.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Total Distribution,(1000 MT),191706.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Total Distribution,(1000 MT),187357.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Total Distribution,(1000 MT),180740.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Total Distribution,(1000 MT),170345.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Total Distribution,(1000 MT),194821.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Total Distribution,(1000 MT),199998.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Total Distribution,(1000 MT),173215.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Total Distribution,(1000 MT),177473.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Total Distribution,(1000 MT),171323.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Total Distribution,(1000 MT),189104.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Total Distribution,(1000 MT),195991.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Total Distribution,(1000 MT),201491.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Total Distribution,(1000 MT),201219.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Total Distribution,(1000 MT),197171.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Total Distribution,(1000 MT),184318.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Total Distribution,(1000 MT),208186.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Total Distribution,(1000 MT),219669.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Total Distribution,(1000 MT),196541.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Total Distribution,(1000 MT),200703.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Total Distribution,(1000 MT),197169.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Total Distribution,(1000 MT),194371.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Total Distribution,(1000 MT),206389.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Total Distribution,(1000 MT),204627.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1960,Total Supply,(1000 MT),97589.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1961,Total Supply,(1000 MT),94269.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1962,Total Supply,(1000 MT),103026.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1963,Total Supply,(1000 MT),108841.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1964,Total Supply,(1000 MT),118128.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1965,Total Supply,(1000 MT),120534.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1966,Total Supply,(1000 MT),123812.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1967,Total Supply,(1000 MT),127989.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1968,Total Supply,(1000 MT),140129.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1969,Total Supply,(1000 MT),148194.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1970,Total Supply,(1000 MT),153541.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1971,Total Supply,(1000 MT),163392.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1972,Total Supply,(1000 MT),165113.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1973,Total Supply,(1000 MT),174038.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1974,Total Supply,(1000 MT),176536.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1975,Total Supply,(1000 MT),166445.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1976,Total Supply,(1000 MT),194920.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1977,Total Supply,(1000 MT),187846.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1978,Total Supply,(1000 MT),204158.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1979,Total Supply,(1000 MT),190261.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1980,Total Supply,(1000 MT),188850.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1981,Total Supply,(1000 MT),182221.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1982,Total Supply,(1000 MT),189155.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1983,Total Supply,(1000 MT),194509.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1984,Total Supply,(1000 MT),203841.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1985,Total Supply,(1000 MT),214134.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1986,Total Supply,(1000 MT),226776.0,1,58,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1987,Total Supply,(1000 MT),225919.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1988,Total Supply,(1000 MT),215837.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1989,Total Supply,(1000 MT),215841.0,1,72,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1990,Total Supply,(1000 MT),226259.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1991,Total Supply,(1000 MT),217650.0,1,71,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1992,Total Supply,(1000 MT),214804.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1993,Total Supply,(1000 MT),220658.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1994,Total Supply,(1000 MT),210638.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1995,Total Supply,(1000 MT),184516.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1996,Total Supply,(1000 MT),190544.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1997,Total Supply,(1000 MT),190745.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1998,Total Supply,(1000 MT),185422.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,1999,Total Supply,(1000 MT),172592.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2000,Total Supply,(1000 MT),173143.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2001,Total Supply,(1000 MT),182740.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2002,Total Supply,(1000 MT),180325.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2003,Total Supply,(1000 MT),185811.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2004,Total Supply,(1000 MT),191706.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2005,Total Supply,(1000 MT),187357.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2006,Total Supply,(1000 MT),180740.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2007,Total Supply,(1000 MT),170345.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2008,Total Supply,(1000 MT),194821.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2009,Total Supply,(1000 MT),199998.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2010,Total Supply,(1000 MT),173215.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2011,Total Supply,(1000 MT),177473.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2012,Total Supply,(1000 MT),171323.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2013,Total Supply,(1000 MT),189104.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2014,Total Supply,(1000 MT),195991.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2015,Total Supply,(1000 MT),201491.0,1,65,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2016,Total Supply,(1000 MT),201219.0,1,68,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2017,Total Supply,(1000 MT),197171.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2018,Total Supply,(1000 MT),184318.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2019,Total Supply,(1000 MT),208186.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2020,Total Supply,(1000 MT),219669.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2021,Total Supply,(1000 MT),196541.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2022,Total Supply,(1000 MT),200703.0,1,69,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2023,Total Supply,(1000 MT),197169.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2024,Total Supply,(1000 MT),194371.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2025,Total Supply,(1000 MT),206389.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Barley,World,2026,Total Supply,(1000 MT),204627.0,1,67,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

@@ -137,6 +137,39 @@ class RetailPrice(Base):
     )
 
 
+class WasdePsd(Base):
+    """WASDE PSD (Production, Supply and Distribution) — global supply/demand
+
+    The largest table in Foodberg (1.98M rows). USDA Foreign Agricultural Service
+    PSD Online data: production, supply, distribution for all major agricultural
+    commodities by country, marketing year.
+    """
+    __tablename__ = 'wasde_psd'
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    commodity = Column(String(100), nullable=False, index=True)
+    commodity_code = Column(String(20))
+    country = Column(String(100), nullable=False, index=True)
+    country_code = Column(String(10))
+    market_year = Column(Integer, nullable=False, index=True)
+    calendar_year = Column(Integer)
+    attribute = Column(String(200), nullable=False, index=True)
+    attribute_id = Column(String(20))
+    unit = Column(String(50))
+    value = Column(Float)
+    is_aggregate = Column(Integer, default=0)
+    n_countries = Column(Integer)
+    vintage_month = Column(String(10))
+    source = Column(String(50), default='USDA PSD')
+    source_url = Column(Text)
+
+    __table_args__ = (
+        Index('ix_psd_commodity_year', 'commodity', 'market_year'),
+        Index('ix_psd_country_commodity', 'country', 'commodity'),
+        Index('ix_psd_attribute', 'attribute'),
+    )
+
+
 # Utility table for tracking data source sync status
 class DataSourceSync(Base):
     """Track last successful sync for each data source"""

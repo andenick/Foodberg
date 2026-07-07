@@ -1,0 +1,738 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Oilseed, Palm Kernel",World,1960,Beginning Stocks,(1000 MT),0.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Beginning Stocks,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Beginning Stocks,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Beginning Stocks,(1000 MT),15.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Beginning Stocks,(1000 MT),28.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Beginning Stocks,(1000 MT),30.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Beginning Stocks,(1000 MT),31.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Beginning Stocks,(1000 MT),28.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Beginning Stocks,(1000 MT),35.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Beginning Stocks,(1000 MT),33.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Beginning Stocks,(1000 MT),34.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Beginning Stocks,(1000 MT),48.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Beginning Stocks,(1000 MT),54.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Beginning Stocks,(1000 MT),50.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Beginning Stocks,(1000 MT),63.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Beginning Stocks,(1000 MT),57.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Beginning Stocks,(1000 MT),63.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Beginning Stocks,(1000 MT),64.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Beginning Stocks,(1000 MT),70.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Beginning Stocks,(1000 MT),103.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Beginning Stocks,(1000 MT),95.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Beginning Stocks,(1000 MT),88.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Beginning Stocks,(1000 MT),159.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Beginning Stocks,(1000 MT),95.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Beginning Stocks,(1000 MT),188.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Beginning Stocks,(1000 MT),176.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Beginning Stocks,(1000 MT),131.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Beginning Stocks,(1000 MT),146.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Beginning Stocks,(1000 MT),99.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Beginning Stocks,(1000 MT),183.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Beginning Stocks,(1000 MT),138.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Beginning Stocks,(1000 MT),112.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Beginning Stocks,(1000 MT),122.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Beginning Stocks,(1000 MT),189.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Beginning Stocks,(1000 MT),121.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Beginning Stocks,(1000 MT),178.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Beginning Stocks,(1000 MT),191.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Beginning Stocks,(1000 MT),209.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Beginning Stocks,(1000 MT),129.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Beginning Stocks,(1000 MT),116.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Beginning Stocks,(1000 MT),136.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Beginning Stocks,(1000 MT),168.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Beginning Stocks,(1000 MT),212.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Beginning Stocks,(1000 MT),210.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Beginning Stocks,(1000 MT),232.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Beginning Stocks,(1000 MT),229.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Beginning Stocks,(1000 MT),209.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Beginning Stocks,(1000 MT),274.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Beginning Stocks,(1000 MT),221.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Beginning Stocks,(1000 MT),366.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Beginning Stocks,(1000 MT),235.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Beginning Stocks,(1000 MT),291.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Beginning Stocks,(1000 MT),280.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Beginning Stocks,(1000 MT),293.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Beginning Stocks,(1000 MT),289.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Beginning Stocks,(1000 MT),278.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Beginning Stocks,(1000 MT),300.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Beginning Stocks,(1000 MT),304.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Beginning Stocks,(1000 MT),281.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Beginning Stocks,(1000 MT),301.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Beginning Stocks,(1000 MT),199.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Beginning Stocks,(1000 MT),185.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Beginning Stocks,(1000 MT),317.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Beginning Stocks,(1000 MT),294.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Beginning Stocks,(1000 MT),335.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Beginning Stocks,(1000 MT),321.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Beginning Stocks,(1000 MT),356.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Crush,(1000 MT),0.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Crush,(1000 MT),148.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Crush,(1000 MT),132.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Crush,(1000 MT),149.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Crush,(1000 MT),697.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Crush,(1000 MT),695.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Crush,(1000 MT),661.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Crush,(1000 MT),585.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Crush,(1000 MT),598.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Crush,(1000 MT),626.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Crush,(1000 MT),648.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Crush,(1000 MT),608.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Crush,(1000 MT),655.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Crush,(1000 MT),786.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Crush,(1000 MT),848.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Crush,(1000 MT),880.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Crush,(1000 MT),944.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Crush,(1000 MT),935.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Crush,(1000 MT),1028.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Crush,(1000 MT),1228.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Crush,(1000 MT),1242.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Crush,(1000 MT),1463.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Crush,(1000 MT),1707.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Crush,(1000 MT),1707.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Crush,(1000 MT),2048.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Crush,(1000 MT),2356.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Crush,(1000 MT),2300.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Crush,(1000 MT),2575.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Crush,(1000 MT),2678.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Crush,(1000 MT),3250.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Crush,(1000 MT),3215.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Crush,(1000 MT),3279.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Crush,(1000 MT),3807.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Crush,(1000 MT),4140.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Crush,(1000 MT),4346.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Crush,(1000 MT),4752.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Crush,(1000 MT),5121.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Crush,(1000 MT),5091.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Crush,(1000 MT),5574.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Crush,(1000 MT),6298.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Crush,(1000 MT),6983.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Crush,(1000 MT),7087.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Crush,(1000 MT),7708.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Crush,(1000 MT),8409.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Crush,(1000 MT),9536.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Crush,(1000 MT),9988.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Crush,(1000 MT),10212.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Crush,(1000 MT),11223.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Crush,(1000 MT),11835.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Crush,(1000 MT),12614.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Crush,(1000 MT),13024.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Crush,(1000 MT),13879.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Crush,(1000 MT),14900.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Crush,(1000 MT),15793.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Crush,(1000 MT),16460.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Crush,(1000 MT),15824.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Crush,(1000 MT),17259.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Crush,(1000 MT),18638.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Crush,(1000 MT),19425.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Crush,(1000 MT),19405.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Crush,(1000 MT),19106.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Crush,(1000 MT),18745.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Crush,(1000 MT),19770.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Crush,(1000 MT),19463.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Crush,(1000 MT),20217.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Crush,(1000 MT),21106.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Crush,(1000 MT),21194.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Domestic Consumption,(1000 MT),431.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Domestic Consumption,(1000 MT),256.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Domestic Consumption,(1000 MT),195.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Domestic Consumption,(1000 MT),210.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Domestic Consumption,(1000 MT),733.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Domestic Consumption,(1000 MT),739.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Domestic Consumption,(1000 MT),700.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Domestic Consumption,(1000 MT),633.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Domestic Consumption,(1000 MT),673.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Domestic Consumption,(1000 MT),698.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Domestic Consumption,(1000 MT),708.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Domestic Consumption,(1000 MT),657.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Domestic Consumption,(1000 MT),686.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Domestic Consumption,(1000 MT),807.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Domestic Consumption,(1000 MT),890.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Domestic Consumption,(1000 MT),910.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Domestic Consumption,(1000 MT),1037.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Domestic Consumption,(1000 MT),1086.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Domestic Consumption,(1000 MT),1203.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Domestic Consumption,(1000 MT),1356.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Domestic Consumption,(1000 MT),1413.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Domestic Consumption,(1000 MT),1584.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Domestic Consumption,(1000 MT),1807.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Domestic Consumption,(1000 MT),1799.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Domestic Consumption,(1000 MT),2152.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Domestic Consumption,(1000 MT),2472.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Domestic Consumption,(1000 MT),2396.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Domestic Consumption,(1000 MT),2590.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Domestic Consumption,(1000 MT),2700.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Domestic Consumption,(1000 MT),3279.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Domestic Consumption,(1000 MT),3254.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Domestic Consumption,(1000 MT),3307.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Domestic Consumption,(1000 MT),3833.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Domestic Consumption,(1000 MT),4168.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Domestic Consumption,(1000 MT),4374.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Domestic Consumption,(1000 MT),4819.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Domestic Consumption,(1000 MT),5169.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Domestic Consumption,(1000 MT),5132.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Domestic Consumption,(1000 MT),5605.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Domestic Consumption,(1000 MT),6336.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Domestic Consumption,(1000 MT),7018.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Domestic Consumption,(1000 MT),7142.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Domestic Consumption,(1000 MT),7765.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Domestic Consumption,(1000 MT),8472.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Domestic Consumption,(1000 MT),9598.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Domestic Consumption,(1000 MT),10050.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Domestic Consumption,(1000 MT),10287.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Domestic Consumption,(1000 MT),11307.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Domestic Consumption,(1000 MT),11935.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Domestic Consumption,(1000 MT),12706.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Domestic Consumption,(1000 MT),13112.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Domestic Consumption,(1000 MT),13993.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Domestic Consumption,(1000 MT),15021.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Domestic Consumption,(1000 MT),15898.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Domestic Consumption,(1000 MT),16559.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Domestic Consumption,(1000 MT),15927.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Domestic Consumption,(1000 MT),17364.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Domestic Consumption,(1000 MT),18749.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Domestic Consumption,(1000 MT),19532.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Domestic Consumption,(1000 MT),19514.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Domestic Consumption,(1000 MT),19220.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Domestic Consumption,(1000 MT),18859.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Domestic Consumption,(1000 MT),19895.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Domestic Consumption,(1000 MT),19658.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Domestic Consumption,(1000 MT),20413.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Domestic Consumption,(1000 MT),21256.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Domestic Consumption,(1000 MT),21358.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Ending Stocks,(1000 MT),0.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Ending Stocks,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Ending Stocks,(1000 MT),15.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Ending Stocks,(1000 MT),28.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Ending Stocks,(1000 MT),30.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Ending Stocks,(1000 MT),31.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Ending Stocks,(1000 MT),28.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Ending Stocks,(1000 MT),35.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Ending Stocks,(1000 MT),33.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Ending Stocks,(1000 MT),34.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Ending Stocks,(1000 MT),48.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Ending Stocks,(1000 MT),54.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Ending Stocks,(1000 MT),50.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Ending Stocks,(1000 MT),63.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Ending Stocks,(1000 MT),57.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Ending Stocks,(1000 MT),63.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Ending Stocks,(1000 MT),64.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Ending Stocks,(1000 MT),70.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Ending Stocks,(1000 MT),103.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Ending Stocks,(1000 MT),95.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Ending Stocks,(1000 MT),88.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Ending Stocks,(1000 MT),159.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Ending Stocks,(1000 MT),95.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Ending Stocks,(1000 MT),188.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Ending Stocks,(1000 MT),176.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Ending Stocks,(1000 MT),131.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Ending Stocks,(1000 MT),146.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Ending Stocks,(1000 MT),99.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Ending Stocks,(1000 MT),183.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Ending Stocks,(1000 MT),138.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Ending Stocks,(1000 MT),117.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Ending Stocks,(1000 MT),122.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Ending Stocks,(1000 MT),189.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Ending Stocks,(1000 MT),121.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Ending Stocks,(1000 MT),178.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Ending Stocks,(1000 MT),191.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Ending Stocks,(1000 MT),209.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Ending Stocks,(1000 MT),129.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Ending Stocks,(1000 MT),116.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Ending Stocks,(1000 MT),136.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Ending Stocks,(1000 MT),168.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Ending Stocks,(1000 MT),212.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Ending Stocks,(1000 MT),210.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Ending Stocks,(1000 MT),232.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Ending Stocks,(1000 MT),229.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Ending Stocks,(1000 MT),209.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Ending Stocks,(1000 MT),274.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Ending Stocks,(1000 MT),221.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Ending Stocks,(1000 MT),366.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Ending Stocks,(1000 MT),235.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Ending Stocks,(1000 MT),291.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Ending Stocks,(1000 MT),280.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Ending Stocks,(1000 MT),293.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Ending Stocks,(1000 MT),289.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Ending Stocks,(1000 MT),278.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Ending Stocks,(1000 MT),300.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Ending Stocks,(1000 MT),304.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Ending Stocks,(1000 MT),281.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Ending Stocks,(1000 MT),301.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Ending Stocks,(1000 MT),199.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Ending Stocks,(1000 MT),185.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Ending Stocks,(1000 MT),317.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Ending Stocks,(1000 MT),294.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Ending Stocks,(1000 MT),335.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Ending Stocks,(1000 MT),321.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Ending Stocks,(1000 MT),356.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Ending Stocks,(1000 MT),239.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Exports,(1000 MT),437.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Exports,(1000 MT),539.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Exports,(1000 MT),597.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Exports,(1000 MT),600.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Exports,(1000 MT),617.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Exports,(1000 MT),534.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Exports,(1000 MT),298.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Exports,(1000 MT),364.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Exports,(1000 MT),378.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Exports,(1000 MT),420.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Exports,(1000 MT),450.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Exports,(1000 MT),376.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Exports,(1000 MT),309.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Exports,(1000 MT),355.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Exports,(1000 MT),343.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Exports,(1000 MT),355.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Exports,(1000 MT),272.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Exports,(1000 MT),169.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Exports,(1000 MT),159.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Exports,(1000 MT),204.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Exports,(1000 MT),155.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Exports,(1000 MT),152.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Exports,(1000 MT),133.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Exports,(1000 MT),185.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Exports,(1000 MT),127.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Exports,(1000 MT),120.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Exports,(1000 MT),127.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Exports,(1000 MT),129.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Exports,(1000 MT),148.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Exports,(1000 MT),74.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Exports,(1000 MT),60.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Exports,(1000 MT),58.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Exports,(1000 MT),58.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Exports,(1000 MT),60.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Exports,(1000 MT),57.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Exports,(1000 MT),55.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Exports,(1000 MT),55.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Exports,(1000 MT),57.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Exports,(1000 MT),64.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Exports,(1000 MT),59.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Exports,(1000 MT),43.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Exports,(1000 MT),48.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Exports,(1000 MT),52.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Exports,(1000 MT),94.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Exports,(1000 MT),135.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Exports,(1000 MT),159.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Exports,(1000 MT),93.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Exports,(1000 MT),37.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Exports,(1000 MT),23.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Exports,(1000 MT),16.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Exports,(1000 MT),14.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Exports,(1000 MT),41.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Exports,(1000 MT),43.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Exports,(1000 MT),42.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Exports,(1000 MT),42.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Exports,(1000 MT),44.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Exports,(1000 MT),89.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Exports,(1000 MT),164.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Exports,(1000 MT),68.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Exports,(1000 MT),75.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Exports,(1000 MT),57.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Exports,(1000 MT),54.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Exports,(1000 MT),60.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Exports,(1000 MT),94.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Exports,(1000 MT),172.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Exports,(1000 MT),50.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Exports,(1000 MT),56.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Feed Waste Dom. Cons.,(1000 MT),431.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Feed Waste Dom. Cons.,(1000 MT),108.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Feed Waste Dom. Cons.,(1000 MT),63.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Feed Waste Dom. Cons.,(1000 MT),61.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Feed Waste Dom. Cons.,(1000 MT),36.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Feed Waste Dom. Cons.,(1000 MT),44.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Feed Waste Dom. Cons.,(1000 MT),39.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Feed Waste Dom. Cons.,(1000 MT),48.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Feed Waste Dom. Cons.,(1000 MT),75.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Feed Waste Dom. Cons.,(1000 MT),72.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Feed Waste Dom. Cons.,(1000 MT),60.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Feed Waste Dom. Cons.,(1000 MT),49.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Feed Waste Dom. Cons.,(1000 MT),31.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Feed Waste Dom. Cons.,(1000 MT),21.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Feed Waste Dom. Cons.,(1000 MT),42.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Feed Waste Dom. Cons.,(1000 MT),30.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Feed Waste Dom. Cons.,(1000 MT),93.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Feed Waste Dom. Cons.,(1000 MT),151.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Feed Waste Dom. Cons.,(1000 MT),175.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Feed Waste Dom. Cons.,(1000 MT),128.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Feed Waste Dom. Cons.,(1000 MT),171.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Feed Waste Dom. Cons.,(1000 MT),121.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Feed Waste Dom. Cons.,(1000 MT),100.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Feed Waste Dom. Cons.,(1000 MT),92.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Feed Waste Dom. Cons.,(1000 MT),104.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Feed Waste Dom. Cons.,(1000 MT),116.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Feed Waste Dom. Cons.,(1000 MT),96.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Feed Waste Dom. Cons.,(1000 MT),15.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Feed Waste Dom. Cons.,(1000 MT),22.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Feed Waste Dom. Cons.,(1000 MT),29.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Feed Waste Dom. Cons.,(1000 MT),39.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Feed Waste Dom. Cons.,(1000 MT),28.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Feed Waste Dom. Cons.,(1000 MT),26.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Feed Waste Dom. Cons.,(1000 MT),28.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Feed Waste Dom. Cons.,(1000 MT),28.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Feed Waste Dom. Cons.,(1000 MT),66.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Feed Waste Dom. Cons.,(1000 MT),48.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Feed Waste Dom. Cons.,(1000 MT),39.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Feed Waste Dom. Cons.,(1000 MT),31.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Feed Waste Dom. Cons.,(1000 MT),38.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Feed Waste Dom. Cons.,(1000 MT),35.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Feed Waste Dom. Cons.,(1000 MT),55.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Feed Waste Dom. Cons.,(1000 MT),57.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Feed Waste Dom. Cons.,(1000 MT),63.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Feed Waste Dom. Cons.,(1000 MT),62.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Feed Waste Dom. Cons.,(1000 MT),62.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Feed Waste Dom. Cons.,(1000 MT),75.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Feed Waste Dom. Cons.,(1000 MT),84.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Feed Waste Dom. Cons.,(1000 MT),100.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Feed Waste Dom. Cons.,(1000 MT),92.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Feed Waste Dom. Cons.,(1000 MT),88.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Feed Waste Dom. Cons.,(1000 MT),114.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Feed Waste Dom. Cons.,(1000 MT),121.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Feed Waste Dom. Cons.,(1000 MT),105.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Feed Waste Dom. Cons.,(1000 MT),99.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Feed Waste Dom. Cons.,(1000 MT),103.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Feed Waste Dom. Cons.,(1000 MT),105.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Feed Waste Dom. Cons.,(1000 MT),111.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Feed Waste Dom. Cons.,(1000 MT),107.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Feed Waste Dom. Cons.,(1000 MT),109.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Feed Waste Dom. Cons.,(1000 MT),114.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Feed Waste Dom. Cons.,(1000 MT),114.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Feed Waste Dom. Cons.,(1000 MT),125.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Feed Waste Dom. Cons.,(1000 MT),195.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Feed Waste Dom. Cons.,(1000 MT),196.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Feed Waste Dom. Cons.,(1000 MT),150.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Feed Waste Dom. Cons.,(1000 MT),164.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Food Use Dom. Cons.,(1000 MT),0.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Food Use Dom. Cons.,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Food Use Dom. Cons.,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Food Use Dom. Cons.,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Food Use Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Food Use Dom. Cons.,(1000 MT),0.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Food Use Dom. Cons.,(1000 MT),0.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Food Use Dom. Cons.,(1000 MT),0.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Food Use Dom. Cons.,(1000 MT),0.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Food Use Dom. Cons.,(1000 MT),0.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Food Use Dom. Cons.,(1000 MT),0.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Food Use Dom. Cons.,(1000 MT),0.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Food Use Dom. Cons.,(1000 MT),0.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Food Use Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Food Use Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Food Use Dom. Cons.,(1000 MT),0.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Food Use Dom. Cons.,(1000 MT),0.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Food Use Dom. Cons.,(1000 MT),0.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Food Use Dom. Cons.,(1000 MT),1.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Food Use Dom. Cons.,(1000 MT),2.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Food Use Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Food Use Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Food Use Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Food Use Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Imports,(1000 MT),0.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Imports,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Imports,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Imports,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Imports,(1000 MT),491.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Imports,(1000 MT),434.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Imports,(1000 MT),271.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Imports,(1000 MT),264.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Imports,(1000 MT),239.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Imports,(1000 MT),234.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Imports,(1000 MT),233.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Imports,(1000 MT),133.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Imports,(1000 MT),132.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Imports,(1000 MT),182.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Imports,(1000 MT),178.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Imports,(1000 MT),193.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Imports,(1000 MT),188.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Imports,(1000 MT),104.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Imports,(1000 MT),110.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Imports,(1000 MT),137.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Imports,(1000 MT),125.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Imports,(1000 MT),99.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Imports,(1000 MT),109.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Imports,(1000 MT),102.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Imports,(1000 MT),79.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Imports,(1000 MT),80.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Imports,(1000 MT),84.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Imports,(1000 MT),63.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Imports,(1000 MT),74.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Imports,(1000 MT),52.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Imports,(1000 MT),36.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Imports,(1000 MT),45.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Imports,(1000 MT),59.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Imports,(1000 MT),31.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Imports,(1000 MT),4.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Imports,(1000 MT),18.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Imports,(1000 MT),10.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Imports,(1000 MT),11.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Imports,(1000 MT),14.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Imports,(1000 MT),15.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Imports,(1000 MT),63.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Imports,(1000 MT),94.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Imports,(1000 MT),32.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Imports,(1000 MT),96.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Imports,(1000 MT),121.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Imports,(1000 MT),151.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Imports,(1000 MT),128.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Imports,(1000 MT),44.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Imports,(1000 MT),58.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Imports,(1000 MT),68.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Imports,(1000 MT),46.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Imports,(1000 MT),79.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Imports,(1000 MT),58.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Imports,(1000 MT),64.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Imports,(1000 MT),68.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Imports,(1000 MT),55.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Imports,(1000 MT),70.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Imports,(1000 MT),184.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Imports,(1000 MT),164.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Imports,(1000 MT),148.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Imports,(1000 MT),152.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Imports,(1000 MT),146.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Imports,(1000 MT),157.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Imports,(1000 MT),190.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Imports,(1000 MT),221.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Imports,(1000 MT),227.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Imports,(1000 MT),207.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Production,(1000 MT),868.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Production,(1000 MT),795.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Production,(1000 MT),807.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Production,(1000 MT),823.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Production,(1000 MT),861.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Production,(1000 MT),840.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Production,(1000 MT),724.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Production,(1000 MT),740.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Production,(1000 MT),810.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Production,(1000 MT),885.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Production,(1000 MT),939.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Production,(1000 MT),906.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Production,(1000 MT),859.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Production,(1000 MT),993.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Production,(1000 MT),1049.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Production,(1000 MT),1078.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Production,(1000 MT),1122.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Production,(1000 MT),1157.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Production,(1000 MT),1285.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Production,(1000 MT),1415.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Production,(1000 MT),1436.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Production,(1000 MT),1708.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Production,(1000 MT),1767.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Production,(1000 MT),1975.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Production,(1000 MT),2188.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Production,(1000 MT),2467.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Production,(1000 MT),2454.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Production,(1000 MT),2609.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Production,(1000 MT),2858.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Production,(1000 MT),3256.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Production,(1000 MT),3257.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Production,(1000 MT),3330.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Production,(1000 MT),3899.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Production,(1000 MT),4129.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Production,(1000 MT),4484.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Production,(1000 MT),4869.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Production,(1000 MT),5232.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Production,(1000 MT),5098.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Production,(1000 MT),5642.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Production,(1000 MT),6400.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Production,(1000 MT),7030.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Production,(1000 MT),7140.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Production,(1000 MT),7783.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Production,(1000 MT),8492.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Production,(1000 MT),9609.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Production,(1000 MT),10038.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Production,(1000 MT),10317.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Production,(1000 MT),11247.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Production,(1000 MT),12045.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Production,(1000 MT),12523.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Production,(1000 MT),13136.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Production,(1000 MT),13944.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Production,(1000 MT),15019.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Production,(1000 MT),15872.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Production,(1000 MT),16522.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Production,(1000 MT),15938.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Production,(1000 MT),17387.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Production,(1000 MT),18706.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Production,(1000 MT),19456.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Production,(1000 MT),19339.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Production,(1000 MT),19111.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Production,(1000 MT),18899.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Production,(1000 MT),19775.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Production,(1000 MT),19603.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Production,(1000 MT),20350.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Production,(1000 MT),21114.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Production,(1000 MT),21090.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Total Distribution,(1000 MT),868.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Total Distribution,(1000 MT),795.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Total Distribution,(1000 MT),807.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Total Distribution,(1000 MT),838.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Total Distribution,(1000 MT),1380.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Total Distribution,(1000 MT),1304.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Total Distribution,(1000 MT),1026.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Total Distribution,(1000 MT),1032.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Total Distribution,(1000 MT),1084.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Total Distribution,(1000 MT),1152.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Total Distribution,(1000 MT),1206.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Total Distribution,(1000 MT),1087.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Total Distribution,(1000 MT),1045.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Total Distribution,(1000 MT),1225.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Total Distribution,(1000 MT),1290.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Total Distribution,(1000 MT),1328.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Total Distribution,(1000 MT),1373.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Total Distribution,(1000 MT),1325.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Total Distribution,(1000 MT),1465.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Total Distribution,(1000 MT),1655.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Total Distribution,(1000 MT),1656.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Total Distribution,(1000 MT),1895.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Total Distribution,(1000 MT),2035.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Total Distribution,(1000 MT),2172.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Total Distribution,(1000 MT),2455.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Total Distribution,(1000 MT),2723.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Total Distribution,(1000 MT),2669.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Total Distribution,(1000 MT),2818.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Total Distribution,(1000 MT),3031.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Total Distribution,(1000 MT),3491.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Total Distribution,(1000 MT),3431.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Total Distribution,(1000 MT),3487.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Total Distribution,(1000 MT),4080.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Total Distribution,(1000 MT),4349.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Total Distribution,(1000 MT),4609.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Total Distribution,(1000 MT),5065.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Total Distribution,(1000 MT),5433.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Total Distribution,(1000 MT),5318.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Total Distribution,(1000 MT),5785.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Total Distribution,(1000 MT),6531.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Total Distribution,(1000 MT),7229.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Total Distribution,(1000 MT),7402.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Total Distribution,(1000 MT),8027.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Total Distribution,(1000 MT),8798.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Total Distribution,(1000 MT),9962.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Total Distribution,(1000 MT),10418.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Total Distribution,(1000 MT),10654.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Total Distribution,(1000 MT),11565.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Total Distribution,(1000 MT),12324.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Total Distribution,(1000 MT),12957.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Total Distribution,(1000 MT),13417.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Total Distribution,(1000 MT),14314.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Total Distribution,(1000 MT),15357.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Total Distribution,(1000 MT),16229.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Total Distribution,(1000 MT),16879.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Total Distribution,(1000 MT),16271.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Total Distribution,(1000 MT),17757.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Total Distribution,(1000 MT),19194.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Total Distribution,(1000 MT),19901.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Total Distribution,(1000 MT),19788.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Total Distribution,(1000 MT),19462.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Total Distribution,(1000 MT),19230.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Total Distribution,(1000 MT),20249.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Total Distribution,(1000 MT),20087.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Total Distribution,(1000 MT),20906.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Total Distribution,(1000 MT),21662.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Total Distribution,(1000 MT),21653.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1960,Total Supply,(1000 MT),868.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1961,Total Supply,(1000 MT),795.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1962,Total Supply,(1000 MT),807.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1963,Total Supply,(1000 MT),838.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1964,Total Supply,(1000 MT),1380.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1965,Total Supply,(1000 MT),1304.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1966,Total Supply,(1000 MT),1026.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1967,Total Supply,(1000 MT),1032.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1968,Total Supply,(1000 MT),1084.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1969,Total Supply,(1000 MT),1152.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1970,Total Supply,(1000 MT),1206.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1971,Total Supply,(1000 MT),1087.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1972,Total Supply,(1000 MT),1045.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1973,Total Supply,(1000 MT),1225.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1974,Total Supply,(1000 MT),1290.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1975,Total Supply,(1000 MT),1328.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1976,Total Supply,(1000 MT),1373.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1977,Total Supply,(1000 MT),1325.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1978,Total Supply,(1000 MT),1465.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1979,Total Supply,(1000 MT),1655.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1980,Total Supply,(1000 MT),1656.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1981,Total Supply,(1000 MT),1895.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1982,Total Supply,(1000 MT),2035.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1983,Total Supply,(1000 MT),2172.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1984,Total Supply,(1000 MT),2455.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1985,Total Supply,(1000 MT),2723.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1986,Total Supply,(1000 MT),2669.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1987,Total Supply,(1000 MT),2818.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1988,Total Supply,(1000 MT),3031.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1989,Total Supply,(1000 MT),3491.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1990,Total Supply,(1000 MT),3431.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1991,Total Supply,(1000 MT),3487.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1992,Total Supply,(1000 MT),4080.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1993,Total Supply,(1000 MT),4349.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1994,Total Supply,(1000 MT),4609.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1995,Total Supply,(1000 MT),5065.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1996,Total Supply,(1000 MT),5433.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1997,Total Supply,(1000 MT),5318.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1998,Total Supply,(1000 MT),5785.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,1999,Total Supply,(1000 MT),6531.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2000,Total Supply,(1000 MT),7229.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2001,Total Supply,(1000 MT),7402.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2002,Total Supply,(1000 MT),8027.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2003,Total Supply,(1000 MT),8798.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2004,Total Supply,(1000 MT),9962.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2005,Total Supply,(1000 MT),10418.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2006,Total Supply,(1000 MT),10654.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2007,Total Supply,(1000 MT),11565.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2008,Total Supply,(1000 MT),12324.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2009,Total Supply,(1000 MT),12957.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2010,Total Supply,(1000 MT),13417.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2011,Total Supply,(1000 MT),14314.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2012,Total Supply,(1000 MT),15357.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2013,Total Supply,(1000 MT),16229.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2014,Total Supply,(1000 MT),16879.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2015,Total Supply,(1000 MT),16271.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2016,Total Supply,(1000 MT),17757.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2017,Total Supply,(1000 MT),19194.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2018,Total Supply,(1000 MT),19901.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2019,Total Supply,(1000 MT),19788.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2020,Total Supply,(1000 MT),19462.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2021,Total Supply,(1000 MT),19230.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2022,Total Supply,(1000 MT),20249.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2023,Total Supply,(1000 MT),20087.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2024,Total Supply,(1000 MT),20906.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2025,Total Supply,(1000 MT),21662.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Palm Kernel",World,2026,Total Supply,(1000 MT),21653.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

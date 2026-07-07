@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import {
     CartesianGrid,
     Line,
@@ -8,8 +8,9 @@ import {
     XAxis, YAxis
 } from 'recharts'
 import { api } from '../services/api'
-import { useArkTheme } from '../arcanum/arkChartTheme'
+import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 import { ChartMetaStrip, ScrollableDataTable } from './ChartDetails'
+import { ReindexControl, distinctYearsFromDate, reindexRowsByDate } from './ReindexControl'
 
 /* Global index families baked from the 2026-06 acquisition:
    - World Bank Pink Sheet index series (food, beverages, agriculture, ...)
@@ -33,6 +34,7 @@ export default function GlobalIndices() {
     const [meta, setMeta] = useState<{ unit?: string; source?: string }>({})
     const [filter, setFilter] = useState('')
     const [loading, setLoading] = useState(true)
+    const [baseYear, setBaseYear] = useState<number | null>(null)
     const t = useArkTheme()
 
     useEffect(() => {
@@ -77,7 +79,22 @@ export default function GlobalIndices() {
         : cpiCatalog.map(c => ({ key: c.country, sub: `${c.start.slice(0, 4)}–${c.end.slice(0, 4)}` }))
     const filtered = options.filter(o => !filter || o.key.toLowerCase().includes(filter.toLowerCase()))
 
-    const chartData = rows.map(r => ({ date: r.date.slice(0, 7), value: r.value }))
+    const chartData = useMemo(
+        () => rows.map(r => ({ date: r.date.slice(0, 7), value: r.value })),
+        [rows],
+    )
+
+    // Base-year options + client-side reindexed view (single 'value' series).
+    const baseYears = useMemo(() => distinctYearsFromDate(chartData, 'date'), [chartData])
+    const displayData = useMemo(
+        () => reindexRowsByDate(chartData, ['value'], baseYear, 'date'),
+        [chartData, baseYear],
+    )
+
+    // Reset base year whenever the visible series (and thus its years) changes.
+    useEffect(() => {
+        if (baseYear !== null && !baseYears.includes(baseYear)) setBaseYear(null)
+    }, [baseYears, baseYear])
 
     return (
         <div className="card mt-8">
@@ -129,20 +146,36 @@ export default function GlobalIndices() {
 
             {loading ? (
                 <div className="h-[320px] flex items-center justify-center text-ark-fg-dim">Loading…</div>
-            ) : chartData.length > 1 ? (
+            ) : displayData.length > 1 ? (
                 <>
+                    <div className="flex items-center justify-end gap-3 mb-3 flex-wrap">
+                        <ReindexControl
+                            id="global-reindex"
+                            years={baseYears}
+                            baseYear={baseYear}
+                            onChange={setBaseYear}
+                        />
+                        <button
+                            type="button"
+                            className="ark-btn ark-btn-sm ark-btn-ghost"
+                            onClick={() => downloadCsv(displayData, `foodberg_index_${(selected || '').replace(/\W+/g, '_')}`)}
+                            disabled={displayData.length === 0}
+                        >
+                            Download CSV
+                        </button>
+                    </div>
                     <div className="h-[320px]">
                         <ResponsiveContainer width="100%" height="100%">
-                            <LineChart data={chartData} margin={{ left: 12, bottom: 8 }}>
+                            <LineChart data={displayData} margin={{ left: 12, bottom: 8 }}>
                                 <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
                                 <XAxis dataKey="date" stroke={t.axisStroke} tick={{ fill: t.dim }} minTickGap={40} />
                                 <YAxis stroke={t.axisStroke} tick={{ fill: t.dim }}
                                     tickFormatter={(v) => v.toLocaleString()}
-                                    label={{ value: meta.unit || 'Index', angle: -90, position: 'insideLeft', fill: t.dim, fontSize: 11 }} />
+                                    label={{ value: baseYear ? `Index (${baseYear} = 100)` : (meta.unit || 'Index'), angle: -90, position: 'insideLeft', fill: t.dim, fontSize: 11 }} />
                                 <Tooltip
                                     contentStyle={t.tooltip}
                                     labelStyle={{ color: t.fg }}
-                                    formatter={(value: number) => [value.toLocaleString(undefined, { maximumFractionDigits: 2 }), meta.unit || 'value']}
+                                    formatter={(value: number) => [value.toLocaleString(undefined, { maximumFractionDigits: 2 }), baseYear ? `${baseYear}=100` : (meta.unit || 'value')]}
                                 />
                                 <Line type="monotone" dataKey="value" stroke={t.accent} strokeWidth={2} dot={false} activeDot={{ r: 5 }} />
                             </LineChart>
@@ -151,14 +184,15 @@ export default function GlobalIndices() {
                     <ChartMetaStrip
                         meta={{
                             source: meta.source,
-                            unit: meta.unit,
-                            dateRange: `${chartData[0].date} → ${chartData[chartData.length - 1].date}`,
-                            points: chartData.length,
+                            unit: baseYear ? `Reindexed (${baseYear} = 100, computed in-browser)` : meta.unit,
+                            dateRange: `${displayData[0].date} → ${displayData[displayData.length - 1].date}`,
+                            points: displayData.length,
+                            note: baseYear ? `Series rescaled to 100 at ${baseYear}.` : null,
                         }}
                     />
                     <ScrollableDataTable
-                        rows={chartData}
-                        columns={[{ key: 'date', label: 'Month' }, { key: 'value', label: meta.unit || 'Value', numeric: true }]}
+                        rows={displayData}
+                        columns={[{ key: 'date', label: 'Month' }, { key: 'value', label: baseYear ? `Index (${baseYear}=100)` : (meta.unit || 'Value'), numeric: true }]}
                         filename={`foodberg_index_${(selected || '').replace(/\W+/g, '_')}`}
                         maxHeight={240}
                     />

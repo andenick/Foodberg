@@ -1,0 +1,568 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Dairy, Cheese",United States,1964,Beginning Stocks,(1000 MT),0.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1965,Beginning Stocks,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1966,Beginning Stocks,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1967,Beginning Stocks,(1000 MT),169.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1968,Beginning Stocks,(1000 MT),195.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1969,Beginning Stocks,(1000 MT),184.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1970,Beginning Stocks,(1000 MT),144.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1971,Beginning Stocks,(1000 MT),147.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1972,Beginning Stocks,(1000 MT),139.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1973,Beginning Stocks,(1000 MT),150.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1974,Beginning Stocks,(1000 MT),162.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1975,Beginning Stocks,(1000 MT),224.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1976,Beginning Stocks,(1000 MT),167.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1977,Beginning Stocks,(1000 MT),217.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1978,Beginning Stocks,(1000 MT),221.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1979,Beginning Stocks,(1000 MT),207.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1980,Beginning Stocks,(1000 MT),232.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1981,Beginning Stocks,(1000 MT),313.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1982,Beginning Stocks,(1000 MT),443.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1983,Beginning Stocks,(1000 MT),483.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1984,Beginning Stocks,(1000 MT),574.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1985,Beginning Stocks,(1000 MT),482.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1986,Beginning Stocks,(1000 MT),429.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1987,Beginning Stocks,(1000 MT),358.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1988,Beginning Stocks,(1000 MT),209.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1989,Beginning Stocks,(1000 MT),181.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1990,Beginning Stocks,(1000 MT),150.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1991,Beginning Stocks,(1000 MT),200.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1992,Beginning Stocks,(1000 MT),189.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1993,Beginning Stocks,(1000 MT),214.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1994,Beginning Stocks,(1000 MT),211.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1995,Beginning Stocks,(1000 MT),198.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1996,Beginning Stocks,(1000 MT),187.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1997,Beginning Stocks,(1000 MT),221.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1998,Beginning Stocks,(1000 MT),218.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1999,Beginning Stocks,(1000 MT),235.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2000,Beginning Stocks,(1000 MT),282.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2001,Beginning Stocks,(1000 MT),320.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2002,Beginning Stocks,(1000 MT),299.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2003,Beginning Stocks,(1000 MT),331.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2004,Beginning Stocks,(1000 MT),323.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2005,Beginning Stocks,(1000 MT),318.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2006,Beginning Stocks,(1000 MT),344.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2007,Beginning Stocks,(1000 MT),371.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2008,Beginning Stocks,(1000 MT),362.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2009,Beginning Stocks,(1000 MT),386.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2010,Beginning Stocks,(1000 MT),439.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2011,Beginning Stocks,(1000 MT),475.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2012,Beginning Stocks,(1000 MT),450.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2013,Beginning Stocks,(1000 MT),464.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2014,Beginning Stocks,(1000 MT),458.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2015,Beginning Stocks,(1000 MT),462.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2016,Beginning Stocks,(1000 MT),520.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2017,Beginning Stocks,(1000 MT),544.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2018,Beginning Stocks,(1000 MT),581.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2019,Beginning Stocks,(1000 MT),610.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2020,Beginning Stocks,(1000 MT),600.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2021,Beginning Stocks,(1000 MT),633.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2022,Beginning Stocks,(1000 MT),654.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2023,Beginning Stocks,(1000 MT),656.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2024,Beginning Stocks,(1000 MT),654.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2025,Beginning Stocks,(1000 MT),614.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2026,Beginning Stocks,(1000 MT),620.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1964,Domestic Consumption,(1000 MT),0.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1965,Domestic Consumption,(1000 MT),7.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1966,Domestic Consumption,(1000 MT),75.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1967,Domestic Consumption,(1000 MT),903.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1968,Domestic Consumption,(1000 MT),956.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1969,Domestic Consumption,(1000 MT),998.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1970,Domestic Consumption,(1000 MT),1058.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1971,Domestic Consumption,(1000 MT),1133.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1972,Domestic Consumption,(1000 MT),1237.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1973,Domestic Consumption,(1000 MT),1297.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1974,Domestic Consumption,(1000 MT),1398.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1975,Domestic Consumption,(1000 MT),1398.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1976,Domestic Consumption,(1000 MT),1534.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1977,Domestic Consumption,(1000 MT),1597.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1978,Domestic Consumption,(1000 MT),1701.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1979,Domestic Consumption,(1000 MT),1769.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1980,Domestic Consumption,(1000 MT),1825.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1981,Domestic Consumption,(1000 MT),1916.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1982,Domestic Consumption,(1000 MT),2124.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1983,Domestic Consumption,(1000 MT),2208.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1984,Domestic Consumption,(1000 MT),2334.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1985,Domestic Consumption,(1000 MT),2456.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1986,Domestic Consumption,(1000 MT),2541.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1987,Domestic Consumption,(1000 MT),2673.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1988,Domestic Consumption,(1000 MT),2652.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1989,Domestic Consumption,(1000 MT),2692.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1990,Domestic Consumption,(1000 MT),2822.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1991,Domestic Consumption,(1000 MT),2881.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1992,Domestic Consumption,(1000 MT),3032.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1993,Domestic Consumption,(1000 MT),3090.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1994,Domestic Consumption,(1000 MT),3193.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1995,Domestic Consumption,(1000 MT),3274.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1996,Domestic Consumption,(1000 MT),3360.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1997,Domestic Consumption,(1000 MT),3431.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1998,Domestic Consumption,(1000 MT),3500.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1999,Domestic Consumption,(1000 MT),3691.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2000,Domestic Consumption,(1000 MT),3817.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2001,Domestic Consumption,(1000 MT),3885.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2002,Domestic Consumption,(1000 MT),3974.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2003,Domestic Consumption,(1000 MT),4018.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2004,Domestic Consumption,(1000 MT),4147.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2005,Domestic Consumption,(1000 MT),4238.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2006,Domestic Consumption,(1000 MT),4392.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2007,Domestic Consumption,(1000 MT),4505.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2008,Domestic Consumption,(1000 MT),4478.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2009,Domestic Consumption,(1000 MT),4540.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2010,Domestic Consumption,(1000 MT),4638.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2011,Domestic Consumption,(1000 MT),4716.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2012,Domestic Consumption,(1000 MT),4786.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2013,Domestic Consumption,(1000 MT),4839.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2014,Domestic Consumption,(1000 MT),4977.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2015,Domestic Consumption,(1000 MT),5149.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2016,Domestic Consumption,(1000 MT),5379.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2017,Domestic Consumption,(1000 MT),5494.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2018,Domestic Consumption,(1000 MT),5675.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2019,Domestic Consumption,(1000 MT),5752.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2020,Domestic Consumption,(1000 MT),5745.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2021,Domestic Consumption,(1000 MT),5964.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2022,Domestic Consumption,(1000 MT),6079.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2023,Domestic Consumption,(1000 MT),6131.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2024,Domestic Consumption,(1000 MT),6146.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2025,Domestic Consumption,(1000 MT),6135.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2026,Domestic Consumption,(1000 MT),6319.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1964,Ending Stocks,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1965,Ending Stocks,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1966,Ending Stocks,(1000 MT),100.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1967,Ending Stocks,(1000 MT),195.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1968,Ending Stocks,(1000 MT),184.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1969,Ending Stocks,(1000 MT),144.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1970,Ending Stocks,(1000 MT),147.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1971,Ending Stocks,(1000 MT),139.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1972,Ending Stocks,(1000 MT),150.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1973,Ending Stocks,(1000 MT),162.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1974,Ending Stocks,(1000 MT),224.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1975,Ending Stocks,(1000 MT),167.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1976,Ending Stocks,(1000 MT),217.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1977,Ending Stocks,(1000 MT),221.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1978,Ending Stocks,(1000 MT),207.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1979,Ending Stocks,(1000 MT),232.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1980,Ending Stocks,(1000 MT),313.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1981,Ending Stocks,(1000 MT),443.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1982,Ending Stocks,(1000 MT),483.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1983,Ending Stocks,(1000 MT),574.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1984,Ending Stocks,(1000 MT),482.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1985,Ending Stocks,(1000 MT),429.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1986,Ending Stocks,(1000 MT),358.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1987,Ending Stocks,(1000 MT),209.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1988,Ending Stocks,(1000 MT),181.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1989,Ending Stocks,(1000 MT),150.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1990,Ending Stocks,(1000 MT),200.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1991,Ending Stocks,(1000 MT),189.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1992,Ending Stocks,(1000 MT),214.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1993,Ending Stocks,(1000 MT),211.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1994,Ending Stocks,(1000 MT),198.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1995,Ending Stocks,(1000 MT),187.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1996,Ending Stocks,(1000 MT),221.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1997,Ending Stocks,(1000 MT),218.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1998,Ending Stocks,(1000 MT),235.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1999,Ending Stocks,(1000 MT),282.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2000,Ending Stocks,(1000 MT),320.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2001,Ending Stocks,(1000 MT),299.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2002,Ending Stocks,(1000 MT),331.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2003,Ending Stocks,(1000 MT),323.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2004,Ending Stocks,(1000 MT),318.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2005,Ending Stocks,(1000 MT),344.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2006,Ending Stocks,(1000 MT),371.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2007,Ending Stocks,(1000 MT),362.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2008,Ending Stocks,(1000 MT),386.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2009,Ending Stocks,(1000 MT),439.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2010,Ending Stocks,(1000 MT),475.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2011,Ending Stocks,(1000 MT),450.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2012,Ending Stocks,(1000 MT),464.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2013,Ending Stocks,(1000 MT),458.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2014,Ending Stocks,(1000 MT),462.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2015,Ending Stocks,(1000 MT),520.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2016,Ending Stocks,(1000 MT),544.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2017,Ending Stocks,(1000 MT),581.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2018,Ending Stocks,(1000 MT),610.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2019,Ending Stocks,(1000 MT),600.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2020,Ending Stocks,(1000 MT),633.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2021,Ending Stocks,(1000 MT),654.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2022,Ending Stocks,(1000 MT),656.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2023,Ending Stocks,(1000 MT),654.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2024,Ending Stocks,(1000 MT),614.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2025,Ending Stocks,(1000 MT),620.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2026,Ending Stocks,(1000 MT),625.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1964,Exports,(1000 MT),0.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1965,Exports,(1000 MT),3.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1966,Exports,(1000 MT),25.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1967,Exports,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1968,Exports,(1000 MT),12.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1969,Exports,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1970,Exports,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1971,Exports,(1000 MT),13.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1972,Exports,(1000 MT),14.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1973,Exports,(1000 MT),14.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1974,Exports,(1000 MT),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1975,Exports,(1000 MT),15.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1976,Exports,(1000 MT),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1977,Exports,(1000 MT),17.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1978,Exports,(1000 MT),20.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1979,Exports,(1000 MT),5.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1980,Exports,(1000 MT),6.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1981,Exports,(1000 MT),6.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1982,Exports,(1000 MT),18.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1983,Exports,(1000 MT),17.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1984,Exports,(1000 MT),17.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1985,Exports,(1000 MT),39.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1986,Exports,(1000 MT),27.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1987,Exports,(1000 MT),20.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1988,Exports,(1000 MT),17.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1989,Exports,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1990,Exports,(1000 MT),12.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1991,Exports,(1000 MT),12.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1992,Exports,(1000 MT),15.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1993,Exports,(1000 MT),19.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1994,Exports,(1000 MT),25.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1995,Exports,(1000 MT),28.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1996,Exports,(1000 MT),32.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1997,Exports,(1000 MT),38.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1998,Exports,(1000 MT),37.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1999,Exports,(1000 MT),38.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2000,Exports,(1000 MT),47.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2001,Exports,(1000 MT),53.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2002,Exports,(1000 MT),54.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2003,Exports,(1000 MT),52.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2004,Exports,(1000 MT),61.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2005,Exports,(1000 MT),58.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2006,Exports,(1000 MT),71.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2007,Exports,(1000 MT),100.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2008,Exports,(1000 MT),131.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2009,Exports,(1000 MT),108.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2010,Exports,(1000 MT),173.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2011,Exports,(1000 MT),225.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2012,Exports,(1000 MT),260.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2013,Exports,(1000 MT),316.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2014,Exports,(1000 MT),368.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2015,Exports,(1000 MT),317.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2016,Exports,(1000 MT),287.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2017,Exports,(1000 MT),340.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2018,Exports,(1000 MT),348.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2019,Exports,(1000 MT),356.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2020,Exports,(1000 MT),355.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2021,Exports,(1000 MT),402.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2022,Exports,(1000 MT),451.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2023,Exports,(1000 MT),433.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2024,Exports,(1000 MT),510.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2025,Exports,(1000 MT),602.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2026,Exports,(1000 MT),621.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1964,Imports,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1965,Imports,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1966,Imports,(1000 MT),100.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1967,Imports,(1000 MT),69.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1968,Imports,(1000 MT),78.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1969,Imports,(1000 MT),65.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1970,Imports,(1000 MT),73.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1971,Imports,(1000 MT),61.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1972,Imports,(1000 MT),81.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1973,Imports,(1000 MT),105.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1974,Imports,(1000 MT),143.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1975,Imports,(1000 MT),81.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1976,Imports,(1000 MT),94.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1977,Imports,(1000 MT),95.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1978,Imports,(1000 MT),110.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1979,Imports,(1000 MT),113.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1980,Imports,(1000 MT),105.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1981,Imports,(1000 MT),112.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1982,Imports,(1000 MT),122.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1983,Imports,(1000 MT),130.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1984,Imports,(1000 MT),139.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1985,Imports,(1000 MT),137.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1986,Imports,(1000 MT),134.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1987,Imports,(1000 MT),120.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1988,Imports,(1000 MT),114.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1989,Imports,(1000 MT),125.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1990,Imports,(1000 MT),135.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1991,Imports,(1000 MT),135.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1992,Imports,(1000 MT),129.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1993,Imports,(1000 MT),145.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1994,Imports,(1000 MT),151.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1995,Imports,(1000 MT),153.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1996,Imports,(1000 MT),152.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1997,Imports,(1000 MT),141.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1998,Imports,(1000 MT),156.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1999,Imports,(1000 MT),195.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2000,Imports,(1000 MT),156.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2001,Imports,(1000 MT),170.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2002,Imports,(1000 MT),183.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2003,Imports,(1000 MT),180.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2004,Imports,(1000 MT),178.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2005,Imports,(1000 MT),172.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2006,Imports,(1000 MT),170.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2007,Imports,(1000 MT),161.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2008,Imports,(1000 MT),137.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2009,Imports,(1000 MT),131.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2010,Imports,(1000 MT),110.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2011,Imports,(1000 MT),110.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2012,Imports,(1000 MT),122.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2013,Imports,(1000 MT),113.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2014,Imports,(1000 MT),127.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2015,Imports,(1000 MT),157.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2016,Imports,(1000 MT),165.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2017,Imports,(1000 MT),138.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2018,Imports,(1000 MT),138.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2019,Imports,(1000 MT),139.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2020,Imports,(1000 MT),128.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2021,Imports,(1000 MT),145.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2022,Imports,(1000 MT),143.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2023,Imports,(1000 MT),141.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2024,Imports,(1000 MT),153.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2025,Imports,(1000 MT),143.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2026,Imports,(1000 MT),145.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1964,Production,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1965,Production,(1000 MT),9.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1966,Production,(1000 MT),90.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1967,Production,(1000 MT),870.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1968,Production,(1000 MT),879.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1969,Production,(1000 MT),903.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1970,Production,(1000 MT),998.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1971,Production,(1000 MT),1077.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1972,Production,(1000 MT),1181.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1973,Production,(1000 MT),1218.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1974,Production,(1000 MT),1333.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1975,Production,(1000 MT),1275.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1976,Production,(1000 MT),1506.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1977,Production,(1000 MT),1523.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1978,Production,(1000 MT),1597.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1979,Production,(1000 MT),1686.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1980,Production,(1000 MT),1807.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1981,Production,(1000 MT),1940.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1982,Production,(1000 MT),2060.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1983,Production,(1000 MT),2186.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1984,Production,(1000 MT),2120.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1985,Production,(1000 MT),2305.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1986,Production,(1000 MT),2363.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1987,Production,(1000 MT),2424.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1988,Production,(1000 MT),2527.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1989,Production,(1000 MT),2546.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1990,Production,(1000 MT),2749.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1991,Production,(1000 MT),2747.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1992,Production,(1000 MT),2943.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1993,Production,(1000 MT),2961.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1994,Production,(1000 MT),3054.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1995,Production,(1000 MT),3138.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1996,Production,(1000 MT),3274.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1997,Production,(1000 MT),3325.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1998,Production,(1000 MT),3398.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1999,Production,(1000 MT),3581.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2000,Production,(1000 MT),3746.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2001,Production,(1000 MT),3747.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2002,Production,(1000 MT),3877.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2003,Production,(1000 MT),3882.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2004,Production,(1000 MT),4025.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2005,Production,(1000 MT),4150.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2006,Production,(1000 MT),4320.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2007,Production,(1000 MT),4435.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2008,Production,(1000 MT),4496.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2009,Production,(1000 MT),4570.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2010,Production,(1000 MT),4737.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2011,Production,(1000 MT),4806.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2012,Production,(1000 MT),4938.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2013,Production,(1000 MT),5036.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2014,Production,(1000 MT),5222.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2015,Production,(1000 MT),5367.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2016,Production,(1000 MT),5525.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2017,Production,(1000 MT),5733.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2018,Production,(1000 MT),5914.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2019,Production,(1000 MT),5959.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2020,Production,(1000 MT),6005.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2021,Production,(1000 MT),6242.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2022,Production,(1000 MT),6389.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2023,Production,(1000 MT),6421.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2024,Production,(1000 MT),6463.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2025,Production,(1000 MT),6600.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2026,Production,(1000 MT),6800.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1964,Total Distribution,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1965,Total Distribution,(1000 MT),20.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1966,Total Distribution,(1000 MT),200.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1967,Total Distribution,(1000 MT),1108.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1968,Total Distribution,(1000 MT),1152.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1969,Total Distribution,(1000 MT),1152.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1970,Total Distribution,(1000 MT),1215.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1971,Total Distribution,(1000 MT),1285.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1972,Total Distribution,(1000 MT),1401.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1973,Total Distribution,(1000 MT),1473.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1974,Total Distribution,(1000 MT),1638.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1975,Total Distribution,(1000 MT),1580.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1976,Total Distribution,(1000 MT),1767.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1977,Total Distribution,(1000 MT),1835.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1978,Total Distribution,(1000 MT),1928.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1979,Total Distribution,(1000 MT),2006.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1980,Total Distribution,(1000 MT),2144.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1981,Total Distribution,(1000 MT),2365.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1982,Total Distribution,(1000 MT),2625.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1983,Total Distribution,(1000 MT),2799.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1984,Total Distribution,(1000 MT),2833.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1985,Total Distribution,(1000 MT),2924.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1986,Total Distribution,(1000 MT),2926.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1987,Total Distribution,(1000 MT),2902.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1988,Total Distribution,(1000 MT),2850.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1989,Total Distribution,(1000 MT),2852.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1990,Total Distribution,(1000 MT),3034.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1991,Total Distribution,(1000 MT),3082.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1992,Total Distribution,(1000 MT),3261.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1993,Total Distribution,(1000 MT),3320.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1994,Total Distribution,(1000 MT),3416.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1995,Total Distribution,(1000 MT),3489.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1996,Total Distribution,(1000 MT),3613.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1997,Total Distribution,(1000 MT),3687.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1998,Total Distribution,(1000 MT),3772.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1999,Total Distribution,(1000 MT),4011.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2000,Total Distribution,(1000 MT),4184.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2001,Total Distribution,(1000 MT),4237.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2002,Total Distribution,(1000 MT),4359.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2003,Total Distribution,(1000 MT),4393.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2004,Total Distribution,(1000 MT),4526.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2005,Total Distribution,(1000 MT),4640.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2006,Total Distribution,(1000 MT),4834.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2007,Total Distribution,(1000 MT),4967.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2008,Total Distribution,(1000 MT),4995.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2009,Total Distribution,(1000 MT),5087.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2010,Total Distribution,(1000 MT),5286.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2011,Total Distribution,(1000 MT),5391.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2012,Total Distribution,(1000 MT),5510.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2013,Total Distribution,(1000 MT),5613.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2014,Total Distribution,(1000 MT),5807.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2015,Total Distribution,(1000 MT),5986.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2016,Total Distribution,(1000 MT),6210.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2017,Total Distribution,(1000 MT),6415.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2018,Total Distribution,(1000 MT),6633.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2019,Total Distribution,(1000 MT),6708.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2020,Total Distribution,(1000 MT),6733.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2021,Total Distribution,(1000 MT),7020.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2022,Total Distribution,(1000 MT),7186.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2023,Total Distribution,(1000 MT),7218.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2024,Total Distribution,(1000 MT),7270.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2025,Total Distribution,(1000 MT),7357.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2026,Total Distribution,(1000 MT),7565.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1964,Total Supply,(1000 MT),2.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1965,Total Supply,(1000 MT),20.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1966,Total Supply,(1000 MT),200.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1967,Total Supply,(1000 MT),1108.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1968,Total Supply,(1000 MT),1152.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1969,Total Supply,(1000 MT),1152.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1970,Total Supply,(1000 MT),1215.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1971,Total Supply,(1000 MT),1285.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1972,Total Supply,(1000 MT),1401.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1973,Total Supply,(1000 MT),1473.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1974,Total Supply,(1000 MT),1638.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1975,Total Supply,(1000 MT),1580.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1976,Total Supply,(1000 MT),1767.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1977,Total Supply,(1000 MT),1835.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1978,Total Supply,(1000 MT),1928.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1979,Total Supply,(1000 MT),2006.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1980,Total Supply,(1000 MT),2144.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1981,Total Supply,(1000 MT),2365.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1982,Total Supply,(1000 MT),2625.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1983,Total Supply,(1000 MT),2799.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1984,Total Supply,(1000 MT),2833.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1985,Total Supply,(1000 MT),2924.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1986,Total Supply,(1000 MT),2926.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1987,Total Supply,(1000 MT),2902.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1988,Total Supply,(1000 MT),2850.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1989,Total Supply,(1000 MT),2852.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1990,Total Supply,(1000 MT),3034.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1991,Total Supply,(1000 MT),3082.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1992,Total Supply,(1000 MT),3261.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1993,Total Supply,(1000 MT),3320.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1994,Total Supply,(1000 MT),3416.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1995,Total Supply,(1000 MT),3489.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1996,Total Supply,(1000 MT),3613.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1997,Total Supply,(1000 MT),3687.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1998,Total Supply,(1000 MT),3772.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1999,Total Supply,(1000 MT),4011.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2000,Total Supply,(1000 MT),4184.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2001,Total Supply,(1000 MT),4237.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2002,Total Supply,(1000 MT),4359.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2003,Total Supply,(1000 MT),4393.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2004,Total Supply,(1000 MT),4526.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2005,Total Supply,(1000 MT),4640.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2006,Total Supply,(1000 MT),4834.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2007,Total Supply,(1000 MT),4967.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2008,Total Supply,(1000 MT),4995.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2009,Total Supply,(1000 MT),5087.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2010,Total Supply,(1000 MT),5286.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2011,Total Supply,(1000 MT),5391.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2012,Total Supply,(1000 MT),5510.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2013,Total Supply,(1000 MT),5613.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2014,Total Supply,(1000 MT),5807.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2015,Total Supply,(1000 MT),5986.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2016,Total Supply,(1000 MT),6210.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2017,Total Supply,(1000 MT),6415.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2018,Total Supply,(1000 MT),6633.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2019,Total Supply,(1000 MT),6708.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2020,Total Supply,(1000 MT),6733.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2021,Total Supply,(1000 MT),7020.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2022,Total Supply,(1000 MT),7186.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2023,Total Supply,(1000 MT),7218.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2024,Total Supply,(1000 MT),7270.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2025,Total Supply,(1000 MT),7357.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2026,Total Supply,(1000 MT),7565.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1964,Total Use,(1000 MT),0.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1965,Total Use,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1966,Total Use,(1000 MT),100.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1967,Total Use,(1000 MT),913.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1968,Total Use,(1000 MT),968.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1969,Total Use,(1000 MT),1008.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1970,Total Use,(1000 MT),1068.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1971,Total Use,(1000 MT),1146.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1972,Total Use,(1000 MT),1251.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1973,Total Use,(1000 MT),1311.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1974,Total Use,(1000 MT),1414.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1975,Total Use,(1000 MT),1413.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1976,Total Use,(1000 MT),1550.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1977,Total Use,(1000 MT),1614.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1978,Total Use,(1000 MT),1721.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1979,Total Use,(1000 MT),1774.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1980,Total Use,(1000 MT),1831.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1981,Total Use,(1000 MT),1922.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1982,Total Use,(1000 MT),2142.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1983,Total Use,(1000 MT),2225.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1984,Total Use,(1000 MT),2351.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1985,Total Use,(1000 MT),2495.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1986,Total Use,(1000 MT),2568.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1987,Total Use,(1000 MT),2693.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1988,Total Use,(1000 MT),2669.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1989,Total Use,(1000 MT),2702.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1990,Total Use,(1000 MT),2834.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1991,Total Use,(1000 MT),2893.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1992,Total Use,(1000 MT),3047.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1993,Total Use,(1000 MT),3109.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1994,Total Use,(1000 MT),3218.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1995,Total Use,(1000 MT),3302.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1996,Total Use,(1000 MT),3392.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1997,Total Use,(1000 MT),3469.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1998,Total Use,(1000 MT),3537.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,1999,Total Use,(1000 MT),3729.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2000,Total Use,(1000 MT),3864.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2001,Total Use,(1000 MT),3938.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2002,Total Use,(1000 MT),4028.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2003,Total Use,(1000 MT),4070.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2004,Total Use,(1000 MT),4208.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2005,Total Use,(1000 MT),4296.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2006,Total Use,(1000 MT),4463.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2007,Total Use,(1000 MT),4605.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2008,Total Use,(1000 MT),4609.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2009,Total Use,(1000 MT),4648.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2010,Total Use,(1000 MT),4811.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2011,Total Use,(1000 MT),4941.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2012,Total Use,(1000 MT),5046.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2013,Total Use,(1000 MT),5155.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2014,Total Use,(1000 MT),5345.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2015,Total Use,(1000 MT),5466.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2016,Total Use,(1000 MT),5666.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2017,Total Use,(1000 MT),5834.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2018,Total Use,(1000 MT),6023.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2019,Total Use,(1000 MT),6108.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2020,Total Use,(1000 MT),6100.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2021,Total Use,(1000 MT),6366.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2022,Total Use,(1000 MT),6530.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2023,Total Use,(1000 MT),6564.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2024,Total Use,(1000 MT),6656.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2025,Total Use,(1000 MT),6737.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Cheese",United States,2026,Total Use,(1000 MT),6940.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

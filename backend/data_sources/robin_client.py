@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 from typing import Optional, Dict, List
 import datetime
+import os
 
 
 class RobinWASDEClient:

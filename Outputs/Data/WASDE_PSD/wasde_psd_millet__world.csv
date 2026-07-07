@@ -1,0 +1,939 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+Millet,World,1960,Area Harvested,(1000 HA),42494.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Area Harvested,(1000 HA),42960.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Area Harvested,(1000 HA),43851.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Area Harvested,(1000 HA),43407.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Area Harvested,(1000 HA),43198.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Area Harvested,(1000 HA),43567.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Area Harvested,(1000 HA),42967.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Area Harvested,(1000 HA),45027.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Area Harvested,(1000 HA),43329.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Area Harvested,(1000 HA),45228.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Area Harvested,(1000 HA),44928.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Area Harvested,(1000 HA),43087.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Area Harvested,(1000 HA),41261.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Area Harvested,(1000 HA),45222.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Area Harvested,(1000 HA),42794.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Area Harvested,(1000 HA),43549.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Area Harvested,(1000 HA),42835.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Area Harvested,(1000 HA),43316.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Area Harvested,(1000 HA),43415.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Area Harvested,(1000 HA),42215.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Area Harvested,(1000 HA),42985.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Area Harvested,(1000 HA),42758.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Area Harvested,(1000 HA),41743.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Area Harvested,(1000 HA),42458.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Area Harvested,(1000 HA),38369.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Area Harvested,(1000 HA),39451.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Area Harvested,(1000 HA),39563.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Area Harvested,(1000 HA),35682.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Area Harvested,(1000 HA),40188.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Area Harvested,(1000 HA),38189.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Area Harvested,(1000 HA),36280.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Area Harvested,(1000 HA),36908.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Area Harvested,(1000 HA),39313.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Area Harvested,(1000 HA),37737.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Area Harvested,(1000 HA),39681.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Area Harvested,(1000 HA),38229.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Area Harvested,(1000 HA),38224.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Area Harvested,(1000 HA),38775.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Area Harvested,(1000 HA),38390.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Area Harvested,(1000 HA),37639.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Area Harvested,(1000 HA),36825.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Area Harvested,(1000 HA),34482.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Area Harvested,(1000 HA),32558.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Area Harvested,(1000 HA),36855.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Area Harvested,(1000 HA),33529.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Area Harvested,(1000 HA),34882.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Area Harvested,(1000 HA),35410.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Area Harvested,(1000 HA),35407.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Area Harvested,(1000 HA),35089.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Area Harvested,(1000 HA),33461.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Area Harvested,(1000 HA),35118.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Area Harvested,(1000 HA),33495.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Area Harvested,(1000 HA),29079.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Area Harvested,(1000 HA),30562.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Area Harvested,(1000 HA),30823.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Area Harvested,(1000 HA),28730.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Area Harvested,(1000 HA),31359.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Area Harvested,(1000 HA),31005.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Area Harvested,(1000 HA),31393.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Area Harvested,(1000 HA),30807.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Area Harvested,(1000 HA),31608.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Area Harvested,(1000 HA),29087.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Area Harvested,(1000 HA),31540.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Area Harvested,(1000 HA),30111.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Area Harvested,(1000 HA),30125.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Area Harvested,(1000 HA),29424.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Area Harvested,(1000 HA),29755.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,Beginning Stocks,(1000 MT),1095.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Beginning Stocks,(1000 MT),463.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Beginning Stocks,(1000 MT),1421.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Beginning Stocks,(1000 MT),1455.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Beginning Stocks,(1000 MT),1383.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Beginning Stocks,(1000 MT),1093.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Beginning Stocks,(1000 MT),856.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Beginning Stocks,(1000 MT),1163.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Beginning Stocks,(1000 MT),1543.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Beginning Stocks,(1000 MT),1542.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Beginning Stocks,(1000 MT),4646.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Beginning Stocks,(1000 MT),3547.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Beginning Stocks,(1000 MT),3301.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Beginning Stocks,(1000 MT),2837.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Beginning Stocks,(1000 MT),3498.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Beginning Stocks,(1000 MT),3188.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Beginning Stocks,(1000 MT),3918.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Beginning Stocks,(1000 MT),3993.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Beginning Stocks,(1000 MT),3583.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Beginning Stocks,(1000 MT),3760.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Beginning Stocks,(1000 MT),2933.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Beginning Stocks,(1000 MT),2940.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Beginning Stocks,(1000 MT),2964.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Beginning Stocks,(1000 MT),2744.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Beginning Stocks,(1000 MT),3457.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Beginning Stocks,(1000 MT),2920.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Beginning Stocks,(1000 MT),2340.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Beginning Stocks,(1000 MT),2104.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Beginning Stocks,(1000 MT),1138.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Beginning Stocks,(1000 MT),1085.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Beginning Stocks,(1000 MT),695.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Beginning Stocks,(1000 MT),719.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Beginning Stocks,(1000 MT),718.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Beginning Stocks,(1000 MT),1478.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Beginning Stocks,(1000 MT),378.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Beginning Stocks,(1000 MT),205.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Beginning Stocks,(1000 MT),205.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Beginning Stocks,(1000 MT),324.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Beginning Stocks,(1000 MT),275.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Beginning Stocks,(1000 MT),315.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Beginning Stocks,(1000 MT),225.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Beginning Stocks,(1000 MT),203.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Beginning Stocks,(1000 MT),288.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Beginning Stocks,(1000 MT),182.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Beginning Stocks,(1000 MT),621.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Beginning Stocks,(1000 MT),622.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Beginning Stocks,(1000 MT),231.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Beginning Stocks,(1000 MT),278.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Beginning Stocks,(1000 MT),451.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Beginning Stocks,(1000 MT),323.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Beginning Stocks,(1000 MT),300.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Beginning Stocks,(1000 MT),815.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Beginning Stocks,(1000 MT),574.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Beginning Stocks,(1000 MT),443.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Beginning Stocks,(1000 MT),506.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Beginning Stocks,(1000 MT),596.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Beginning Stocks,(1000 MT),287.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Beginning Stocks,(1000 MT),547.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Beginning Stocks,(1000 MT),687.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Beginning Stocks,(1000 MT),323.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Beginning Stocks,(1000 MT),612.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Beginning Stocks,(1000 MT),620.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Beginning Stocks,(1000 MT),628.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Beginning Stocks,(1000 MT),685.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Beginning Stocks,(1000 MT),625.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Beginning Stocks,(1000 MT),863.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Beginning Stocks,(1000 MT),691.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,Domestic Consumption,(1000 MT),23079.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Domestic Consumption,(1000 MT),23137.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Domestic Consumption,(1000 MT),23894.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Domestic Consumption,(1000 MT),23823.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Domestic Consumption,(1000 MT),27330.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Domestic Consumption,(1000 MT),23694.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Domestic Consumption,(1000 MT),24889.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Domestic Consumption,(1000 MT),28328.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Domestic Consumption,(1000 MT),25335.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Domestic Consumption,(1000 MT),25908.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Domestic Consumption,(1000 MT),33122.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Domestic Consumption,(1000 MT),29166.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Domestic Consumption,(1000 MT),24961.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Domestic Consumption,(1000 MT),32264.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Domestic Consumption,(1000 MT),29101.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Domestic Consumption,(1000 MT),27809.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Domestic Consumption,(1000 MT),28211.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Domestic Consumption,(1000 MT),27748.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Domestic Consumption,(1000 MT),29891.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Domestic Consumption,(1000 MT),27251.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Domestic Consumption,(1000 MT),27535.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Domestic Consumption,(1000 MT),28602.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Domestic Consumption,(1000 MT),28258.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Domestic Consumption,(1000 MT),31074.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Domestic Consumption,(1000 MT),28780.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Domestic Consumption,(1000 MT),28443.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Domestic Consumption,(1000 MT),26790.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Domestic Consumption,(1000 MT),26840.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Domestic Consumption,(1000 MT),31766.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Domestic Consumption,(1000 MT),30545.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Domestic Consumption,(1000 MT),29270.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Domestic Consumption,(1000 MT),26110.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Domestic Consumption,(1000 MT),30668.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Domestic Consumption,(1000 MT),28600.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Domestic Consumption,(1000 MT),29498.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Domestic Consumption,(1000 MT),27769.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Domestic Consumption,(1000 MT),29660.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Domestic Consumption,(1000 MT),28170.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Domestic Consumption,(1000 MT),30526.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Domestic Consumption,(1000 MT),28705.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Domestic Consumption,(1000 MT),27370.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Domestic Consumption,(1000 MT),28262.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Domestic Consumption,(1000 MT),23659.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Domestic Consumption,(1000 MT),33808.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Domestic Consumption,(1000 MT),29001.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Domestic Consumption,(1000 MT),30786.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Domestic Consumption,(1000 MT),31088.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Domestic Consumption,(1000 MT),32898.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Domestic Consumption,(1000 MT),33963.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Domestic Consumption,(1000 MT),25650.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Domestic Consumption,(1000 MT),31282.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Domestic Consumption,(1000 MT),27163.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Domestic Consumption,(1000 MT),26392.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Domestic Consumption,(1000 MT),25703.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Domestic Consumption,(1000 MT),27543.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Domestic Consumption,(1000 MT),26673.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Domestic Consumption,(1000 MT),29032.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Domestic Consumption,(1000 MT),28183.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Domestic Consumption,(1000 MT),30015.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Domestic Consumption,(1000 MT),30131.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Domestic Consumption,(1000 MT),32791.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Domestic Consumption,(1000 MT),27950.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Domestic Consumption,(1000 MT),32077.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Domestic Consumption,(1000 MT),29709.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Domestic Consumption,(1000 MT),30603.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Domestic Consumption,(1000 MT),30191.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Domestic Consumption,(1000 MT),29544.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,Ending Stocks,(1000 MT),463.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Ending Stocks,(1000 MT),1421.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Ending Stocks,(1000 MT),1455.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Ending Stocks,(1000 MT),1383.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Ending Stocks,(1000 MT),1093.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Ending Stocks,(1000 MT),856.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Ending Stocks,(1000 MT),1163.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Ending Stocks,(1000 MT),1543.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Ending Stocks,(1000 MT),1542.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Ending Stocks,(1000 MT),4646.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Ending Stocks,(1000 MT),3547.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Ending Stocks,(1000 MT),3301.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Ending Stocks,(1000 MT),2837.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Ending Stocks,(1000 MT),3498.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Ending Stocks,(1000 MT),3188.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Ending Stocks,(1000 MT),3918.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Ending Stocks,(1000 MT),3993.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Ending Stocks,(1000 MT),3583.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Ending Stocks,(1000 MT),3760.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Ending Stocks,(1000 MT),2933.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Ending Stocks,(1000 MT),2940.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Ending Stocks,(1000 MT),2964.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Ending Stocks,(1000 MT),2744.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Ending Stocks,(1000 MT),3457.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Ending Stocks,(1000 MT),2920.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Ending Stocks,(1000 MT),2340.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Ending Stocks,(1000 MT),2104.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Ending Stocks,(1000 MT),1138.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Ending Stocks,(1000 MT),1085.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Ending Stocks,(1000 MT),695.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Ending Stocks,(1000 MT),719.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Ending Stocks,(1000 MT),718.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Ending Stocks,(1000 MT),1478.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Ending Stocks,(1000 MT),378.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Ending Stocks,(1000 MT),205.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Ending Stocks,(1000 MT),205.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Ending Stocks,(1000 MT),324.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Ending Stocks,(1000 MT),275.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Ending Stocks,(1000 MT),315.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Ending Stocks,(1000 MT),225.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Ending Stocks,(1000 MT),203.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Ending Stocks,(1000 MT),288.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Ending Stocks,(1000 MT),182.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Ending Stocks,(1000 MT),621.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Ending Stocks,(1000 MT),622.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Ending Stocks,(1000 MT),231.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Ending Stocks,(1000 MT),278.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Ending Stocks,(1000 MT),451.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Ending Stocks,(1000 MT),323.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Ending Stocks,(1000 MT),300.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Ending Stocks,(1000 MT),815.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Ending Stocks,(1000 MT),574.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Ending Stocks,(1000 MT),443.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Ending Stocks,(1000 MT),506.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Ending Stocks,(1000 MT),596.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Ending Stocks,(1000 MT),287.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Ending Stocks,(1000 MT),547.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Ending Stocks,(1000 MT),687.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Ending Stocks,(1000 MT),323.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Ending Stocks,(1000 MT),612.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Ending Stocks,(1000 MT),620.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Ending Stocks,(1000 MT),628.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Ending Stocks,(1000 MT),685.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Ending Stocks,(1000 MT),625.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Ending Stocks,(1000 MT),863.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Ending Stocks,(1000 MT),691.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Ending Stocks,(1000 MT),491.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,Exports,(1000 MT),100.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Exports,(1000 MT),206.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Exports,(1000 MT),90.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Exports,(1000 MT),206.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Exports,(1000 MT),121.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Exports,(1000 MT),169.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Exports,(1000 MT),213.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Exports,(1000 MT),155.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Exports,(1000 MT),119.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Exports,(1000 MT),60.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Exports,(1000 MT),126.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Exports,(1000 MT),81.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Exports,(1000 MT),141.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Exports,(1000 MT),111.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Exports,(1000 MT),114.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Exports,(1000 MT),148.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Exports,(1000 MT),184.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Exports,(1000 MT),223.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Exports,(1000 MT),181.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Exports,(1000 MT),73.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Exports,(1000 MT),155.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Exports,(1000 MT),120.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Exports,(1000 MT),117.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Exports,(1000 MT),66.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Exports,(1000 MT),100.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Exports,(1000 MT),62.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Exports,(1000 MT),49.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Exports,(1000 MT),130.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Exports,(1000 MT),44.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Exports,(1000 MT),47.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Exports,(1000 MT),51.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Exports,(1000 MT),34.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Exports,(1000 MT),30.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Exports,(1000 MT),5.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Exports,(1000 MT),5.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Exports,(1000 MT),5.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Exports,(1000 MT),20.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Exports,(1000 MT),20.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Exports,(1000 MT),0.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Exports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Exports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Exports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Exports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,FSI Consumption,(1000 MT),20653.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,FSI Consumption,(1000 MT),21381.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,FSI Consumption,(1000 MT),22427.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,FSI Consumption,(1000 MT),23511.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,FSI Consumption,(1000 MT),24972.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,FSI Consumption,(1000 MT),22512.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,FSI Consumption,(1000 MT),22833.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,FSI Consumption,(1000 MT),26075.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,FSI Consumption,(1000 MT),23650.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,FSI Consumption,(1000 MT),23786.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,FSI Consumption,(1000 MT),31659.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,FSI Consumption,(1000 MT),27773.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,FSI Consumption,(1000 MT),23408.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,FSI Consumption,(1000 MT),28574.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,FSI Consumption,(1000 MT),26981.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,FSI Consumption,(1000 MT),26752.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,FSI Consumption,(1000 MT),25573.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,FSI Consumption,(1000 MT),26357.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,FSI Consumption,(1000 MT),28030.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,FSI Consumption,(1000 MT),26286.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,FSI Consumption,(1000 MT),26444.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,FSI Consumption,(1000 MT),26862.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,FSI Consumption,(1000 MT),26457.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,FSI Consumption,(1000 MT),29161.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,FSI Consumption,(1000 MT),27035.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,FSI Consumption,(1000 MT),25672.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,FSI Consumption,(1000 MT),24663.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,FSI Consumption,(1000 MT),23726.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,FSI Consumption,(1000 MT),29294.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,FSI Consumption,(1000 MT),27304.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,FSI Consumption,(1000 MT),26485.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,FSI Consumption,(1000 MT),24929.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,FSI Consumption,(1000 MT),28846.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,FSI Consumption,(1000 MT),27277.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,FSI Consumption,(1000 MT),28697.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,FSI Consumption,(1000 MT),26816.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,FSI Consumption,(1000 MT),28751.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,FSI Consumption,(1000 MT),26478.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,FSI Consumption,(1000 MT),29016.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,FSI Consumption,(1000 MT),27277.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,FSI Consumption,(1000 MT),25609.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,FSI Consumption,(1000 MT),26884.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,FSI Consumption,(1000 MT),22837.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,FSI Consumption,(1000 MT),31922.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,FSI Consumption,(1000 MT),27285.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,FSI Consumption,(1000 MT),29570.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,FSI Consumption,(1000 MT),29824.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,FSI Consumption,(1000 MT),31623.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,FSI Consumption,(1000 MT),32495.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,FSI Consumption,(1000 MT),24801.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,FSI Consumption,(1000 MT),30019.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,FSI Consumption,(1000 MT),24973.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,FSI Consumption,(1000 MT),24807.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,FSI Consumption,(1000 MT),23835.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,FSI Consumption,(1000 MT),25633.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,FSI Consumption,(1000 MT),25121.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,FSI Consumption,(1000 MT),27077.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,FSI Consumption,(1000 MT),26561.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,FSI Consumption,(1000 MT),29196.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,FSI Consumption,(1000 MT),28650.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,FSI Consumption,(1000 MT),31120.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,FSI Consumption,(1000 MT),26333.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,FSI Consumption,(1000 MT),30341.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,FSI Consumption,(1000 MT),27786.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,FSI Consumption,(1000 MT),29011.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,FSI Consumption,(1000 MT),28610.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,FSI Consumption,(1000 MT),28027.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,Feed Dom. Consumption,(1000 MT),2426.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Feed Dom. Consumption,(1000 MT),1756.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Feed Dom. Consumption,(1000 MT),1467.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Feed Dom. Consumption,(1000 MT),312.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Feed Dom. Consumption,(1000 MT),2358.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Feed Dom. Consumption,(1000 MT),1182.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Feed Dom. Consumption,(1000 MT),2056.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Feed Dom. Consumption,(1000 MT),2253.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Feed Dom. Consumption,(1000 MT),1685.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Feed Dom. Consumption,(1000 MT),2122.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Feed Dom. Consumption,(1000 MT),1463.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Feed Dom. Consumption,(1000 MT),1393.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Feed Dom. Consumption,(1000 MT),1553.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Feed Dom. Consumption,(1000 MT),3690.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Feed Dom. Consumption,(1000 MT),2120.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Feed Dom. Consumption,(1000 MT),1057.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Feed Dom. Consumption,(1000 MT),2638.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Feed Dom. Consumption,(1000 MT),1391.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Feed Dom. Consumption,(1000 MT),1861.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Feed Dom. Consumption,(1000 MT),965.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Feed Dom. Consumption,(1000 MT),1091.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Feed Dom. Consumption,(1000 MT),1740.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Feed Dom. Consumption,(1000 MT),1801.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Feed Dom. Consumption,(1000 MT),1913.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Feed Dom. Consumption,(1000 MT),1745.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Feed Dom. Consumption,(1000 MT),2771.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Feed Dom. Consumption,(1000 MT),2127.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Feed Dom. Consumption,(1000 MT),3114.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Feed Dom. Consumption,(1000 MT),2472.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Feed Dom. Consumption,(1000 MT),3241.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Feed Dom. Consumption,(1000 MT),2785.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Feed Dom. Consumption,(1000 MT),1181.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Feed Dom. Consumption,(1000 MT),1822.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Feed Dom. Consumption,(1000 MT),1323.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Feed Dom. Consumption,(1000 MT),801.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Feed Dom. Consumption,(1000 MT),953.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Feed Dom. Consumption,(1000 MT),909.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Feed Dom. Consumption,(1000 MT),1692.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Feed Dom. Consumption,(1000 MT),1510.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Feed Dom. Consumption,(1000 MT),1428.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Feed Dom. Consumption,(1000 MT),1761.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Feed Dom. Consumption,(1000 MT),1378.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Feed Dom. Consumption,(1000 MT),822.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Feed Dom. Consumption,(1000 MT),1886.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Feed Dom. Consumption,(1000 MT),1716.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Feed Dom. Consumption,(1000 MT),1216.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Feed Dom. Consumption,(1000 MT),1264.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Feed Dom. Consumption,(1000 MT),1275.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Feed Dom. Consumption,(1000 MT),1468.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Feed Dom. Consumption,(1000 MT),849.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Feed Dom. Consumption,(1000 MT),1263.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Feed Dom. Consumption,(1000 MT),2190.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Feed Dom. Consumption,(1000 MT),1585.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Feed Dom. Consumption,(1000 MT),1868.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Feed Dom. Consumption,(1000 MT),1910.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Feed Dom. Consumption,(1000 MT),1552.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Feed Dom. Consumption,(1000 MT),1955.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Feed Dom. Consumption,(1000 MT),1622.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Feed Dom. Consumption,(1000 MT),819.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Feed Dom. Consumption,(1000 MT),1481.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Feed Dom. Consumption,(1000 MT),1671.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Feed Dom. Consumption,(1000 MT),1617.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Feed Dom. Consumption,(1000 MT),1736.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Feed Dom. Consumption,(1000 MT),1923.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Feed Dom. Consumption,(1000 MT),1592.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Feed Dom. Consumption,(1000 MT),1581.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Feed Dom. Consumption,(1000 MT),1517.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,Imports,(1000 MT),8.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Imports,(1000 MT),10.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Imports,(1000 MT),9.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Imports,(1000 MT),11.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Imports,(1000 MT),16.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Imports,(1000 MT),32.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Imports,(1000 MT),21.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Imports,(1000 MT),37.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Imports,(1000 MT),15.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Imports,(1000 MT),13.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Imports,(1000 MT),5.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Imports,(1000 MT),3.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Imports,(1000 MT),3.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Imports,(1000 MT),11.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Imports,(1000 MT),9.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Imports,(1000 MT),51.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Imports,(1000 MT),78.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Imports,(1000 MT),67.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Imports,(1000 MT),81.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Imports,(1000 MT),68.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Imports,(1000 MT),83.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Imports,(1000 MT),89.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Imports,(1000 MT),101.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Imports,(1000 MT),180.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Imports,(1000 MT),97.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Imports,(1000 MT),58.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Imports,(1000 MT),84.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Imports,(1000 MT),78.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Imports,(1000 MT),47.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Imports,(1000 MT),45.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Imports,(1000 MT),62.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Imports,(1000 MT),60.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Imports,(1000 MT),70.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Imports,(1000 MT),45.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Imports,(1000 MT),10.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Imports,(1000 MT),10.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Imports,(1000 MT),10.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Imports,(1000 MT),10.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Imports,(1000 MT),0.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Imports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Imports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Imports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Imports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,Production,(1000 MT),22539.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Production,(1000 MT),24291.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Production,(1000 MT),24009.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Production,(1000 MT),23946.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Production,(1000 MT),27145.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Production,(1000 MT),23594.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Production,(1000 MT),25388.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Production,(1000 MT),28826.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Production,(1000 MT),25438.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Production,(1000 MT),29059.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Production,(1000 MT),32144.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Production,(1000 MT),28998.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Production,(1000 MT),24635.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Production,(1000 MT),33025.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Production,(1000 MT),28896.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Production,(1000 MT),28636.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Production,(1000 MT),28392.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Production,(1000 MT),27494.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Production,(1000 MT),30168.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Production,(1000 MT),26429.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Production,(1000 MT),27614.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Production,(1000 MT),28657.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Production,(1000 MT),28054.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Production,(1000 MT),31673.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Production,(1000 MT),28246.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Production,(1000 MT),27867.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Production,(1000 MT),26519.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Production,(1000 MT),25926.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Production,(1000 MT),31710.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Production,(1000 MT),30157.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Production,(1000 MT),29283.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Production,(1000 MT),26083.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Production,(1000 MT),31388.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Production,(1000 MT),27460.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Production,(1000 MT),29320.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Production,(1000 MT),27764.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Production,(1000 MT),29789.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Production,(1000 MT),28131.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Production,(1000 MT),30566.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Production,(1000 MT),28615.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Production,(1000 MT),27348.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Production,(1000 MT),28347.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Production,(1000 MT),23553.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Production,(1000 MT),34247.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Production,(1000 MT),29002.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Production,(1000 MT),30395.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Production,(1000 MT),31135.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Production,(1000 MT),33071.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Production,(1000 MT),33835.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Production,(1000 MT),25627.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Production,(1000 MT),31797.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Production,(1000 MT),26922.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Production,(1000 MT),26261.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Production,(1000 MT),25766.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Production,(1000 MT),27633.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Production,(1000 MT),26364.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Production,(1000 MT),29292.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Production,(1000 MT),28323.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Production,(1000 MT),29651.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Production,(1000 MT),30420.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Production,(1000 MT),32799.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Production,(1000 MT),27958.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Production,(1000 MT),32134.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Production,(1000 MT),29649.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Production,(1000 MT),30841.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Production,(1000 MT),30019.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Production,(1000 MT),29344.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,TY Exports,(1000 MT),84.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,TY Exports,(1000 MT),208.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,TY Exports,(1000 MT),93.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,TY Exports,(1000 MT),158.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,TY Exports,(1000 MT),188.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,TY Exports,(1000 MT),117.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,TY Exports,(1000 MT),245.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,TY Exports,(1000 MT),157.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,TY Exports,(1000 MT),117.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,TY Exports,(1000 MT),72.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,TY Exports,(1000 MT),90.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,TY Exports,(1000 MT),104.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,TY Exports,(1000 MT),107.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,TY Exports,(1000 MT),124.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,TY Exports,(1000 MT),91.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,TY Exports,(1000 MT),122.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,TY Exports,(1000 MT),222.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,TY Exports,(1000 MT),215.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,TY Exports,(1000 MT),190.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,TY Exports,(1000 MT),112.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,TY Exports,(1000 MT),122.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,TY Exports,(1000 MT),123.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,TY Exports,(1000 MT),105.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,TY Exports,(1000 MT),79.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,TY Exports,(1000 MT),97.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,TY Exports,(1000 MT),61.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,TY Exports,(1000 MT),65.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,TY Exports,(1000 MT),117.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,TY Exports,(1000 MT),30.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,TY Exports,(1000 MT),48.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,TY Exports,(1000 MT),51.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,TY Exports,(1000 MT),30.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,TY Exports,(1000 MT),30.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,TY Exports,(1000 MT),5.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,TY Exports,(1000 MT),5.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,TY Exports,(1000 MT),5.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,TY Exports,(1000 MT),20.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,TY Exports,(1000 MT),20.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,TY Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,TY Exports,(1000 MT),0.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,TY Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,TY Exports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,TY Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,TY Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,TY Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,TY Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,TY Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,TY Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,TY Exports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,TY Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,TY Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,TY Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,TY Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,TY Exports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,TY Exports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,TY Exports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,TY Exports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,TY Exports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,TY Imp. from U.S.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,TY Imp. from U.S.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,TY Imp. from U.S.,(1000 MT),0.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,TY Imp. from U.S.,(1000 MT),0.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,TY Imp. from U.S.,(1000 MT),0.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,TY Imp. from U.S.,(1000 MT),2.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,TY Imp. from U.S.,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,TY Imp. from U.S.,(1000 MT),5.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,TY Imp. from U.S.,(1000 MT),6.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,TY Imp. from U.S.,(1000 MT),14.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,TY Imp. from U.S.,(1000 MT),19.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,TY Imp. from U.S.,(1000 MT),19.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,TY Imp. from U.S.,(1000 MT),34.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,TY Imp. from U.S.,(1000 MT),7.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,TY Imp. from U.S.,(1000 MT),0.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,TY Imp. from U.S.,(1000 MT),9.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,TY Imp. from U.S.,(1000 MT),2.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,TY Imp. from U.S.,(1000 MT),20.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,TY Imp. from U.S.,(1000 MT),0.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,TY Imp. from U.S.,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,TY Imp. from U.S.,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,TY Imp. from U.S.,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,TY Imp. from U.S.,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,TY Imp. from U.S.,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,TY Imp. from U.S.,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,TY Imp. from U.S.,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,TY Imports,(1000 MT),8.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,TY Imports,(1000 MT),10.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,TY Imports,(1000 MT),9.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,TY Imports,(1000 MT),11.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,TY Imports,(1000 MT),16.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,TY Imports,(1000 MT),32.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,TY Imports,(1000 MT),21.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,TY Imports,(1000 MT),37.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,TY Imports,(1000 MT),15.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,TY Imports,(1000 MT),13.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,TY Imports,(1000 MT),5.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,TY Imports,(1000 MT),3.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,TY Imports,(1000 MT),3.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,TY Imports,(1000 MT),11.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,TY Imports,(1000 MT),7.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,TY Imports,(1000 MT),63.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,TY Imports,(1000 MT),78.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,TY Imports,(1000 MT),67.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,TY Imports,(1000 MT),81.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,TY Imports,(1000 MT),68.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,TY Imports,(1000 MT),84.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,TY Imports,(1000 MT),90.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,TY Imports,(1000 MT),102.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,TY Imports,(1000 MT),179.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,TY Imports,(1000 MT),97.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,TY Imports,(1000 MT),59.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,TY Imports,(1000 MT),84.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,TY Imports,(1000 MT),76.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,TY Imports,(1000 MT),47.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,TY Imports,(1000 MT),39.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,TY Imports,(1000 MT),62.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,TY Imports,(1000 MT),60.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,TY Imports,(1000 MT),70.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,TY Imports,(1000 MT),45.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,TY Imports,(1000 MT),10.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,TY Imports,(1000 MT),10.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,TY Imports,(1000 MT),10.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,TY Imports,(1000 MT),10.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,TY Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,TY Imports,(1000 MT),0.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,TY Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,TY Imports,(1000 MT),0.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,TY Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,TY Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,TY Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,TY Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,TY Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,TY Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,TY Imports,(1000 MT),0.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,TY Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,TY Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,TY Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,TY Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,TY Imports,(1000 MT),0.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,TY Imports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,TY Imports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,TY Imports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,TY Imports,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,Total Distribution,(1000 MT),23642.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Total Distribution,(1000 MT),24764.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Total Distribution,(1000 MT),25439.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Total Distribution,(1000 MT),25412.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Total Distribution,(1000 MT),28544.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Total Distribution,(1000 MT),24719.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Total Distribution,(1000 MT),26265.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Total Distribution,(1000 MT),30026.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Total Distribution,(1000 MT),26996.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Total Distribution,(1000 MT),30614.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Total Distribution,(1000 MT),36795.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Total Distribution,(1000 MT),32548.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Total Distribution,(1000 MT),27939.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Total Distribution,(1000 MT),35873.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Total Distribution,(1000 MT),32403.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Total Distribution,(1000 MT),31875.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Total Distribution,(1000 MT),32388.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Total Distribution,(1000 MT),31554.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Total Distribution,(1000 MT),33832.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Total Distribution,(1000 MT),30257.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Total Distribution,(1000 MT),30630.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Total Distribution,(1000 MT),31686.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Total Distribution,(1000 MT),31119.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Total Distribution,(1000 MT),34597.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Total Distribution,(1000 MT),31800.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Total Distribution,(1000 MT),30845.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Total Distribution,(1000 MT),28943.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Total Distribution,(1000 MT),28108.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Total Distribution,(1000 MT),32895.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Total Distribution,(1000 MT),31287.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Total Distribution,(1000 MT),30040.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Total Distribution,(1000 MT),26862.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Total Distribution,(1000 MT),32176.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Total Distribution,(1000 MT),28983.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Total Distribution,(1000 MT),29708.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Total Distribution,(1000 MT),27979.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Total Distribution,(1000 MT),30004.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Total Distribution,(1000 MT),28465.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Total Distribution,(1000 MT),30841.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Total Distribution,(1000 MT),28930.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Total Distribution,(1000 MT),27573.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Total Distribution,(1000 MT),28550.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Total Distribution,(1000 MT),23841.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Total Distribution,(1000 MT),34429.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Total Distribution,(1000 MT),29623.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Total Distribution,(1000 MT),31017.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Total Distribution,(1000 MT),31366.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Total Distribution,(1000 MT),33349.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Total Distribution,(1000 MT),34286.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Total Distribution,(1000 MT),25950.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Total Distribution,(1000 MT),32097.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Total Distribution,(1000 MT),27737.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Total Distribution,(1000 MT),26835.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Total Distribution,(1000 MT),26209.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Total Distribution,(1000 MT),28139.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Total Distribution,(1000 MT),26960.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Total Distribution,(1000 MT),29579.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Total Distribution,(1000 MT),28870.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Total Distribution,(1000 MT),30338.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Total Distribution,(1000 MT),30743.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Total Distribution,(1000 MT),33411.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Total Distribution,(1000 MT),28578.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Total Distribution,(1000 MT),32762.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Total Distribution,(1000 MT),30334.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Total Distribution,(1000 MT),31466.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Total Distribution,(1000 MT),30882.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Total Distribution,(1000 MT),30035.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1960,Total Supply,(1000 MT),23642.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1961,Total Supply,(1000 MT),24764.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1962,Total Supply,(1000 MT),25439.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1963,Total Supply,(1000 MT),25412.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1964,Total Supply,(1000 MT),28544.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1965,Total Supply,(1000 MT),24719.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1966,Total Supply,(1000 MT),26265.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1967,Total Supply,(1000 MT),30026.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1968,Total Supply,(1000 MT),26996.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1969,Total Supply,(1000 MT),30614.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1970,Total Supply,(1000 MT),36795.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1971,Total Supply,(1000 MT),32548.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1972,Total Supply,(1000 MT),27939.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1973,Total Supply,(1000 MT),35873.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1974,Total Supply,(1000 MT),32403.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1975,Total Supply,(1000 MT),31875.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1976,Total Supply,(1000 MT),32388.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1977,Total Supply,(1000 MT),31554.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1978,Total Supply,(1000 MT),33832.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1979,Total Supply,(1000 MT),30257.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1980,Total Supply,(1000 MT),30630.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1981,Total Supply,(1000 MT),31686.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1982,Total Supply,(1000 MT),31119.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1983,Total Supply,(1000 MT),34597.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1984,Total Supply,(1000 MT),31800.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1985,Total Supply,(1000 MT),30845.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1986,Total Supply,(1000 MT),28943.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1987,Total Supply,(1000 MT),28108.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1988,Total Supply,(1000 MT),32895.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1989,Total Supply,(1000 MT),31287.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1990,Total Supply,(1000 MT),30040.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1991,Total Supply,(1000 MT),26862.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1992,Total Supply,(1000 MT),32176.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1993,Total Supply,(1000 MT),28983.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1994,Total Supply,(1000 MT),29708.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1995,Total Supply,(1000 MT),27979.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1996,Total Supply,(1000 MT),30004.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1997,Total Supply,(1000 MT),28465.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1998,Total Supply,(1000 MT),30841.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,1999,Total Supply,(1000 MT),28930.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2000,Total Supply,(1000 MT),27573.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2001,Total Supply,(1000 MT),28550.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2002,Total Supply,(1000 MT),23841.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2003,Total Supply,(1000 MT),34429.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2004,Total Supply,(1000 MT),29623.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2005,Total Supply,(1000 MT),31017.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2006,Total Supply,(1000 MT),31366.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2007,Total Supply,(1000 MT),33349.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2008,Total Supply,(1000 MT),34286.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2009,Total Supply,(1000 MT),25950.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2010,Total Supply,(1000 MT),32097.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2011,Total Supply,(1000 MT),27737.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2012,Total Supply,(1000 MT),26835.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2013,Total Supply,(1000 MT),26209.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2014,Total Supply,(1000 MT),28139.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2015,Total Supply,(1000 MT),26960.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2016,Total Supply,(1000 MT),29579.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2017,Total Supply,(1000 MT),28870.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2018,Total Supply,(1000 MT),30338.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2019,Total Supply,(1000 MT),30743.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2020,Total Supply,(1000 MT),33411.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2021,Total Supply,(1000 MT),28578.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2022,Total Supply,(1000 MT),32762.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2023,Total Supply,(1000 MT),30334.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2024,Total Supply,(1000 MT),31466.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2025,Total Supply,(1000 MT),30882.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Millet,World,2026,Total Supply,(1000 MT),30035.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

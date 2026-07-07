@@ -1,0 +1,568 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Dairy, Milk, Nonfat Dry",United States,1964,Beginning Stocks,(1000 MT),0.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1965,Beginning Stocks,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1966,Beginning Stocks,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1967,Beginning Stocks,(1000 MT),54.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1968,Beginning Stocks,(1000 MT),117.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1969,Beginning Stocks,(1000 MT),126.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1970,Beginning Stocks,(1000 MT),101.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1971,Beginning Stocks,(1000 MT),63.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1972,Beginning Stocks,(1000 MT),41.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1973,Beginning Stocks,(1000 MT),20.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1974,Beginning Stocks,(1000 MT),34.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1975,Beginning Stocks,(1000 MT),133.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1976,Beginning Stocks,(1000 MT),213.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1977,Beginning Stocks,(1000 MT),220.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1978,Beginning Stocks,(1000 MT),307.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1979,Beginning Stocks,(1000 MT),265.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1980,Beginning Stocks,(1000 MT),220.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1981,Beginning Stocks,(1000 MT),266.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1982,Beginning Stocks,(1000 MT),404.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1983,Beginning Stocks,(1000 MT),581.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1984,Beginning Stocks,(1000 MT),637.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1985,Beginning Stocks,(1000 MT),566.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1986,Beginning Stocks,(1000 MT),459.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1987,Beginning Stocks,(1000 MT),312.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1988,Beginning Stocks,(1000 MT),80.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1989,Beginning Stocks,(1000 MT),24.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1990,Beginning Stocks,(1000 MT),22.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1991,Beginning Stocks,(1000 MT),73.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1992,Beginning Stocks,(1000 MT),97.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1993,Beginning Stocks,(1000 MT),37.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1994,Beginning Stocks,(1000 MT),41.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1995,Beginning Stocks,(1000 MT),60.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1996,Beginning Stocks,(1000 MT),39.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1997,Beginning Stocks,(1000 MT),33.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1998,Beginning Stocks,(1000 MT),57.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1999,Beginning Stocks,(1000 MT),70.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2000,Beginning Stocks,(1000 MT),130.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2001,Beginning Stocks,(1000 MT),301.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2002,Beginning Stocks,(1000 MT),409.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2003,Beginning Stocks,(1000 MT),521.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2004,Beginning Stocks,(1000 MT),446.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2005,Beginning Stocks,(1000 MT),233.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2006,Beginning Stocks,(1000 MT),84.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2007,Beginning Stocks,(1000 MT),49.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2008,Beginning Stocks,(1000 MT),76.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2009,Beginning Stocks,(1000 MT),113.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2010,Beginning Stocks,(1000 MT),88.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2011,Beginning Stocks,(1000 MT),66.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2012,Beginning Stocks,(1000 MT),75.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2013,Beginning Stocks,(1000 MT),84.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2014,Beginning Stocks,(1000 MT),62.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2015,Beginning Stocks,(1000 MT),110.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2016,Beginning Stocks,(1000 MT),93.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2017,Beginning Stocks,(1000 MT),103.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2018,Beginning Stocks,(1000 MT),146.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2019,Beginning Stocks,(1000 MT),133.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2020,Beginning Stocks,(1000 MT),118.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2021,Beginning Stocks,(1000 MT),134.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2022,Beginning Stocks,(1000 MT),117.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2023,Beginning Stocks,(1000 MT),120.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2024,Beginning Stocks,(1000 MT),91.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2025,Beginning Stocks,(1000 MT),95.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2026,Beginning Stocks,(1000 MT),95.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1964,Domestic Consumption,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1965,Domestic Consumption,(1000 MT),11.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1966,Domestic Consumption,(1000 MT),110.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1967,Domestic Consumption,(1000 MT),502.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1968,Domestic Consumption,(1000 MT),525.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1969,Domestic Consumption,(1000 MT),531.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1970,Domestic Consumption,(1000 MT),510.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1971,Domestic Consumption,(1000 MT),509.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1972,Domestic Consumption,(1000 MT),455.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1973,Domestic Consumption,(1000 MT),519.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1974,Domestic Consumption,(1000 MT),414.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1975,Domestic Consumption,(1000 MT),328.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1976,Domestic Consumption,(1000 MT),360.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1977,Domestic Consumption,(1000 MT),349.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1978,Domestic Consumption,(1000 MT),345.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1979,Domestic Consumption,(1000 MT),377.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1980,Domestic Consumption,(1000 MT),355.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1981,Domestic Consumption,(1000 MT),256.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1982,Domestic Consumption,(1000 MT),261.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1983,Domestic Consumption,(1000 MT),281.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1984,Domestic Consumption,(1000 MT),322.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1985,Domestic Consumption,(1000 MT),296.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1986,Domestic Consumption,(1000 MT),323.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1987,Domestic Consumption,(1000 MT),333.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1988,Domestic Consumption,(1000 MT),321.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1989,Domestic Consumption,(1000 MT),262.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1990,Domestic Consumption,(1000 MT),348.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1991,Domestic Consumption,(1000 MT),309.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1992,Domestic Consumption,(1000 MT),343.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1993,Domestic Consumption,(1000 MT),295.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1994,Domestic Consumption,(1000 MT),421.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1995,Domestic Consumption,(1000 MT),421.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1996,Domestic Consumption,(1000 MT),461.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1997,Domestic Consumption,(1000 MT),416.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1998,Domestic Consumption,(1000 MT),404.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1999,Domestic Consumption,(1000 MT),346.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2000,Domestic Consumption,(1000 MT),351.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2001,Domestic Consumption,(1000 MT),443.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2002,Domestic Consumption,(1000 MT),494.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2003,Domestic Consumption,(1000 MT),658.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2004,Domestic Consumption,(1000 MT),625.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2005,Domestic Consumption,(1000 MT),571.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2006,Domestic Consumption,(1000 MT),438.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2007,Domestic Consumption,(1000 MT),398.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2008,Domestic Consumption,(1000 MT),434.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2009,Domestic Consumption,(1000 MT),567.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2010,Domestic Consumption,(1000 MT),466.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2011,Domestic Consumption,(1000 MT),442.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2012,Domestic Consumption,(1000 MT),526.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2013,Domestic Consumption,(1000 MT),429.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2014,Domestic Consumption,(1000 MT),462.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2015,Domestic Consumption,(1000 MT),496.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2016,Domestic Consumption,(1000 MT),450.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2017,Domestic Consumption,(1000 MT),430.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2018,Domestic Consumption,(1000 MT),369.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2019,Domestic Consumption,(1000 MT),422.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2020,Domestic Consumption,(1000 MT),384.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2021,Domestic Consumption,(1000 MT),388.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2022,Domestic Consumption,(1000 MT),353.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2023,Domestic Consumption,(1000 MT),386.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2024,Domestic Consumption,(1000 MT),385.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2025,Domestic Consumption,(1000 MT),328.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2026,Domestic Consumption,(1000 MT),384.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1964,Ending Stocks,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1965,Ending Stocks,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1966,Ending Stocks,(1000 MT),100.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1967,Ending Stocks,(1000 MT),117.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1968,Ending Stocks,(1000 MT),126.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1969,Ending Stocks,(1000 MT),101.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1970,Ending Stocks,(1000 MT),63.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1971,Ending Stocks,(1000 MT),41.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1972,Ending Stocks,(1000 MT),20.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1973,Ending Stocks,(1000 MT),34.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1974,Ending Stocks,(1000 MT),133.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1975,Ending Stocks,(1000 MT),213.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1976,Ending Stocks,(1000 MT),220.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1977,Ending Stocks,(1000 MT),307.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1978,Ending Stocks,(1000 MT),265.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1979,Ending Stocks,(1000 MT),220.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1980,Ending Stocks,(1000 MT),266.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1981,Ending Stocks,(1000 MT),404.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1982,Ending Stocks,(1000 MT),581.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1983,Ending Stocks,(1000 MT),637.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1984,Ending Stocks,(1000 MT),566.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1985,Ending Stocks,(1000 MT),459.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1986,Ending Stocks,(1000 MT),312.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1987,Ending Stocks,(1000 MT),80.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1988,Ending Stocks,(1000 MT),24.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1989,Ending Stocks,(1000 MT),22.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1990,Ending Stocks,(1000 MT),73.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1991,Ending Stocks,(1000 MT),97.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1992,Ending Stocks,(1000 MT),37.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1993,Ending Stocks,(1000 MT),41.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1994,Ending Stocks,(1000 MT),60.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1995,Ending Stocks,(1000 MT),39.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1996,Ending Stocks,(1000 MT),33.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1997,Ending Stocks,(1000 MT),57.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1998,Ending Stocks,(1000 MT),70.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1999,Ending Stocks,(1000 MT),130.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2000,Ending Stocks,(1000 MT),301.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2001,Ending Stocks,(1000 MT),409.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2002,Ending Stocks,(1000 MT),521.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2003,Ending Stocks,(1000 MT),446.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2004,Ending Stocks,(1000 MT),233.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2005,Ending Stocks,(1000 MT),84.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2006,Ending Stocks,(1000 MT),49.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2007,Ending Stocks,(1000 MT),76.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2008,Ending Stocks,(1000 MT),113.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2009,Ending Stocks,(1000 MT),88.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2010,Ending Stocks,(1000 MT),66.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2011,Ending Stocks,(1000 MT),75.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2012,Ending Stocks,(1000 MT),84.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2013,Ending Stocks,(1000 MT),62.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2014,Ending Stocks,(1000 MT),110.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2015,Ending Stocks,(1000 MT),93.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2016,Ending Stocks,(1000 MT),103.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2017,Ending Stocks,(1000 MT),146.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2018,Ending Stocks,(1000 MT),133.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2019,Ending Stocks,(1000 MT),118.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2020,Ending Stocks,(1000 MT),134.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2021,Ending Stocks,(1000 MT),117.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2022,Ending Stocks,(1000 MT),120.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2023,Ending Stocks,(1000 MT),91.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2024,Ending Stocks,(1000 MT),95.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2025,Ending Stocks,(1000 MT),95.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2026,Ending Stocks,(1000 MT),95.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1964,Exports,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1965,Exports,(1000 MT),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1966,Exports,(1000 MT),100.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1967,Exports,(1000 MT),197.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1968,Exports,(1000 MT),190.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1969,Exports,(1000 MT),154.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1970,Exports,(1000 MT),189.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1971,Exports,(1000 MT),162.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1972,Exports,(1000 MT),128.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1973,Exports,(1000 MT),8.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1974,Exports,(1000 MT),4.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1975,Exports,(1000 MT),51.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1976,Exports,(1000 MT),57.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1977,Exports,(1000 MT),71.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1978,Exports,(1000 MT),118.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1979,Exports,(1000 MT),84.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1980,Exports,(1000 MT),131.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1981,Exports,(1000 MT),207.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1982,Exports,(1000 MT),203.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1983,Exports,(1000 MT),349.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1984,Exports,(1000 MT),280.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1985,Exports,(1000 MT),446.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1986,Exports,(1000 MT),412.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1987,Exports,(1000 MT),388.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1988,Exports,(1000 MT),189.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1989,Exports,(1000 MT),146.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1990,Exports,(1000 MT),10.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1991,Exports,(1000 MT),68.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1992,Exports,(1000 MT),118.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1993,Exports,(1000 MT),138.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1994,Exports,(1000 MT),123.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1995,Exports,(1000 MT),164.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1996,Exports,(1000 MT),31.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1997,Exports,(1000 MT),117.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1998,Exports,(1000 MT),103.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1999,Exports,(1000 MT),217.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2000,Exports,(1000 MT),142.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2001,Exports,(1000 MT),96.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2002,Exports,(1000 MT),126.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2003,Exports,(1000 MT),141.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2004,Exports,(1000 MT),232.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2005,Exports,(1000 MT),277.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2006,Exports,(1000 MT),287.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2007,Exports,(1000 MT),258.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2008,Exports,(1000 MT),391.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2009,Exports,(1000 MT),248.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2010,Exports,(1000 MT),384.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2011,Exports,(1000 MT),435.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2012,Exports,(1000 MT),444.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2013,Exports,(1000 MT),555.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2014,Exports,(1000 MT),545.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2015,Exports,(1000 MT),558.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2016,Exports,(1000 MT),594.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2017,Exports,(1000 MT),606.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2018,Exports,(1000 MT),712.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2019,Exports,(1000 MT),701.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2020,Exports,(1000 MT),810.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2021,Exports,(1000 MT),879.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2022,Exports,(1000 MT),834.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2023,Exports,(1000 MT),809.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2024,Exports,(1000 MT),744.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2025,Exports,(1000 MT),669.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2026,Exports,(1000 MT),668.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1964,Imports,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1965,Imports,(1000 MT),11.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1966,Imports,(1000 MT),110.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1967,Imports,(1000 MT),0.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1968,Imports,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1969,Imports,(1000 MT),1.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1970,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1971,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1972,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1973,Imports,(1000 MT),121.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1974,Imports,(1000 MT),52.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1975,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1976,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1977,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1978,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1979,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1980,Imports,(1000 MT),2.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1981,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1982,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1983,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1984,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1985,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1986,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1987,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1988,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1989,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1990,Imports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1991,Imports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1992,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1993,Imports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1994,Imports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1995,Imports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1996,Imports,(1000 MT),2.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1997,Imports,(1000 MT),2.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1998,Imports,(1000 MT),3.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1999,Imports,(1000 MT),4.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2000,Imports,(1000 MT),3.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2001,Imports,(1000 MT),3.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2002,Imports,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2003,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2004,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2005,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2006,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2007,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2008,Imports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2009,Imports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2010,Imports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2011,Imports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2012,Imports,(1000 MT),2.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2013,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2014,Imports,(1000 MT),3.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2015,Imports,(1000 MT),3.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2016,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2017,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2018,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2019,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2020,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2021,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2022,Imports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2023,Imports,(1000 MT),1.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2024,Imports,(1000 MT),1.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2025,Imports,(1000 MT),2.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2026,Imports,(1000 MT),2.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1964,Production,(1000 MT),2.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1965,Production,(1000 MT),19.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1966,Production,(1000 MT),190.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1967,Production,(1000 MT),762.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1968,Production,(1000 MT),723.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1969,Production,(1000 MT),659.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1970,Production,(1000 MT),660.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1971,Production,(1000 MT),648.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1972,Production,(1000 MT),561.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1973,Production,(1000 MT),420.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1974,Production,(1000 MT),465.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1975,Production,(1000 MT),458.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1976,Production,(1000 MT),423.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1977,Production,(1000 MT),506.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1978,Production,(1000 MT),420.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1979,Production,(1000 MT),415.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1980,Production,(1000 MT),530.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1981,Production,(1000 MT),600.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1982,Production,(1000 MT),640.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1983,Production,(1000 MT),685.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1984,Production,(1000 MT),530.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1985,Production,(1000 MT),634.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1986,Production,(1000 MT),587.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1987,Production,(1000 MT),488.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1988,Production,(1000 MT),453.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1989,Production,(1000 MT),405.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1990,Production,(1000 MT),409.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1991,Production,(1000 MT),401.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1992,Production,(1000 MT),400.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1993,Production,(1000 MT),437.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1994,Production,(1000 MT),563.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1995,Production,(1000 MT),564.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1996,Production,(1000 MT),484.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1997,Production,(1000 MT),555.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1998,Production,(1000 MT),517.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1999,Production,(1000 MT),619.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2000,Production,(1000 MT),661.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2001,Production,(1000 MT),644.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2002,Production,(1000 MT),727.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2003,Production,(1000 MT),723.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2004,Production,(1000 MT),643.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2005,Production,(1000 MT),698.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2006,Production,(1000 MT),689.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2007,Production,(1000 MT),682.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2008,Production,(1000 MT),862.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2009,Production,(1000 MT),790.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2010,Production,(1000 MT),828.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2011,Production,(1000 MT),886.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2012,Production,(1000 MT),977.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2013,Production,(1000 MT),961.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2014,Production,(1000 MT),1052.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2015,Production,(1000 MT),1034.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2016,Production,(1000 MT),1053.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2017,Production,(1000 MT),1078.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2018,Production,(1000 MT),1067.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2019,Production,(1000 MT),1107.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2020,Production,(1000 MT),1209.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2021,Production,(1000 MT),1249.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2022,Production,(1000 MT),1189.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2023,Production,(1000 MT),1165.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2024,Production,(1000 MT),1132.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2025,Production,(1000 MT),995.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2026,Production,(1000 MT),1050.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1964,Total Distribution,(1000 MT),3.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1965,Total Distribution,(1000 MT),31.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1966,Total Distribution,(1000 MT),310.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1967,Total Distribution,(1000 MT),816.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1968,Total Distribution,(1000 MT),841.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1969,Total Distribution,(1000 MT),786.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1970,Total Distribution,(1000 MT),762.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1971,Total Distribution,(1000 MT),712.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1972,Total Distribution,(1000 MT),603.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1973,Total Distribution,(1000 MT),561.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1974,Total Distribution,(1000 MT),551.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1975,Total Distribution,(1000 MT),592.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1976,Total Distribution,(1000 MT),637.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1977,Total Distribution,(1000 MT),727.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1978,Total Distribution,(1000 MT),728.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1979,Total Distribution,(1000 MT),681.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1980,Total Distribution,(1000 MT),752.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1981,Total Distribution,(1000 MT),867.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1982,Total Distribution,(1000 MT),1045.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1983,Total Distribution,(1000 MT),1267.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1984,Total Distribution,(1000 MT),1168.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1985,Total Distribution,(1000 MT),1201.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1986,Total Distribution,(1000 MT),1047.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1987,Total Distribution,(1000 MT),801.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1988,Total Distribution,(1000 MT),534.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1989,Total Distribution,(1000 MT),430.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1990,Total Distribution,(1000 MT),431.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1991,Total Distribution,(1000 MT),474.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1992,Total Distribution,(1000 MT),498.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1993,Total Distribution,(1000 MT),474.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1994,Total Distribution,(1000 MT),604.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1995,Total Distribution,(1000 MT),624.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1996,Total Distribution,(1000 MT),525.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1997,Total Distribution,(1000 MT),590.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1998,Total Distribution,(1000 MT),577.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1999,Total Distribution,(1000 MT),693.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2000,Total Distribution,(1000 MT),794.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2001,Total Distribution,(1000 MT),948.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2002,Total Distribution,(1000 MT),1141.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2003,Total Distribution,(1000 MT),1245.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2004,Total Distribution,(1000 MT),1090.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2005,Total Distribution,(1000 MT),932.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2006,Total Distribution,(1000 MT),774.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2007,Total Distribution,(1000 MT),732.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2008,Total Distribution,(1000 MT),938.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2009,Total Distribution,(1000 MT),903.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2010,Total Distribution,(1000 MT),916.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2011,Total Distribution,(1000 MT),952.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2012,Total Distribution,(1000 MT),1054.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2013,Total Distribution,(1000 MT),1046.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2014,Total Distribution,(1000 MT),1117.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2015,Total Distribution,(1000 MT),1147.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2016,Total Distribution,(1000 MT),1147.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2017,Total Distribution,(1000 MT),1182.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2018,Total Distribution,(1000 MT),1214.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2019,Total Distribution,(1000 MT),1241.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2020,Total Distribution,(1000 MT),1328.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2021,Total Distribution,(1000 MT),1384.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2022,Total Distribution,(1000 MT),1307.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2023,Total Distribution,(1000 MT),1286.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2024,Total Distribution,(1000 MT),1224.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2025,Total Distribution,(1000 MT),1092.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2026,Total Distribution,(1000 MT),1147.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1964,Total Supply,(1000 MT),3.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1965,Total Supply,(1000 MT),31.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1966,Total Supply,(1000 MT),310.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1967,Total Supply,(1000 MT),816.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1968,Total Supply,(1000 MT),841.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1969,Total Supply,(1000 MT),786.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1970,Total Supply,(1000 MT),762.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1971,Total Supply,(1000 MT),712.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1972,Total Supply,(1000 MT),603.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1973,Total Supply,(1000 MT),561.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1974,Total Supply,(1000 MT),551.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1975,Total Supply,(1000 MT),592.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1976,Total Supply,(1000 MT),637.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1977,Total Supply,(1000 MT),727.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1978,Total Supply,(1000 MT),728.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1979,Total Supply,(1000 MT),681.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1980,Total Supply,(1000 MT),752.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1981,Total Supply,(1000 MT),867.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1982,Total Supply,(1000 MT),1045.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1983,Total Supply,(1000 MT),1267.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1984,Total Supply,(1000 MT),1168.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1985,Total Supply,(1000 MT),1201.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1986,Total Supply,(1000 MT),1047.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1987,Total Supply,(1000 MT),801.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1988,Total Supply,(1000 MT),534.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1989,Total Supply,(1000 MT),430.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1990,Total Supply,(1000 MT),431.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1991,Total Supply,(1000 MT),474.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1992,Total Supply,(1000 MT),498.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1993,Total Supply,(1000 MT),474.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1994,Total Supply,(1000 MT),604.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1995,Total Supply,(1000 MT),624.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1996,Total Supply,(1000 MT),525.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1997,Total Supply,(1000 MT),590.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1998,Total Supply,(1000 MT),577.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1999,Total Supply,(1000 MT),693.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2000,Total Supply,(1000 MT),794.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2001,Total Supply,(1000 MT),948.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2002,Total Supply,(1000 MT),1141.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2003,Total Supply,(1000 MT),1245.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2004,Total Supply,(1000 MT),1090.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2005,Total Supply,(1000 MT),932.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2006,Total Supply,(1000 MT),774.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2007,Total Supply,(1000 MT),732.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2008,Total Supply,(1000 MT),938.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2009,Total Supply,(1000 MT),903.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2010,Total Supply,(1000 MT),916.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2011,Total Supply,(1000 MT),952.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2012,Total Supply,(1000 MT),1054.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2013,Total Supply,(1000 MT),1046.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2014,Total Supply,(1000 MT),1117.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2015,Total Supply,(1000 MT),1147.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2016,Total Supply,(1000 MT),1147.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2017,Total Supply,(1000 MT),1182.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2018,Total Supply,(1000 MT),1214.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2019,Total Supply,(1000 MT),1241.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2020,Total Supply,(1000 MT),1328.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2021,Total Supply,(1000 MT),1384.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2022,Total Supply,(1000 MT),1307.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2023,Total Supply,(1000 MT),1286.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2024,Total Supply,(1000 MT),1224.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2025,Total Supply,(1000 MT),1092.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2026,Total Supply,(1000 MT),1147.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1964,Total Use,(1000 MT),2.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1965,Total Use,(1000 MT),21.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1966,Total Use,(1000 MT),210.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1967,Total Use,(1000 MT),699.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1968,Total Use,(1000 MT),715.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1969,Total Use,(1000 MT),685.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1970,Total Use,(1000 MT),699.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1971,Total Use,(1000 MT),671.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1972,Total Use,(1000 MT),583.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1973,Total Use,(1000 MT),527.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1974,Total Use,(1000 MT),418.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1975,Total Use,(1000 MT),379.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1976,Total Use,(1000 MT),417.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1977,Total Use,(1000 MT),420.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1978,Total Use,(1000 MT),463.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1979,Total Use,(1000 MT),461.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1980,Total Use,(1000 MT),486.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1981,Total Use,(1000 MT),463.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1982,Total Use,(1000 MT),464.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1983,Total Use,(1000 MT),630.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1984,Total Use,(1000 MT),602.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1985,Total Use,(1000 MT),742.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1986,Total Use,(1000 MT),735.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1987,Total Use,(1000 MT),721.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1988,Total Use,(1000 MT),510.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1989,Total Use,(1000 MT),408.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1990,Total Use,(1000 MT),358.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1991,Total Use,(1000 MT),377.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1992,Total Use,(1000 MT),461.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1993,Total Use,(1000 MT),433.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1994,Total Use,(1000 MT),544.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1995,Total Use,(1000 MT),585.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1996,Total Use,(1000 MT),492.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1997,Total Use,(1000 MT),533.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1998,Total Use,(1000 MT),507.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,1999,Total Use,(1000 MT),563.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2000,Total Use,(1000 MT),493.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2001,Total Use,(1000 MT),539.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2002,Total Use,(1000 MT),620.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2003,Total Use,(1000 MT),799.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2004,Total Use,(1000 MT),857.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2005,Total Use,(1000 MT),848.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2006,Total Use,(1000 MT),725.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2007,Total Use,(1000 MT),656.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2008,Total Use,(1000 MT),825.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2009,Total Use,(1000 MT),815.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2010,Total Use,(1000 MT),850.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2011,Total Use,(1000 MT),877.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2012,Total Use,(1000 MT),970.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2013,Total Use,(1000 MT),984.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2014,Total Use,(1000 MT),1007.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2015,Total Use,(1000 MT),1054.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2016,Total Use,(1000 MT),1044.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2017,Total Use,(1000 MT),1036.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2018,Total Use,(1000 MT),1081.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2019,Total Use,(1000 MT),1123.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2020,Total Use,(1000 MT),1194.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2021,Total Use,(1000 MT),1267.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2022,Total Use,(1000 MT),1187.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2023,Total Use,(1000 MT),1195.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2024,Total Use,(1000 MT),1129.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2025,Total Use,(1000 MT),997.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Milk, Nonfat Dry",United States,2026,Total Use,(1000 MT),1052.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

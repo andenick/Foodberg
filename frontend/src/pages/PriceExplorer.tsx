@@ -1,6 +1,6 @@
 import { BarChart3, Search } from 'lucide-react'
 import { useEffect, useMemo, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useSearchParams } from 'react-router-dom'
 import {
     CartesianGrid,
     Line,
@@ -10,7 +10,7 @@ import {
     XAxis, YAxis
 } from 'recharts'
 import { api } from '../services/api'
-import { useArkTheme } from '../arcanum/arkChartTheme'
+import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 import { ChartMetaStrip, ScrollableDataTable } from '../components/ChartDetails'
 
 // Commodity categories for filtering
@@ -67,6 +67,12 @@ const SOURCE_LABELS: Record<string, string> = {
 // Preferred display order for source tabs.
 const SOURCE_ORDER: Array<'nass' | 'av' | 'pinksheet' | 'retail'> = ['nass', 'av', 'pinksheet', 'retail']
 
+// Commodities with a genuine multi-year Alpha-Vantage spot-price series
+// (1992→present monthly), per the backend /api/prices/history contract. Used
+// to resolve a /explore?commodity=… deep-link even when the commodity is not
+// in the WASDE-derived selectable list.
+const AV_HISTORY_COMMODITIES = new Set(['wheat', 'corn', 'coffee', 'sugar', 'cotton'])
+
 export default function PriceExplorer() {
     const [commodities, setCommodities] = useState<CommodityData[]>([])
     const [coverage, setCoverage] = useState<Record<string, Coverage>>({})
@@ -77,6 +83,7 @@ export default function PriceExplorer() {
     const [selectedCommodity, setSelectedCommodity] = useState<string | null>(null)
     const [selectedSource, setSelectedSource] = useState<string>('nass')
     const [fallbackValue, setFallbackValue] = useState<{ price: number; year: number; unit: string } | null>(null)
+    const [searchParams] = useSearchParams()
     const t = useArkTheme()
 
     useEffect(() => {
@@ -90,8 +97,13 @@ export default function PriceExplorer() {
     }, [])
 
     const covFor = (name: string): Coverage => coverage[name.toLowerCase()] ?? {}
+    // A source is plottable only if it spans ≥2 distinct years (a real time
+    // series). Prefer the explicit n_years count; fall back to points > 1 when
+    // n_years isn't reported. This excludes WASDE-2025-only single-year series.
+    const isMultiYear = (c?: SourceCov): boolean =>
+        !!c && (c.n_years !== undefined ? c.n_years >= 2 : c.points > 1)
     const sourcesFor = (name: string) =>
-        SOURCE_ORDER.filter((s) => covFor(name)[s] && (covFor(name)[s] as SourceCov).points > 1)
+        SOURCE_ORDER.filter((s) => isMultiYear(covFor(name)[s]))
 
     const loadSeries = async (commodity: string, source: string) => {
         setSelectedCommodity(commodity)
@@ -139,8 +151,36 @@ export default function PriceExplorer() {
         loadSeries(commodity, avail.length ? avail[0] : 'none')
     }
 
+    // Deep-link support: /explore?commodity=wheat lands directly on that
+    // commodity's series. Acts once the commodity/coverage data has loaded.
+    // Resolution order: (1) if the commodity is in the loaded list and has a
+    // multi-year source, select it normally; (2) otherwise, for the known
+    // Alpha-Vantage spot-price commodities (genuine 1992→present monthly
+    // history) load that series directly. The 'av' branch reads has_history
+    // from the API, so nothing single-year or synthetic is ever charted.
+    useEffect(() => {
+        if (loading || selectedCommodity) return
+        const want = (searchParams.get('commodity') || '').trim().toLowerCase()
+        if (!want) return
+        const match = commodities.find(c => c.commodity.toLowerCase() === want)
+        if (match && sourcesFor(match.commodity).length > 0) {
+            selectCommodity(match.commodity)
+        } else if (AV_HISTORY_COMMODITIES.has(want)) {
+            loadSeries(want, 'av')
+        }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [loading, commodities, coverage, searchParams])
+
+    // Commodities with NO multi-year source (single-year-only, e.g. WASDE 2025)
+    // are excluded entirely — a series needs ≥2 distinct years to be selectable.
+    const multiYearCommodities = useMemo(
+        () => commodities.filter(c => sourcesFor(c.commodity).length > 0),
+        [commodities, coverage],
+    )
+    const excludedSingleYear = commodities.length - multiYearCommodities.length
+
     // Coverage-aware sort: most-covered commodities first.
-    const filteredCommodities = useMemo(() => commodities
+    const filteredCommodities = useMemo(() => multiYearCommodities
         .filter(c => {
             const matchesSearch = c.commodity.toLowerCase().includes(searchTerm.toLowerCase())
             if (selectedCategory === 'all') return matchesSearch
@@ -151,7 +191,7 @@ export default function PriceExplorer() {
             const an = sourcesFor(a.commodity).length
             const bn = sourcesFor(b.commodity).length
             return an !== bn ? bn - an : a.commodity.localeCompare(b.commodity)
-        }), [commodities, searchTerm, selectedCategory, coverage])
+        }), [multiYearCommodities, searchTerm, selectedCategory, coverage])
 
     const spanLabel = (name: string): string | null => {
         const cov = covFor(name)
@@ -177,6 +217,11 @@ export default function PriceExplorer() {
                     many series back to 1908), global spot prices (Alpha Vantage and the World Bank
                     Pink Sheet, monthly), and US retail averages (BLS, monthly). Coverage badges are
                     computed from the data itself; nothing is interpolated or extrapolated.
+                    {excludedSingleYear > 0 && (
+                        <> {excludedSingleYear} single-year-only commodit
+                        {excludedSingleYear === 1 ? 'y is' : 'ies are'} hidden — a series needs at
+                        least two distinct years to be charted.</>
+                    )}
                 </p>
             </div>
 
@@ -246,27 +291,19 @@ export default function PriceExplorer() {
                                             onClick={() => selectCommodity(commodity.commodity)}
                                             className={`w-full text-left p-3 rounded-lg transition-colors ${selectedCommodity === commodity.commodity
                                                     ? 'bg-emerald-600/20 border border-emerald-500/50'
-                                                    : nSrc
-                                                        ? 'bg-ark-bg-soft hover:bg-ark-tag border border-transparent'
-                                                        : 'bg-ark-bg-soft hover:bg-ark-tag border border-transparent opacity-70'
+                                                    : 'bg-ark-bg-soft hover:bg-ark-tag border border-transparent'
                                                 }`}
                                         >
                                             <div className="flex justify-between items-center">
                                                 <span className="font-medium text-ark-fg capitalize">
                                                     {commodity.commodity}
                                                 </span>
-                                                {nSrc ? (
-                                                    <span className="text-[10px] font-semibold uppercase tracking-wide text-emerald-400 bg-emerald-900/30 px-1.5 py-0.5 rounded">
-                                                        {nSrc} source{nSrc > 1 ? 's' : ''}
-                                                    </span>
-                                                ) : (
-                                                    <span className="text-[10px] font-semibold uppercase tracking-wide text-amber-400/80 bg-amber-900/20 px-1.5 py-0.5 rounded">
-                                                        1 yr only
-                                                    </span>
-                                                )}
+                                                <span className="text-[10px] font-semibold uppercase tracking-wide text-emerald-400 bg-emerald-900/30 px-1.5 py-0.5 rounded">
+                                                    {nSrc} source{nSrc > 1 ? 's' : ''}
+                                                </span>
                                             </div>
                                             <div className="text-xs text-ark-fg-dim mt-1">
-                                                {span ? `History ${span}` : 'Single WASDE marketing year'}
+                                                {span ? `History ${span}` : 'Multi-year series'}
                                             </div>
                                         </button>
                                     )
@@ -285,12 +322,25 @@ export default function PriceExplorer() {
                                     <h2 className="text-xl font-semibold text-ark-fg capitalize">
                                         {selectedCommodity} Price History
                                     </h2>
-                                    <Link
-                                        to={`/commodity/${selectedCommodity}`}
-                                        className="text-sm text-emerald-400 hover:text-emerald-300"
-                                    >
-                                        View Details →
-                                    </Link>
+                                    <div className="flex items-center gap-3 flex-wrap">
+                                        <button
+                                            type="button"
+                                            className="ark-btn ark-btn-sm ark-btn-ghost"
+                                            onClick={() => downloadCsv(
+                                                chartData.map(r => ({ date: r.date, year: r.year, [unitLabel]: r.price })),
+                                                `foodberg_${selectedCommodity}_${selectedSource}_prices`,
+                                            )}
+                                            disabled={chartData.length === 0}
+                                        >
+                                            Download CSV
+                                        </button>
+                                        <Link
+                                            to={`/commodity/${selectedCommodity}`}
+                                            className="text-sm text-emerald-400 hover:text-emerald-300"
+                                        >
+                                            View Details →
+                                        </Link>
+                                    </div>
                                 </div>
 
                                 {/* Source tabs */}

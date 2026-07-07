@@ -1,0 +1,820 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Meal, Soybean",World,1964,Beginning Stocks,(1000 MT),175.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Beginning Stocks,(1000 MT),182.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Beginning Stocks,(1000 MT),236.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Beginning Stocks,(1000 MT),215.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Beginning Stocks,(1000 MT),253.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Beginning Stocks,(1000 MT),291.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Beginning Stocks,(1000 MT),323.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Beginning Stocks,(1000 MT),324.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Beginning Stocks,(1000 MT),331.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Beginning Stocks,(1000 MT),517.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Beginning Stocks,(1000 MT),1005.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Beginning Stocks,(1000 MT),652.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Beginning Stocks,(1000 MT),701.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Beginning Stocks,(1000 MT),553.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Beginning Stocks,(1000 MT),1306.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Beginning Stocks,(1000 MT),1666.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Beginning Stocks,(1000 MT),1976.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Beginning Stocks,(1000 MT),2799.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Beginning Stocks,(1000 MT),2343.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Beginning Stocks,(1000 MT),3083.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Beginning Stocks,(1000 MT),3123.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Beginning Stocks,(1000 MT),2887.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Beginning Stocks,(1000 MT),3145.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Beginning Stocks,(1000 MT),3645.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Beginning Stocks,(1000 MT),4398.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Beginning Stocks,(1000 MT),3750.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Beginning Stocks,(1000 MT),4746.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Beginning Stocks,(1000 MT),4436.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Beginning Stocks,(1000 MT),3915.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Beginning Stocks,(1000 MT),5042.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Beginning Stocks,(1000 MT),4934.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Beginning Stocks,(1000 MT),5917.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Beginning Stocks,(1000 MT),5107.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Beginning Stocks,(1000 MT),4630.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Beginning Stocks,(1000 MT),5547.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Beginning Stocks,(1000 MT),6392.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Beginning Stocks,(1000 MT),5655.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Beginning Stocks,(1000 MT),5518.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Beginning Stocks,(1000 MT),6019.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Beginning Stocks,(1000 MT),5564.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Beginning Stocks,(1000 MT),5688.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Beginning Stocks,(1000 MT),5890.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Beginning Stocks,(1000 MT),6092.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Beginning Stocks,(1000 MT),7599.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Beginning Stocks,(1000 MT),7876.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Beginning Stocks,(1000 MT),5826.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Beginning Stocks,(1000 MT),7342.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Beginning Stocks,(1000 MT),9491.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Beginning Stocks,(1000 MT),11029.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Beginning Stocks,(1000 MT),10693.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Beginning Stocks,(1000 MT),11741.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Beginning Stocks,(1000 MT),14655.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Beginning Stocks,(1000 MT),14902.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Beginning Stocks,(1000 MT),15229.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Beginning Stocks,(1000 MT),16184.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Beginning Stocks,(1000 MT),15131.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Beginning Stocks,(1000 MT),16097.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Beginning Stocks,(1000 MT),16069.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Beginning Stocks,(1000 MT),16580.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Beginning Stocks,(1000 MT),14173.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Beginning Stocks,(1000 MT),14314.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Beginning Stocks,(1000 MT),17947.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Beginning Stocks,(1000 MT),19151.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Crush,(1000 MT),21069.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Crush,(1000 MT),23238.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Crush,(1000 MT),24931.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Crush,(1000 MT),25619.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Crush,(1000 MT),27675.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Crush,(1000 MT),33892.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Crush,(1000 MT),35277.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Crush,(1000 MT),35250.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Crush,(1000 MT),35434.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Crush,(1000 MT),41509.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Crush,(1000 MT),37454.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Crush,(1000 MT),45002.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Crush,(1000 MT),43839.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Crush,(1000 MT),60594.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Crush,(1000 MT),65331.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Crush,(1000 MT),71578.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Crush,(1000 MT),69932.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Crush,(1000 MT),72249.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Crush,(1000 MT),76082.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Crush,(1000 MT),71119.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Crush,(1000 MT),73886.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Crush,(1000 MT),77314.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Crush,(1000 MT),85432.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Crush,(1000 MT),83700.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Crush,(1000 MT),80807.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Crush,(1000 MT),87194.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Crush,(1000 MT),86912.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Crush,(1000 MT),91624.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Crush,(1000 MT),96597.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Crush,(1000 MT),101783.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Crush,(1000 MT),110830.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Crush,(1000 MT),112084.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Crush,(1000 MT),114014.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Crush,(1000 MT),123526.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Crush,(1000 MT),134651.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Crush,(1000 MT),135232.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Crush,(1000 MT),146499.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Crush,(1000 MT),157885.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Crush,(1000 MT),165223.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Crush,(1000 MT),163838.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Crush,(1000 MT),175871.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Crush,(1000 MT),185667.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Crush,(1000 MT),196121.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Crush,(1000 MT),202615.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Crush,(1000 MT),194884.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Crush,(1000 MT),210537.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Crush,(1000 MT),222399.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Crush,(1000 MT),229356.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Crush,(1000 MT),232175.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Crush,(1000 MT),243334.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Crush,(1000 MT),265269.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Crush,(1000 MT),275770.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Crush,(1000 MT),288393.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Crush,(1000 MT),295656.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Crush,(1000 MT),299131.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Crush,(1000 MT),312652.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Crush,(1000 MT),318161.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Crush,(1000 MT),316468.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Crush,(1000 MT),315767.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Crush,(1000 MT),331245.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Crush,(1000 MT),359140.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Crush,(1000 MT),371105.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Crush,(1000 MT),383086.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Domestic Consumption,(1000 MT),16759.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Domestic Consumption,(1000 MT),18683.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Domestic Consumption,(1000 MT),20300.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Domestic Consumption,(1000 MT),20571.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Domestic Consumption,(1000 MT),22650.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Domestic Consumption,(1000 MT),27446.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Domestic Consumption,(1000 MT),28895.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Domestic Consumption,(1000 MT),30145.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Domestic Consumption,(1000 MT),29308.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Domestic Consumption,(1000 MT),34170.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Domestic Consumption,(1000 MT),33037.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Domestic Consumption,(1000 MT),39925.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Domestic Consumption,(1000 MT),39744.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Domestic Consumption,(1000 MT),47044.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Domestic Consumption,(1000 MT),51597.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Domestic Consumption,(1000 MT),57189.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Domestic Consumption,(1000 MT),54258.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Domestic Consumption,(1000 MT),57858.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Domestic Consumption,(1000 MT),59431.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Domestic Consumption,(1000 MT),56467.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Domestic Consumption,(1000 MT),59065.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Domestic Consumption,(1000 MT),61490.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Domestic Consumption,(1000 MT),67321.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Domestic Consumption,(1000 MT),66216.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Domestic Consumption,(1000 MT),65569.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Domestic Consumption,(1000 MT),68515.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Domestic Consumption,(1000 MT),69327.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Domestic Consumption,(1000 MT),72160.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Domestic Consumption,(1000 MT),76453.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Domestic Consumption,(1000 MT),80932.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Domestic Consumption,(1000 MT),87465.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Domestic Consumption,(1000 MT),88287.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Domestic Consumption,(1000 MT),90920.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Domestic Consumption,(1000 MT),98602.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Domestic Consumption,(1000 MT),106024.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Domestic Consumption,(1000 MT),108834.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Domestic Consumption,(1000 MT),116050.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Domestic Consumption,(1000 MT),123316.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Domestic Consumption,(1000 MT),130489.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Domestic Consumption,(1000 MT),128381.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Domestic Consumption,(1000 MT),136590.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Domestic Consumption,(1000 MT),144157.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Domestic Consumption,(1000 MT),150943.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Domestic Consumption,(1000 MT),156965.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Domestic Consumption,(1000 MT),153356.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Domestic Consumption,(1000 MT),161666.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Domestic Consumption,(1000 MT),170830.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Domestic Consumption,(1000 MT),177888.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Domestic Consumption,(1000 MT),178726.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Domestic Consumption,(1000 MT),187171.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Domestic Consumption,(1000 MT),202480.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Domestic Consumption,(1000 MT),213753.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Domestic Consumption,(1000 MT),222268.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Domestic Consumption,(1000 MT),228925.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Domestic Consumption,(1000 MT),230486.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Domestic Consumption,(1000 MT),240384.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Domestic Consumption,(1000 MT),245639.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Domestic Consumption,(1000 MT),245854.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Domestic Consumption,(1000 MT),247037.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Domestic Consumption,(1000 MT),255094.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Domestic Consumption,(1000 MT),272757.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Domestic Consumption,(1000 MT),286352.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Domestic Consumption,(1000 MT),295207.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Ending Stocks,(1000 MT),182.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Ending Stocks,(1000 MT),236.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Ending Stocks,(1000 MT),215.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Ending Stocks,(1000 MT),253.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Ending Stocks,(1000 MT),291.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Ending Stocks,(1000 MT),323.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Ending Stocks,(1000 MT),324.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Ending Stocks,(1000 MT),331.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Ending Stocks,(1000 MT),517.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Ending Stocks,(1000 MT),1005.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Ending Stocks,(1000 MT),652.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Ending Stocks,(1000 MT),701.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Ending Stocks,(1000 MT),553.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Ending Stocks,(1000 MT),1306.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Ending Stocks,(1000 MT),1597.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Ending Stocks,(1000 MT),1976.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Ending Stocks,(1000 MT),2799.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Ending Stocks,(1000 MT),2343.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Ending Stocks,(1000 MT),3083.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Ending Stocks,(1000 MT),3123.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Ending Stocks,(1000 MT),2887.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Ending Stocks,(1000 MT),3145.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Ending Stocks,(1000 MT),3645.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Ending Stocks,(1000 MT),4398.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Ending Stocks,(1000 MT),3750.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Ending Stocks,(1000 MT),4746.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Ending Stocks,(1000 MT),4450.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Ending Stocks,(1000 MT),3915.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Ending Stocks,(1000 MT),5042.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Ending Stocks,(1000 MT),4934.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Ending Stocks,(1000 MT),5917.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Ending Stocks,(1000 MT),5107.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Ending Stocks,(1000 MT),4630.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Ending Stocks,(1000 MT),5547.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Ending Stocks,(1000 MT),6392.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Ending Stocks,(1000 MT),5655.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Ending Stocks,(1000 MT),5518.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Ending Stocks,(1000 MT),6019.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Ending Stocks,(1000 MT),5564.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Ending Stocks,(1000 MT),5688.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Ending Stocks,(1000 MT),5890.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Ending Stocks,(1000 MT),6092.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Ending Stocks,(1000 MT),7599.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Ending Stocks,(1000 MT),7876.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Ending Stocks,(1000 MT),5826.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Ending Stocks,(1000 MT),7332.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Ending Stocks,(1000 MT),9491.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Ending Stocks,(1000 MT),11029.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Ending Stocks,(1000 MT),10693.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Ending Stocks,(1000 MT),11741.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Ending Stocks,(1000 MT),14655.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Ending Stocks,(1000 MT),14734.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Ending Stocks,(1000 MT),15229.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Ending Stocks,(1000 MT),16184.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Ending Stocks,(1000 MT),15131.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Ending Stocks,(1000 MT),16097.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Ending Stocks,(1000 MT),16069.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Ending Stocks,(1000 MT),16580.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Ending Stocks,(1000 MT),14173.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Ending Stocks,(1000 MT),14314.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Ending Stocks,(1000 MT),17947.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Ending Stocks,(1000 MT),19151.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Ending Stocks,(1000 MT),20059.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Exports,(1000 MT),2721.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Exports,(1000 MT),3342.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Exports,(1000 MT),3373.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Exports,(1000 MT),3634.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Exports,(1000 MT),3964.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Exports,(1000 MT),5148.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Exports,(1000 MT),5729.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Exports,(1000 MT),5382.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Exports,(1000 MT),6769.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Exports,(1000 MT),7660.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Exports,(1000 MT),6040.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Exports,(1000 MT),6853.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Exports,(1000 MT),6256.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Exports,(1000 MT),15357.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Exports,(1000 MT),15499.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Exports,(1000 MT),17333.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Exports,(1000 MT),18863.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Exports,(1000 MT),20759.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Exports,(1000 MT),23230.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Exports,(1000 MT),21344.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Exports,(1000 MT),22217.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Exports,(1000 MT),23063.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Exports,(1000 MT),25911.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Exports,(1000 MT),24507.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Exports,(1000 MT),24974.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Exports,(1000 MT),25302.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Exports,(1000 MT),26993.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Exports,(1000 MT),25636.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Exports,(1000 MT),24140.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Exports,(1000 MT),26604.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Exports,(1000 MT),27991.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Exports,(1000 MT),30563.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Exports,(1000 MT),30345.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Exports,(1000 MT),32552.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Exports,(1000 MT),35393.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Exports,(1000 MT),34020.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Exports,(1000 MT),35957.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Exports,(1000 MT),41407.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Exports,(1000 MT),42791.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Exports,(1000 MT),45507.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Exports,(1000 MT),48224.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Exports,(1000 MT),53034.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Exports,(1000 MT),54838.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Exports,(1000 MT),56502.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Exports,(1000 MT),53272.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Exports,(1000 MT),55961.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Exports,(1000 MT),58923.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Exports,(1000 MT),58727.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Exports,(1000 MT),58496.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Exports,(1000 MT),60860.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Exports,(1000 MT),64638.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Exports,(1000 MT),65851.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Exports,(1000 MT),65405.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Exports,(1000 MT),65795.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Exports,(1000 MT),68056.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Exports,(1000 MT),68247.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Exports,(1000 MT),69792.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Exports,(1000 MT),68840.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Exports,(1000 MT),67066.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Exports,(1000 MT),74223.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Exports,(1000 MT),83036.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Exports,(1000 MT),84334.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Exports,(1000 MT),88131.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Feed Waste Dom. Cons.,(1000 MT),15671.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Feed Waste Dom. Cons.,(1000 MT),17787.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Feed Waste Dom. Cons.,(1000 MT),19182.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Feed Waste Dom. Cons.,(1000 MT),19407.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Feed Waste Dom. Cons.,(1000 MT),21454.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Feed Waste Dom. Cons.,(1000 MT),26281.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Feed Waste Dom. Cons.,(1000 MT),27666.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Feed Waste Dom. Cons.,(1000 MT),28954.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Feed Waste Dom. Cons.,(1000 MT),28444.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Feed Waste Dom. Cons.,(1000 MT),32965.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Feed Waste Dom. Cons.,(1000 MT),31990.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Feed Waste Dom. Cons.,(1000 MT),38785.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Feed Waste Dom. Cons.,(1000 MT),38588.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Feed Waste Dom. Cons.,(1000 MT),45787.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Feed Waste Dom. Cons.,(1000 MT),50338.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Feed Waste Dom. Cons.,(1000 MT),55886.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Feed Waste Dom. Cons.,(1000 MT),53083.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Feed Waste Dom. Cons.,(1000 MT),56900.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Feed Waste Dom. Cons.,(1000 MT),58760.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Feed Waste Dom. Cons.,(1000 MT),55919.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Feed Waste Dom. Cons.,(1000 MT),58613.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Feed Waste Dom. Cons.,(1000 MT),61021.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Feed Waste Dom. Cons.,(1000 MT),66857.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Feed Waste Dom. Cons.,(1000 MT),65672.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Feed Waste Dom. Cons.,(1000 MT),65044.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Feed Waste Dom. Cons.,(1000 MT),68018.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Feed Waste Dom. Cons.,(1000 MT),68646.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Feed Waste Dom. Cons.,(1000 MT),71621.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Feed Waste Dom. Cons.,(1000 MT),75947.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Feed Waste Dom. Cons.,(1000 MT),80433.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Feed Waste Dom. Cons.,(1000 MT),86924.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Feed Waste Dom. Cons.,(1000 MT),87775.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Feed Waste Dom. Cons.,(1000 MT),90382.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Feed Waste Dom. Cons.,(1000 MT),98022.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Feed Waste Dom. Cons.,(1000 MT),105396.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Feed Waste Dom. Cons.,(1000 MT),108254.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Feed Waste Dom. Cons.,(1000 MT),115487.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Feed Waste Dom. Cons.,(1000 MT),122167.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Feed Waste Dom. Cons.,(1000 MT),129247.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Feed Waste Dom. Cons.,(1000 MT),127168.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Feed Waste Dom. Cons.,(1000 MT),135260.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Feed Waste Dom. Cons.,(1000 MT),142839.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Feed Waste Dom. Cons.,(1000 MT),149574.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Feed Waste Dom. Cons.,(1000 MT),155593.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Feed Waste Dom. Cons.,(1000 MT),151921.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Feed Waste Dom. Cons.,(1000 MT),159976.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Feed Waste Dom. Cons.,(1000 MT),169160.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Feed Waste Dom. Cons.,(1000 MT),176202.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Feed Waste Dom. Cons.,(1000 MT),177050.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Feed Waste Dom. Cons.,(1000 MT),185488.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Feed Waste Dom. Cons.,(1000 MT),200777.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Feed Waste Dom. Cons.,(1000 MT),212004.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Feed Waste Dom. Cons.,(1000 MT),220456.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Feed Waste Dom. Cons.,(1000 MT),227073.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Feed Waste Dom. Cons.,(1000 MT),228569.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Feed Waste Dom. Cons.,(1000 MT),238336.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Feed Waste Dom. Cons.,(1000 MT),243531.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Feed Waste Dom. Cons.,(1000 MT),243736.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Feed Waste Dom. Cons.,(1000 MT),244879.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Feed Waste Dom. Cons.,(1000 MT),252903.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Feed Waste Dom. Cons.,(1000 MT),270511.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Feed Waste Dom. Cons.,(1000 MT),284146.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Feed Waste Dom. Cons.,(1000 MT),293026.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Food Use Dom. Cons.,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Food Use Dom. Cons.,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Food Use Dom. Cons.,(1000 MT),0.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Food Use Dom. Cons.,(1000 MT),0.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Food Use Dom. Cons.,(1000 MT),0.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Food Use Dom. Cons.,(1000 MT),0.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Food Use Dom. Cons.,(1000 MT),0.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Food Use Dom. Cons.,(1000 MT),0.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Food Use Dom. Cons.,(1000 MT),0.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Food Use Dom. Cons.,(1000 MT),0.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Food Use Dom. Cons.,(1000 MT),0.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Food Use Dom. Cons.,(1000 MT),0.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Food Use Dom. Cons.,(1000 MT),0.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Food Use Dom. Cons.,(1000 MT),0.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Food Use Dom. Cons.,(1000 MT),0.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Food Use Dom. Cons.,(1000 MT),29.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Food Use Dom. Cons.,(1000 MT),35.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Food Use Dom. Cons.,(1000 MT),67.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Food Use Dom. Cons.,(1000 MT),100.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Food Use Dom. Cons.,(1000 MT),108.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Food Use Dom. Cons.,(1000 MT),152.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Food Use Dom. Cons.,(1000 MT),169.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Food Use Dom. Cons.,(1000 MT),164.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Food Use Dom. Cons.,(1000 MT),190.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Food Use Dom. Cons.,(1000 MT),187.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Food Use Dom. Cons.,(1000 MT),165.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Food Use Dom. Cons.,(1000 MT),180.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Food Use Dom. Cons.,(1000 MT),198.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Food Use Dom. Cons.,(1000 MT),194.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Food Use Dom. Cons.,(1000 MT),206.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Food Use Dom. Cons.,(1000 MT),225.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Food Use Dom. Cons.,(1000 MT),216.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Food Use Dom. Cons.,(1000 MT),238.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Food Use Dom. Cons.,(1000 MT),280.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Food Use Dom. Cons.,(1000 MT),315.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Food Use Dom. Cons.,(1000 MT),267.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Food Use Dom. Cons.,(1000 MT),252.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Food Use Dom. Cons.,(1000 MT),251.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Food Use Dom. Cons.,(1000 MT),263.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Food Use Dom. Cons.,(1000 MT),281.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Food Use Dom. Cons.,(1000 MT),270.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Food Use Dom. Cons.,(1000 MT),266.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Food Use Dom. Cons.,(1000 MT),270.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Food Use Dom. Cons.,(1000 MT),251.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Food Use Dom. Cons.,(1000 MT),301.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Food Use Dom. Cons.,(1000 MT),386.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Food Use Dom. Cons.,(1000 MT),316.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Food Use Dom. Cons.,(1000 MT),382.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Food Use Dom. Cons.,(1000 MT),412.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Food Use Dom. Cons.,(1000 MT),421.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Food Use Dom. Cons.,(1000 MT),431.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Food Use Dom. Cons.,(1000 MT),457.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Food Use Dom. Cons.,(1000 MT),495.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Food Use Dom. Cons.,(1000 MT),510.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Food Use Dom. Cons.,(1000 MT),581.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Food Use Dom. Cons.,(1000 MT),671.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Food Use Dom. Cons.,(1000 MT),741.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Food Use Dom. Cons.,(1000 MT),796.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Food Use Dom. Cons.,(1000 MT),796.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Food Use Dom. Cons.,(1000 MT),841.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Food Use Dom. Cons.,(1000 MT),886.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Food Use Dom. Cons.,(1000 MT),836.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Food Use Dom. Cons.,(1000 MT),811.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Imports,(1000 MT),2878.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Imports,(1000 MT),3527.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Imports,(1000 MT),3699.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Imports,(1000 MT),3914.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Imports,(1000 MT),4513.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Imports,(1000 MT),5653.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Imports,(1000 MT),6637.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Imports,(1000 MT),7641.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Imports,(1000 MT),8562.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Imports,(1000 MT),9192.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Imports,(1000 MT),8933.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Imports,(1000 MT),10928.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Imports,(1000 MT),11733.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Imports,(1000 MT),15038.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Imports,(1000 MT),15632.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Imports,(1000 MT),17877.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Imports,(1000 MT),18699.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Imports,(1000 MT),20930.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Imports,(1000 MT),22955.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Imports,(1000 MT),22293.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Imports,(1000 MT),22775.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Imports,(1000 MT),23796.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Imports,(1000 MT),26422.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Imports,(1000 MT),25030.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Imports,(1000 MT),26195.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Imports,(1000 MT),25438.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Imports,(1000 MT),26945.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Imports,(1000 MT),24762.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Imports,(1000 MT),25395.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Imports,(1000 MT),26594.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Imports,(1000 MT),28894.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Imports,(1000 MT),29375.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Imports,(1000 MT),30529.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Imports,(1000 MT),34053.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Imports,(1000 MT),36014.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Imports,(1000 MT),35004.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Imports,(1000 MT),35879.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Imports,(1000 MT),40414.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Imports,(1000 MT),42524.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Imports,(1000 MT),44927.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Imports,(1000 MT),46000.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Imports,(1000 MT),51223.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Imports,(1000 MT),53092.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Imports,(1000 MT),54813.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Imports,(1000 MT),51588.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Imports,(1000 MT),53412.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Imports,(1000 MT),56850.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Imports,(1000 MT),57210.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Imports,(1000 MT),54572.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Imports,(1000 MT),58493.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Imports,(1000 MT),61400.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Imports,(1000 MT),63346.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Imports,(1000 MT),61718.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Imports,(1000 MT),62894.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Imports,(1000 MT),63485.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Imports,(1000 MT),64289.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Imports,(1000 MT),65656.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Imports,(1000 MT),67211.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Imports,(1000 MT),63311.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Imports,(1000 MT),69599.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Imports,(1000 MT),77689.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Imports,(1000 MT),80577.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Imports,(1000 MT),84096.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Industrial Dom. Cons.,(1000 MT),1088.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Industrial Dom. Cons.,(1000 MT),896.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Industrial Dom. Cons.,(1000 MT),1118.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Industrial Dom. Cons.,(1000 MT),1164.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Industrial Dom. Cons.,(1000 MT),1196.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Industrial Dom. Cons.,(1000 MT),1122.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Industrial Dom. Cons.,(1000 MT),1229.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Industrial Dom. Cons.,(1000 MT),1191.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Industrial Dom. Cons.,(1000 MT),864.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Industrial Dom. Cons.,(1000 MT),1205.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Industrial Dom. Cons.,(1000 MT),1047.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Industrial Dom. Cons.,(1000 MT),1140.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Industrial Dom. Cons.,(1000 MT),1156.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Industrial Dom. Cons.,(1000 MT),1257.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Industrial Dom. Cons.,(1000 MT),1259.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Industrial Dom. Cons.,(1000 MT),1274.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Industrial Dom. Cons.,(1000 MT),1140.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Industrial Dom. Cons.,(1000 MT),891.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Industrial Dom. Cons.,(1000 MT),571.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Industrial Dom. Cons.,(1000 MT),440.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Industrial Dom. Cons.,(1000 MT),300.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Industrial Dom. Cons.,(1000 MT),300.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Industrial Dom. Cons.,(1000 MT),300.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Industrial Dom. Cons.,(1000 MT),354.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Industrial Dom. Cons.,(1000 MT),338.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Industrial Dom. Cons.,(1000 MT),332.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Industrial Dom. Cons.,(1000 MT),501.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Industrial Dom. Cons.,(1000 MT),341.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Industrial Dom. Cons.,(1000 MT),312.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Industrial Dom. Cons.,(1000 MT),293.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Industrial Dom. Cons.,(1000 MT),316.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Industrial Dom. Cons.,(1000 MT),296.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Industrial Dom. Cons.,(1000 MT),300.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Industrial Dom. Cons.,(1000 MT),300.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Industrial Dom. Cons.,(1000 MT),313.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Industrial Dom. Cons.,(1000 MT),313.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Industrial Dom. Cons.,(1000 MT),311.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Industrial Dom. Cons.,(1000 MT),898.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Industrial Dom. Cons.,(1000 MT),979.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Industrial Dom. Cons.,(1000 MT),932.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Industrial Dom. Cons.,(1000 MT),1060.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Industrial Dom. Cons.,(1000 MT),1052.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Industrial Dom. Cons.,(1000 MT),1099.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Industrial Dom. Cons.,(1000 MT),1121.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Industrial Dom. Cons.,(1000 MT),1134.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Industrial Dom. Cons.,(1000 MT),1304.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Industrial Dom. Cons.,(1000 MT),1354.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Industrial Dom. Cons.,(1000 MT),1304.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Industrial Dom. Cons.,(1000 MT),1264.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Industrial Dom. Cons.,(1000 MT),1262.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Industrial Dom. Cons.,(1000 MT),1272.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Industrial Dom. Cons.,(1000 MT),1292.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Industrial Dom. Cons.,(1000 MT),1317.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Industrial Dom. Cons.,(1000 MT),1342.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Industrial Dom. Cons.,(1000 MT),1336.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Industrial Dom. Cons.,(1000 MT),1377.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Industrial Dom. Cons.,(1000 MT),1367.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Industrial Dom. Cons.,(1000 MT),1322.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Industrial Dom. Cons.,(1000 MT),1362.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Industrial Dom. Cons.,(1000 MT),1350.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Industrial Dom. Cons.,(1000 MT),1360.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Industrial Dom. Cons.,(1000 MT),1370.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Industrial Dom. Cons.,(1000 MT),1370.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Production,(1000 MT),16609.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Production,(1000 MT),18552.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Production,(1000 MT),19953.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Production,(1000 MT),20329.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Production,(1000 MT),22139.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Production,(1000 MT),26973.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Production,(1000 MT),27988.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Production,(1000 MT),27893.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Production,(1000 MT),27701.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Production,(1000 MT),33126.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Production,(1000 MT),29791.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Production,(1000 MT),35899.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Production,(1000 MT),34119.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Production,(1000 MT),48116.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Production,(1000 MT),51755.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Production,(1000 MT),56955.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Production,(1000 MT),55245.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Production,(1000 MT),57231.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Production,(1000 MT),60446.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Production,(1000 MT),55558.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Production,(1000 MT),58271.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Production,(1000 MT),61015.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Production,(1000 MT),67310.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Production,(1000 MT),66446.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Production,(1000 MT),63700.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Production,(1000 MT),69375.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Production,(1000 MT),69079.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Production,(1000 MT),72513.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Production,(1000 MT),76325.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Production,(1000 MT),80834.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Production,(1000 MT),87545.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Production,(1000 MT),88665.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Production,(1000 MT),90259.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Production,(1000 MT),98018.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Production,(1000 MT),106248.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Production,(1000 MT),107113.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Production,(1000 MT),115991.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Production,(1000 MT),124810.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Production,(1000 MT),130301.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Production,(1000 MT),129085.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Production,(1000 MT),139016.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Production,(1000 MT),146170.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Production,(1000 MT),154196.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Production,(1000 MT),158931.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Production,(1000 MT),152990.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Production,(1000 MT),165721.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Production,(1000 MT),175052.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Production,(1000 MT),180943.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Production,(1000 MT),182314.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Production,(1000 MT),190586.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Production,(1000 MT),208632.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Production,(1000 MT),216337.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Production,(1000 MT),226282.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Production,(1000 MT),232781.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Production,(1000 MT),234004.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Production,(1000 MT),245308.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Production,(1000 MT),249747.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Production,(1000 MT),247994.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Production,(1000 MT),248385.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Production,(1000 MT),259859.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Production,(1000 MT),281737.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Production,(1000 MT),291313.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Production,(1000 MT),300150.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,SME,(1000 MT),15671.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,SME,(1000 MT),17787.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,SME,(1000 MT),19182.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,SME,(1000 MT),19407.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,SME,(1000 MT),21454.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,SME,(1000 MT),26281.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,SME,(1000 MT),27666.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,SME,(1000 MT),28954.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,SME,(1000 MT),28444.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,SME,(1000 MT),32965.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,SME,(1000 MT),31990.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,SME,(1000 MT),38785.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,SME,(1000 MT),38588.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,SME,(1000 MT),45787.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,SME,(1000 MT),50338.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,SME,(1000 MT),55886.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,SME,(1000 MT),53083.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,SME,(1000 MT),56900.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,SME,(1000 MT),58760.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,SME,(1000 MT),55919.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,SME,(1000 MT),58613.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,SME,(1000 MT),61021.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,SME,(1000 MT),66857.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,SME,(1000 MT),65672.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,SME,(1000 MT),65044.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,SME,(1000 MT),68018.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,SME,(1000 MT),68646.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,SME,(1000 MT),71621.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,SME,(1000 MT),75947.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,SME,(1000 MT),80433.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,SME,(1000 MT),86924.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,SME,(1000 MT),87775.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,SME,(1000 MT),90382.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,SME,(1000 MT),98022.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,SME,(1000 MT),105396.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,SME,(1000 MT),108254.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,SME,(1000 MT),115487.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,SME,(1000 MT),122167.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,SME,(1000 MT),129247.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,SME,(1000 MT),127168.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,SME,(1000 MT),135260.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,SME,(1000 MT),142839.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,SME,(1000 MT),149574.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,SME,(1000 MT),155593.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,SME,(1000 MT),151921.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,SME,(1000 MT),159976.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,SME,(1000 MT),169160.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,SME,(1000 MT),176202.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,SME,(1000 MT),177050.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,SME,(1000 MT),185488.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,SME,(1000 MT),200777.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,SME,(1000 MT),212004.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,SME,(1000 MT),220456.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,SME,(1000 MT),227073.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,SME,(1000 MT),228569.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,SME,(1000 MT),238336.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,SME,(1000 MT),243531.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,SME,(1000 MT),243736.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,SME,(1000 MT),244879.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,SME,(1000 MT),252903.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,SME,(1000 MT),270511.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,SME,(1000 MT),284146.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,SME,(1000 MT),293026.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Total Distribution,(1000 MT),19662.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Total Distribution,(1000 MT),22261.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Total Distribution,(1000 MT),23888.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Total Distribution,(1000 MT),24458.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Total Distribution,(1000 MT),26905.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Total Distribution,(1000 MT),32917.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Total Distribution,(1000 MT),34948.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Total Distribution,(1000 MT),35858.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Total Distribution,(1000 MT),36594.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Total Distribution,(1000 MT),42835.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Total Distribution,(1000 MT),39729.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Total Distribution,(1000 MT),47479.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Total Distribution,(1000 MT),46553.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Total Distribution,(1000 MT),63707.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Total Distribution,(1000 MT),68693.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Total Distribution,(1000 MT),76498.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Total Distribution,(1000 MT),75920.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Total Distribution,(1000 MT),80960.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Total Distribution,(1000 MT),85744.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Total Distribution,(1000 MT),80934.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Total Distribution,(1000 MT),84169.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Total Distribution,(1000 MT),87698.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Total Distribution,(1000 MT),96877.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Total Distribution,(1000 MT),95121.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Total Distribution,(1000 MT),94293.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Total Distribution,(1000 MT),98563.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Total Distribution,(1000 MT),100770.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Total Distribution,(1000 MT),101711.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Total Distribution,(1000 MT),105635.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Total Distribution,(1000 MT),112470.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Total Distribution,(1000 MT),121373.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Total Distribution,(1000 MT),123957.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Total Distribution,(1000 MT),125895.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Total Distribution,(1000 MT),136701.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Total Distribution,(1000 MT),147809.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Total Distribution,(1000 MT),148509.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Total Distribution,(1000 MT),157525.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Total Distribution,(1000 MT),170742.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Total Distribution,(1000 MT),178844.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Total Distribution,(1000 MT),179576.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Total Distribution,(1000 MT),190704.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Total Distribution,(1000 MT),203283.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Total Distribution,(1000 MT),213380.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Total Distribution,(1000 MT),221343.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Total Distribution,(1000 MT),212454.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Total Distribution,(1000 MT),224959.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Total Distribution,(1000 MT),239244.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Total Distribution,(1000 MT),247644.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Total Distribution,(1000 MT),247915.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Total Distribution,(1000 MT),259772.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Total Distribution,(1000 MT),281773.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Total Distribution,(1000 MT),294338.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Total Distribution,(1000 MT),302902.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Total Distribution,(1000 MT),310904.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Total Distribution,(1000 MT),313673.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Total Distribution,(1000 MT),324728.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Total Distribution,(1000 MT),331500.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Total Distribution,(1000 MT),331274.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Total Distribution,(1000 MT),328276.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Total Distribution,(1000 MT),343631.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Total Distribution,(1000 MT),373740.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Total Distribution,(1000 MT),389837.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Total Distribution,(1000 MT),403397.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1964,Total Supply,(1000 MT),19662.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1965,Total Supply,(1000 MT),22261.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1966,Total Supply,(1000 MT),23888.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1967,Total Supply,(1000 MT),24458.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1968,Total Supply,(1000 MT),26905.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1969,Total Supply,(1000 MT),32917.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1970,Total Supply,(1000 MT),34948.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1971,Total Supply,(1000 MT),35858.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1972,Total Supply,(1000 MT),36594.0,1,60,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1973,Total Supply,(1000 MT),42835.0,1,64,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1974,Total Supply,(1000 MT),39729.0,1,66,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1975,Total Supply,(1000 MT),47479.0,1,70,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1976,Total Supply,(1000 MT),46553.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1977,Total Supply,(1000 MT),63707.0,1,79,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1978,Total Supply,(1000 MT),68693.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1979,Total Supply,(1000 MT),76498.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1980,Total Supply,(1000 MT),75920.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1981,Total Supply,(1000 MT),80960.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1982,Total Supply,(1000 MT),85744.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1983,Total Supply,(1000 MT),80934.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1984,Total Supply,(1000 MT),84169.0,1,84,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1985,Total Supply,(1000 MT),87698.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1986,Total Supply,(1000 MT),96877.0,1,85,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1987,Total Supply,(1000 MT),95121.0,1,90,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1988,Total Supply,(1000 MT),94293.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1989,Total Supply,(1000 MT),98563.0,1,89,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1990,Total Supply,(1000 MT),100770.0,1,92,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1991,Total Supply,(1000 MT),101711.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1992,Total Supply,(1000 MT),105635.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1993,Total Supply,(1000 MT),112470.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1994,Total Supply,(1000 MT),121373.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1995,Total Supply,(1000 MT),123957.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1996,Total Supply,(1000 MT),125895.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1997,Total Supply,(1000 MT),136701.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1998,Total Supply,(1000 MT),147809.0,1,83,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,1999,Total Supply,(1000 MT),148509.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2000,Total Supply,(1000 MT),157525.0,1,73,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2001,Total Supply,(1000 MT),170742.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2002,Total Supply,(1000 MT),178844.0,1,74,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2003,Total Supply,(1000 MT),179576.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2004,Total Supply,(1000 MT),190704.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2005,Total Supply,(1000 MT),203283.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2006,Total Supply,(1000 MT),213380.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2007,Total Supply,(1000 MT),221343.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2008,Total Supply,(1000 MT),212454.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2009,Total Supply,(1000 MT),224959.0,1,75,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2010,Total Supply,(1000 MT),239244.0,1,76,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2011,Total Supply,(1000 MT),247644.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2012,Total Supply,(1000 MT),247915.0,1,77,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2013,Total Supply,(1000 MT),259772.0,1,80,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2014,Total Supply,(1000 MT),281773.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2015,Total Supply,(1000 MT),294338.0,1,81,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2016,Total Supply,(1000 MT),302902.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2017,Total Supply,(1000 MT),310904.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2018,Total Supply,(1000 MT),313673.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2019,Total Supply,(1000 MT),324728.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2020,Total Supply,(1000 MT),331500.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2021,Total Supply,(1000 MT),331274.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2022,Total Supply,(1000 MT),328276.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2023,Total Supply,(1000 MT),343631.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2024,Total Supply,(1000 MT),373740.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2025,Total Supply,(1000 MT),389837.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Soybean",World,2026,Total Supply,(1000 MT),403397.0,1,82,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

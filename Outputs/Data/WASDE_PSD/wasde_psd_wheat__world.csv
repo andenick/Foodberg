@@ -1,0 +1,939 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+Wheat,World,1960,Area Harvested,(1000 HA),202200.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Area Harvested,(1000 HA),203458.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Area Harvested,(1000 HA),206878.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Area Harvested,(1000 HA),206307.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Area Harvested,(1000 HA),215940.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Area Harvested,(1000 HA),215248.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Area Harvested,(1000 HA),213840.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Area Harvested,(1000 HA),219201.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Area Harvested,(1000 HA),223894.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Area Harvested,(1000 HA),217824.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Area Harvested,(1000 HA),206979.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Area Harvested,(1000 HA),212736.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Area Harvested,(1000 HA),210900.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Area Harvested,(1000 HA),217030.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Area Harvested,(1000 HA),220026.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Area Harvested,(1000 HA),225338.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Area Harvested,(1000 HA),233072.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Area Harvested,(1000 HA),227156.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Area Harvested,(1000 HA),228902.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Area Harvested,(1000 HA),227830.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Area Harvested,(1000 HA),236901.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Area Harvested,(1000 HA),238911.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Area Harvested,(1000 HA),238353.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Area Harvested,(1000 HA),229918.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Area Harvested,(1000 HA),231643.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Area Harvested,(1000 HA),229788.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Area Harvested,(1000 HA),227848.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Area Harvested,(1000 HA),220038.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Area Harvested,(1000 HA),217842.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Area Harvested,(1000 HA),226298.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Area Harvested,(1000 HA),230990.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Area Harvested,(1000 HA),222783.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Area Harvested,(1000 HA),222190.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Area Harvested,(1000 HA),221030.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Area Harvested,(1000 HA),213327.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Area Harvested,(1000 HA),216712.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Area Harvested,(1000 HA),227070.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Area Harvested,(1000 HA),226370.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Area Harvested,(1000 HA),219174.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Area Harvested,(1000 HA),212633.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Area Harvested,(1000 HA),215187.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Area Harvested,(1000 HA),214180.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Area Harvested,(1000 HA),212688.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Area Harvested,(1000 HA),207218.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Area Harvested,(1000 HA),215789.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Area Harvested,(1000 HA),217445.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Area Harvested,(1000 HA),212444.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Area Harvested,(1000 HA),217020.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Area Harvested,(1000 HA),223433.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Area Harvested,(1000 HA),225754.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Area Harvested,(1000 HA),216838.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Area Harvested,(1000 HA),220910.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Area Harvested,(1000 HA),216100.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Area Harvested,(1000 HA),219781.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Area Harvested,(1000 HA),221403.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Area Harvested,(1000 HA),223412.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Area Harvested,(1000 HA),222541.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Area Harvested,(1000 HA),217945.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Area Harvested,(1000 HA),214697.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Area Harvested,(1000 HA),215241.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Area Harvested,(1000 HA),220216.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Area Harvested,(1000 HA),221651.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Area Harvested,(1000 HA),219669.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Area Harvested,(1000 HA),222262.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Area Harvested,(1000 HA),222223.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Area Harvested,(1000 HA),220159.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Area Harvested,(1000 HA),217095.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,Beginning Stocks,(1000 MT),80278.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Beginning Stocks,(1000 MT),82942.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Beginning Stocks,(1000 MT),69850.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Beginning Stocks,(1000 MT),75846.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Beginning Stocks,(1000 MT),70327.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Beginning Stocks,(1000 MT),78479.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Beginning Stocks,(1000 MT),60734.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Beginning Stocks,(1000 MT),87622.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Beginning Stocks,(1000 MT),97664.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Beginning Stocks,(1000 MT),121311.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Beginning Stocks,(1000 MT),103543.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Beginning Stocks,(1000 MT),80529.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Beginning Stocks,(1000 MT),89244.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Beginning Stocks,(1000 MT),74928.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Beginning Stocks,(1000 MT),82667.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Beginning Stocks,(1000 MT),81353.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Beginning Stocks,(1000 MT),86720.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Beginning Stocks,(1000 MT),127352.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Beginning Stocks,(1000 MT),109207.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Beginning Stocks,(1000 MT),134848.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Beginning Stocks,(1000 MT),120453.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Beginning Stocks,(1000 MT),112642.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Beginning Stocks,(1000 MT),112632.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Beginning Stocks,(1000 MT),130131.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Beginning Stocks,(1000 MT),145780.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Beginning Stocks,(1000 MT),168405.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Beginning Stocks,(1000 MT),178435.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Beginning Stocks,(1000 MT),190882.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Beginning Stocks,(1000 MT),158789.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Beginning Stocks,(1000 MT),134750.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Beginning Stocks,(1000 MT),136584.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Beginning Stocks,(1000 MT),170884.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Beginning Stocks,(1000 MT),160984.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Beginning Stocks,(1000 MT),176731.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Beginning Stocks,(1000 MT),182663.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Beginning Stocks,(1000 MT),163921.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Beginning Stocks,(1000 MT),155786.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Beginning Stocks,(1000 MT),164389.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Beginning Stocks,(1000 MT),197915.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Beginning Stocks,(1000 MT),209294.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Beginning Stocks,(1000 MT),209072.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Beginning Stocks,(1000 MT),206122.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Beginning Stocks,(1000 MT),203577.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Beginning Stocks,(1000 MT),169825.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Beginning Stocks,(1000 MT),137010.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Beginning Stocks,(1000 MT),157738.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Beginning Stocks,(1000 MT),154668.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Beginning Stocks,(1000 MT),134778.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Beginning Stocks,(1000 MT),129216.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Beginning Stocks,(1000 MT),170285.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Beginning Stocks,(1000 MT),203785.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Beginning Stocks,(1000 MT),199617.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Beginning Stocks,(1000 MT),200121.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Beginning Stocks,(1000 MT),180610.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Beginning Stocks,(1000 MT),200723.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Beginning Stocks,(1000 MT),225580.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Beginning Stocks,(1000 MT),247821.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Beginning Stocks,(1000 MT),267779.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Beginning Stocks,(1000 MT),287297.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Beginning Stocks,(1000 MT),284007.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Beginning Stocks,(1000 MT),298257.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Beginning Stocks,(1000 MT),285523.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Beginning Stocks,(1000 MT),275048.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Beginning Stocks,(1000 MT),274540.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Beginning Stocks,(1000 MT),270135.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Beginning Stocks,(1000 MT),259528.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Beginning Stocks,(1000 MT),279945.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,Domestic Consumption,(1000 MT),228550.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Domestic Consumption,(1000 MT),232231.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Domestic Consumption,(1000 MT),237725.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Domestic Consumption,(1000 MT),234282.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Domestic Consumption,(1000 MT),250976.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Domestic Consumption,(1000 MT),276081.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Domestic Consumption,(1000 MT),272970.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Domestic Consumption,(1000 MT),280645.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Domestic Consumption,(1000 MT),298359.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Domestic Consumption,(1000 MT),317390.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Domestic Consumption,(1000 MT),328874.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Domestic Consumption,(1000 MT),335674.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Domestic Consumption,(1000 MT),352619.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Domestic Consumption,(1000 MT),351582.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Domestic Consumption,(1000 MT),353328.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Domestic Consumption,(1000 MT),346796.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Domestic Consumption,(1000 MT),369481.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Domestic Consumption,(1000 MT),398984.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Domestic Consumption,(1000 MT),405214.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Domestic Consumption,(1000 MT),428576.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Domestic Consumption,(1000 MT),443448.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Domestic Consumption,(1000 MT),441671.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Domestic Consumption,(1000 MT),447737.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Domestic Consumption,(1000 MT),464999.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Domestic Consumption,(1000 MT),484210.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Domestic Consumption,(1000 MT),482825.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Domestic Consumption,(1000 MT),508810.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Domestic Consumption,(1000 MT),531449.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Domestic Consumption,(1000 MT),516536.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Domestic Consumption,(1000 MT),526654.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Domestic Consumption,(1000 MT),549658.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Domestic Consumption,(1000 MT),551450.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Domestic Consumption,(1000 MT),545692.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Domestic Consumption,(1000 MT),547467.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Domestic Consumption,(1000 MT),543525.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Domestic Consumption,(1000 MT),543624.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Domestic Consumption,(1000 MT),563994.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Domestic Consumption,(1000 MT),575783.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Domestic Consumption,(1000 MT),577432.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Domestic Consumption,(1000 MT),580897.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Domestic Consumption,(1000 MT),583912.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Domestic Consumption,(1000 MT),586787.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Domestic Consumption,(1000 MT),602181.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Domestic Consumption,(1000 MT),581491.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Domestic Consumption,(1000 MT),605692.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Domestic Consumption,(1000 MT),616353.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Domestic Consumption,(1000 MT),619099.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Domestic Consumption,(1000 MT),614378.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Domestic Consumption,(1000 MT),636775.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Domestic Consumption,(1000 MT),650872.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Domestic Consumption,(1000 MT),653373.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Domestic Consumption,(1000 MT),690834.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Domestic Consumption,(1000 MT),687339.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Domestic Consumption,(1000 MT),691037.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Domestic Consumption,(1000 MT),702416.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Domestic Consumption,(1000 MT),713929.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Domestic Consumption,(1000 MT),734193.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Domestic Consumption,(1000 MT),739566.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Domestic Consumption,(1000 MT),731054.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Domestic Consumption,(1000 MT),738842.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Domestic Consumption,(1000 MT),776693.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Domestic Consumption,(1000 MT),788112.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Domestic Consumption,(1000 MT),781934.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Domestic Consumption,(1000 MT),797374.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Domestic Consumption,(1000 MT),800632.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Domestic Consumption,(1000 MT),818173.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Domestic Consumption,(1000 MT),819922.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,Ending Stocks,(1000 MT),82849.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Ending Stocks,(1000 MT),69850.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Ending Stocks,(1000 MT),75846.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Ending Stocks,(1000 MT),70327.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Ending Stocks,(1000 MT),78479.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Ending Stocks,(1000 MT),60734.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Ending Stocks,(1000 MT),87622.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Ending Stocks,(1000 MT),97664.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Ending Stocks,(1000 MT),121311.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Ending Stocks,(1000 MT),103543.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Ending Stocks,(1000 MT),80529.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Ending Stocks,(1000 MT),89244.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Ending Stocks,(1000 MT),74928.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Ending Stocks,(1000 MT),82667.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Ending Stocks,(1000 MT),81353.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Ending Stocks,(1000 MT),86719.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Ending Stocks,(1000 MT),127352.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Ending Stocks,(1000 MT),109207.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Ending Stocks,(1000 MT),134848.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Ending Stocks,(1000 MT),120453.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Ending Stocks,(1000 MT),112642.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Ending Stocks,(1000 MT),112632.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Ending Stocks,(1000 MT),130131.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Ending Stocks,(1000 MT),145780.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Ending Stocks,(1000 MT),168405.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Ending Stocks,(1000 MT),178435.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Ending Stocks,(1000 MT),190882.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Ending Stocks,(1000 MT),158789.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Ending Stocks,(1000 MT),134750.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Ending Stocks,(1000 MT),136584.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Ending Stocks,(1000 MT),170884.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Ending Stocks,(1000 MT),161284.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Ending Stocks,(1000 MT),176731.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Ending Stocks,(1000 MT),182663.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Ending Stocks,(1000 MT),163921.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Ending Stocks,(1000 MT),155786.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Ending Stocks,(1000 MT),164389.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Ending Stocks,(1000 MT),197915.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Ending Stocks,(1000 MT),209294.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Ending Stocks,(1000 MT),209072.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Ending Stocks,(1000 MT),206122.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Ending Stocks,(1000 MT),203577.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Ending Stocks,(1000 MT),169825.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Ending Stocks,(1000 MT),137010.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Ending Stocks,(1000 MT),157738.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Ending Stocks,(1000 MT),154668.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Ending Stocks,(1000 MT),134778.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Ending Stocks,(1000 MT),129216.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Ending Stocks,(1000 MT),170285.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Ending Stocks,(1000 MT),203785.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Ending Stocks,(1000 MT),199617.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Ending Stocks,(1000 MT),200121.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Ending Stocks,(1000 MT),180610.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Ending Stocks,(1000 MT),200723.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Ending Stocks,(1000 MT),225580.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Ending Stocks,(1000 MT),247821.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Ending Stocks,(1000 MT),267779.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Ending Stocks,(1000 MT),287297.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Ending Stocks,(1000 MT),284007.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Ending Stocks,(1000 MT),298257.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Ending Stocks,(1000 MT),285523.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Ending Stocks,(1000 MT),275048.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Ending Stocks,(1000 MT),274540.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Ending Stocks,(1000 MT),270135.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Ending Stocks,(1000 MT),259528.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Ending Stocks,(1000 MT),279945.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Ending Stocks,(1000 MT),275421.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,Exports,(1000 MT),43857.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Exports,(1000 MT),46949.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Exports,(1000 MT),46227.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Exports,(1000 MT),58265.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Exports,(1000 MT),54869.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Exports,(1000 MT),61066.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Exports,(1000 MT),58404.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Exports,(1000 MT),53551.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Exports,(1000 MT),50268.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Exports,(1000 MT),55817.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Exports,(1000 MT),56479.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Exports,(1000 MT),56060.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Exports,(1000 MT),64801.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Exports,(1000 MT),65867.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Exports,(1000 MT),61634.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Exports,(1000 MT),66891.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Exports,(1000 MT),63833.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Exports,(1000 MT),66909.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Exports,(1000 MT),76763.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Exports,(1000 MT),85603.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Exports,(1000 MT),90126.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Exports,(1000 MT),100376.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Exports,(1000 MT),100949.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Exports,(1000 MT),101794.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Exports,(1000 MT),103646.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Exports,(1000 MT),82452.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Exports,(1000 MT),89274.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Exports,(1000 MT),111565.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Exports,(1000 MT),105151.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Exports,(1000 MT),103419.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Exports,(1000 MT),103843.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Exports,(1000 MT),109948.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Exports,(1000 MT),110039.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Exports,(1000 MT),103717.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Exports,(1000 MT),98215.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Exports,(1000 MT),99197.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Exports,(1000 MT),106943.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Exports,(1000 MT),104400.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Exports,(1000 MT),101319.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Exports,(1000 MT),113435.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Exports,(1000 MT),101195.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Exports,(1000 MT),105783.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Exports,(1000 MT),105341.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Exports,(1000 MT),108519.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Exports,(1000 MT),111081.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Exports,(1000 MT),117394.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Exports,(1000 MT),111559.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Exports,(1000 MT),116390.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Exports,(1000 MT),144121.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Exports,(1000 MT),136764.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Exports,(1000 MT),133040.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Exports,(1000 MT),157644.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Exports,(1000 MT),136148.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Exports,(1000 MT),165935.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Exports,(1000 MT),164253.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Exports,(1000 MT),172972.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Exports,(1000 MT),186778.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Exports,(1000 MT),185449.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Exports,(1000 MT),176237.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Exports,(1000 MT),194592.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Exports,(1000 MT),203541.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Exports,(1000 MT),203728.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Exports,(1000 MT),221969.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Exports,(1000 MT),221435.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Exports,(1000 MT),210463.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Exports,(1000 MT),226698.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Exports,(1000 MT),211952.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,FSI Consumption,(1000 MT),198573.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,FSI Consumption,(1000 MT),198956.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,FSI Consumption,(1000 MT),207767.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,FSI Consumption,(1000 MT),210636.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,FSI Consumption,(1000 MT),217370.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,FSI Consumption,(1000 MT),227732.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,FSI Consumption,(1000 MT),229522.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,FSI Consumption,(1000 MT),231605.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,FSI Consumption,(1000 MT),237083.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,FSI Consumption,(1000 MT),247381.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,FSI Consumption,(1000 MT),250194.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,FSI Consumption,(1000 MT),254469.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,FSI Consumption,(1000 MT),268494.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,FSI Consumption,(1000 MT),281545.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,FSI Consumption,(1000 MT),280512.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,FSI Consumption,(1000 MT),283262.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,FSI Consumption,(1000 MT),300251.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,FSI Consumption,(1000 MT),312713.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,FSI Consumption,(1000 MT),314457.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,FSI Consumption,(1000 MT),333628.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,FSI Consumption,(1000 MT),351338.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,FSI Consumption,(1000 MT),350009.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,FSI Consumption,(1000 MT),353573.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,FSI Consumption,(1000 MT),368004.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,FSI Consumption,(1000 MT),382677.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,FSI Consumption,(1000 MT),384070.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,FSI Consumption,(1000 MT),393903.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,FSI Consumption,(1000 MT),416208.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,FSI Consumption,(1000 MT),411265.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,FSI Consumption,(1000 MT),421406.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,FSI Consumption,(1000 MT),417124.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,FSI Consumption,(1000 MT),434235.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,FSI Consumption,(1000 MT),432908.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,FSI Consumption,(1000 MT),436501.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,FSI Consumption,(1000 MT),440571.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,FSI Consumption,(1000 MT),446712.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,FSI Consumption,(1000 MT),462602.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,FSI Consumption,(1000 MT),469595.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,FSI Consumption,(1000 MT),467986.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,FSI Consumption,(1000 MT),476253.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,FSI Consumption,(1000 MT),474066.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,FSI Consumption,(1000 MT),474895.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,FSI Consumption,(1000 MT),486040.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,FSI Consumption,(1000 MT),479811.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,FSI Consumption,(1000 MT),494977.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,FSI Consumption,(1000 MT),498813.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,FSI Consumption,(1000 MT),506015.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,FSI Consumption,(1000 MT),509354.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,FSI Consumption,(1000 MT),512812.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,FSI Consumption,(1000 MT),528199.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,FSI Consumption,(1000 MT),536747.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,FSI Consumption,(1000 MT),541396.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,FSI Consumption,(1000 MT),548510.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,FSI Consumption,(1000 MT),564100.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,FSI Consumption,(1000 MT),569451.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,FSI Consumption,(1000 MT),572064.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,FSI Consumption,(1000 MT),586430.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,FSI Consumption,(1000 MT),592149.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,FSI Consumption,(1000 MT),591937.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,FSI Consumption,(1000 MT),599226.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,FSI Consumption,(1000 MT),613432.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,FSI Consumption,(1000 MT),628542.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,FSI Consumption,(1000 MT),628698.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,FSI Consumption,(1000 MT),637762.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,FSI Consumption,(1000 MT),643253.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,FSI Consumption,(1000 MT),649761.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,FSI Consumption,(1000 MT),657710.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,Feed Dom. Consumption,(1000 MT),29977.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Feed Dom. Consumption,(1000 MT),33275.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Feed Dom. Consumption,(1000 MT),29958.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Feed Dom. Consumption,(1000 MT),23646.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Feed Dom. Consumption,(1000 MT),33606.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Feed Dom. Consumption,(1000 MT),48349.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Feed Dom. Consumption,(1000 MT),43448.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Feed Dom. Consumption,(1000 MT),49040.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Feed Dom. Consumption,(1000 MT),61276.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Feed Dom. Consumption,(1000 MT),70009.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Feed Dom. Consumption,(1000 MT),78680.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Feed Dom. Consumption,(1000 MT),81205.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Feed Dom. Consumption,(1000 MT),84125.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Feed Dom. Consumption,(1000 MT),70037.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Feed Dom. Consumption,(1000 MT),72816.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Feed Dom. Consumption,(1000 MT),63534.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Feed Dom. Consumption,(1000 MT),69230.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Feed Dom. Consumption,(1000 MT),86271.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Feed Dom. Consumption,(1000 MT),90757.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Feed Dom. Consumption,(1000 MT),94948.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Feed Dom. Consumption,(1000 MT),91710.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Feed Dom. Consumption,(1000 MT),91662.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Feed Dom. Consumption,(1000 MT),93948.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Feed Dom. Consumption,(1000 MT),96998.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Feed Dom. Consumption,(1000 MT),101533.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Feed Dom. Consumption,(1000 MT),98755.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Feed Dom. Consumption,(1000 MT),114907.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Feed Dom. Consumption,(1000 MT),115241.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Feed Dom. Consumption,(1000 MT),105271.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Feed Dom. Consumption,(1000 MT),105248.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Feed Dom. Consumption,(1000 MT),132534.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Feed Dom. Consumption,(1000 MT),117215.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Feed Dom. Consumption,(1000 MT),112784.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Feed Dom. Consumption,(1000 MT),110966.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Feed Dom. Consumption,(1000 MT),102954.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Feed Dom. Consumption,(1000 MT),96912.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Feed Dom. Consumption,(1000 MT),101392.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Feed Dom. Consumption,(1000 MT),106188.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Feed Dom. Consumption,(1000 MT),109446.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Feed Dom. Consumption,(1000 MT),104644.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Feed Dom. Consumption,(1000 MT),109846.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Feed Dom. Consumption,(1000 MT),111892.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Feed Dom. Consumption,(1000 MT),116141.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Feed Dom. Consumption,(1000 MT),101680.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Feed Dom. Consumption,(1000 MT),110715.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Feed Dom. Consumption,(1000 MT),117540.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Feed Dom. Consumption,(1000 MT),113084.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Feed Dom. Consumption,(1000 MT),105024.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Feed Dom. Consumption,(1000 MT),123963.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Feed Dom. Consumption,(1000 MT),122673.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Feed Dom. Consumption,(1000 MT),116626.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Feed Dom. Consumption,(1000 MT),149438.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Feed Dom. Consumption,(1000 MT),138829.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Feed Dom. Consumption,(1000 MT),126937.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Feed Dom. Consumption,(1000 MT),132965.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Feed Dom. Consumption,(1000 MT),141865.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Feed Dom. Consumption,(1000 MT),147763.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Feed Dom. Consumption,(1000 MT),147417.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Feed Dom. Consumption,(1000 MT),139117.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Feed Dom. Consumption,(1000 MT),139616.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Feed Dom. Consumption,(1000 MT),163261.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Feed Dom. Consumption,(1000 MT),159570.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Feed Dom. Consumption,(1000 MT),153236.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Feed Dom. Consumption,(1000 MT),159612.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Feed Dom. Consumption,(1000 MT),157379.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Feed Dom. Consumption,(1000 MT),168412.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Feed Dom. Consumption,(1000 MT),162212.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,Imports,(1000 MT),41527.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Imports,(1000 MT),46039.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Imports,(1000 MT),43168.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Imports,(1000 MT),56641.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Imports,(1000 MT),49086.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Imports,(1000 MT),60090.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Imports,(1000 MT),57611.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Imports,(1000 MT),52290.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Imports,(1000 MT),48500.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Imports,(1000 MT),51418.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Imports,(1000 MT),55808.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Imports,(1000 MT),56330.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Imports,(1000 MT),65618.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Imports,(1000 MT),59119.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Imports,(1000 MT),58422.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Imports,(1000 MT),66406.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Imports,(1000 MT),59598.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Imports,(1000 MT),69904.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Imports,(1000 MT),68676.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Imports,(1000 MT),82242.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Imports,(1000 MT),89496.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Imports,(1000 MT),97042.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Imports,(1000 MT),93230.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Imports,(1000 MT),97994.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Imports,(1000 MT),101573.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Imports,(1000 MT),80505.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Imports,(1000 MT),86488.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Imports,(1000 MT),112247.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Imports,(1000 MT),102384.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Imports,(1000 MT),98797.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Imports,(1000 MT),99003.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Imports,(1000 MT),108361.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Imports,(1000 MT),108810.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Imports,(1000 MT),98561.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Imports,(1000 MT),99877.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Imports,(1000 MT),97188.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Imports,(1000 MT),98254.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Imports,(1000 MT),103533.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Imports,(1000 MT),99635.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Imports,(1000 MT),106718.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Imports,(1000 MT),99344.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Imports,(1000 MT),106234.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Imports,(1000 MT),103712.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Imports,(1000 MT),101107.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Imports,(1000 MT),110440.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Imports,(1000 MT),111572.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Imports,(1000 MT),113934.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Imports,(1000 MT),113496.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Imports,(1000 MT),137703.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Imports,(1000 MT),133605.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Imports,(1000 MT),131945.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Imports,(1000 MT),150239.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Imports,(1000 MT),143166.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Imports,(1000 MT),158953.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Imports,(1000 MT),159410.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Imports,(1000 MT),170106.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Imports,(1000 MT),183660.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Imports,(1000 MT),184225.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Imports,(1000 MT),174108.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Imports,(1000 MT),188376.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Imports,(1000 MT),194741.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Imports,(1000 MT),200547.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Imports,(1000 MT),212919.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Imports,(1000 MT),222859.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Imports,(1000 MT),201182.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Imports,(1000 MT),220933.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Imports,(1000 MT),207287.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,Production,(1000 MT),233451.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Production,(1000 MT),220049.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Production,(1000 MT),246780.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Production,(1000 MT),230387.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Production,(1000 MT),264911.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Production,(1000 MT),259312.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Production,(1000 MT),300651.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Production,(1000 MT),291948.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Production,(1000 MT),323774.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Production,(1000 MT),304021.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Production,(1000 MT),306531.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Production,(1000 MT),344119.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Production,(1000 MT),337486.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Production,(1000 MT),366069.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Production,(1000 MT),355226.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Production,(1000 MT),352647.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Production,(1000 MT),414348.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Production,(1000 MT),377844.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Production,(1000 MT),438942.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Production,(1000 MT),417542.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Production,(1000 MT),435867.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Production,(1000 MT),444995.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Production,(1000 MT),472739.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Production,(1000 MT),484451.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Production,(1000 MT),508908.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Production,(1000 MT),494802.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Production,(1000 MT),524043.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Production,(1000 MT),498674.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Production,(1000 MT),495264.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Production,(1000 MT),533110.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Production,(1000 MT),588798.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Production,(1000 MT),543437.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Production,(1000 MT),562668.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Production,(1000 MT),558555.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Production,(1000 MT),523121.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Production,(1000 MT),537498.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Production,(1000 MT),581286.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Production,(1000 MT),610176.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Production,(1000 MT),590495.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Production,(1000 MT),587392.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Production,(1000 MT),582813.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Production,(1000 MT),583791.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Production,(1000 MT),570058.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Production,(1000 MT),556088.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Production,(1000 MT),627061.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Production,(1000 MT),619105.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Production,(1000 MT),596834.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Production,(1000 MT),611710.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Production,(1000 MT),684262.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Production,(1000 MT),687531.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Production,(1000 MT),650300.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Production,(1000 MT),698743.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Production,(1000 MT),660810.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Production,(1000 MT),718132.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Production,(1000 MT),732116.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Production,(1000 MT),739036.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Production,(1000 MT),757269.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Production,(1000 MT),760308.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Production,(1000 MT),729893.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Production,(1000 MT),759308.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Production,(1000 MT),772759.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Production,(1000 MT),780818.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Production,(1000 MT),790476.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Production,(1000 MT),791545.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Production,(1000 MT),799306.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Production,(1000 MT),844355.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Production,(1000 MT),820063.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,TY Exports,(1000 MT),42871.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,TY Exports,(1000 MT),48137.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,TY Exports,(1000 MT),44840.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,TY Exports,(1000 MT),57409.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,TY Exports,(1000 MT),52529.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,TY Exports,(1000 MT),63332.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,TY Exports,(1000 MT),57482.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,TY Exports,(1000 MT),53570.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,TY Exports,(1000 MT),49209.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,TY Exports,(1000 MT),54534.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,TY Exports,(1000 MT),57488.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,TY Exports,(1000 MT),56616.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,TY Exports,(1000 MT),66988.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,TY Exports,(1000 MT),62521.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,TY Exports,(1000 MT),62822.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,TY Exports,(1000 MT),65513.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,TY Exports,(1000 MT),62140.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,TY Exports,(1000 MT),71697.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,TY Exports,(1000 MT),71279.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,TY Exports,(1000 MT),85523.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,TY Exports,(1000 MT),93211.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,TY Exports,(1000 MT),100499.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,TY Exports,(1000 MT),97670.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,TY Exports,(1000 MT),101196.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,TY Exports,(1000 MT),104715.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,TY Exports,(1000 MT),83568.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,TY Exports,(1000 MT),89651.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,TY Exports,(1000 MT),114100.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,TY Exports,(1000 MT),104319.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,TY Exports,(1000 MT),103905.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,TY Exports,(1000 MT),101257.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,TY Exports,(1000 MT),111363.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,TY Exports,(1000 MT),113219.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,TY Exports,(1000 MT),101731.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,TY Exports,(1000 MT),101507.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,TY Exports,(1000 MT),99249.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,TY Exports,(1000 MT),104041.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,TY Exports,(1000 MT),104531.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,TY Exports,(1000 MT),101985.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,TY Exports,(1000 MT),111904.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,TY Exports,(1000 MT),102043.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,TY Exports,(1000 MT),107933.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,TY Exports,(1000 MT),106534.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,TY Exports,(1000 MT),103506.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,TY Exports,(1000 MT),113173.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,TY Exports,(1000 MT),114136.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,TY Exports,(1000 MT),115329.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,TY Exports,(1000 MT),115972.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,TY Exports,(1000 MT),143152.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,TY Exports,(1000 MT),135294.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,TY Exports,(1000 MT),133962.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,TY Exports,(1000 MT),153646.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,TY Exports,(1000 MT),145632.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,TY Exports,(1000 MT),162525.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,TY Exports,(1000 MT),161981.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,TY Exports,(1000 MT),172155.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,TY Exports,(1000 MT),185716.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,TY Exports,(1000 MT),186981.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,TY Exports,(1000 MT),178142.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,TY Exports,(1000 MT),195097.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,TY Exports,(1000 MT),199703.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,TY Exports,(1000 MT),206116.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,TY Exports,(1000 MT),217868.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,TY Exports,(1000 MT),224428.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,TY Exports,(1000 MT),204504.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,TY Exports,(1000 MT),226420.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,TY Exports,(1000 MT),213360.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,TY Imp. from U.S.,(1000 MT),15449.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,TY Imp. from U.S.,(1000 MT),18461.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,TY Imp. from U.S.,(1000 MT),16705.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,TY Imp. from U.S.,(1000 MT),20952.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,TY Imp. from U.S.,(1000 MT),19176.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,TY Imp. from U.S.,(1000 MT),21200.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,TY Imp. from U.S.,(1000 MT),19130.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,TY Imp. from U.S.,(1000 MT),19783.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,TY Imp. from U.S.,(1000 MT),13066.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,TY Imp. from U.S.,(1000 MT),15705.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,TY Imp. from U.S.,(1000 MT),18336.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,TY Imp. from U.S.,(1000 MT),16237.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,TY Imp. from U.S.,(1000 MT),30471.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,TY Imp. from U.S.,(1000 MT),30324.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,TY Imp. from U.S.,(1000 MT),27276.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,TY Imp. from U.S.,(1000 MT),32688.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,TY Imp. from U.S.,(1000 MT),26316.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,TY Imp. from U.S.,(1000 MT),31931.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,TY Imp. from U.S.,(1000 MT),31586.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,TY Imp. from U.S.,(1000 MT),35612.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,TY Imp. from U.S.,(1000 MT),40732.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,TY Imp. from U.S.,(1000 MT),46930.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,TY Imp. from U.S.,(1000 MT),38743.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,TY Imp. from U.S.,(1000 MT),38454.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,TY Imp. from U.S.,(1000 MT),37363.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,TY Imp. from U.S.,(1000 MT),24467.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,TY Imp. from U.S.,(1000 MT),27921.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,TY Imp. from U.S.,(1000 MT),31310.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,TY Imp. from U.S.,(1000 MT),32347.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,TY Imp. from U.S.,(1000 MT),28223.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,TY Imp. from U.S.,(1000 MT),25027.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,TY Imp. from U.S.,(1000 MT),26367.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,TY Imp. from U.S.,(1000 MT),35724.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,TY Imp. from U.S.,(1000 MT),32354.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,TY Imp. from U.S.,(1000 MT),31344.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,TY Imp. from U.S.,(1000 MT),32018.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,TY Imp. from U.S.,(1000 MT),26012.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,TY Imp. from U.S.,(1000 MT),27761.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,TY Imp. from U.S.,(1000 MT),28745.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,TY Imp. from U.S.,(1000 MT),29089.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,TY Imp. from U.S.,(1000 MT),27768.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,TY Imp. from U.S.,(1000 MT),25564.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,TY Imp. from U.S.,(1000 MT),22247.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,TY Imp. from U.S.,(1000 MT),31589.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,TY Imp. from U.S.,(1000 MT),27954.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,TY Imp. from U.S.,(1000 MT),26940.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,TY Imp. from U.S.,(1000 MT),24671.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,TY Imp. from U.S.,(1000 MT),33345.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,TY Imp. from U.S.,(1000 MT),26559.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,TY Imp. from U.S.,(1000 MT),23453.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,TY Imp. from U.S.,(1000 MT),34954.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,TY Imp. from U.S.,(1000 MT),27961.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,TY Imp. from U.S.,(1000 MT),27523.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,TY Imp. from U.S.,(1000 MT),31405.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,TY Imp. from U.S.,(1000 MT),22933.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,TY Imp. from U.S.,(1000 MT),21725.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,TY Imp. from U.S.,(1000 MT),29227.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,TY Imp. from U.S.,(1000 MT),23190.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,TY Imp. from U.S.,(1000 MT),26158.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,TY Imp. from U.S.,(1000 MT),26350.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,TY Imp. from U.S.,(1000 MT),26499.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,TY Imp. from U.S.,(1000 MT),21252.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,TY Imp. from U.S.,(1000 MT),20113.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,TY Imp. from U.S.,(1000 MT),19544.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,TY Imp. from U.S.,(1000 MT),22552.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,TY Imp. from U.S.,(1000 MT),0.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,TY Imp. from U.S.,(1000 MT),0.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,TY Imports,(1000 MT),41509.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,TY Imports,(1000 MT),46765.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,TY Imports,(1000 MT),43933.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,TY Imports,(1000 MT),55118.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,TY Imports,(1000 MT),51361.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,TY Imports,(1000 MT),61655.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,TY Imports,(1000 MT),56760.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,TY Imports,(1000 MT),52994.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,TY Imports,(1000 MT),47802.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,TY Imports,(1000 MT),52550.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,TY Imports,(1000 MT),55051.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,TY Imports,(1000 MT),56569.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,TY Imports,(1000 MT),65426.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,TY Imports,(1000 MT),60129.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,TY Imports,(1000 MT),59784.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,TY Imports,(1000 MT),64850.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,TY Imports,(1000 MT),58533.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,TY Imports,(1000 MT),70455.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,TY Imports,(1000 MT),67950.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,TY Imports,(1000 MT),83092.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,TY Imports,(1000 MT),89606.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,TY Imports,(1000 MT),97244.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,TY Imports,(1000 MT),93704.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,TY Imports,(1000 MT),97494.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,TY Imports,(1000 MT),102449.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,TY Imports,(1000 MT),80556.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,TY Imports,(1000 MT),86739.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,TY Imports,(1000 MT),113595.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,TY Imports,(1000 MT),101830.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,TY Imports,(1000 MT),98261.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,TY Imports,(1000 MT),97849.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,TY Imports,(1000 MT),109585.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,TY Imports,(1000 MT),109127.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,TY Imports,(1000 MT),99327.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,TY Imports,(1000 MT),99359.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,TY Imports,(1000 MT),96595.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,TY Imports,(1000 MT),100819.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,TY Imports,(1000 MT),101616.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,TY Imports,(1000 MT),99678.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,TY Imports,(1000 MT),108316.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,TY Imports,(1000 MT),99866.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,TY Imports,(1000 MT),106959.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,TY Imports,(1000 MT),103174.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,TY Imports,(1000 MT),100595.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,TY Imports,(1000 MT),110733.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,TY Imports,(1000 MT),111915.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,TY Imports,(1000 MT),113403.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,TY Imports,(1000 MT),113286.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,TY Imports,(1000 MT),140638.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,TY Imports,(1000 MT),132528.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,TY Imports,(1000 MT),130822.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,TY Imports,(1000 MT),151765.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,TY Imports,(1000 MT),142907.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,TY Imports,(1000 MT),160694.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,TY Imports,(1000 MT),158815.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,TY Imports,(1000 MT),168497.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,TY Imports,(1000 MT),183719.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,TY Imports,(1000 MT),183257.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,TY Imports,(1000 MT),174351.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,TY Imports,(1000 MT),189456.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,TY Imports,(1000 MT),194844.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,TY Imports,(1000 MT),202217.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,TY Imports,(1000 MT),212007.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,TY Imports,(1000 MT),221145.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,TY Imports,(1000 MT),201046.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,TY Imports,(1000 MT),220853.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,TY Imports,(1000 MT),207677.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,Total Distribution,(1000 MT),355256.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Total Distribution,(1000 MT),349030.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Total Distribution,(1000 MT),359798.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Total Distribution,(1000 MT),362874.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Total Distribution,(1000 MT),384324.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Total Distribution,(1000 MT),397881.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Total Distribution,(1000 MT),418996.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Total Distribution,(1000 MT),431860.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Total Distribution,(1000 MT),469938.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Total Distribution,(1000 MT),476750.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Total Distribution,(1000 MT),465882.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Total Distribution,(1000 MT),480978.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Total Distribution,(1000 MT),492348.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Total Distribution,(1000 MT),500116.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Total Distribution,(1000 MT),496315.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Total Distribution,(1000 MT),500406.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Total Distribution,(1000 MT),560666.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Total Distribution,(1000 MT),575100.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Total Distribution,(1000 MT),616825.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Total Distribution,(1000 MT),634632.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Total Distribution,(1000 MT),646216.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Total Distribution,(1000 MT),654679.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Total Distribution,(1000 MT),678817.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Total Distribution,(1000 MT),712573.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Total Distribution,(1000 MT),756261.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Total Distribution,(1000 MT),743712.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Total Distribution,(1000 MT),788966.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Total Distribution,(1000 MT),801803.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Total Distribution,(1000 MT),756437.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Total Distribution,(1000 MT),766657.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Total Distribution,(1000 MT),824385.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Total Distribution,(1000 MT),822682.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Total Distribution,(1000 MT),832462.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Total Distribution,(1000 MT),833847.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Total Distribution,(1000 MT),805661.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Total Distribution,(1000 MT),798607.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Total Distribution,(1000 MT),835326.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Total Distribution,(1000 MT),878098.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Total Distribution,(1000 MT),888045.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Total Distribution,(1000 MT),903404.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Total Distribution,(1000 MT),891229.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Total Distribution,(1000 MT),896147.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Total Distribution,(1000 MT),877347.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Total Distribution,(1000 MT),827020.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Total Distribution,(1000 MT),874511.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Total Distribution,(1000 MT),888415.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Total Distribution,(1000 MT),865436.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Total Distribution,(1000 MT),859984.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Total Distribution,(1000 MT),951181.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Total Distribution,(1000 MT),991421.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Total Distribution,(1000 MT),986030.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Total Distribution,(1000 MT),1048599.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Total Distribution,(1000 MT),1004097.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Total Distribution,(1000 MT),1057695.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Total Distribution,(1000 MT),1092249.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Total Distribution,(1000 MT),1134722.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Total Distribution,(1000 MT),1188750.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Total Distribution,(1000 MT),1212312.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Total Distribution,(1000 MT),1191298.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Total Distribution,(1000 MT),1231691.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Total Distribution,(1000 MT),1265757.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Total Distribution,(1000 MT),1266888.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Total Distribution,(1000 MT),1278443.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Total Distribution,(1000 MT),1288944.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Total Distribution,(1000 MT),1270623.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Total Distribution,(1000 MT),1324816.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Total Distribution,(1000 MT),1307295.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1960,Total Supply,(1000 MT),355256.0,1,94,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1961,Total Supply,(1000 MT),349030.0,1,97,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1962,Total Supply,(1000 MT),359798.0,1,96,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1963,Total Supply,(1000 MT),362874.0,1,100,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1964,Total Supply,(1000 MT),384324.0,1,99,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1965,Total Supply,(1000 MT),397881.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1966,Total Supply,(1000 MT),418996.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1967,Total Supply,(1000 MT),431860.0,1,101,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1968,Total Supply,(1000 MT),469938.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1969,Total Supply,(1000 MT),476750.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1970,Total Supply,(1000 MT),465882.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1971,Total Supply,(1000 MT),480978.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1972,Total Supply,(1000 MT),492348.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1973,Total Supply,(1000 MT),500116.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1974,Total Supply,(1000 MT),496315.0,1,102,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1975,Total Supply,(1000 MT),500406.0,1,103,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1976,Total Supply,(1000 MT),560666.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1977,Total Supply,(1000 MT),575100.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1978,Total Supply,(1000 MT),616825.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1979,Total Supply,(1000 MT),634632.0,1,105,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1980,Total Supply,(1000 MT),646216.0,1,107,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1981,Total Supply,(1000 MT),654679.0,1,108,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1982,Total Supply,(1000 MT),678817.0,1,110,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1983,Total Supply,(1000 MT),712573.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1984,Total Supply,(1000 MT),756261.0,1,111,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1985,Total Supply,(1000 MT),743712.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1986,Total Supply,(1000 MT),788966.0,1,112,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1987,Total Supply,(1000 MT),801803.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1988,Total Supply,(1000 MT),756437.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1989,Total Supply,(1000 MT),766657.0,1,126,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1990,Total Supply,(1000 MT),824385.0,1,127,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1991,Total Supply,(1000 MT),822682.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1992,Total Supply,(1000 MT),832462.0,1,130,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1993,Total Supply,(1000 MT),833847.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1994,Total Supply,(1000 MT),805661.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1995,Total Supply,(1000 MT),798607.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1996,Total Supply,(1000 MT),835326.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1997,Total Supply,(1000 MT),878098.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1998,Total Supply,(1000 MT),888045.0,1,131,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,1999,Total Supply,(1000 MT),903404.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2000,Total Supply,(1000 MT),891229.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2001,Total Supply,(1000 MT),896147.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2002,Total Supply,(1000 MT),877347.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2003,Total Supply,(1000 MT),827020.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2004,Total Supply,(1000 MT),874511.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2005,Total Supply,(1000 MT),888415.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2006,Total Supply,(1000 MT),865436.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2007,Total Supply,(1000 MT),859984.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2008,Total Supply,(1000 MT),951181.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2009,Total Supply,(1000 MT),991421.0,1,118,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2010,Total Supply,(1000 MT),986030.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2011,Total Supply,(1000 MT),1048599.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2012,Total Supply,(1000 MT),1004097.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2013,Total Supply,(1000 MT),1057695.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2014,Total Supply,(1000 MT),1092249.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2015,Total Supply,(1000 MT),1134722.0,1,124,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2016,Total Supply,(1000 MT),1188750.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2017,Total Supply,(1000 MT),1212312.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2018,Total Supply,(1000 MT),1191298.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2019,Total Supply,(1000 MT),1231691.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2020,Total Supply,(1000 MT),1265757.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2021,Total Supply,(1000 MT),1266888.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2022,Total Supply,(1000 MT),1278443.0,1,125,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2023,Total Supply,(1000 MT),1288944.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2024,Total Supply,(1000 MT),1270623.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2025,Total Supply,(1000 MT),1324816.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+Wheat,World,2026,Total Supply,(1000 MT),1307295.0,1,123,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

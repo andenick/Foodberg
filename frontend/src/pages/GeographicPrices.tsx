@@ -10,7 +10,7 @@ import {
     Tooltip,
     XAxis, YAxis
 } from 'recharts'
-import { useArkTheme } from '../arcanum/arkChartTheme'
+import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 import { ChartMetaStrip, ScrollableDataTable } from '../components/ChartDetails'
 
 // Color palette for multiple lines
@@ -275,7 +275,17 @@ export default function GeographicPrices() {
             </div>
 
             <div className="card">
-                <h2 className="text-xl font-semibold text-ark-fg mb-4 capitalize">{seriesTitle}</h2>
+                <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
+                    <h2 className="text-xl font-semibold text-ark-fg capitalize">{seriesTitle}</h2>
+                    <button
+                        type="button"
+                        className="ark-btn ark-btn-sm ark-btn-ghost"
+                        onClick={() => downloadCsv(chartData, `foodberg_geo_${mode}_${(selectedKey || '').replace(/\W+/g, '_')}`)}
+                        disabled={chartData.length === 0}
+                    >
+                        Download CSV
+                    </button>
+                </div>
 
                 {loading ? (
                     <div className="h-[500px] flex items-center justify-center">

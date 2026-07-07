@@ -1,0 +1,738 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Animal Numbers, Swine",United States,1960,Beginning Stocks,(1000 HEAD),59026.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Beginning Stocks,(1000 HEAD),55506.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Beginning Stocks,(1000 HEAD),61836.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Beginning Stocks,(1000 HEAD),62726.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Beginning Stocks,(1000 HEAD),62061.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Beginning Stocks,(1000 HEAD),56106.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Beginning Stocks,(1000 HEAD),50519.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Beginning Stocks,(1000 HEAD),57125.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Beginning Stocks,(1000 HEAD),58818.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Beginning Stocks,(1000 HEAD),60829.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Beginning Stocks,(1000 HEAD),57046.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Beginning Stocks,(1000 HEAD),67285.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Beginning Stocks,(1000 HEAD),62412.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Beginning Stocks,(1000 HEAD),59017.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Beginning Stocks,(1000 HEAD),60614.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Beginning Stocks,(1000 HEAD),54693.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Beginning Stocks,(1000 HEAD),49267.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Beginning Stocks,(1000 HEAD),54934.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Beginning Stocks,(1000 HEAD),56540.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Beginning Stocks,(1000 HEAD),60356.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Beginning Stocks,(1000 HEAD),67319.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Beginning Stocks,(1000 HEAD),64462.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Beginning Stocks,(1000 HEAD),58698.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Beginning Stocks,(1000 HEAD),54534.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Beginning Stocks,(1000 HEAD),56694.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Beginning Stocks,(1000 HEAD),54073.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Beginning Stocks,(1000 HEAD),52314.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Beginning Stocks,(1000 HEAD),51001.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Beginning Stocks,(1000 HEAD),54384.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Beginning Stocks,(1000 HEAD),55466.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Beginning Stocks,(1000 HEAD),53788.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Beginning Stocks,(1000 HEAD),54416.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Beginning Stocks,(1000 HEAD),57649.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Beginning Stocks,(1000 HEAD),58202.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Beginning Stocks,(1000 HEAD),57940.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Beginning Stocks,(1000 HEAD),59738.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Beginning Stocks,(1000 HEAD),58201.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Beginning Stocks,(1000 HEAD),56124.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Beginning Stocks,(1000 HEAD),61158.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Beginning Stocks,(1000 HEAD),62204.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Beginning Stocks,(1000 HEAD),59335.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Beginning Stocks,(1000 HEAD),59110.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Beginning Stocks,(1000 HEAD),59722.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Beginning Stocks,(1000 HEAD),59554.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Beginning Stocks,(1000 HEAD),60453.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Beginning Stocks,(1000 HEAD),60982.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Beginning Stocks,(1000 HEAD),61463.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Beginning Stocks,(1000 HEAD),62516.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Beginning Stocks,(1000 HEAD),68177.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Beginning Stocks,(1000 HEAD),67048.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Beginning Stocks,(1000 HEAD),64687.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Beginning Stocks,(1000 HEAD),64725.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Beginning Stocks,(1000 HEAD),66259.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Beginning Stocks,(1000 HEAD),66224.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Beginning Stocks,(1000 HEAD),64775.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Beginning Stocks,(1000 HEAD),67626.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Beginning Stocks,(1000 HEAD),69019.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Beginning Stocks,(1000 HEAD),71345.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Beginning Stocks,(1000 HEAD),73145.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Beginning Stocks,(1000 HEAD),75055.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Beginning Stocks,(1000 HEAD),77323.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Beginning Stocks,(1000 HEAD),77022.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Beginning Stocks,(1000 HEAD),74606.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Beginning Stocks,(1000 HEAD),74956.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Beginning Stocks,(1000 HEAD),75461.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Beginning Stocks,(1000 HEAD),75438.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Beginning Stocks,(1000 HEAD),75415.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Ending Stocks,(1000 HEAD),55506.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Ending Stocks,(1000 HEAD),61836.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Ending Stocks,(1000 HEAD),62726.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Ending Stocks,(1000 HEAD),62061.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Ending Stocks,(1000 HEAD),56106.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Ending Stocks,(1000 HEAD),50519.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Ending Stocks,(1000 HEAD),57125.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Ending Stocks,(1000 HEAD),58818.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Ending Stocks,(1000 HEAD),60829.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Ending Stocks,(1000 HEAD),57046.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Ending Stocks,(1000 HEAD),67285.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Ending Stocks,(1000 HEAD),62412.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Ending Stocks,(1000 HEAD),59017.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Ending Stocks,(1000 HEAD),60614.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Ending Stocks,(1000 HEAD),54693.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Ending Stocks,(1000 HEAD),49267.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Ending Stocks,(1000 HEAD),54934.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Ending Stocks,(1000 HEAD),56539.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Ending Stocks,(1000 HEAD),60356.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Ending Stocks,(1000 HEAD),67319.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Ending Stocks,(1000 HEAD),64462.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Ending Stocks,(1000 HEAD),58698.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Ending Stocks,(1000 HEAD),54534.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Ending Stocks,(1000 HEAD),56694.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Ending Stocks,(1000 HEAD),54073.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Ending Stocks,(1000 HEAD),52314.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Ending Stocks,(1000 HEAD),51001.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Ending Stocks,(1000 HEAD),54384.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Ending Stocks,(1000 HEAD),55466.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Ending Stocks,(1000 HEAD),53788.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Ending Stocks,(1000 HEAD),54416.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Ending Stocks,(1000 HEAD),57649.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Ending Stocks,(1000 HEAD),58202.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Ending Stocks,(1000 HEAD),57940.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Ending Stocks,(1000 HEAD),59738.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Ending Stocks,(1000 HEAD),58201.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Ending Stocks,(1000 HEAD),56124.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Ending Stocks,(1000 HEAD),61158.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Ending Stocks,(1000 HEAD),62204.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Ending Stocks,(1000 HEAD),59335.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Ending Stocks,(1000 HEAD),59110.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Ending Stocks,(1000 HEAD),59722.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Ending Stocks,(1000 HEAD),59554.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Ending Stocks,(1000 HEAD),60453.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Ending Stocks,(1000 HEAD),60982.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Ending Stocks,(1000 HEAD),61463.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Ending Stocks,(1000 HEAD),62516.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Ending Stocks,(1000 HEAD),68177.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Ending Stocks,(1000 HEAD),67048.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Ending Stocks,(1000 HEAD),64687.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Ending Stocks,(1000 HEAD),64725.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Ending Stocks,(1000 HEAD),66259.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Ending Stocks,(1000 HEAD),66224.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Ending Stocks,(1000 HEAD),64775.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Ending Stocks,(1000 HEAD),67626.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Ending Stocks,(1000 HEAD),69019.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Ending Stocks,(1000 HEAD),71345.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Ending Stocks,(1000 HEAD),73145.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Ending Stocks,(1000 HEAD),75055.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Ending Stocks,(1000 HEAD),77323.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Ending Stocks,(1000 HEAD),77022.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Ending Stocks,(1000 HEAD),74606.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Ending Stocks,(1000 HEAD),74956.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Ending Stocks,(1000 HEAD),75461.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Ending Stocks,(1000 HEAD),75438.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Ending Stocks,(1000 HEAD),75415.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Ending Stocks,(1000 HEAD),75225.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Exports,(1000 HEAD),7.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Exports,(1000 HEAD),8.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Exports,(1000 HEAD),3.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Exports,(1000 HEAD),4.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Exports,(1000 HEAD),17.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Exports,(1000 HEAD),12.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Exports,(1000 HEAD),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Exports,(1000 HEAD),13.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Exports,(1000 HEAD),14.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Exports,(1000 HEAD),19.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Exports,(1000 HEAD),26.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Exports,(1000 HEAD),17.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Exports,(1000 HEAD),12.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Exports,(1000 HEAD),17.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Exports,(1000 HEAD),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Exports,(1000 HEAD),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Exports,(1000 HEAD),11.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Exports,(1000 HEAD),10.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Exports,(1000 HEAD),13.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Exports,(1000 HEAD),13.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Exports,(1000 HEAD),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Exports,(1000 HEAD),24.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Exports,(1000 HEAD),37.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Exports,(1000 HEAD),23.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Exports,(1000 HEAD),14.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Exports,(1000 HEAD),18.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Exports,(1000 HEAD),13.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Exports,(1000 HEAD),7.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Exports,(1000 HEAD),125.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Exports,(1000 HEAD),93.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Exports,(1000 HEAD),57.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Exports,(1000 HEAD),268.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Exports,(1000 HEAD),106.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Exports,(1000 HEAD),41.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Exports,(1000 HEAD),136.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Exports,(1000 HEAD),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Exports,(1000 HEAD),56.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Exports,(1000 HEAD),55.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Exports,(1000 HEAD),229.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Exports,(1000 HEAD),177.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Exports,(1000 HEAD),69.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Exports,(1000 HEAD),65.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Exports,(1000 HEAD),205.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Exports,(1000 HEAD),170.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Exports,(1000 HEAD),174.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Exports,(1000 HEAD),154.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Exports,(1000 HEAD),165.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Exports,(1000 HEAD),137.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Exports,(1000 HEAD),97.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Exports,(1000 HEAD),21.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Exports,(1000 HEAD),15.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Exports,(1000 HEAD),30.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Exports,(1000 HEAD),56.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Exports,(1000 HEAD),34.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Exports,(1000 HEAD),19.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Exports,(1000 HEAD),41.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Exports,(1000 HEAD),48.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Exports,(1000 HEAD),59.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Exports,(1000 HEAD),64.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Exports,(1000 HEAD),60.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Exports,(1000 HEAD),56.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Exports,(1000 HEAD),52.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Exports,(1000 HEAD),44.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Exports,(1000 HEAD),68.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Exports,(1000 HEAD),90.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Exports,(1000 HEAD),99.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Exports,(1000 HEAD),95.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Imports,(1000 HEAD),6.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Imports,(1000 HEAD),3.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Imports,(1000 HEAD),3.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Imports,(1000 HEAD),4.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Imports,(1000 HEAD),5.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Imports,(1000 HEAD),14.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Imports,(1000 HEAD),23.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Imports,(1000 HEAD),35.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Imports,(1000 HEAD),22.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Imports,(1000 HEAD),13.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Imports,(1000 HEAD),68.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Imports,(1000 HEAD),78.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Imports,(1000 HEAD),89.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Imports,(1000 HEAD),88.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Imports,(1000 HEAD),196.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Imports,(1000 HEAD),30.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Imports,(1000 HEAD),46.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Imports,(1000 HEAD),43.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Imports,(1000 HEAD),202.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Imports,(1000 HEAD),137.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Imports,(1000 HEAD),247.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Imports,(1000 HEAD),146.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Imports,(1000 HEAD),295.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Imports,(1000 HEAD),447.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Imports,(1000 HEAD),1322.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Imports,(1000 HEAD),1227.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Imports,(1000 HEAD),504.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Imports,(1000 HEAD),446.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Imports,(1000 HEAD),836.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Imports,(1000 HEAD),1074.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Imports,(1000 HEAD),890.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Imports,(1000 HEAD),1058.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Imports,(1000 HEAD),675.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Imports,(1000 HEAD),840.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Imports,(1000 HEAD),921.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Imports,(1000 HEAD),1750.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Imports,(1000 HEAD),2779.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Imports,(1000 HEAD),3179.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Imports,(1000 HEAD),4123.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Imports,(1000 HEAD),4137.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Imports,(1000 HEAD),4358.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Imports,(1000 HEAD),5337.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Imports,(1000 HEAD),5741.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Imports,(1000 HEAD),7438.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Imports,(1000 HEAD),8506.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Imports,(1000 HEAD),8191.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Imports,(1000 HEAD),8763.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Imports,(1000 HEAD),10004.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Imports,(1000 HEAD),9348.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Imports,(1000 HEAD),6365.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Imports,(1000 HEAD),5749.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Imports,(1000 HEAD),5795.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Imports,(1000 HEAD),5656.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Imports,(1000 HEAD),4948.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Imports,(1000 HEAD),4947.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Imports,(1000 HEAD),5740.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Imports,(1000 HEAD),5657.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Imports,(1000 HEAD),5597.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Imports,(1000 HEAD),5250.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Imports,(1000 HEAD),5096.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Imports,(1000 HEAD),5293.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Imports,(1000 HEAD),6663.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Imports,(1000 HEAD),6486.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Imports,(1000 HEAD),6745.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Imports,(1000 HEAD),6760.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Imports,(1000 HEAD),6990.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Imports,(1000 HEAD),7230.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Loss and Residual,(1000 HEAD),9223.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Loss and Residual,(1000 HEAD),8984.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Loss and Residual,(1000 HEAD),9037.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Loss and Residual,(1000 HEAD),7991.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Loss and Residual,(1000 HEAD),6872.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Loss and Residual,(1000 HEAD),6089.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Loss and Residual,(1000 HEAD),6351.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Loss and Residual,(1000 HEAD),6273.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Loss and Residual,(1000 HEAD),6338.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Loss and Residual,(1000 HEAD),6343.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Loss and Residual,(1000 HEAD),6532.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Loss and Residual,(1000 HEAD),6584.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Loss and Residual,(1000 HEAD),6617.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Loss and Residual,(1000 HEAD),6914.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Loss and Residual,(1000 HEAD),6819.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Loss and Residual,(1000 HEAD),5598.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Loss and Residual,(1000 HEAD),5992.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Loss and Residual,(1000 HEAD),6733.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Loss and Residual,(1000 HEAD),6484.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Loss and Residual,(1000 HEAD),5784.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Loss and Residual,(1000 HEAD),7634.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Loss and Residual,(1000 HEAD),7264.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Loss and Residual,(1000 HEAD),6767.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Loss and Residual,(1000 HEAD),3335.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Loss and Residual,(1000 HEAD),4874.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Loss and Residual,(1000 HEAD),4068.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Loss and Residual,(1000 HEAD),4419.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Loss and Residual,(1000 HEAD),4057.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Loss and Residual,(1000 HEAD),4376.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Loss and Residual,(1000 HEAD),5573.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Loss and Residual,(1000 HEAD),4914.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Loss and Residual,(1000 HEAD),4268.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Loss and Residual,(1000 HEAD),4270.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Loss and Residual,(1000 HEAD),5318.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Loss and Residual,(1000 HEAD),4769.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Loss and Residual,(1000 HEAD),5761.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Loss and Residual,(1000 HEAD),7864.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Loss and Residual,(1000 HEAD),5712.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Loss and Residual,(1000 HEAD),6824.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Loss and Residual,(1000 HEAD),7637.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Loss and Residual,(1000 HEAD),7280.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Loss and Residual,(1000 HEAD),7314.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Loss and Residual,(1000 HEAD),7118.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Loss and Residual,(1000 HEAD),6919.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Loss and Residual,(1000 HEAD),7127.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Loss and Residual,(1000 HEAD),7948.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Loss and Residual,(1000 HEAD),8441.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Loss and Residual,(1000 HEAD),7907.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Loss and Residual,(1000 HEAD),8521.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Loss and Residual,(1000 HEAD),9174.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Loss and Residual,(1000 HEAD),8564.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Loss and Residual,(1000 HEAD),8457.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Loss and Residual,(1000 HEAD),9127.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Loss and Residual,(1000 HEAD),9422.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Loss and Residual,(1000 HEAD),9955.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Loss and Residual,(1000 HEAD),10322.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Loss and Residual,(1000 HEAD),10970.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Loss and Residual,(1000 HEAD),11850.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Loss and Residual,(1000 HEAD),12243.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Loss and Residual,(1000 HEAD),11558.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Loss and Residual,(1000 HEAD),14223.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Loss and Residual,(1000 HEAD),13507.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Loss and Residual,(1000 HEAD),14372.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Loss and Residual,(1000 HEAD),13823.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Loss and Residual,(1000 HEAD),14378.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Loss and Residual,(1000 HEAD),15259.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Loss and Residual,(1000 HEAD),15272.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Production,(1000 HEAD),88216.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Production,(1000 HEAD),92713.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Production,(1000 HEAD),93608.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Production,(1000 HEAD),94056.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Production,(1000 HEAD),87544.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Production,(1000 HEAD),78941.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Production,(1000 HEAD),87604.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Production,(1000 HEAD),91668.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Production,(1000 HEAD),94155.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Production,(1000 HEAD),88676.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Production,(1000 HEAD),101714.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Production,(1000 HEAD),97924.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Production,(1000 HEAD),90574.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Production,(1000 HEAD),88123.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Production,(1000 HEAD),83744.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Production,(1000 HEAD),71186.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Production,(1000 HEAD),84395.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Production,(1000 HEAD),86162.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Production,(1000 HEAD),88512.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Production,(1000 HEAD),102792.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Production,(1000 HEAD),101720.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Production,(1000 HEAD),93853.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Production,(1000 HEAD),85189.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Production,(1000 HEAD),93155.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Production,(1000 HEAD),86586.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Production,(1000 HEAD),86036.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Production,(1000 HEAD),82571.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Production,(1000 HEAD),88423.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Production,(1000 HEAD),92883.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Production,(1000 HEAD),91920.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Production,(1000 HEAD),90100.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Production,(1000 HEAD),95315.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Production,(1000 HEAD),99142.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Production,(1000 HEAD),97326.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Production,(1000 HEAD),101478.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Production,(1000 HEAD),98816.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Production,(1000 HEAD),95458.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Production,(1000 HEAD),99583.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Production,(1000 HEAD),105005.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Production,(1000 HEAD),102352.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Production,(1000 HEAD),100742.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Production,(1000 HEAD),100617.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Production,(1000 HEAD),101677.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Production,(1000 HEAD),101481.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Production,(1000 HEAD),102787.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Production,(1000 HEAD),103975.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Production,(1000 HEAD),105633.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Production,(1000 HEAD),112873.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Production,(1000 HEAD),114593.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Production,(1000 HEAD),114088.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Production,(1000 HEAD),113128.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Production,(1000 HEAD),115086.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Production,(1000 HEAD),116655.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Production,(1000 HEAD),115135.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Production,(1000 HEAD),114754.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Production,(1000 HEAD),121441.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Production,(1000 HEAD),125907.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Production,(1000 HEAD),129429.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Production,(1000 HEAD),133400.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Production,(1000 HEAD),138703.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Production,(1000 HEAD),140248.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Production,(1000 HEAD),133466.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Production,(1000 HEAD),133602.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Production,(1000 HEAD),135622.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Production,(1000 HEAD),137355.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Production,(1000 HEAD),136544.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Production,(1000 HEAD),137127.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Sow Beginning Stocks,(1000 HEAD),7531.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Sow Beginning Stocks,(1000 HEAD),7808.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Sow Beginning Stocks,(1000 HEAD),7816.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Sow Beginning Stocks,(1000 HEAD),7833.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Sow Beginning Stocks,(1000 HEAD),9117.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Sow Beginning Stocks,(1000 HEAD),8166.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Sow Beginning Stocks,(1000 HEAD),8224.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Sow Beginning Stocks,(1000 HEAD),8862.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Sow Beginning Stocks,(1000 HEAD),9186.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Sow Beginning Stocks,(1000 HEAD),9472.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Sow Beginning Stocks,(1000 HEAD),9189.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Sow Beginning Stocks,(1000 HEAD),9645.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Sow Beginning Stocks,(1000 HEAD),8475.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Sow Beginning Stocks,(1000 HEAD),8650.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Sow Beginning Stocks,(1000 HEAD),8605.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Sow Beginning Stocks,(1000 HEAD),7389.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Sow Beginning Stocks,(1000 HEAD),7574.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Sow Beginning Stocks,(1000 HEAD),8011.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Sow Beginning Stocks,(1000 HEAD),8604.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Sow Beginning Stocks,(1000 HEAD),9605.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Sow Beginning Stocks,(1000 HEAD),9645.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Sow Beginning Stocks,(1000 HEAD),9118.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Sow Beginning Stocks,(1000 HEAD),7844.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Sow Beginning Stocks,(1000 HEAD),7475.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Sow Beginning Stocks,(1000 HEAD),7391.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Sow Beginning Stocks,(1000 HEAD),6945.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Sow Beginning Stocks,(1000 HEAD),6778.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Sow Beginning Stocks,(1000 HEAD),6691.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Sow Beginning Stocks,(1000 HEAD),7080.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Sow Beginning Stocks,(1000 HEAD),7053.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Sow Beginning Stocks,(1000 HEAD),6847.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Sow Beginning Stocks,(1000 HEAD),6847.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Sow Beginning Stocks,(1000 HEAD),7229.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Sow Beginning Stocks,(1000 HEAD),7109.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Sow Beginning Stocks,(1000 HEAD),7166.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Sow Beginning Stocks,(1000 HEAD),6998.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Sow Beginning Stocks,(1000 HEAD),6770.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Sow Beginning Stocks,(1000 HEAD),6578.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Sow Beginning Stocks,(1000 HEAD),6957.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Sow Beginning Stocks,(1000 HEAD),6682.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Sow Beginning Stocks,(1000 HEAD),6233.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Sow Beginning Stocks,(1000 HEAD),6267.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Sow Beginning Stocks,(1000 HEAD),6201.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Sow Beginning Stocks,(1000 HEAD),6058.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Sow Beginning Stocks,(1000 HEAD),6019.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Sow Beginning Stocks,(1000 HEAD),5980.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Sow Beginning Stocks,(1000 HEAD),6031.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Sow Beginning Stocks,(1000 HEAD),6116.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Sow Beginning Stocks,(1000 HEAD),6233.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Sow Beginning Stocks,(1000 HEAD),6062.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Sow Beginning Stocks,(1000 HEAD),5850.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Sow Beginning Stocks,(1000 HEAD),5778.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Sow Beginning Stocks,(1000 HEAD),5803.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Sow Beginning Stocks,(1000 HEAD),5819.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Sow Beginning Stocks,(1000 HEAD),5757.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Sow Beginning Stocks,(1000 HEAD),5939.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Sow Beginning Stocks,(1000 HEAD),6002.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Sow Beginning Stocks,(1000 HEAD),6110.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Sow Beginning Stocks,(1000 HEAD),6179.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Sow Beginning Stocks,(1000 HEAD),6326.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Sow Beginning Stocks,(1000 HEAD),6491.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Sow Beginning Stocks,(1000 HEAD),6176.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Sow Beginning Stocks,(1000 HEAD),6175.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Sow Beginning Stocks,(1000 HEAD),6204.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Sow Beginning Stocks,(1000 HEAD),5999.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Sow Beginning Stocks,(1000 HEAD),6004.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Sow Beginning Stocks,(1000 HEAD),5903.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Sow Slaughter,(1000 HEAD),5604.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Sow Slaughter,(1000 HEAD),5564.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Sow Slaughter,(1000 HEAD),5525.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Sow Slaughter,(1000 HEAD),5717.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Sow Slaughter,(1000 HEAD),5702.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Sow Slaughter,(1000 HEAD),4739.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Sow Slaughter,(1000 HEAD),5955.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Sow Slaughter,(1000 HEAD),6090.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Sow Slaughter,(1000 HEAD),5611.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Sow Slaughter,(1000 HEAD),5493.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Sow Slaughter,(1000 HEAD),5504.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Sow Slaughter,(1000 HEAD),5853.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Sow Slaughter,(1000 HEAD),4993.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Sow Slaughter,(1000 HEAD),4466.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Sow Slaughter,(1000 HEAD),5640.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Sow Slaughter,(1000 HEAD),3811.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Sow Slaughter,(1000 HEAD),3560.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Sow Slaughter,(1000 HEAD),4236.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Sow Slaughter,(1000 HEAD),4038.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Sow Slaughter,(1000 HEAD),5003.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Sow Slaughter,(1000 HEAD),5396.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Sow Slaughter,(1000 HEAD),4804.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Sow Slaughter,(1000 HEAD),4102.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Sow Slaughter,(1000 HEAD),4646.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Sow Slaughter,(1000 HEAD),4394.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Sow Slaughter,(1000 HEAD),4015.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Sow Slaughter,(1000 HEAD),3740.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Sow Slaughter,(1000 HEAD),3507.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Sow Slaughter,(1000 HEAD),4065.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Sow Slaughter,(1000 HEAD),4227.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Sow Slaughter,(1000 HEAD),3804.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Sow Slaughter,(1000 HEAD),3727.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Sow Slaughter,(1000 HEAD),4051.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Sow Slaughter,(1000 HEAD),3796.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Sow Slaughter,(1000 HEAD),4010.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Sow Slaughter,(1000 HEAD),3759.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Sow Slaughter,(1000 HEAD),3496.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Sow Slaughter,(1000 HEAD),3123.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Sow Slaughter,(1000 HEAD),3496.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Sow Slaughter,(1000 HEAD),3396.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Sow Slaughter,(1000 HEAD),3054.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Sow Slaughter,(1000 HEAD),3054.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Sow Slaughter,(1000 HEAD),3228.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Sow Slaughter,(1000 HEAD),3256.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Sow Slaughter,(1000 HEAD),3306.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Sow Slaughter,(1000 HEAD),3146.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Sow Slaughter,(1000 HEAD),3260.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Sow Slaughter,(1000 HEAD),3341.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Sow Slaughter,(1000 HEAD),3533.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Sow Slaughter,(1000 HEAD),3272.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Sow Slaughter,(1000 HEAD),2992.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Sow Slaughter,(1000 HEAD),3052.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Sow Slaughter,(1000 HEAD),3033.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Sow Slaughter,(1000 HEAD),2953.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Sow Slaughter,(1000 HEAD),2807.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Sow Slaughter,(1000 HEAD),2872.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Sow Slaughter,(1000 HEAD),2905.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Sow Slaughter,(1000 HEAD),2971.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Sow Slaughter,(1000 HEAD),3032.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Sow Slaughter,(1000 HEAD),3028.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Sow Slaughter,(1000 HEAD),3341.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Sow Slaughter,(1000 HEAD),3131.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Sow Slaughter,(1000 HEAD),3083.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Sow Slaughter,(1000 HEAD),3200.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Sow Slaughter,(1000 HEAD),3163.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Sow Slaughter,(1000 HEAD),2989.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Sow Slaughter,(1000 HEAD),2925.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Total Distribution,(1000 HEAD),55513.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Total Distribution,(1000 HEAD),61844.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Total Distribution,(1000 HEAD),62729.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Total Distribution,(1000 HEAD),62065.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Total Distribution,(1000 HEAD),56123.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Total Distribution,(1000 HEAD),50531.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Total Distribution,(1000 HEAD),138872.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Total Distribution,(1000 HEAD),148529.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Total Distribution,(1000 HEAD),153603.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Total Distribution,(1000 HEAD),148381.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Total Distribution,(1000 HEAD),160895.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Total Distribution,(1000 HEAD),164661.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Total Distribution,(1000 HEAD),151365.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Total Distribution,(1000 HEAD),145331.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Total Distribution,(1000 HEAD),144625.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Total Distribution,(1000 HEAD),124761.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Total Distribution,(1000 HEAD),135902.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Total Distribution,(1000 HEAD),141729.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Total Distribution,(1000 HEAD),145254.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Total Distribution,(1000 HEAD),163285.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Total Distribution,(1000 HEAD),169286.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Total Distribution,(1000 HEAD),158461.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Total Distribution,(1000 HEAD),144182.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Total Distribution,(1000 HEAD),148136.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Total Distribution,(1000 HEAD),144602.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Total Distribution,(1000 HEAD),141336.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Total Distribution,(1000 HEAD),135389.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Total Distribution,(1000 HEAD),139870.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Total Distribution,(1000 HEAD),148103.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Total Distribution,(1000 HEAD),148460.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Total Distribution,(1000 HEAD),144778.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Total Distribution,(1000 HEAD),150789.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Total Distribution,(1000 HEAD),157466.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Total Distribution,(1000 HEAD),156368.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Total Distribution,(1000 HEAD),160339.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Total Distribution,(1000 HEAD),160304.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Total Distribution,(1000 HEAD),156438.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Total Distribution,(1000 HEAD),158886.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Total Distribution,(1000 HEAD),170286.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Total Distribution,(1000 HEAD),168693.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Total Distribution,(1000 HEAD),164435.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Total Distribution,(1000 HEAD),165064.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Total Distribution,(1000 HEAD),167140.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Total Distribution,(1000 HEAD),168473.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Total Distribution,(1000 HEAD),171746.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Total Distribution,(1000 HEAD),173148.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Total Distribution,(1000 HEAD),175859.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Total Distribution,(1000 HEAD),185393.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Total Distribution,(1000 HEAD),192118.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Total Distribution,(1000 HEAD),187501.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Total Distribution,(1000 HEAD),183564.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Total Distribution,(1000 HEAD),185606.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Total Distribution,(1000 HEAD),188570.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Total Distribution,(1000 HEAD),186307.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Total Distribution,(1000 HEAD),184476.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Total Distribution,(1000 HEAD),194807.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Total Distribution,(1000 HEAD),200583.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Total Distribution,(1000 HEAD),206371.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Total Distribution,(1000 HEAD),211795.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Total Distribution,(1000 HEAD),218854.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Total Distribution,(1000 HEAD),222864.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Total Distribution,(1000 HEAD),217151.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Total Distribution,(1000 HEAD),214694.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Total Distribution,(1000 HEAD),217323.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Total Distribution,(1000 HEAD),219576.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Total Distribution,(1000 HEAD),218972.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Total Distribution,(1000 HEAD),219772.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Total Slaughter,(1000 HEAD),84150.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Total Slaughter,(1000 HEAD),81970.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Total Slaughter,(1000 HEAD),83424.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Total Slaughter,(1000 HEAD),87117.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Total Slaughter,(1000 HEAD),86284.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Total Slaughter,(1000 HEAD),76458.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Total Slaughter,(1000 HEAD),75386.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Total Slaughter,(1000 HEAD),83425.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Total Slaughter,(1000 HEAD),86422.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Total Slaughter,(1000 HEAD),84973.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Total Slaughter,(1000 HEAD),87052.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Total Slaughter,(1000 HEAD),95648.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Total Slaughter,(1000 HEAD),85719.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Total Slaughter,(1000 HEAD),77786.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Total Slaughter,(1000 HEAD),83097.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Total Slaughter,(1000 HEAD),69880.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Total Slaughter,(1000 HEAD),74965.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Total Slaughter,(1000 HEAD),78447.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Total Slaughter,(1000 HEAD),78401.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Total Slaughter,(1000 HEAD),90169.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Total Slaughter,(1000 HEAD),97174.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Total Slaughter,(1000 HEAD),92475.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Total Slaughter,(1000 HEAD),82844.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Total Slaughter,(1000 HEAD),88084.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Total Slaughter,(1000 HEAD),85641.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Total Slaughter,(1000 HEAD),84936.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Total Slaughter,(1000 HEAD),79956.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Total Slaughter,(1000 HEAD),81422.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Total Slaughter,(1000 HEAD),88136.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Total Slaughter,(1000 HEAD),89006.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Total Slaughter,(1000 HEAD),85391.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Total Slaughter,(1000 HEAD),88604.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Total Slaughter,(1000 HEAD),94888.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Total Slaughter,(1000 HEAD),93069.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Total Slaughter,(1000 HEAD),95696.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Total Slaughter,(1000 HEAD),96326.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Total Slaughter,(1000 HEAD),92394.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Total Slaughter,(1000 HEAD),91961.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Total Slaughter,(1000 HEAD),101029.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Total Slaughter,(1000 HEAD),101544.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Total Slaughter,(1000 HEAD),97976.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Total Slaughter,(1000 HEAD),97963.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Total Slaughter,(1000 HEAD),100263.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Total Slaughter,(1000 HEAD),100931.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Total Slaughter,(1000 HEAD),103463.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Total Slaughter,(1000 HEAD),103583.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Total Slaughter,(1000 HEAD),104737.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Total Slaughter,(1000 HEAD),109172.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Total Slaughter,(1000 HEAD),116452.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Total Slaughter,(1000 HEAD),113619.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Total Slaughter,(1000 HEAD),110260.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Total Slaughter,(1000 HEAD),110860.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Total Slaughter,(1000 HEAD),113163.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Total Slaughter,(1000 HEAD),112076.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Total Slaughter,(1000 HEAD),106876.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Total Slaughter,(1000 HEAD),115425.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Total Slaughter,(1000 HEAD),118220.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Total Slaughter,(1000 HEAD),121317.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Total Slaughter,(1000 HEAD),124433.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Total Slaughter,(1000 HEAD),129913.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Total Slaughter,(1000 HEAD),131563.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Total Slaughter,(1000 HEAD),128986.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Total Slaughter,(1000 HEAD),125322.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Total Slaughter,(1000 HEAD),127971.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Total Slaughter,(1000 HEAD),129670.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Total Slaughter,(1000 HEAD),128199.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Total Slaughter,(1000 HEAD),129180.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1960,Total Supply,(1000 HEAD),147248.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1961,Total Supply,(1000 HEAD),148222.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1962,Total Supply,(1000 HEAD),155447.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1963,Total Supply,(1000 HEAD),156786.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1964,Total Supply,(1000 HEAD),149610.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1965,Total Supply,(1000 HEAD),135061.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1966,Total Supply,(1000 HEAD),138146.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1967,Total Supply,(1000 HEAD),148828.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1968,Total Supply,(1000 HEAD),152995.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1969,Total Supply,(1000 HEAD),149518.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1970,Total Supply,(1000 HEAD),158828.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1971,Total Supply,(1000 HEAD),165287.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1972,Total Supply,(1000 HEAD),153075.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1973,Total Supply,(1000 HEAD),147228.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1974,Total Supply,(1000 HEAD),144554.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1975,Total Supply,(1000 HEAD),125909.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1976,Total Supply,(1000 HEAD),133708.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1977,Total Supply,(1000 HEAD),141139.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1978,Total Supply,(1000 HEAD),145254.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1979,Total Supply,(1000 HEAD),163285.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1980,Total Supply,(1000 HEAD),169286.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1981,Total Supply,(1000 HEAD),158461.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1982,Total Supply,(1000 HEAD),144182.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1983,Total Supply,(1000 HEAD),148136.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1984,Total Supply,(1000 HEAD),144602.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1985,Total Supply,(1000 HEAD),141336.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1986,Total Supply,(1000 HEAD),135389.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1987,Total Supply,(1000 HEAD),139870.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1988,Total Supply,(1000 HEAD),148103.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1989,Total Supply,(1000 HEAD),148460.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1990,Total Supply,(1000 HEAD),144778.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1991,Total Supply,(1000 HEAD),150789.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1992,Total Supply,(1000 HEAD),157466.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1993,Total Supply,(1000 HEAD),156368.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1994,Total Supply,(1000 HEAD),160339.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1995,Total Supply,(1000 HEAD),160304.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1996,Total Supply,(1000 HEAD),156438.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1997,Total Supply,(1000 HEAD),158886.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1998,Total Supply,(1000 HEAD),170286.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,1999,Total Supply,(1000 HEAD),168693.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2000,Total Supply,(1000 HEAD),164435.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2001,Total Supply,(1000 HEAD),165064.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2002,Total Supply,(1000 HEAD),167140.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2003,Total Supply,(1000 HEAD),168473.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2004,Total Supply,(1000 HEAD),171746.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2005,Total Supply,(1000 HEAD),173148.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2006,Total Supply,(1000 HEAD),175859.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2007,Total Supply,(1000 HEAD),185393.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2008,Total Supply,(1000 HEAD),192118.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2009,Total Supply,(1000 HEAD),187501.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2010,Total Supply,(1000 HEAD),183564.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2011,Total Supply,(1000 HEAD),185606.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2012,Total Supply,(1000 HEAD),188570.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2013,Total Supply,(1000 HEAD),186307.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2014,Total Supply,(1000 HEAD),184476.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2015,Total Supply,(1000 HEAD),194807.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2016,Total Supply,(1000 HEAD),200583.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2017,Total Supply,(1000 HEAD),206371.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2018,Total Supply,(1000 HEAD),211795.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2019,Total Supply,(1000 HEAD),218854.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2020,Total Supply,(1000 HEAD),222864.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2021,Total Supply,(1000 HEAD),217151.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2022,Total Supply,(1000 HEAD),214694.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2023,Total Supply,(1000 HEAD),217323.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2024,Total Supply,(1000 HEAD),219576.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2025,Total Supply,(1000 HEAD),218972.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Swine",United States,2026,Total Supply,(1000 HEAD),219772.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

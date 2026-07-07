@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Historical Food Price Explorer — a data visualization app for understanding food commodity prices and their history. Built for historically minded chefs who want to understand the broader environmental and historical context of food prices.
+Historical Food Price Explorer — a data visualization app for understanding food commodity prices and their history. Built for historically minded chefs who want to understand the broader environmental and historical context of food prices. **🟢 LIVE at [foodberg.org](https://foodberg.org).**
 
 ## Quick Start
 
@@ -23,29 +23,32 @@ npm run dev                    # Starts on http://localhost:3000
 
 ### Access Points
 
-- **Frontend**: http://localhost:3000
-- **Backend API**: http://localhost:8000
+- **Production**: https://foodberg.org
+- **Local frontend**: http://localhost:3000
+- **Local backend API**: http://localhost:8000
 - **API Docs**: http://localhost:8000/docs (dev mode only)
 
 ## Project Structure
 
 ```
 Foodberg/
-  backend/              # FastAPI server (Python)
-    main.py             # API endpoints (24 GET routes)
+  backend/              # FastAPI server (Python) — lags deploy tree
+    main.py             # API endpoints
     database/           # SQLAlchemy models, importers, manager
     indices/            # Composite index computation
     data/               # SQLite database (foodberg.db)
     data_sources/       # API clients (FRED, FAO, World Bank, USDA, Robin)
     config/             # API key configuration
-  frontend/             # React app (TypeScript)
-    src/pages/          # 7 pages
-    src/services/       # API client (api.ts)
-    src/components/     # Header, Footer
-  Inputs/               # Raw data (70 commodity JSON files)
+  frontend/             # React app (TypeScript) — canonical source
+    src/pages/          # 9 pages
+    src/services/       # API client (api.ts, defaults to same-origin)
+    src/components/     # Header, Footer, ChartDetails
+  Inputs/               # Raw data & ~802 acquired PDFs
   Technical/            # Processing scripts, docs, progress log
-  Outputs/              # Deliverables (placeholder structure)
+  Outputs/              # Deliverables (wishlists, PSD exports)
 ```
+
+> **Deploy tree (canonical production backend):** `Council/Carson/Technical/deploy/foodberg/backend/` — main.py, worldbank_client.py, rebake_history.py, and the baked `data/foodberg.db` live here. The project-local `backend/` lags this tree. Frontend source at `Projects/Foodberg/frontend/` is canonical for both local dev and production builds.
 
 ## Frontend Pages
 
@@ -53,13 +56,15 @@ Foodberg/
 |-------|------|-------------|
 | `/` | HomePage | Static content |
 | `/index` | FoodPriceIndex | `GET /api/indices/`, `GET /api/indices/{category}` |
-| `/explore` | PriceExplorer | `GET /api/wasde/commodities`, `GET /api/wasde/{commodity}` |
-| `/commodity/:id` | CommodityDetail | `GET /api/wasde/{id}` |
-| `/geographic` | GeographicPrices | `GET /api/wasde/{commodity}` |
-| `/trends` | HistoricalTrends | `GET /api/wasde/{commodity}` (parallel) |
-| `/sources` | DataSources | `GET /api/data/sources`, `GET /api/data/status` |
+| `/explore` | PriceExplorer | `GET /api/prices/coverage`, `GET /api/prices/history/{commodity}?source=` (tabs: NASS, Pink Sheet, BLS retail) |
+| `/commodity/:id` | CommodityDetail | `GET /api/prices/history/{id}` |
+| `/geographic` | GeographicPrices | Three-mode toggle: `GET /api/geo/producer/{item}` (FAOSTAT), `GET /api/geo/states/{commodity}` (US NASS), `GET /api/geo/{code}` (WB indicators) |
+| `/trends` | HistoricalTrends | `GET /api/prices/history/` (parallel); eligibility restricted to commodities with real history |
+| `/sources` | DataSources | `GET /api/data/sources`, `GET /api/data/status` — DB overview + per-source record cards |
+| `/downloads` | Downloads | Static content (data exports) |
+| `/supply-demand` | SupplyDemand | (placeholder; PSD data acquired, not surfaced) |
 
-## API Endpoints (24 GET routes)
+## API Endpoints
 
 ### Core
 - `GET /` — API root (name, version, status)
@@ -67,19 +72,26 @@ Foodberg/
 - `GET /api/data/status` — Per-table record counts, date ranges, freshness
 - `GET /api/data/sources` — Static source metadata
 
-### WASDE Commodities (from database)
-- `GET /api/wasde/commodities` — List available commodities from Robin data store
-- `GET /api/wasde/{commodity}` — All records for a commodity (params: `limit`)
-- `GET /api/wasde/{commodity}/national` — National-level data
-- `GET /api/wasde/{commodity}/state/{state}` — State-level data
-
-### Price Search
-- `GET /api/prices/search` — Unified search across sources
+### Price Explorer (multi-source)
+- `GET /api/prices/coverage` — Per-commodity multi-source coverage spans
+- `GET /api/prices/history/{commodity}?source=nass|av|pinksheet|retail` — Price history filtered by source
 - `GET /api/prices/trend/{commodity}` — Price trend with period filter
 - `GET /api/prices/compare/{commodity}` — Cross-source comparison
 - `GET /api/prices/stats/{commodity}` — Price statistics
 - `GET /api/prices/database/stats` — Database record counts
-- `GET /api/prices/terminal/{market}` — Live USDA Market News (requires API key)
+
+### Geographic (three-mode)
+- `GET /api/geo/producer/items` — List FAOSTAT producer price items
+- `GET /api/geo/producer/{item}` — FAOSTAT producer prices by country
+- `GET /api/geo/states/{commodity}` — NASS state-level prices
+- `GET /api/geo/indicators` — List World Bank indicators
+- `GET /api/geo/{code}` — World Bank development indicator data
+
+### WASDE Commodities (legacy, from database)
+- `GET /api/wasde/commodities` — List available commodities
+- `GET /api/wasde/{commodity}` — All records (params: `limit`)
+- `GET /api/wasde/{commodity}/national` — National-level data
+- `GET /api/wasde/{commodity}/state/{state}` — State-level data
 
 ### Economic Indicators
 - `GET /api/economic/indicators` — FRED indicators
@@ -99,13 +111,15 @@ SQLite database at `backend/data/foodberg.db` with 6 tables:
 
 | Table | Records | Source |
 |-------|---------|--------|
-| `wasde_data` | 147,369 | Robin/USDA NASS (50 commodities) |
-| `economic_indicators` | 13,185 | FRED (21 series) + BLS CPI (7 series) |
-| `global_prices` | 5,722 | FAO Food Price Index + World Bank WDI |
-| `retail_prices` | 70 | Inputs/ commodity JSON files |
-| `composite_indices` | 2,715 | Computed from FAO + BLS data |
+| `wasde_data` | ~1.06M | Robin/USDA NASS (44 commodities, 1908–2026, national + state) |
+| `global_prices` | ~220K | FAO FAOSTAT producer prices + FAO CPI + World Bank Pink Sheet CMO |
+| `retail_prices` | ~20K | BLS AP monthly averages (1980–2026) via FRED mirror |
+| `economic_indicators` | ~13K | FRED (21 series) + BLS CPI (7 series) |
+| `composite_indices` | ~3K | Computed from FAO + BLS data |
 | `market_prices` | 0 | USDA Market News (not populated) |
-| **Total** | **169,061** | |
+| **Total** | **~1.3M** | |
+
+> USDA PSD (192 MB CSV in Robin) is acquired but not yet baked into the DB or surfaced in the UI.
 
 ## Technology Stack
 
@@ -131,24 +145,23 @@ SQLite database at `backend/data/foodberg.db` with 6 tables:
 | SQLAlchemy | 2.0+ | ORM |
 | pandas | 2.1+ | Data processing |
 
-### Hosting Plan
+### Hosting
 
-| Component | Service | Cost |
-|-----------|---------|------|
-| Frontend | Netlify | Free |
-| Backend | Render | Free |
-| Database | SQLite + Litestream | Free |
+| Component | Service | Detail |
+|-----------|---------|--------|
+| App | Docker + Caddy | Self-hosted Carson box (192.168.0.174), Cloudflare Tunnel |
+| Database | SQLite (~1.3M rows, 745 MB) | Baked into Docker image; rebake via `rebake_history.py` |
+| Data Pipeline | Robin collectors | Offline acquisition → Robin stores → rebake → image |
 
 ## Data Sources
 
 | Source | Records | Coverage |
 |--------|---------|----------|
-| USDA WASDE (via Robin) | 147,369 | 50 US agricultural commodities |
-| FRED | 10,290 | 21 economic indicator series |
-| BLS CPI | 840 | 7 food CPI sub-components (2015-2025) |
-| FAO | 2,586 | Global food price indices (1990-2025) |
-| World Bank | 2,705 | Agricultural indicators for 9 countries |
-| Inputs/ retail | 70 | Commodity snapshots |
+| USDA NASS (history) | ~1.06M | 44 commodities, national + state, 1908–2026 |
+| FAO FAOSTAT | ~167K | Producer prices by country + food CPIs |
+| World Bank Pink Sheet | ~49K | CMO monthly commodity prices |
+| BLS AP (retail) | ~20K | Monthly average prices 1980–2026 |
+| USDA PSD | 192 MB | Supply & demand quantities (acquired, not surfaced) |
 
 ## Development Commands
 
@@ -184,6 +197,8 @@ Set via `netlify.toml` for production, or create `.env.local`:
 VITE_API_URL=http://localhost:8000
 ```
 
+> **API base rule (critical):** `frontend/src/services/api.ts` defaults to `''` (same-origin) for production. Never reintroduce `localhost:8002` as production default — caused the 2026-06-12 regression.
+
 ### Backend
 
 Copy `backend/.env.example` to `backend/.env`:
@@ -194,20 +209,24 @@ PORT=8000
 HOST=0.0.0.0
 CORS_ORIGINS=http://localhost:3000,http://localhost:5173
 FRED_API_KEY=your_key
-USDA_API_KEY=your_key  # For live terminal market prices only
+USDA_NASS_API_KEY=your_key
 ```
 
 ## Known Issues
 
-1. **`market_prices` table empty** — USDA Market News terminal prices not imported. The `/api/prices/terminal/{market}` endpoint makes live API calls requiring a `USDA_API_KEY`.
-2. **Render cold starts** — Free tier sleeps after 15 min, ~30s wake-up delay.
-3. **Not deployed yet** — Working locally; deployment deferred.
+1. **Project `backend/` lags deploy tree** — new geo/coverage endpoints and rebake script exist only under `Council/Carson/Technical/deploy/foodberg/backend/`. Reconcile when doing project-local dev.
+2. **USDA PSD not surfaced** — 192 MB CSV in Robin; supply/demand data acquired but not baked into the DB and not visible in the UI (`/supply-demand` page is a placeholder).
+3. **Pink Sheet URL drift** — World Bank occasionally changes the xlsx URL; re-acquire before next rebake if local store is empty.
+4. **`market_prices` table empty** — USDA Market News terminal prices not imported. Live API calls require `USDA_API_KEY`.
+5. **README + PROJECT_INDEX historically stale** — documentation updated 2026-07-04; verify against deploy tree for drift.
+6. **KB / HDARP not initialized** — ~802 acquired PDFs in `Inputs/`, 1,985-entry wishlist (v4), no `Knowledge_Base/` or HDARP campaign started. Separate multi-month track; does not block the live web app.
 
 ## Critical Design Constraints
 
 - **NO AI/forecasting/recipe/menu engineering features** — these were deliberately removed
 - **NO ML predictions, WebSocket, real-time updates** — stripped for simplicity
 - Historical focus: "only price charts of food" for "historically minded chefs"
+- **Honest coverage badges** — no fabricated single-point trend lines; stat cards for thin series instead of misleading charts
 
 ## KB Wishlist Track
 
@@ -220,11 +239,12 @@ Separate from the web app, Foodberg maintains a scholarly KB acquisition wishlis
 
 ## Documentation
 
-- `README.md` — Project overview and quick start
-- `HANDOFF_DOCUMENTATION.md` → `Technical/Handoffs/HANDOFF_20260328_000000.md`
-- `Technical/PROGRESS_LOG.md` — Development history (most recent; supersedes `[2025.10.08] PROGRESS_LOG.md`)
+- `README.md` — Project overview, architecture, and quick start
+- `PROJECT_INDEX.md` — This file
+- `Technical/Handoffs/HANDOFF_20260612_170000.md` — Most recent handoff (post-maximal-coverage deploy)
+- `Technical/PROGRESS_LOG.md` — Development history
 - `.claude/instructions.md` — Agent configuration
 
 ---
 
-*Last updated: April 3, 2026 — structure/API content. State verified against filesystem 2026-05-22 (KB wishlist track + HDARP status added).*
+*Last updated: July 4, 2026 — updated for live deployment state, multi-source architecture, current DB counts, and known issues.*

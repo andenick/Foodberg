@@ -1,0 +1,537 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Meat, Beef and Veal",United States,1960,Beginning Stocks,(1000 MT CWE),0.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1961,Beginning Stocks,(1000 MT CWE),83.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1962,Beginning Stocks,(1000 MT CWE),96.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1963,Beginning Stocks,(1000 MT CWE),92.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1964,Beginning Stocks,(1000 MT CWE),130.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1965,Beginning Stocks,(1000 MT CWE),149.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1966,Beginning Stocks,(1000 MT CWE),122.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1967,Beginning Stocks,(1000 MT CWE),144.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1968,Beginning Stocks,(1000 MT CWE),130.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1969,Beginning Stocks,(1000 MT CWE),137.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1970,Beginning Stocks,(1000 MT CWE),165.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1971,Beginning Stocks,(1000 MT CWE),157.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1972,Beginning Stocks,(1000 MT CWE),170.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1973,Beginning Stocks,(1000 MT CWE),172.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1974,Beginning Stocks,(1000 MT CWE),209.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1975,Beginning Stocks,(1000 MT CWE),189.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1976,Beginning Stocks,(1000 MT CWE),164.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1977,Beginning Stocks,(1000 MT CWE),215.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1978,Beginning Stocks,(1000 MT CWE),148.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1979,Beginning Stocks,(1000 MT CWE),246.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1980,Beginning Stocks,(1000 MT CWE),213.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1981,Beginning Stocks,(1000 MT CWE),200.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1982,Beginning Stocks,(1000 MT CWE),156.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1983,Beginning Stocks,(1000 MT CWE),179.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1984,Beginning Stocks,(1000 MT CWE),199.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1985,Beginning Stocks,(1000 MT CWE),220.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1986,Beginning Stocks,(1000 MT CWE),195.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1987,Beginning Stocks,(1000 MT CWE),190.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1988,Beginning Stocks,(1000 MT CWE),177.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1989,Beginning Stocks,(1000 MT CWE),193.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1990,Beginning Stocks,(1000 MT CWE),154.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1991,Beginning Stocks,(1000 MT CWE),183.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1992,Beginning Stocks,(1000 MT CWE),193.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1993,Beginning Stocks,(1000 MT CWE),166.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1994,Beginning Stocks,(1000 MT CWE),242.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1995,Beginning Stocks,(1000 MT CWE),252.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1996,Beginning Stocks,(1000 MT CWE),239.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1997,Beginning Stocks,(1000 MT CWE),174.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1998,Beginning Stocks,(1000 MT CWE),214.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1999,Beginning Stocks,(1000 MT CWE),181.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2000,Beginning Stocks,(1000 MT CWE),189.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2001,Beginning Stocks,(1000 MT CWE),240.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2002,Beginning Stocks,(1000 MT CWE),278.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2003,Beginning Stocks,(1000 MT CWE),317.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2004,Beginning Stocks,(1000 MT CWE),237.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2005,Beginning Stocks,(1000 MT CWE),291.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2006,Beginning Stocks,(1000 MT CWE),261.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2007,Beginning Stocks,(1000 MT CWE),288.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2008,Beginning Stocks,(1000 MT CWE),289.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2009,Beginning Stocks,(1000 MT CWE),295.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2010,Beginning Stocks,(1000 MT CWE),260.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2011,Beginning Stocks,(1000 MT CWE),267.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2012,Beginning Stocks,(1000 MT CWE),274.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2013,Beginning Stocks,(1000 MT CWE),278.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2014,Beginning Stocks,(1000 MT CWE),267.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2015,Beginning Stocks,(1000 MT CWE),271.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2016,Beginning Stocks,(1000 MT CWE),313.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2017,Beginning Stocks,(1000 MT CWE),350.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2018,Beginning Stocks,(1000 MT CWE),302.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2019,Beginning Stocks,(1000 MT CWE),304.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2020,Beginning Stocks,(1000 MT CWE),294.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2021,Beginning Stocks,(1000 MT CWE),329.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2022,Beginning Stocks,(1000 MT CWE),308.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2023,Beginning Stocks,(1000 MT CWE),329.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2024,Beginning Stocks,(1000 MT CWE),290.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2025,Beginning Stocks,(1000 MT CWE),273.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2026,Beginning Stocks,(1000 MT CWE),262.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1960,Domestic Consumption,(1000 MT CWE),7448.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1961,Domestic Consumption,(1000 MT CWE),7867.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1962,Domestic Consumption,(1000 MT CWE),7535.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1963,Domestic Consumption,(1000 MT CWE),7842.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1964,Domestic Consumption,(1000 MT CWE),8030.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1965,Domestic Consumption,(1000 MT CWE),9387.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1966,Domestic Consumption,(1000 MT CWE),9866.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1967,Domestic Consumption,(1000 MT CWE),10128.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1968,Domestic Consumption,(1000 MT CWE),10469.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1969,Domestic Consumption,(1000 MT CWE),10601.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1970,Domestic Consumption,(1000 MT CWE),10917.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1971,Domestic Consumption,(1000 MT CWE),10944.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1972,Domestic Consumption,(1000 MT CWE),11249.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1973,Domestic Consumption,(1000 MT CWE),10647.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1974,Domestic Consumption,(1000 MT CWE),11453.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1975,Domestic Consumption,(1000 MT CWE),12080.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1976,Domestic Consumption,(1000 MT CWE),13024.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1977,Domestic Consumption,(1000 MT CWE),12754.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1978,Domestic Consumption,(1000 MT CWE),12160.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1979,Domestic Consumption,(1000 MT CWE),10982.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1980,Domestic Consumption,(1000 MT CWE),10877.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1981,Domestic Consumption,(1000 MT CWE),11097.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1982,Domestic Consumption,(1000 MT CWE),11176.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1983,Domestic Consumption,(1000 MT CWE),11476.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1984,Domestic Consumption,(1000 MT CWE),11594.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1985,Domestic Consumption,(1000 MT CWE),11819.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1986,Domestic Consumption,(1000 MT CWE),12036.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1987,Domestic Consumption,(1000 MT CWE),11660.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1988,Domestic Consumption,(1000 MT CWE),11643.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1989,Domestic Consumption,(1000 MT CWE),11196.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1990,Domestic Consumption,(1000 MT CWE),11048.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1991,Domestic Consumption,(1000 MT CWE),11076.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1992,Domestic Consumption,(1000 MT CWE),11146.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1993,Domestic Consumption,(1000 MT CWE),11019.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1994,Domestic Consumption,(1000 MT CWE),11528.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1995,Domestic Consumption,(1000 MT CWE),11726.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1996,Domestic Consumption,(1000 MT CWE),11903.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1997,Domestic Consumption,(1000 MT CWE),11768.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1998,Domestic Consumption,(1000 MT CWE),12051.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1999,Domestic Consumption,(1000 MT CWE),12325.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2000,Domestic Consumption,(1000 MT CWE),12502.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2001,Domestic Consumption,(1000 MT CWE),12351.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2002,Domestic Consumption,(1000 MT CWE),12737.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2003,Domestic Consumption,(1000 MT CWE),12340.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2004,Domestic Consumption,(1000 MT CWE),12667.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2005,Domestic Consumption,(1000 MT CWE),12664.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2006,Domestic Consumption,(1000 MT CWE),12833.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2007,Domestic Consumption,(1000 MT CWE),12830.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2008,Domestic Consumption,(1000 MT CWE),12400.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2009,Domestic Consumption,(1000 MT CWE),12233.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2010,Domestic Consumption,(1000 MT CWE),12026.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2011,Domestic Consumption,(1000 MT CWE),11641.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2012,Domestic Consumption,(1000 MT CWE),11736.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2013,Domestic Consumption,(1000 MT CWE),11608.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2014,Domestic Consumption,(1000 MT CWE),11241.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2015,Domestic Consumption,(1000 MT CWE),11275.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2016,Domestic Consumption,(1000 MT CWE),11676.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2017,Domestic Consumption,(1000 MT CWE),12052.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2018,Domestic Consumption,(1000 MT CWE),12181.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2019,Domestic Consumption,(1000 MT CWE),12409.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2020,Domestic Consumption,(1000 MT CWE),12531.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2021,Domestic Consumption,(1000 MT CWE),12717.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2022,Domestic Consumption,(1000 MT CWE),12799.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2023,Domestic Consumption,(1000 MT CWE),12638.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2024,Domestic Consumption,(1000 MT CWE),13047.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2025,Domestic Consumption,(1000 MT CWE),13160.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2026,Domestic Consumption,(1000 MT CWE),13306.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1960,Ending Stocks,(1000 MT CWE),83.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1961,Ending Stocks,(1000 MT CWE),96.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1962,Ending Stocks,(1000 MT CWE),92.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1963,Ending Stocks,(1000 MT CWE),130.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1964,Ending Stocks,(1000 MT CWE),149.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1965,Ending Stocks,(1000 MT CWE),122.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1966,Ending Stocks,(1000 MT CWE),144.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1967,Ending Stocks,(1000 MT CWE),130.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1968,Ending Stocks,(1000 MT CWE),137.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1969,Ending Stocks,(1000 MT CWE),165.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1970,Ending Stocks,(1000 MT CWE),157.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1971,Ending Stocks,(1000 MT CWE),170.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1972,Ending Stocks,(1000 MT CWE),172.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1973,Ending Stocks,(1000 MT CWE),209.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1974,Ending Stocks,(1000 MT CWE),189.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1975,Ending Stocks,(1000 MT CWE),164.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1976,Ending Stocks,(1000 MT CWE),215.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1977,Ending Stocks,(1000 MT CWE),148.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1978,Ending Stocks,(1000 MT CWE),246.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1979,Ending Stocks,(1000 MT CWE),213.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1980,Ending Stocks,(1000 MT CWE),200.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1981,Ending Stocks,(1000 MT CWE),156.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1982,Ending Stocks,(1000 MT CWE),179.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1983,Ending Stocks,(1000 MT CWE),199.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1984,Ending Stocks,(1000 MT CWE),220.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1985,Ending Stocks,(1000 MT CWE),195.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1986,Ending Stocks,(1000 MT CWE),190.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1987,Ending Stocks,(1000 MT CWE),177.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1988,Ending Stocks,(1000 MT CWE),193.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1989,Ending Stocks,(1000 MT CWE),154.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1990,Ending Stocks,(1000 MT CWE),183.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1991,Ending Stocks,(1000 MT CWE),193.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1992,Ending Stocks,(1000 MT CWE),166.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1993,Ending Stocks,(1000 MT CWE),242.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1994,Ending Stocks,(1000 MT CWE),252.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1995,Ending Stocks,(1000 MT CWE),239.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1996,Ending Stocks,(1000 MT CWE),174.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1997,Ending Stocks,(1000 MT CWE),214.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1998,Ending Stocks,(1000 MT CWE),181.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1999,Ending Stocks,(1000 MT CWE),189.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2000,Ending Stocks,(1000 MT CWE),240.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2001,Ending Stocks,(1000 MT CWE),278.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2002,Ending Stocks,(1000 MT CWE),317.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2003,Ending Stocks,(1000 MT CWE),237.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2004,Ending Stocks,(1000 MT CWE),291.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2005,Ending Stocks,(1000 MT CWE),261.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2006,Ending Stocks,(1000 MT CWE),288.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2007,Ending Stocks,(1000 MT CWE),289.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2008,Ending Stocks,(1000 MT CWE),295.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2009,Ending Stocks,(1000 MT CWE),260.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2010,Ending Stocks,(1000 MT CWE),267.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2011,Ending Stocks,(1000 MT CWE),274.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2012,Ending Stocks,(1000 MT CWE),278.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2013,Ending Stocks,(1000 MT CWE),267.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2014,Ending Stocks,(1000 MT CWE),271.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2015,Ending Stocks,(1000 MT CWE),313.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2016,Ending Stocks,(1000 MT CWE),350.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2017,Ending Stocks,(1000 MT CWE),302.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2018,Ending Stocks,(1000 MT CWE),304.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2019,Ending Stocks,(1000 MT CWE),294.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2020,Ending Stocks,(1000 MT CWE),329.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2021,Ending Stocks,(1000 MT CWE),308.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2022,Ending Stocks,(1000 MT CWE),329.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2023,Ending Stocks,(1000 MT CWE),290.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2024,Ending Stocks,(1000 MT CWE),273.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2025,Ending Stocks,(1000 MT CWE),262.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2026,Ending Stocks,(1000 MT CWE),250.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1960,Exports,(1000 MT CWE),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1961,Exports,(1000 MT CWE),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1962,Exports,(1000 MT CWE),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1963,Exports,(1000 MT CWE),16.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1964,Exports,(1000 MT CWE),15.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1965,Exports,(1000 MT CWE),24.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1966,Exports,(1000 MT CWE),18.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1967,Exports,(1000 MT CWE),19.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1968,Exports,(1000 MT CWE),17.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1969,Exports,(1000 MT CWE),17.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1970,Exports,(1000 MT CWE),18.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1971,Exports,(1000 MT CWE),24.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1972,Exports,(1000 MT CWE),28.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1973,Exports,(1000 MT CWE),41.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1974,Exports,(1000 MT CWE),29.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1975,Exports,(1000 MT CWE),24.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1976,Exports,(1000 MT CWE),41.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1977,Exports,(1000 MT CWE),47.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1978,Exports,(1000 MT CWE),74.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1979,Exports,(1000 MT CWE),78.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1980,Exports,(1000 MT CWE),80.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1981,Exports,(1000 MT CWE),100.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1982,Exports,(1000 MT CWE),115.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1983,Exports,(1000 MT CWE),125.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1984,Exports,(1000 MT CWE),152.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1985,Exports,(1000 MT CWE),151.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1986,Exports,(1000 MT CWE),239.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1987,Exports,(1000 MT CWE),277.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1988,Exports,(1000 MT CWE),313.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1989,Exports,(1000 MT CWE),464.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1990,Exports,(1000 MT CWE),456.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1991,Exports,(1000 MT CWE),539.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1992,Exports,(1000 MT CWE),601.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1993,Exports,(1000 MT CWE),578.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1994,Exports,(1000 MT CWE),731.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1995,Exports,(1000 MT CWE),826.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1996,Exports,(1000 MT CWE),851.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1997,Exports,(1000 MT CWE),969.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1998,Exports,(1000 MT CWE),985.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1999,Exports,(1000 MT CWE),1094.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2000,Exports,(1000 MT CWE),1120.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2001,Exports,(1000 MT CWE),1029.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2002,Exports,(1000 MT CWE),1110.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2003,Exports,(1000 MT CWE),1142.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2004,Exports,(1000 MT CWE),209.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2005,Exports,(1000 MT CWE),316.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2006,Exports,(1000 MT CWE),519.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2007,Exports,(1000 MT CWE),650.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2008,Exports,(1000 MT CWE),905.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2009,Exports,(1000 MT CWE),878.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2010,Exports,(1000 MT CWE),1043.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2011,Exports,(1000 MT CWE),1263.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2012,Exports,(1000 MT CWE),1112.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2013,Exports,(1000 MT CWE),1174.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2014,Exports,(1000 MT CWE),1167.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2015,Exports,(1000 MT CWE),1028.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2016,Exports,(1000 MT CWE),1160.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2017,Exports,(1000 MT CWE),1297.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2018,Exports,(1000 MT CWE),1433.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2019,Exports,(1000 MT CWE),1373.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2020,Exports,(1000 MT CWE),1338.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2021,Exports,(1000 MT CWE),1555.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2022,Exports,(1000 MT CWE),1608.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2023,Exports,(1000 MT CWE),1378.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2024,Exports,(1000 MT CWE),1364.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2025,Exports,(1000 MT CWE),1169.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2026,Exports,(1000 MT CWE),1073.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1960,Imports,(1000 MT CWE),352.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1961,Imports,(1000 MT CWE),470.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1962,Imports,(1000 MT CWE),352.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1963,Imports,(1000 MT CWE),470.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1964,Imports,(1000 MT CWE),653.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1965,Imports,(1000 MT CWE),427.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1966,Imports,(1000 MT CWE),546.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1967,Imports,(1000 MT CWE),602.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1968,Imports,(1000 MT CWE),689.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1969,Imports,(1000 MT CWE),744.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1970,Imports,(1000 MT CWE),824.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1971,Imports,(1000 MT CWE),797.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1972,Imports,(1000 MT CWE),905.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1973,Imports,(1000 MT CWE),917.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1974,Imports,(1000 MT CWE),747.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1975,Imports,(1000 MT CWE),808.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1976,Imports,(1000 MT CWE),950.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1977,Imports,(1000 MT CWE),890.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1978,Imports,(1000 MT CWE),1053.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1979,Imports,(1000 MT CWE),1103.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1980,Imports,(1000 MT CWE),946.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1981,Imports,(1000 MT CWE),799.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1982,Imports,(1000 MT CWE),889.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1983,Imports,(1000 MT CWE),873.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1984,Imports,(1000 MT CWE),838.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1985,Imports,(1000 MT CWE),948.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1986,Imports,(1000 MT CWE),978.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1987,Imports,(1000 MT CWE),1040.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1988,Imports,(1000 MT CWE),1092.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1989,Imports,(1000 MT CWE),988.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1990,Imports,(1000 MT CWE),1069.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1991,Imports,(1000 MT CWE),1091.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1992,Imports,(1000 MT CWE),1107.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1993,Imports,(1000 MT CWE),1089.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1994,Imports,(1000 MT CWE),1075.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1995,Imports,(1000 MT CWE),954.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1996,Imports,(1000 MT CWE),940.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1997,Imports,(1000 MT CWE),1063.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1998,Imports,(1000 MT CWE),1199.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1999,Imports,(1000 MT CWE),1303.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2000,Imports,(1000 MT CWE),1375.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2001,Imports,(1000 MT CWE),1435.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2002,Imports,(1000 MT CWE),1459.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2003,Imports,(1000 MT CWE),1363.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2004,Imports,(1000 MT CWE),1669.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2005,Imports,(1000 MT CWE),1632.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2006,Imports,(1000 MT CWE),1399.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2007,Imports,(1000 MT CWE),1384.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2008,Imports,(1000 MT CWE),1151.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2009,Imports,(1000 MT CWE),1191.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2010,Imports,(1000 MT CWE),1042.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2011,Imports,(1000 MT CWE),933.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2012,Imports,(1000 MT CWE),1007.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2013,Imports,(1000 MT CWE),1020.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2014,Imports,(1000 MT CWE),1337.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2015,Imports,(1000 MT CWE),1528.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2016,Imports,(1000 MT CWE),1366.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2017,Imports,(1000 MT CWE),1358.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2018,Imports,(1000 MT CWE),1360.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2019,Imports,(1000 MT CWE),1387.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2020,Imports,(1000 MT CWE),1515.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2021,Imports,(1000 MT CWE),1517.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2022,Imports,(1000 MT CWE),1538.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2023,Imports,(1000 MT CWE),1690.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2024,Imports,(1000 MT CWE),2103.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2025,Imports,(1000 MT CWE),2481.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2026,Imports,(1000 MT CWE),2626.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1960,Production,(1000 MT CWE),7195.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1961,Production,(1000 MT CWE),7426.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1962,Production,(1000 MT CWE),7195.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1963,Production,(1000 MT CWE),7426.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1964,Production,(1000 MT CWE),7411.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1965,Production,(1000 MT CWE),8957.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1966,Production,(1000 MT CWE),9360.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1967,Production,(1000 MT CWE),9531.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1968,Production,(1000 MT CWE),9804.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1969,Production,(1000 MT CWE),9902.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1970,Production,(1000 MT CWE),10103.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1971,Production,(1000 MT CWE),10184.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1972,Production,(1000 MT CWE),10374.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1973,Production,(1000 MT CWE),9808.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1974,Production,(1000 MT CWE),10715.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1975,Production,(1000 MT CWE),11271.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1976,Production,(1000 MT CWE),12166.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1977,Production,(1000 MT CWE),11844.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1978,Production,(1000 MT CWE),11279.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1979,Production,(1000 MT CWE),9924.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1980,Production,(1000 MT CWE),9998.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1981,Production,(1000 MT CWE),10354.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1982,Production,(1000 MT CWE),10425.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1983,Production,(1000 MT CWE),10748.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1984,Production,(1000 MT CWE),10929.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1985,Production,(1000 MT CWE),10997.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1986,Production,(1000 MT CWE),11292.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1987,Production,(1000 MT CWE),10884.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1988,Production,(1000 MT CWE),10880.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1989,Production,(1000 MT CWE),10633.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1990,Production,(1000 MT CWE),10464.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1991,Production,(1000 MT CWE),10534.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1992,Production,(1000 MT CWE),10613.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1993,Production,(1000 MT CWE),10584.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1994,Production,(1000 MT CWE),11194.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1995,Production,(1000 MT CWE),11585.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1996,Production,(1000 MT CWE),11749.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1997,Production,(1000 MT CWE),11714.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1998,Production,(1000 MT CWE),11804.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1999,Production,(1000 MT CWE),12124.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2000,Production,(1000 MT CWE),12298.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2001,Production,(1000 MT CWE),11983.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2002,Production,(1000 MT CWE),12427.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2003,Production,(1000 MT CWE),12039.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2004,Production,(1000 MT CWE),11261.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2005,Production,(1000 MT CWE),11318.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2006,Production,(1000 MT CWE),11980.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2007,Production,(1000 MT CWE),12097.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2008,Production,(1000 MT CWE),12160.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2009,Production,(1000 MT CWE),11885.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2010,Production,(1000 MT CWE),12034.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2011,Production,(1000 MT CWE),11978.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2012,Production,(1000 MT CWE),11845.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2013,Production,(1000 MT CWE),11751.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2014,Production,(1000 MT CWE),11075.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2015,Production,(1000 MT CWE),10817.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2016,Production,(1000 MT CWE),11507.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2017,Production,(1000 MT CWE),11943.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2018,Production,(1000 MT CWE),12256.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2019,Production,(1000 MT CWE),12385.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2020,Production,(1000 MT CWE),12389.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2021,Production,(1000 MT CWE),12734.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2022,Production,(1000 MT CWE),12890.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2023,Production,(1000 MT CWE),12287.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2024,Production,(1000 MT CWE),12291.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2025,Production,(1000 MT CWE),11837.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2026,Production,(1000 MT CWE),11741.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1960,Total Distribution,(1000 MT CWE),7547.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1961,Total Distribution,(1000 MT CWE),7979.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1962,Total Distribution,(1000 MT CWE),7643.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1963,Total Distribution,(1000 MT CWE),7988.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1964,Total Distribution,(1000 MT CWE),8194.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1965,Total Distribution,(1000 MT CWE),9533.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1966,Total Distribution,(1000 MT CWE),10028.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1967,Total Distribution,(1000 MT CWE),10277.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1968,Total Distribution,(1000 MT CWE),10623.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1969,Total Distribution,(1000 MT CWE),10783.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1970,Total Distribution,(1000 MT CWE),11092.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1971,Total Distribution,(1000 MT CWE),11138.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1972,Total Distribution,(1000 MT CWE),11449.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1973,Total Distribution,(1000 MT CWE),10897.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1974,Total Distribution,(1000 MT CWE),11671.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1975,Total Distribution,(1000 MT CWE),12268.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1976,Total Distribution,(1000 MT CWE),13280.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1977,Total Distribution,(1000 MT CWE),12949.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1978,Total Distribution,(1000 MT CWE),12480.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1979,Total Distribution,(1000 MT CWE),11273.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1980,Total Distribution,(1000 MT CWE),11157.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1981,Total Distribution,(1000 MT CWE),11353.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1982,Total Distribution,(1000 MT CWE),11470.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1983,Total Distribution,(1000 MT CWE),11800.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1984,Total Distribution,(1000 MT CWE),11966.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1985,Total Distribution,(1000 MT CWE),12165.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1986,Total Distribution,(1000 MT CWE),12465.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1987,Total Distribution,(1000 MT CWE),12114.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1988,Total Distribution,(1000 MT CWE),12149.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1989,Total Distribution,(1000 MT CWE),11814.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1990,Total Distribution,(1000 MT CWE),11687.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1991,Total Distribution,(1000 MT CWE),11808.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1992,Total Distribution,(1000 MT CWE),11913.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1993,Total Distribution,(1000 MT CWE),11839.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1994,Total Distribution,(1000 MT CWE),12511.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1995,Total Distribution,(1000 MT CWE),12791.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1996,Total Distribution,(1000 MT CWE),12928.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1997,Total Distribution,(1000 MT CWE),12951.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1998,Total Distribution,(1000 MT CWE),13217.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1999,Total Distribution,(1000 MT CWE),13608.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2000,Total Distribution,(1000 MT CWE),13862.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2001,Total Distribution,(1000 MT CWE),13658.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2002,Total Distribution,(1000 MT CWE),14164.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2003,Total Distribution,(1000 MT CWE),13719.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2004,Total Distribution,(1000 MT CWE),13167.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2005,Total Distribution,(1000 MT CWE),13241.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2006,Total Distribution,(1000 MT CWE),13640.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2007,Total Distribution,(1000 MT CWE),13769.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2008,Total Distribution,(1000 MT CWE),13600.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2009,Total Distribution,(1000 MT CWE),13371.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2010,Total Distribution,(1000 MT CWE),13336.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2011,Total Distribution,(1000 MT CWE),13178.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2012,Total Distribution,(1000 MT CWE),13126.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2013,Total Distribution,(1000 MT CWE),13049.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2014,Total Distribution,(1000 MT CWE),12679.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2015,Total Distribution,(1000 MT CWE),12616.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2016,Total Distribution,(1000 MT CWE),13186.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2017,Total Distribution,(1000 MT CWE),13651.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2018,Total Distribution,(1000 MT CWE),13918.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2019,Total Distribution,(1000 MT CWE),14076.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2020,Total Distribution,(1000 MT CWE),14198.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2021,Total Distribution,(1000 MT CWE),14580.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2022,Total Distribution,(1000 MT CWE),14736.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2023,Total Distribution,(1000 MT CWE),14306.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2024,Total Distribution,(1000 MT CWE),14684.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2025,Total Distribution,(1000 MT CWE),14591.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2026,Total Distribution,(1000 MT CWE),14629.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1960,Total Supply,(1000 MT CWE),7547.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1961,Total Supply,(1000 MT CWE),7979.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1962,Total Supply,(1000 MT CWE),7643.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1963,Total Supply,(1000 MT CWE),7988.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1964,Total Supply,(1000 MT CWE),8194.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1965,Total Supply,(1000 MT CWE),9533.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1966,Total Supply,(1000 MT CWE),10028.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1967,Total Supply,(1000 MT CWE),10277.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1968,Total Supply,(1000 MT CWE),10623.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1969,Total Supply,(1000 MT CWE),10783.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1970,Total Supply,(1000 MT CWE),11092.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1971,Total Supply,(1000 MT CWE),11138.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1972,Total Supply,(1000 MT CWE),11449.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1973,Total Supply,(1000 MT CWE),10897.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1974,Total Supply,(1000 MT CWE),11671.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1975,Total Supply,(1000 MT CWE),12268.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1976,Total Supply,(1000 MT CWE),13280.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1977,Total Supply,(1000 MT CWE),12949.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1978,Total Supply,(1000 MT CWE),12480.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1979,Total Supply,(1000 MT CWE),11273.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1980,Total Supply,(1000 MT CWE),11157.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1981,Total Supply,(1000 MT CWE),11353.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1982,Total Supply,(1000 MT CWE),11470.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1983,Total Supply,(1000 MT CWE),11800.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1984,Total Supply,(1000 MT CWE),11966.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1985,Total Supply,(1000 MT CWE),12165.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1986,Total Supply,(1000 MT CWE),12465.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1987,Total Supply,(1000 MT CWE),12114.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1988,Total Supply,(1000 MT CWE),12149.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1989,Total Supply,(1000 MT CWE),11814.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1990,Total Supply,(1000 MT CWE),11687.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1991,Total Supply,(1000 MT CWE),11808.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1992,Total Supply,(1000 MT CWE),11913.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1993,Total Supply,(1000 MT CWE),11839.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1994,Total Supply,(1000 MT CWE),12511.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1995,Total Supply,(1000 MT CWE),12791.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1996,Total Supply,(1000 MT CWE),12928.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1997,Total Supply,(1000 MT CWE),12951.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1998,Total Supply,(1000 MT CWE),13217.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,1999,Total Supply,(1000 MT CWE),13608.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2000,Total Supply,(1000 MT CWE),13862.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2001,Total Supply,(1000 MT CWE),13658.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2002,Total Supply,(1000 MT CWE),14164.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2003,Total Supply,(1000 MT CWE),13719.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2004,Total Supply,(1000 MT CWE),13167.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2005,Total Supply,(1000 MT CWE),13241.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2006,Total Supply,(1000 MT CWE),13640.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2007,Total Supply,(1000 MT CWE),13769.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2008,Total Supply,(1000 MT CWE),13600.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2009,Total Supply,(1000 MT CWE),13371.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2010,Total Supply,(1000 MT CWE),13336.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2011,Total Supply,(1000 MT CWE),13178.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2012,Total Supply,(1000 MT CWE),13126.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2013,Total Supply,(1000 MT CWE),13049.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2014,Total Supply,(1000 MT CWE),12679.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2015,Total Supply,(1000 MT CWE),12616.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2016,Total Supply,(1000 MT CWE),13186.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2017,Total Supply,(1000 MT CWE),13651.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2018,Total Supply,(1000 MT CWE),13918.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2019,Total Supply,(1000 MT CWE),14076.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2020,Total Supply,(1000 MT CWE),14198.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2021,Total Supply,(1000 MT CWE),14580.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2022,Total Supply,(1000 MT CWE),14736.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2023,Total Supply,(1000 MT CWE),14306.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2024,Total Supply,(1000 MT CWE),14684.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2025,Total Supply,(1000 MT CWE),14591.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Beef and Veal",United States,2026,Total Supply,(1000 MT CWE),14629.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

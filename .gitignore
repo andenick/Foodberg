@@ -92,6 +92,9 @@ archive/
 # Inputs (read-only originals, too large for git)
 Inputs/
 
+# Knowledge Base (populated by Hopper integration, too large for git)
+Knowledge_Base/
+
 # --- Publication hygiene (Arcanum Publication Hygiene Standard v1.0) ---
 # Internal session/process/agent docs
 .claude/

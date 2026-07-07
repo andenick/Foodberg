@@ -1,0 +1,785 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Meal, Rapeseed",United States,1964,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Beginning Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Beginning Stocks,(1000 MT),2.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Beginning Stocks,(1000 MT),4.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Beginning Stocks,(1000 MT),3.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Beginning Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Beginning Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Beginning Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Beginning Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Beginning Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Beginning Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Beginning Stocks,(1000 MT),5.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Beginning Stocks,(1000 MT),5.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Beginning Stocks,(1000 MT),5.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Beginning Stocks,(1000 MT),6.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Beginning Stocks,(1000 MT),5.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Beginning Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Beginning Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Beginning Stocks,(1000 MT),5.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Beginning Stocks,(1000 MT),5.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Beginning Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Beginning Stocks,(1000 MT),6.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Beginning Stocks,(1000 MT),6.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Beginning Stocks,(1000 MT),6.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Beginning Stocks,(1000 MT),6.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Beginning Stocks,(1000 MT),38.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Beginning Stocks,(1000 MT),33.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Beginning Stocks,(1000 MT),39.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Beginning Stocks,(1000 MT),36.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Beginning Stocks,(1000 MT),31.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Beginning Stocks,(1000 MT),42.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Beginning Stocks,(1000 MT),36.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Crush,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Crush,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Crush,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Crush,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Crush,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Crush,(1000 MT),5.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Crush,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Crush,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Crush,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Crush,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Crush,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Crush,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Crush,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Crush,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Crush,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Crush,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Crush,(1000 MT),23.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Crush,(1000 MT),39.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Crush,(1000 MT),141.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Crush,(1000 MT),97.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Crush,(1000 MT),58.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Crush,(1000 MT),36.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Crush,(1000 MT),387.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Crush,(1000 MT),410.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Crush,(1000 MT),406.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Crush,(1000 MT),386.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Crush,(1000 MT),587.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Crush,(1000 MT),697.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Crush,(1000 MT),736.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Crush,(1000 MT),896.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Crush,(1000 MT),766.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Crush,(1000 MT),586.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Crush,(1000 MT),640.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Crush,(1000 MT),901.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Crush,(1000 MT),1030.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Crush,(1000 MT),963.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Crush,(1000 MT),1050.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Crush,(1000 MT),1217.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Crush,(1000 MT),1113.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Crush,(1000 MT),1292.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Crush,(1000 MT),1168.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Crush,(1000 MT),1266.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Crush,(1000 MT),1685.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Crush,(1000 MT),1737.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Crush,(1000 MT),1542.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Crush,(1000 MT),2003.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Crush,(1000 MT),1765.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Crush,(1000 MT),1723.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Crush,(1000 MT),1834.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Crush,(1000 MT),2080.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Crush,(1000 MT),1659.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Crush,(1000 MT),1930.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Crush,(1000 MT),2109.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Crush,(1000 MT),2113.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Crush,(1000 MT),2170.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Crush,(1000 MT),2284.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Domestic Consumption,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Domestic Consumption,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Domestic Consumption,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Domestic Consumption,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Domestic Consumption,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Domestic Consumption,(1000 MT),3.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Domestic Consumption,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Domestic Consumption,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Domestic Consumption,(1000 MT),15.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Domestic Consumption,(1000 MT),40.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Domestic Consumption,(1000 MT),26.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Domestic Consumption,(1000 MT),67.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Domestic Consumption,(1000 MT),80.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Domestic Consumption,(1000 MT),139.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Domestic Consumption,(1000 MT),120.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Domestic Consumption,(1000 MT),204.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Domestic Consumption,(1000 MT),220.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Domestic Consumption,(1000 MT),323.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Domestic Consumption,(1000 MT),294.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Domestic Consumption,(1000 MT),389.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Domestic Consumption,(1000 MT),594.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Domestic Consumption,(1000 MT),638.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Domestic Consumption,(1000 MT),936.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Domestic Consumption,(1000 MT),968.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Domestic Consumption,(1000 MT),1146.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Domestic Consumption,(1000 MT),1115.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Domestic Consumption,(1000 MT),1585.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Domestic Consumption,(1000 MT),1487.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Domestic Consumption,(1000 MT),1591.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Domestic Consumption,(1000 MT),1553.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Domestic Consumption,(1000 MT),1238.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Domestic Consumption,(1000 MT),1240.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Domestic Consumption,(1000 MT),1876.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Domestic Consumption,(1000 MT),1853.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Domestic Consumption,(1000 MT),1983.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Domestic Consumption,(1000 MT),1991.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Domestic Consumption,(1000 MT),2343.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Domestic Consumption,(1000 MT),2290.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Domestic Consumption,(1000 MT),1800.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Domestic Consumption,(1000 MT),2694.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Domestic Consumption,(1000 MT),3406.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Domestic Consumption,(1000 MT),3864.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Domestic Consumption,(1000 MT),4309.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Domestic Consumption,(1000 MT),4438.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Domestic Consumption,(1000 MT),4516.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Domestic Consumption,(1000 MT),4550.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Domestic Consumption,(1000 MT),4192.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Domestic Consumption,(1000 MT),4186.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Domestic Consumption,(1000 MT),4536.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Domestic Consumption,(1000 MT),4706.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Domestic Consumption,(1000 MT),3851.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Domestic Consumption,(1000 MT),4815.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Domestic Consumption,(1000 MT),4823.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Domestic Consumption,(1000 MT),5307.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Domestic Consumption,(1000 MT),5622.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Domestic Consumption,(1000 MT),5765.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Ending Stocks,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Ending Stocks,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Ending Stocks,(1000 MT),4.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Ending Stocks,(1000 MT),3.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Ending Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Ending Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Ending Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Ending Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Ending Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Ending Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Ending Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Ending Stocks,(1000 MT),5.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Ending Stocks,(1000 MT),5.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Ending Stocks,(1000 MT),6.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Ending Stocks,(1000 MT),5.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Ending Stocks,(1000 MT),5.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Ending Stocks,(1000 MT),5.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Ending Stocks,(1000 MT),5.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Ending Stocks,(1000 MT),5.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Ending Stocks,(1000 MT),6.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Ending Stocks,(1000 MT),6.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Ending Stocks,(1000 MT),6.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Ending Stocks,(1000 MT),6.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Ending Stocks,(1000 MT),38.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Ending Stocks,(1000 MT),33.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Ending Stocks,(1000 MT),39.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Ending Stocks,(1000 MT),36.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Ending Stocks,(1000 MT),31.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Ending Stocks,(1000 MT),42.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Ending Stocks,(1000 MT),36.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Ending Stocks,(1000 MT),36.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Exports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Exports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Exports,(1000 MT),1.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Exports,(1000 MT),8.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Exports,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Exports,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Exports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Exports,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Exports,(1000 MT),3.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Exports,(1000 MT),2.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Exports,(1000 MT),10.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Exports,(1000 MT),16.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Exports,(1000 MT),6.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Exports,(1000 MT),11.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Exports,(1000 MT),10.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Exports,(1000 MT),7.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Exports,(1000 MT),31.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Exports,(1000 MT),36.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Exports,(1000 MT),31.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Exports,(1000 MT),49.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Exports,(1000 MT),60.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Exports,(1000 MT),99.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Exports,(1000 MT),68.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Exports,(1000 MT),27.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Exports,(1000 MT),65.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Exports,(1000 MT),70.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Exports,(1000 MT),65.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Exports,(1000 MT),45.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Exports,(1000 MT),34.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Exports,(1000 MT),87.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Exports,(1000 MT),58.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Exports,(1000 MT),28.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Exports,(1000 MT),18.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Exports,(1000 MT),13.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Exports,(1000 MT),13.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Exports,(1000 MT),10.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Exports,(1000 MT),5.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Exports,(1000 MT),8.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Exports,(1000 MT),15.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Exports,(1000 MT),23.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Exports,(1000 MT),25.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,"Extr. Rate, 999.9999",(PERCENT),5000.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,"Extr. Rate, 999.9999",(PERCENT),5000.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,"Extr. Rate, 999.9999",(PERCENT),5000.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,"Extr. Rate, 999.9999",(PERCENT),5000.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,"Extr. Rate, 999.9999",(PERCENT),5000.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,"Extr. Rate, 999.9999",(PERCENT),6000.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,"Extr. Rate, 999.9999",(PERCENT),5000.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,"Extr. Rate, 999.9999",(PERCENT),5000.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,"Extr. Rate, 999.9999",(PERCENT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,"Extr. Rate, 999.9999",(PERCENT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,"Extr. Rate, 999.9999",(PERCENT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,"Extr. Rate, 999.9999",(PERCENT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,"Extr. Rate, 999.9999",(PERCENT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,"Extr. Rate, 999.9999",(PERCENT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,"Extr. Rate, 999.9999",(PERCENT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,"Extr. Rate, 999.9999",(PERCENT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,"Extr. Rate, 999.9999",(PERCENT),0.7,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,"Extr. Rate, 999.9999",(PERCENT),1.13,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,"Extr. Rate, 999.9999",(PERCENT),0.54,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,"Extr. Rate, 999.9999",(PERCENT),0.51,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,"Extr. Rate, 999.9999",(PERCENT),0.52,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,"Extr. Rate, 999.9999",(PERCENT),2.53,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,"Extr. Rate, 999.9999",(PERCENT),0.59,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,"Extr. Rate, 999.9999",(PERCENT),0.57,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,"Extr. Rate, 999.9999",(PERCENT),0.56,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,"Extr. Rate, 999.9999",(PERCENT),0.67,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,"Extr. Rate, 999.9999",(PERCENT),0.61,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,"Extr. Rate, 999.9999",(PERCENT),0.59,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,"Extr. Rate, 999.9999",(PERCENT),0.62,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,"Extr. Rate, 999.9999",(PERCENT),0.55,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,"Extr. Rate, 999.9999",(PERCENT),0.53,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,"Extr. Rate, 999.9999",(PERCENT),0.6,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,"Extr. Rate, 999.9999",(PERCENT),0.67,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,"Extr. Rate, 999.9999",(PERCENT),0.61,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,"Extr. Rate, 999.9999",(PERCENT),0.55,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,"Extr. Rate, 999.9999",(PERCENT),0.58,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,"Extr. Rate, 999.9999",(PERCENT),0.6,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,"Extr. Rate, 999.9999",(PERCENT),0.55,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,"Extr. Rate, 999.9999",(PERCENT),0.6,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,"Extr. Rate, 999.9999",(PERCENT),0.55,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,"Extr. Rate, 999.9999",(PERCENT),0.59,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,"Extr. Rate, 999.9999",(PERCENT),0.64,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,"Extr. Rate, 999.9999",(PERCENT),0.58,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,"Extr. Rate, 999.9999",(PERCENT),0.56,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,"Extr. Rate, 999.9999",(PERCENT),0.63,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,"Extr. Rate, 999.9999",(PERCENT),0.54,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,"Extr. Rate, 999.9999",(PERCENT),0.56,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,"Extr. Rate, 999.9999",(PERCENT),0.55,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,"Extr. Rate, 999.9999",(PERCENT),0.6,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,"Extr. Rate, 999.9999",(PERCENT),0.54,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,"Extr. Rate, 999.9999",(PERCENT),0.6,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,"Extr. Rate, 999.9999",(PERCENT),0.61,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,"Extr. Rate, 999.9999",(PERCENT),0.6,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,"Extr. Rate, 999.9999",(PERCENT),0.58,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,"Extr. Rate, 999.9999",(PERCENT),0.59,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,"Extr. Rate, 999.9999",(PERCENT),0.59,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Feed Waste Dom. Cons.,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Feed Waste Dom. Cons.,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Feed Waste Dom. Cons.,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Feed Waste Dom. Cons.,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Feed Waste Dom. Cons.,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Feed Waste Dom. Cons.,(1000 MT),3.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Feed Waste Dom. Cons.,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Feed Waste Dom. Cons.,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Feed Waste Dom. Cons.,(1000 MT),15.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Feed Waste Dom. Cons.,(1000 MT),40.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Feed Waste Dom. Cons.,(1000 MT),26.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Feed Waste Dom. Cons.,(1000 MT),67.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Feed Waste Dom. Cons.,(1000 MT),80.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Feed Waste Dom. Cons.,(1000 MT),139.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Feed Waste Dom. Cons.,(1000 MT),120.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Feed Waste Dom. Cons.,(1000 MT),204.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Feed Waste Dom. Cons.,(1000 MT),220.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Feed Waste Dom. Cons.,(1000 MT),323.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Feed Waste Dom. Cons.,(1000 MT),294.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Feed Waste Dom. Cons.,(1000 MT),389.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Feed Waste Dom. Cons.,(1000 MT),593.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Feed Waste Dom. Cons.,(1000 MT),638.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Feed Waste Dom. Cons.,(1000 MT),936.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Feed Waste Dom. Cons.,(1000 MT),968.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Feed Waste Dom. Cons.,(1000 MT),1146.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Feed Waste Dom. Cons.,(1000 MT),1115.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Feed Waste Dom. Cons.,(1000 MT),1585.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Feed Waste Dom. Cons.,(1000 MT),1487.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Feed Waste Dom. Cons.,(1000 MT),1591.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Feed Waste Dom. Cons.,(1000 MT),1553.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Feed Waste Dom. Cons.,(1000 MT),1238.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Feed Waste Dom. Cons.,(1000 MT),1240.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Feed Waste Dom. Cons.,(1000 MT),1876.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Feed Waste Dom. Cons.,(1000 MT),1853.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Feed Waste Dom. Cons.,(1000 MT),1983.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Feed Waste Dom. Cons.,(1000 MT),1991.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Feed Waste Dom. Cons.,(1000 MT),2343.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Feed Waste Dom. Cons.,(1000 MT),2290.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Feed Waste Dom. Cons.,(1000 MT),1800.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Feed Waste Dom. Cons.,(1000 MT),2694.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Feed Waste Dom. Cons.,(1000 MT),3406.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Feed Waste Dom. Cons.,(1000 MT),3864.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Feed Waste Dom. Cons.,(1000 MT),4309.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Feed Waste Dom. Cons.,(1000 MT),4438.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Feed Waste Dom. Cons.,(1000 MT),4516.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Feed Waste Dom. Cons.,(1000 MT),4550.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Feed Waste Dom. Cons.,(1000 MT),4192.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Feed Waste Dom. Cons.,(1000 MT),4186.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Feed Waste Dom. Cons.,(1000 MT),4536.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Feed Waste Dom. Cons.,(1000 MT),4706.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Feed Waste Dom. Cons.,(1000 MT),3851.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Feed Waste Dom. Cons.,(1000 MT),4815.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Feed Waste Dom. Cons.,(1000 MT),4823.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Feed Waste Dom. Cons.,(1000 MT),5307.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Feed Waste Dom. Cons.,(1000 MT),5622.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Feed Waste Dom. Cons.,(1000 MT),5765.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Food Use Dom. Cons.,(1000 MT),0.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Food Use Dom. Cons.,(1000 MT),0.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Food Use Dom. Cons.,(1000 MT),0.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Food Use Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Food Use Dom. Cons.,(1000 MT),0.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Food Use Dom. Cons.,(1000 MT),0.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Food Use Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Food Use Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Food Use Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Food Use Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Food Use Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Imports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Imports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Imports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Imports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Imports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Imports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Imports,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Imports,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Imports,(1000 MT),15.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Imports,(1000 MT),40.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Imports,(1000 MT),26.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Imports,(1000 MT),67.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Imports,(1000 MT),80.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Imports,(1000 MT),139.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Imports,(1000 MT),120.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Imports,(1000 MT),206.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Imports,(1000 MT),206.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Imports,(1000 MT),279.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Imports,(1000 MT),228.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Imports,(1000 MT),340.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Imports,(1000 MT),564.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Imports,(1000 MT),547.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Imports,(1000 MT),708.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Imports,(1000 MT),739.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Imports,(1000 MT),919.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Imports,(1000 MT),866.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Imports,(1000 MT),1244.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Imports,(1000 MT),1083.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Imports,(1000 MT),1143.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Imports,(1000 MT),1069.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Imports,(1000 MT),836.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Imports,(1000 MT),919.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Imports,(1000 MT),1486.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Imports,(1000 MT),1334.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Imports,(1000 MT),1461.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Imports,(1000 MT),1497.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Imports,(1000 MT),1814.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Imports,(1000 MT),1694.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Imports,(1000 MT),1159.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Imports,(1000 MT),2043.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Imports,(1000 MT),2792.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Imports,(1000 MT),3122.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Imports,(1000 MT),3385.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Imports,(1000 MT),3500.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Imports,(1000 MT),3634.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Imports,(1000 MT),3531.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Imports,(1000 MT),3236.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Imports,(1000 MT),3259.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Imports,(1000 MT),3477.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Imports,(1000 MT),3593.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Imports,(1000 MT),2874.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Imports,(1000 MT),3644.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Imports,(1000 MT),3567.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Imports,(1000 MT),4112.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Imports,(1000 MT),4365.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Imports,(1000 MT),4450.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Industrial Dom. Cons.,(1000 MT),1.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Industrial Dom. Cons.,(1000 MT),0.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Industrial Dom. Cons.,(1000 MT),0.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Industrial Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Industrial Dom. Cons.,(1000 MT),0.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Industrial Dom. Cons.,(1000 MT),0.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Industrial Dom. Cons.,(1000 MT),0.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Industrial Dom. Cons.,(1000 MT),0.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Industrial Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Industrial Dom. Cons.,(1000 MT),0.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Industrial Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Industrial Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Industrial Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Industrial Dom. Cons.,(1000 MT),0.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Industrial Dom. Cons.,(1000 MT),0.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Industrial Dom. Cons.,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Production,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Production,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Production,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Production,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Production,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Production,(1000 MT),3.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Production,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Production,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Production,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Production,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Production,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Production,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Production,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Production,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Production,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Production,(1000 MT),0.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Production,(1000 MT),16.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Production,(1000 MT),44.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Production,(1000 MT),76.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Production,(1000 MT),49.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Production,(1000 MT),30.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Production,(1000 MT),91.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Production,(1000 MT),228.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Production,(1000 MT),232.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Production,(1000 MT),229.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Production,(1000 MT),259.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Production,(1000 MT),357.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Production,(1000 MT),410.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Production,(1000 MT),459.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Production,(1000 MT),495.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Production,(1000 MT),408.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Production,(1000 MT),352.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Production,(1000 MT),426.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Production,(1000 MT),550.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Production,(1000 MT),571.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Production,(1000 MT),554.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Production,(1000 MT),628.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Production,(1000 MT),664.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Production,(1000 MT),668.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Production,(1000 MT),716.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Production,(1000 MT),684.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Production,(1000 MT),807.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Production,(1000 MT),969.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Production,(1000 MT),972.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Production,(1000 MT),970.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Production,(1000 MT),1077.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Production,(1000 MT),984.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Production,(1000 MT),945.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Production,(1000 MT),1104.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Production,(1000 MT),1121.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Production,(1000 MT),993.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Production,(1000 MT),1173.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Production,(1000 MT),1259.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Production,(1000 MT),1221.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Production,(1000 MT),1274.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Production,(1000 MT),1340.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,SME,(1000 MT),0.71,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,SME,(1000 MT),0.71,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,SME,(1000 MT),0.71,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,SME,(1000 MT),0.71,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,SME,(1000 MT),0.71,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,SME,(1000 MT),2.13,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,SME,(1000 MT),0.71,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,SME,(1000 MT),1.42,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,SME,(1000 MT),10.67,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,SME,(1000 MT),28.46,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,SME,(1000 MT),18.5,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,SME,(1000 MT),47.67,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,SME,(1000 MT),56.92,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,SME,(1000 MT),98.9,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,SME,(1000 MT),85.38,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,SME,(1000 MT),145.15,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,SME,(1000 MT),156.53,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,SME,(1000 MT),229.81,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,SME,(1000 MT),209.18,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,SME,(1000 MT),276.77,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,SME,(1000 MT),421.92,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,SME,(1000 MT),453.94,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,SME,(1000 MT),665.96,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,SME,(1000 MT),688.73,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,SME,(1000 MT),815.38,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,SME,(1000 MT),793.32,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,SME,(1000 MT),1127.73,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,SME,(1000 MT),1058.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,SME,(1000 MT),1132.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,SME,(1000 MT),1104.96,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,SME,(1000 MT),880.84,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,SME,(1000 MT),882.26,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,SME,(1000 MT),1334.77,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,SME,(1000 MT),1318.41,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,SME,(1000 MT),1410.9,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,SME,(1000 MT),1416.6,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,SME,(1000 MT),1667.04,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,SME,(1000 MT),1629.34,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,SME,(1000 MT),1280.7,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,SME,(1000 MT),1916.78,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,SME,(1000 MT),2423.37,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,SME,(1000 MT),2749.24,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,SME,(1000 MT),3065.85,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,SME,(1000 MT),3157.64,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,SME,(1000 MT),3213.13,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,SME,(1000 MT),3237.33,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,SME,(1000 MT),2982.61,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,SME,(1000 MT),2978.34,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,SME,(1000 MT),3227.36,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,SME,(1000 MT),3348.32,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,SME,(1000 MT),2739.99,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,SME,(1000 MT),3425.87,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,SME,(1000 MT),3431.56,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,SME,(1000 MT),3775.93,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,SME,(1000 MT),4000.05,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,SME,(1000 MT),4101.8,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Total Distribution,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Total Distribution,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Total Distribution,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Total Distribution,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Total Distribution,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Total Distribution,(1000 MT),3.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Total Distribution,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Total Distribution,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Total Distribution,(1000 MT),15.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Total Distribution,(1000 MT),40.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Total Distribution,(1000 MT),26.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Total Distribution,(1000 MT),67.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Total Distribution,(1000 MT),80.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Total Distribution,(1000 MT),139.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Total Distribution,(1000 MT),120.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Total Distribution,(1000 MT),206.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Total Distribution,(1000 MT),224.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Total Distribution,(1000 MT),327.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Total Distribution,(1000 MT),307.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Total Distribution,(1000 MT),394.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Total Distribution,(1000 MT),599.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Total Distribution,(1000 MT),643.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Total Distribution,(1000 MT),941.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Total Distribution,(1000 MT),976.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Total Distribution,(1000 MT),1153.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Total Distribution,(1000 MT),1130.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Total Distribution,(1000 MT),1606.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Total Distribution,(1000 MT),1498.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Total Distribution,(1000 MT),1607.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Total Distribution,(1000 MT),1569.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Total Distribution,(1000 MT),1250.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Total Distribution,(1000 MT),1276.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Total Distribution,(1000 MT),1917.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Total Distribution,(1000 MT),1889.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Total Distribution,(1000 MT),2037.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Total Distribution,(1000 MT),2056.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Total Distribution,(1000 MT),2447.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Total Distribution,(1000 MT),2363.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Total Distribution,(1000 MT),1832.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Total Distribution,(1000 MT),2764.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Total Distribution,(1000 MT),3481.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Total Distribution,(1000 MT),3934.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Total Distribution,(1000 MT),4359.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Total Distribution,(1000 MT),4477.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Total Distribution,(1000 MT),4609.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Total Distribution,(1000 MT),4614.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Total Distribution,(1000 MT),4226.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Total Distribution,(1000 MT),4210.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Total Distribution,(1000 MT),4587.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Total Distribution,(1000 MT),4752.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Total Distribution,(1000 MT),3900.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Total Distribution,(1000 MT),4856.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Total Distribution,(1000 MT),4862.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Total Distribution,(1000 MT),5364.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Total Distribution,(1000 MT),5681.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Total Distribution,(1000 MT),5826.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1964,Total Supply,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1967,Total Supply,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1968,Total Supply,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1971,Total Supply,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1972,Total Supply,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1974,Total Supply,(1000 MT),3.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1975,Total Supply,(1000 MT),1.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1978,Total Supply,(1000 MT),2.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1979,Total Supply,(1000 MT),15.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1980,Total Supply,(1000 MT),40.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1981,Total Supply,(1000 MT),26.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1982,Total Supply,(1000 MT),67.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1983,Total Supply,(1000 MT),80.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1984,Total Supply,(1000 MT),139.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1985,Total Supply,(1000 MT),120.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1986,Total Supply,(1000 MT),206.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1987,Total Supply,(1000 MT),224.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1988,Total Supply,(1000 MT),327.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1989,Total Supply,(1000 MT),307.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1990,Total Supply,(1000 MT),394.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1991,Total Supply,(1000 MT),599.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1992,Total Supply,(1000 MT),643.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1993,Total Supply,(1000 MT),941.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1994,Total Supply,(1000 MT),976.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1995,Total Supply,(1000 MT),1153.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1996,Total Supply,(1000 MT),1130.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1997,Total Supply,(1000 MT),1606.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1998,Total Supply,(1000 MT),1498.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,1999,Total Supply,(1000 MT),1607.0,0,1,05,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2000,Total Supply,(1000 MT),1569.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2001,Total Supply,(1000 MT),1250.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2002,Total Supply,(1000 MT),1276.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2003,Total Supply,(1000 MT),1917.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2004,Total Supply,(1000 MT),1889.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2005,Total Supply,(1000 MT),2037.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2006,Total Supply,(1000 MT),2056.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2007,Total Supply,(1000 MT),2447.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2008,Total Supply,(1000 MT),2363.0,0,1,12,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2009,Total Supply,(1000 MT),1832.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2010,Total Supply,(1000 MT),2764.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2011,Total Supply,(1000 MT),3481.0,0,1,08,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2012,Total Supply,(1000 MT),3934.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2013,Total Supply,(1000 MT),4359.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2014,Total Supply,(1000 MT),4477.0,0,1,02,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2015,Total Supply,(1000 MT),4609.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2016,Total Supply,(1000 MT),4614.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2017,Total Supply,(1000 MT),4226.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2018,Total Supply,(1000 MT),4210.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2019,Total Supply,(1000 MT),4587.0,0,1,01,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2020,Total Supply,(1000 MT),4752.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2021,Total Supply,(1000 MT),3900.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2022,Total Supply,(1000 MT),4856.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2023,Total Supply,(1000 MT),4862.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2024,Total Supply,(1000 MT),5364.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2025,Total Supply,(1000 MT),5681.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Rapeseed",United States,2026,Total Supply,(1000 MT),5826.0,0,1,06,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

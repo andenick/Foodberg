@@ -1,0 +1,757 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Oilseed, Soybean (Local)",World,1964,Area Harvested,(1000 HA),448.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Area Harvested,(1000 HA),507.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Area Harvested,(1000 HA),629.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Area Harvested,(1000 HA),742.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Area Harvested,(1000 HA),934.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Area Harvested,(1000 HA),1345.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Area Harvested,(1000 HA),1752.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Area Harvested,(1000 HA),2908.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Area Harvested,(1000 HA),3772.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Area Harvested,(1000 HA),5487.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Area Harvested,(1000 HA),6180.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Area Harvested,(1000 HA),6851.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Area Harvested,(1000 HA),7730.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Area Harvested,(1000 HA),9032.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Area Harvested,(1000 HA),9856.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Area Harvested,(1000 HA),10804.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Area Harvested,(1000 HA),10241.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Area Harvested,(1000 HA),10188.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Area Harvested,(1000 HA),10417.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Area Harvested,(1000 HA),12331.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Area Harvested,(1000 HA),13423.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Area Harvested,(1000 HA),12766.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Area Harvested,(1000 HA),12780.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Area Harvested,(1000 HA),14810.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Area Harvested,(1000 HA),16150.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Area Harvested,(1000 HA),16500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Area Harvested,(1000 HA),14500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Area Harvested,(1000 HA),14500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Area Harvested,(1000 HA),15525.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Area Harvested,(1000 HA),16840.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Area Harvested,(1000 HA),17380.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Area Harvested,(1000 HA),16930.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Area Harvested,(1000 HA),18000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Area Harvested,(1000 HA),19954.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Area Harvested,(1000 HA),21065.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Area Harvested,(1000 HA),22183.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Area Harvested,(1000 HA),24334.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Area Harvested,(1000 HA),27750.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Area Harvested,(1000 HA),31048.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Area Harvested,(1000 HA),35520.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Area Harvested,(1000 HA),37317.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Area Harvested,(1000 HA),37429.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Area Harvested,(1000 HA),37000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Area Harvested,(1000 HA),37671.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Area Harvested,(1000 HA),37700.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Area Harvested,(1000 HA),42100.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Area Harvested,(1000 HA),42500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Area Harvested,(1000 HA),42577.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Area Harvested,(1000 HA),47450.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Area Harvested,(1000 HA),49350.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Area Harvested,(1000 HA),51450.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Area Harvested,(1000 HA),52650.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Area Harvested,(1000 HA),51235.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Area Harvested,(1000 HA),51450.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Area Harvested,(1000 HA),52500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Area Harvested,(1000 HA),54100.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Area Harvested,(1000 HA),56270.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Area Harvested,(1000 HA),57700.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Area Harvested,(1000 HA),59000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Area Harvested,(1000 HA),62520.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Area Harvested,(1000 HA),64855.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Area Harvested,(1000 HA),64800.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Area Harvested,(1000 HA),67100.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Beginning Stocks,(1000 MT),56.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Beginning Stocks,(1000 MT),183.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Beginning Stocks,(1000 MT),212.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Beginning Stocks,(1000 MT),142.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Beginning Stocks,(1000 MT),179.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Beginning Stocks,(1000 MT),198.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Beginning Stocks,(1000 MT),318.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Beginning Stocks,(1000 MT),205.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Beginning Stocks,(1000 MT),375.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Beginning Stocks,(1000 MT),419.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Beginning Stocks,(1000 MT),707.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Beginning Stocks,(1000 MT),801.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Beginning Stocks,(1000 MT),1595.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Beginning Stocks,(1000 MT),2093.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Beginning Stocks,(1000 MT),1204.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Beginning Stocks,(1000 MT),1150.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Beginning Stocks,(1000 MT),1295.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Beginning Stocks,(1000 MT),1296.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Beginning Stocks,(1000 MT),855.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Beginning Stocks,(1000 MT),609.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Beginning Stocks,(1000 MT),1021.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Beginning Stocks,(1000 MT),1333.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Beginning Stocks,(1000 MT),1202.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Beginning Stocks,(1000 MT),995.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Beginning Stocks,(1000 MT),1529.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Beginning Stocks,(1000 MT),2656.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Beginning Stocks,(1000 MT),2171.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Beginning Stocks,(1000 MT),1868.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Beginning Stocks,(1000 MT),1522.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Beginning Stocks,(1000 MT),1565.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Beginning Stocks,(1000 MT),1701.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Beginning Stocks,(1000 MT),1681.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Beginning Stocks,(1000 MT),1908.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Beginning Stocks,(1000 MT),2389.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Beginning Stocks,(1000 MT),1923.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Beginning Stocks,(1000 MT),770.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Beginning Stocks,(1000 MT),3021.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Beginning Stocks,(1000 MT),3158.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Beginning Stocks,(1000 MT),4622.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Beginning Stocks,(1000 MT),9384.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Beginning Stocks,(1000 MT),10797.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Beginning Stocks,(1000 MT),7481.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Beginning Stocks,(1000 MT),8973.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Beginning Stocks,(1000 MT),11906.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Beginning Stocks,(1000 MT),17464.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Beginning Stocks,(1000 MT),12290.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Beginning Stocks,(1000 MT),13732.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Beginning Stocks,(1000 MT),15150.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Beginning Stocks,(1000 MT),10751.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Beginning Stocks,(1000 MT),13101.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Beginning Stocks,(1000 MT),16481.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Beginning Stocks,(1000 MT),15936.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Beginning Stocks,(1000 MT),20046.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Beginning Stocks,(1000 MT),25221.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Beginning Stocks,(1000 MT),16953.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Beginning Stocks,(1000 MT),17900.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Beginning Stocks,(1000 MT),16211.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Beginning Stocks,(1000 MT),16241.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Beginning Stocks,(1000 MT),14072.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Beginning Stocks,(1000 MT),14685.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Beginning Stocks,(1000 MT),11613.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Beginning Stocks,(1000 MT),11234.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Beginning Stocks,(1000 MT),13384.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Crush,(1000 MT),288.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Crush,(1000 MT),400.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Crush,(1000 MT),428.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Crush,(1000 MT),482.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Crush,(1000 MT),627.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Crush,(1000 MT),953.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Crush,(1000 MT),1736.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Crush,(1000 MT),2178.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Crush,(1000 MT),2909.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Crush,(1000 MT),4583.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Crush,(1000 MT),6045.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Crush,(1000 MT),6870.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Crush,(1000 MT),9250.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Crush,(1000 MT),9568.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Crush,(1000 MT),9733.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Crush,(1000 MT),13729.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Crush,(1000 MT),14877.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Crush,(1000 MT),14635.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Crush,(1000 MT),15272.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Crush,(1000 MT),16134.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Crush,(1000 MT),17222.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Crush,(1000 MT),16676.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Crush,(1000 MT),18790.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Crush,(1000 MT),20645.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Crush,(1000 MT),21602.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Crush,(1000 MT),21999.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Crush,(1000 MT),20448.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Crush,(1000 MT),22770.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Crush,(1000 MT),25505.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Crush,(1000 MT),27508.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Crush,(1000 MT),30951.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Crush,(1000 MT),30028.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Crush,(1000 MT),29367.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Crush,(1000 MT),38574.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Crush,(1000 MT),38753.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Crush,(1000 MT),37694.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Crush,(1000 MT),42611.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Crush,(1000 MT),48157.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Crush,(1000 MT),52262.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Crush,(1000 MT),53778.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Crush,(1000 MT),59420.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Crush,(1000 MT),61080.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Crush,(1000 MT),67448.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Crush,(1000 MT),64208.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Crush,(1000 MT),58981.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Crush,(1000 MT),74702.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Crush,(1000 MT),74791.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Crush,(1000 MT),67115.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Crush,(1000 MT),71246.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Crush,(1000 MT),76125.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Crush,(1000 MT),85666.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Crush,(1000 MT),82573.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Crush,(1000 MT),82777.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Crush,(1000 MT),79915.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Crush,(1000 MT),84642.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Crush,(1000 MT),84715.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Crush,(1000 MT),88835.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Crush,(1000 MT),86832.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Crush,(1000 MT),83151.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Crush,(1000 MT),99361.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Crush,(1000 MT),100519.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Crush,(1000 MT),104500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Crush,(1000 MT),108000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Domestic Consumption,(1000 MT),338.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Domestic Consumption,(1000 MT),463.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Domestic Consumption,(1000 MT),502.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Domestic Consumption,(1000 MT),573.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Domestic Consumption,(1000 MT),760.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Domestic Consumption,(1000 MT),1126.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Domestic Consumption,(1000 MT),2020.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Domestic Consumption,(1000 MT),2556.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Domestic Consumption,(1000 MT),3457.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Domestic Consumption,(1000 MT),5228.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Domestic Consumption,(1000 MT),6767.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Domestic Consumption,(1000 MT),7689.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Domestic Consumption,(1000 MT),10211.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Domestic Consumption,(1000 MT),10591.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Domestic Consumption,(1000 MT),10833.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Domestic Consumption,(1000 MT),14826.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Domestic Consumption,(1000 MT),15941.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Domestic Consumption,(1000 MT),15730.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Domestic Consumption,(1000 MT),16576.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Domestic Consumption,(1000 MT),17571.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Domestic Consumption,(1000 MT),18677.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Domestic Consumption,(1000 MT),18071.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Domestic Consumption,(1000 MT),20366.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Domestic Consumption,(1000 MT),22432.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Domestic Consumption,(1000 MT),23440.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Domestic Consumption,(1000 MT),23844.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Domestic Consumption,(1000 MT),22131.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Domestic Consumption,(1000 MT),24512.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Domestic Consumption,(1000 MT),27426.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Domestic Consumption,(1000 MT),29647.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Domestic Consumption,(1000 MT),33210.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Domestic Consumption,(1000 MT),32158.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Domestic Consumption,(1000 MT),31600.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Domestic Consumption,(1000 MT),41027.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Domestic Consumption,(1000 MT),41310.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Domestic Consumption,(1000 MT),39131.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Domestic Consumption,(1000 MT),45251.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Domestic Consumption,(1000 MT),51197.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Domestic Consumption,(1000 MT),55622.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Domestic Consumption,(1000 MT),57678.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Domestic Consumption,(1000 MT),63410.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Domestic Consumption,(1000 MT),65050.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Domestic Consumption,(1000 MT),71503.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Domestic Consumption,(1000 MT),68383.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Domestic Consumption,(1000 MT),63181.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Domestic Consumption,(1000 MT),79402.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Domestic Consumption,(1000 MT),79571.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Domestic Consumption,(1000 MT),72265.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Domestic Consumption,(1000 MT),78621.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Domestic Consumption,(1000 MT),83675.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Domestic Consumption,(1000 MT),93566.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Domestic Consumption,(1000 MT),91448.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Domestic Consumption,(1000 MT),92177.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Domestic Consumption,(1000 MT),89811.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Domestic Consumption,(1000 MT),94457.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Domestic Consumption,(1000 MT),95115.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Domestic Consumption,(1000 MT),99485.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Domestic Consumption,(1000 MT),97277.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Domestic Consumption,(1000 MT),93201.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Domestic Consumption,(1000 MT),110411.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Domestic Consumption,(1000 MT),110319.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Domestic Consumption,(1000 MT),115700.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Domestic Consumption,(1000 MT),119400.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Ending Stocks,(1000 MT),183.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Ending Stocks,(1000 MT),212.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Ending Stocks,(1000 MT),142.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Ending Stocks,(1000 MT),179.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Ending Stocks,(1000 MT),198.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Ending Stocks,(1000 MT),318.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Ending Stocks,(1000 MT),205.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Ending Stocks,(1000 MT),375.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Ending Stocks,(1000 MT),419.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Ending Stocks,(1000 MT),707.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Ending Stocks,(1000 MT),801.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Ending Stocks,(1000 MT),1595.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Ending Stocks,(1000 MT),2093.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Ending Stocks,(1000 MT),1204.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Ending Stocks,(1000 MT),1150.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Ending Stocks,(1000 MT),1295.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Ending Stocks,(1000 MT),1296.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Ending Stocks,(1000 MT),855.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Ending Stocks,(1000 MT),609.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Ending Stocks,(1000 MT),1021.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Ending Stocks,(1000 MT),1333.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Ending Stocks,(1000 MT),1202.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Ending Stocks,(1000 MT),995.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Ending Stocks,(1000 MT),1529.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Ending Stocks,(1000 MT),2656.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Ending Stocks,(1000 MT),2171.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Ending Stocks,(1000 MT),1868.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Ending Stocks,(1000 MT),1522.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Ending Stocks,(1000 MT),1565.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Ending Stocks,(1000 MT),1701.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Ending Stocks,(1000 MT),1681.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Ending Stocks,(1000 MT),1908.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Ending Stocks,(1000 MT),2389.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Ending Stocks,(1000 MT),1923.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Ending Stocks,(1000 MT),770.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Ending Stocks,(1000 MT),3021.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Ending Stocks,(1000 MT),3158.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Ending Stocks,(1000 MT),4622.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Ending Stocks,(1000 MT),9384.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Ending Stocks,(1000 MT),10797.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Ending Stocks,(1000 MT),7481.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Ending Stocks,(1000 MT),8973.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Ending Stocks,(1000 MT),11906.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Ending Stocks,(1000 MT),17464.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Ending Stocks,(1000 MT),12290.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Ending Stocks,(1000 MT),13732.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Ending Stocks,(1000 MT),15150.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Ending Stocks,(1000 MT),10751.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Ending Stocks,(1000 MT),13101.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Ending Stocks,(1000 MT),16481.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Ending Stocks,(1000 MT),15936.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Ending Stocks,(1000 MT),20046.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Ending Stocks,(1000 MT),25221.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Ending Stocks,(1000 MT),16953.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Ending Stocks,(1000 MT),17900.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Ending Stocks,(1000 MT),16211.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Ending Stocks,(1000 MT),16241.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Ending Stocks,(1000 MT),14072.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Ending Stocks,(1000 MT),14685.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Ending Stocks,(1000 MT),11613.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Ending Stocks,(1000 MT),11234.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Ending Stocks,(1000 MT),13384.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Ending Stocks,(1000 MT),13284.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Exports,(1000 MT),75.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Exports,(1000 MT),121.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Exports,(1000 MT),305.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Exports,(1000 MT),66.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Exports,(1000 MT),310.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Exports,(1000 MT),290.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Exports,(1000 MT),230.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Exports,(1000 MT),1023.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Exports,(1000 MT),1788.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Exports,(1000 MT),2862.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Exports,(1000 MT),3516.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Exports,(1000 MT),3439.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Exports,(1000 MT),3204.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Exports,(1000 MT),2628.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Exports,(1000 MT),3414.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Exports,(1000 MT),4259.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Exports,(1000 MT),3692.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Exports,(1000 MT),2948.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Exports,(1000 MT),2654.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Exports,(1000 MT),4712.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Exports,(1000 MT),6417.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Exports,(1000 MT),3797.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Exports,(1000 MT),4582.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Exports,(1000 MT),5116.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Exports,(1000 MT),5596.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Exports,(1000 MT),7731.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Exports,(1000 MT),5772.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Exports,(1000 MT),6914.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Exports,(1000 MT),6407.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Exports,(1000 MT),8304.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Exports,(1000 MT),6203.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Exports,(1000 MT),5646.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Exports,(1000 MT),8816.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Exports,(1000 MT),12180.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Exports,(1000 MT),12009.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Exports,(1000 MT),15626.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Exports,(1000 MT),23053.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Exports,(1000 MT),22181.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Exports,(1000 MT),28682.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Exports,(1000 MT),25976.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Exports,(1000 MT),32983.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Exports,(1000 MT),32020.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Exports,(1000 MT),35798.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Exports,(1000 MT),36302.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Exports,(1000 MT),32049.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Exports,(1000 MT),42774.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Exports,(1000 MT),43365.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Exports,(1000 MT),39004.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Exports,(1000 MT),50613.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Exports,(1000 MT),53126.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Exports,(1000 MT),65994.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Exports,(1000 MT),60628.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Exports,(1000 MT),75402.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Exports,(1000 MT),87100.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Exports,(1000 MT),84329.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Exports,(1000 MT),89635.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Exports,(1000 MT),91487.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Exports,(1000 MT),84282.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Exports,(1000 MT),103762.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Exports,(1000 MT),103388.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Exports,(1000 MT),120587.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Exports,(1000 MT),120300.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Exports,(1000 MT),124000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Feed Waste Dom. Cons.,(1000 MT),50.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Feed Waste Dom. Cons.,(1000 MT),63.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Feed Waste Dom. Cons.,(1000 MT),74.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Feed Waste Dom. Cons.,(1000 MT),91.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Feed Waste Dom. Cons.,(1000 MT),133.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Feed Waste Dom. Cons.,(1000 MT),173.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Feed Waste Dom. Cons.,(1000 MT),284.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Feed Waste Dom. Cons.,(1000 MT),378.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Feed Waste Dom. Cons.,(1000 MT),548.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Feed Waste Dom. Cons.,(1000 MT),645.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Feed Waste Dom. Cons.,(1000 MT),722.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Feed Waste Dom. Cons.,(1000 MT),819.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Feed Waste Dom. Cons.,(1000 MT),961.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Feed Waste Dom. Cons.,(1000 MT),1023.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Feed Waste Dom. Cons.,(1000 MT),1100.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Feed Waste Dom. Cons.,(1000 MT),1097.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Feed Waste Dom. Cons.,(1000 MT),1064.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Feed Waste Dom. Cons.,(1000 MT),1095.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Feed Waste Dom. Cons.,(1000 MT),1304.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Feed Waste Dom. Cons.,(1000 MT),1437.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Feed Waste Dom. Cons.,(1000 MT),1455.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Feed Waste Dom. Cons.,(1000 MT),1395.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Feed Waste Dom. Cons.,(1000 MT),1576.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Feed Waste Dom. Cons.,(1000 MT),1787.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Feed Waste Dom. Cons.,(1000 MT),1838.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Feed Waste Dom. Cons.,(1000 MT),1845.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Feed Waste Dom. Cons.,(1000 MT),1683.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Feed Waste Dom. Cons.,(1000 MT),1742.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Feed Waste Dom. Cons.,(1000 MT),1921.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Feed Waste Dom. Cons.,(1000 MT),2139.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Feed Waste Dom. Cons.,(1000 MT),2259.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Feed Waste Dom. Cons.,(1000 MT),2130.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Feed Waste Dom. Cons.,(1000 MT),2233.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Feed Waste Dom. Cons.,(1000 MT),2453.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Feed Waste Dom. Cons.,(1000 MT),2557.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Feed Waste Dom. Cons.,(1000 MT),1437.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Feed Waste Dom. Cons.,(1000 MT),2640.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Feed Waste Dom. Cons.,(1000 MT),3040.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Feed Waste Dom. Cons.,(1000 MT),3360.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Feed Waste Dom. Cons.,(1000 MT),3900.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Feed Waste Dom. Cons.,(1000 MT),3990.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Feed Waste Dom. Cons.,(1000 MT),3970.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Feed Waste Dom. Cons.,(1000 MT),4055.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Feed Waste Dom. Cons.,(1000 MT),4175.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Feed Waste Dom. Cons.,(1000 MT),4200.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Feed Waste Dom. Cons.,(1000 MT),4700.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Feed Waste Dom. Cons.,(1000 MT),4780.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Feed Waste Dom. Cons.,(1000 MT),5150.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Feed Waste Dom. Cons.,(1000 MT),7375.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Feed Waste Dom. Cons.,(1000 MT),7550.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Feed Waste Dom. Cons.,(1000 MT),7900.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Feed Waste Dom. Cons.,(1000 MT),8875.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Feed Waste Dom. Cons.,(1000 MT),9400.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Feed Waste Dom. Cons.,(1000 MT),9896.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Feed Waste Dom. Cons.,(1000 MT),9815.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Feed Waste Dom. Cons.,(1000 MT),10400.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Feed Waste Dom. Cons.,(1000 MT),10650.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Feed Waste Dom. Cons.,(1000 MT),10445.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Feed Waste Dom. Cons.,(1000 MT),10050.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Feed Waste Dom. Cons.,(1000 MT),11050.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Feed Waste Dom. Cons.,(1000 MT),9800.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Feed Waste Dom. Cons.,(1000 MT),11200.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Feed Waste Dom. Cons.,(1000 MT),11400.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Food Use Dom. Cons.,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Imports,(1000 MT),1.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Imports,(1000 MT),5.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Imports,(1000 MT),5.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Imports,(1000 MT),6.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Imports,(1000 MT),89.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Imports,(1000 MT),253.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Imports,(1000 MT),474.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Imports,(1000 MT),934.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Imports,(1000 MT),1252.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Imports,(1000 MT),34.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Imports,(1000 MT),154.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Imports,(1000 MT),378.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Imports,(1000 MT),337.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Imports,(1000 MT),441.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Imports,(1000 MT),62.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Imports,(1000 MT),63.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Imports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Imports,(1000 MT),350.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Imports,(1000 MT),430.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Imports,(1000 MT),26.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Imports,(1000 MT),987.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Imports,(1000 MT),993.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Imports,(1000 MT),1401.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Imports,(1000 MT),2397.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Imports,(1000 MT),741.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Imports,(1000 MT),866.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Imports,(1000 MT),1108.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Imports,(1000 MT),1141.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Imports,(1000 MT),1342.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Imports,(1000 MT),1566.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Imports,(1000 MT),1067.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Imports,(1000 MT),1077.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Imports,(1000 MT),1062.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Imports,(1000 MT),2434.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Imports,(1000 MT),3043.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Imports,(1000 MT),256.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Imports,(1000 MT),118.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Imports,(1000 MT),54.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Imports,(1000 MT),270.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Imports,(1000 MT),284.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Imports,(1000 MT),581.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Imports,(1000 MT),465.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Imports,(1000 MT),1686.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Imports,(1000 MT),2854.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Imports,(1000 MT),7443.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Imports,(1000 MT),3933.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Imports,(1000 MT),5761.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Imports,(1000 MT),5302.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Imports,(1000 MT),4990.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Imports,(1000 MT),10576.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Imports,(1000 MT),8017.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Imports,(1000 MT),6919.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Imports,(1000 MT),8150.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Imports,(1000 MT),7300.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Production,(1000 MT),540.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Production,(1000 MT),613.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Production,(1000 MT),737.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Production,(1000 MT),676.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Production,(1000 MT),1089.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Production,(1000 MT),1536.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Production,(1000 MT),2136.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Production,(1000 MT),3744.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Production,(1000 MT),5284.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Production,(1000 MT),8372.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Production,(1000 MT),10377.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Production,(1000 MT),11922.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Production,(1000 MT),13913.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Production,(1000 MT),12241.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Production,(1000 MT),13940.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Production,(1000 MT),18756.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Production,(1000 MT),18700.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Production,(1000 MT),16985.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Production,(1000 MT),18950.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Production,(1000 MT),22541.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Production,(1000 MT),25028.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Production,(1000 MT),21400.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Production,(1000 MT),24300.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Production,(1000 MT),28020.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Production,(1000 MT),30100.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Production,(1000 MT),31090.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Production,(1000 MT),27250.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Production,(1000 MT),30650.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Production,(1000 MT),33850.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Production,(1000 MT),37100.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Production,(1000 MT),38400.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Production,(1000 MT),36630.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Production,(1000 MT),38500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Production,(1000 MT),52000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Production,(1000 MT),51300.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Production,(1000 MT),55900.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Production,(1000 MT),67300.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Production,(1000 MT),73500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Production,(1000 MT),87500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Production,(1000 MT),84000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Production,(1000 MT),92000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Production,(1000 MT),97500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Production,(1000 MT),107800.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Production,(1000 MT),107200.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Production,(1000 MT),89800.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Production,(1000 MT),123500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Production,(1000 MT),124300.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Production,(1000 MT),106600.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Production,(1000 MT),131300.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Production,(1000 MT),139600.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Production,(1000 MT),158550.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Production,(1000 MT),154500.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Production,(1000 MT),169900.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Production,(1000 MT),161200.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Production,(1000 MT),175800.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Production,(1000 MT),177300.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Production,(1000 MT),185700.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Production,(1000 MT),174400.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Production,(1000 MT),187000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Production,(1000 MT),202710.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Production,(1000 MT),223608.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Production,(1000 MT),230000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Production,(1000 MT),236000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Total Distribution,(1000 MT),596.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Total Distribution,(1000 MT),796.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Total Distribution,(1000 MT),949.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Total Distribution,(1000 MT),818.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Total Distribution,(1000 MT),1268.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Total Distribution,(1000 MT),1734.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Total Distribution,(1000 MT),2455.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Total Distribution,(1000 MT),3954.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Total Distribution,(1000 MT),5664.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Total Distribution,(1000 MT),8797.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Total Distribution,(1000 MT),11084.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Total Distribution,(1000 MT),12723.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Total Distribution,(1000 MT),15508.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Total Distribution,(1000 MT),14423.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Total Distribution,(1000 MT),15397.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Total Distribution,(1000 MT),20380.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Total Distribution,(1000 MT),20929.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Total Distribution,(1000 MT),19533.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Total Distribution,(1000 MT),19839.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Total Distribution,(1000 MT),23304.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Total Distribution,(1000 MT),26427.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Total Distribution,(1000 MT),23070.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Total Distribution,(1000 MT),25943.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Total Distribution,(1000 MT),29077.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Total Distribution,(1000 MT),31692.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Total Distribution,(1000 MT),33746.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Total Distribution,(1000 MT),29771.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Total Distribution,(1000 MT),32948.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Total Distribution,(1000 MT),35398.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Total Distribution,(1000 MT),39652.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Total Distribution,(1000 MT),41094.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Total Distribution,(1000 MT),39712.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Total Distribution,(1000 MT),42805.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Total Distribution,(1000 MT),55130.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Total Distribution,(1000 MT),54089.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Total Distribution,(1000 MT),57778.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Total Distribution,(1000 MT),71462.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Total Distribution,(1000 MT),78000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Total Distribution,(1000 MT),93688.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Total Distribution,(1000 MT),94451.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Total Distribution,(1000 MT),103874.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Total Distribution,(1000 MT),106043.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Total Distribution,(1000 MT),119207.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Total Distribution,(1000 MT),122149.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Total Distribution,(1000 MT),107520.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Total Distribution,(1000 MT),135908.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Total Distribution,(1000 MT),138086.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Total Distribution,(1000 MT),122020.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Total Distribution,(1000 MT),142335.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Total Distribution,(1000 MT),153282.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Total Distribution,(1000 MT),175496.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Total Distribution,(1000 MT),172122.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Total Distribution,(1000 MT),192800.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Total Distribution,(1000 MT),193864.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Total Distribution,(1000 MT),196686.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Total Distribution,(1000 MT),200961.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Total Distribution,(1000 MT),207213.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Total Distribution,(1000 MT),195631.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Total Distribution,(1000 MT),211648.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Total Distribution,(1000 MT),225412.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Total Distribution,(1000 MT),242140.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Total Distribution,(1000 MT),249384.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Total Distribution,(1000 MT),256684.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1964,Total Supply,(1000 MT),596.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1965,Total Supply,(1000 MT),796.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1966,Total Supply,(1000 MT),949.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1967,Total Supply,(1000 MT),818.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1968,Total Supply,(1000 MT),1268.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1969,Total Supply,(1000 MT),1734.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1970,Total Supply,(1000 MT),2455.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1971,Total Supply,(1000 MT),3954.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1972,Total Supply,(1000 MT),5664.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1973,Total Supply,(1000 MT),8797.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1974,Total Supply,(1000 MT),11084.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1975,Total Supply,(1000 MT),12723.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1976,Total Supply,(1000 MT),15508.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1977,Total Supply,(1000 MT),14423.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1978,Total Supply,(1000 MT),15397.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1979,Total Supply,(1000 MT),20380.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1980,Total Supply,(1000 MT),20929.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1981,Total Supply,(1000 MT),19533.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1982,Total Supply,(1000 MT),19839.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1983,Total Supply,(1000 MT),23304.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1984,Total Supply,(1000 MT),26427.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1985,Total Supply,(1000 MT),23070.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1986,Total Supply,(1000 MT),25943.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1987,Total Supply,(1000 MT),29077.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1988,Total Supply,(1000 MT),31692.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1989,Total Supply,(1000 MT),33746.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1990,Total Supply,(1000 MT),29771.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1991,Total Supply,(1000 MT),32948.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1992,Total Supply,(1000 MT),35398.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1993,Total Supply,(1000 MT),39652.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1994,Total Supply,(1000 MT),41094.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1995,Total Supply,(1000 MT),39712.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1996,Total Supply,(1000 MT),42805.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1997,Total Supply,(1000 MT),55130.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1998,Total Supply,(1000 MT),54089.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,1999,Total Supply,(1000 MT),57778.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2000,Total Supply,(1000 MT),71462.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2001,Total Supply,(1000 MT),78000.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2002,Total Supply,(1000 MT),93688.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2003,Total Supply,(1000 MT),94451.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2004,Total Supply,(1000 MT),103874.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2005,Total Supply,(1000 MT),106043.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2006,Total Supply,(1000 MT),119207.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2007,Total Supply,(1000 MT),122149.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2008,Total Supply,(1000 MT),107520.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2009,Total Supply,(1000 MT),135908.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2010,Total Supply,(1000 MT),138086.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2011,Total Supply,(1000 MT),122020.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2012,Total Supply,(1000 MT),142335.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2013,Total Supply,(1000 MT),153282.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2014,Total Supply,(1000 MT),175496.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2015,Total Supply,(1000 MT),172122.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2016,Total Supply,(1000 MT),192800.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2017,Total Supply,(1000 MT),193864.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2018,Total Supply,(1000 MT),196686.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2019,Total Supply,(1000 MT),200961.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2020,Total Supply,(1000 MT),207213.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2021,Total Supply,(1000 MT),195631.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2022,Total Supply,(1000 MT),211648.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2023,Total Supply,(1000 MT),225412.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2024,Total Supply,(1000 MT),242140.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2025,Total Supply,(1000 MT),249384.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oilseed, Soybean (Local)",World,2026,Total Supply,(1000 MT),256684.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

@@ -1,0 +1,716 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Meal, Peanut",World,1972,Beginning Stocks,(1000 MT),33.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Beginning Stocks,(1000 MT),16.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Beginning Stocks,(1000 MT),38.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Beginning Stocks,(1000 MT),31.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Beginning Stocks,(1000 MT),44.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Beginning Stocks,(1000 MT),16.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Beginning Stocks,(1000 MT),16.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Beginning Stocks,(1000 MT),36.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Beginning Stocks,(1000 MT),21.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Beginning Stocks,(1000 MT),25.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Beginning Stocks,(1000 MT),32.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Beginning Stocks,(1000 MT),17.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Beginning Stocks,(1000 MT),22.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Beginning Stocks,(1000 MT),44.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Beginning Stocks,(1000 MT),22.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Beginning Stocks,(1000 MT),53.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Beginning Stocks,(1000 MT),47.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Beginning Stocks,(1000 MT),32.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Beginning Stocks,(1000 MT),32.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Beginning Stocks,(1000 MT),39.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Beginning Stocks,(1000 MT),48.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Beginning Stocks,(1000 MT),86.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Beginning Stocks,(1000 MT),76.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Beginning Stocks,(1000 MT),48.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Beginning Stocks,(1000 MT),63.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Beginning Stocks,(1000 MT),58.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Beginning Stocks,(1000 MT),54.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Beginning Stocks,(1000 MT),14.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Beginning Stocks,(1000 MT),31.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Beginning Stocks,(1000 MT),24.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Beginning Stocks,(1000 MT),21.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Beginning Stocks,(1000 MT),19.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Beginning Stocks,(1000 MT),65.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Beginning Stocks,(1000 MT),42.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Beginning Stocks,(1000 MT),16.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Beginning Stocks,(1000 MT),20.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Beginning Stocks,(1000 MT),21.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Beginning Stocks,(1000 MT),52.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Beginning Stocks,(1000 MT),32.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Beginning Stocks,(1000 MT),38.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Beginning Stocks,(1000 MT),30.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Beginning Stocks,(1000 MT),33.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Beginning Stocks,(1000 MT),29.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Beginning Stocks,(1000 MT),27.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Beginning Stocks,(1000 MT),53.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Beginning Stocks,(1000 MT),31.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Beginning Stocks,(1000 MT),32.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Beginning Stocks,(1000 MT),49.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Beginning Stocks,(1000 MT),34.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Beginning Stocks,(1000 MT),22.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Beginning Stocks,(1000 MT),27.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Beginning Stocks,(1000 MT),23.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Beginning Stocks,(1000 MT),25.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Beginning Stocks,(1000 MT),27.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Beginning Stocks,(1000 MT),24.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Crush,(1000 MT),8081.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Crush,(1000 MT),8682.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Crush,(1000 MT),9484.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Crush,(1000 MT),10570.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Crush,(1000 MT),9492.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Crush,(1000 MT),8922.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Crush,(1000 MT),10083.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Crush,(1000 MT),9173.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Crush,(1000 MT),8119.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Crush,(1000 MT),10556.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Crush,(1000 MT),8886.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Crush,(1000 MT),9679.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Crush,(1000 MT),10166.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Crush,(1000 MT),9949.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Crush,(1000 MT),10249.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Crush,(1000 MT),10423.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Crush,(1000 MT),12321.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Crush,(1000 MT),11540.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Crush,(1000 MT),11546.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Crush,(1000 MT),11532.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Crush,(1000 MT),12292.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Crush,(1000 MT),12710.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Crush,(1000 MT),14474.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Crush,(1000 MT),13911.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Crush,(1000 MT),15014.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Crush,(1000 MT),13676.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Crush,(1000 MT),14690.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Crush,(1000 MT),13766.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Crush,(1000 MT),14835.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Crush,(1000 MT),16455.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Crush,(1000 MT),15198.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Crush,(1000 MT),16373.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Crush,(1000 MT),15367.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Crush,(1000 MT),15608.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Crush,(1000 MT),14239.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Crush,(1000 MT),15673.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Crush,(1000 MT),15627.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Crush,(1000 MT),14916.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Crush,(1000 MT),16148.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Crush,(1000 MT),16183.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Crush,(1000 MT),16121.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Crush,(1000 MT),17180.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Crush,(1000 MT),16533.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Crush,(1000 MT),16653.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Crush,(1000 MT),17520.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Crush,(1000 MT),18037.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Crush,(1000 MT),18043.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Crush,(1000 MT),19024.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Crush,(1000 MT),19559.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Crush,(1000 MT),19720.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Crush,(1000 MT),19076.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Crush,(1000 MT),18439.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Crush,(1000 MT),19354.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Crush,(1000 MT),19322.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Crush,(1000 MT),19417.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Domestic Consumption,(1000 MT),2793.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Domestic Consumption,(1000 MT),2968.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Domestic Consumption,(1000 MT),3557.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Domestic Consumption,(1000 MT),3480.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Domestic Consumption,(1000 MT),3235.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Domestic Consumption,(1000 MT),3447.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Domestic Consumption,(1000 MT),3906.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Domestic Consumption,(1000 MT),3709.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Domestic Consumption,(1000 MT),3201.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Domestic Consumption,(1000 MT),4193.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Domestic Consumption,(1000 MT),3553.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Domestic Consumption,(1000 MT),3796.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Domestic Consumption,(1000 MT),3985.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Domestic Consumption,(1000 MT),3900.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Domestic Consumption,(1000 MT),3914.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Domestic Consumption,(1000 MT),4233.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Domestic Consumption,(1000 MT),4998.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Domestic Consumption,(1000 MT),4648.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Domestic Consumption,(1000 MT),4743.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Domestic Consumption,(1000 MT),4670.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Domestic Consumption,(1000 MT),5041.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Domestic Consumption,(1000 MT),5118.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Domestic Consumption,(1000 MT),5899.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Domestic Consumption,(1000 MT),5587.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Domestic Consumption,(1000 MT),6056.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Domestic Consumption,(1000 MT),5387.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Domestic Consumption,(1000 MT),5838.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Domestic Consumption,(1000 MT),5287.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Domestic Consumption,(1000 MT),5730.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Domestic Consumption,(1000 MT),6380.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Domestic Consumption,(1000 MT),5903.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Domestic Consumption,(1000 MT),6431.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Domestic Consumption,(1000 MT),6074.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Domestic Consumption,(1000 MT),6160.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Domestic Consumption,(1000 MT),5614.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Domestic Consumption,(1000 MT),6251.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Domestic Consumption,(1000 MT),6178.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Domestic Consumption,(1000 MT),5951.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Domestic Consumption,(1000 MT),6360.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Domestic Consumption,(1000 MT),6410.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Domestic Consumption,(1000 MT),6327.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Domestic Consumption,(1000 MT),6811.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Domestic Consumption,(1000 MT),6548.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Domestic Consumption,(1000 MT),6550.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Domestic Consumption,(1000 MT),6989.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Domestic Consumption,(1000 MT),7162.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Domestic Consumption,(1000 MT),7165.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Domestic Consumption,(1000 MT),7558.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Domestic Consumption,(1000 MT),7790.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Domestic Consumption,(1000 MT),7822.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Domestic Consumption,(1000 MT),7575.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Domestic Consumption,(1000 MT),7344.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Domestic Consumption,(1000 MT),7722.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Domestic Consumption,(1000 MT),7726.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Domestic Consumption,(1000 MT),7754.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Ending Stocks,(1000 MT),16.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Ending Stocks,(1000 MT),38.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Ending Stocks,(1000 MT),31.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Ending Stocks,(1000 MT),44.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Ending Stocks,(1000 MT),16.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Ending Stocks,(1000 MT),16.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Ending Stocks,(1000 MT),36.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Ending Stocks,(1000 MT),21.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Ending Stocks,(1000 MT),25.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Ending Stocks,(1000 MT),32.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Ending Stocks,(1000 MT),17.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Ending Stocks,(1000 MT),22.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Ending Stocks,(1000 MT),44.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Ending Stocks,(1000 MT),22.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Ending Stocks,(1000 MT),53.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Ending Stocks,(1000 MT),47.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Ending Stocks,(1000 MT),32.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Ending Stocks,(1000 MT),32.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Ending Stocks,(1000 MT),46.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Ending Stocks,(1000 MT),48.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Ending Stocks,(1000 MT),54.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Ending Stocks,(1000 MT),76.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Ending Stocks,(1000 MT),48.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Ending Stocks,(1000 MT),63.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Ending Stocks,(1000 MT),58.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Ending Stocks,(1000 MT),54.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Ending Stocks,(1000 MT),14.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Ending Stocks,(1000 MT),31.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Ending Stocks,(1000 MT),24.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Ending Stocks,(1000 MT),21.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Ending Stocks,(1000 MT),19.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Ending Stocks,(1000 MT),65.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Ending Stocks,(1000 MT),42.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Ending Stocks,(1000 MT),16.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Ending Stocks,(1000 MT),20.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Ending Stocks,(1000 MT),21.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Ending Stocks,(1000 MT),52.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Ending Stocks,(1000 MT),32.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Ending Stocks,(1000 MT),38.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Ending Stocks,(1000 MT),30.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Ending Stocks,(1000 MT),33.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Ending Stocks,(1000 MT),29.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Ending Stocks,(1000 MT),27.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Ending Stocks,(1000 MT),53.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Ending Stocks,(1000 MT),31.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Ending Stocks,(1000 MT),32.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Ending Stocks,(1000 MT),49.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Ending Stocks,(1000 MT),34.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Ending Stocks,(1000 MT),22.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Ending Stocks,(1000 MT),27.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Ending Stocks,(1000 MT),23.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Ending Stocks,(1000 MT),25.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Ending Stocks,(1000 MT),27.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Ending Stocks,(1000 MT),24.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Ending Stocks,(1000 MT),26.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Exports,(1000 MT),1431.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Exports,(1000 MT),1103.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Exports,(1000 MT),980.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Exports,(1000 MT),1806.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Exports,(1000 MT),1682.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Exports,(1000 MT),827.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Exports,(1000 MT),1288.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Exports,(1000 MT),991.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Exports,(1000 MT),631.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Exports,(1000 MT),625.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Exports,(1000 MT),650.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Exports,(1000 MT),559.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Exports,(1000 MT),449.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Exports,(1000 MT),513.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Exports,(1000 MT),677.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Exports,(1000 MT),675.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Exports,(1000 MT),831.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Exports,(1000 MT),846.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Exports,(1000 MT),721.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Exports,(1000 MT),703.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Exports,(1000 MT),624.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Exports,(1000 MT),834.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Exports,(1000 MT),611.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Exports,(1000 MT),547.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Exports,(1000 MT),489.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Exports,(1000 MT),450.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Exports,(1000 MT),332.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Exports,(1000 MT),249.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Exports,(1000 MT),217.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Exports,(1000 MT),269.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Exports,(1000 MT),97.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Exports,(1000 MT),286.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Exports,(1000 MT),148.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Exports,(1000 MT),248.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Exports,(1000 MT),210.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Exports,(1000 MT),178.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Exports,(1000 MT),103.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Exports,(1000 MT),137.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Exports,(1000 MT),190.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Exports,(1000 MT),85.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Exports,(1000 MT),98.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Exports,(1000 MT),133.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Exports,(1000 MT),50.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Exports,(1000 MT),54.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Exports,(1000 MT),159.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Exports,(1000 MT),96.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Exports,(1000 MT),124.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Exports,(1000 MT),182.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Exports,(1000 MT),129.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Exports,(1000 MT),183.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Exports,(1000 MT),177.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Exports,(1000 MT),116.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Exports,(1000 MT),95.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Exports,(1000 MT),158.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Exports,(1000 MT),166.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Feed Waste Dom. Cons.,(1000 MT),2729.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Feed Waste Dom. Cons.,(1000 MT),2907.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Feed Waste Dom. Cons.,(1000 MT),3506.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Feed Waste Dom. Cons.,(1000 MT),3434.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Feed Waste Dom. Cons.,(1000 MT),3198.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Feed Waste Dom. Cons.,(1000 MT),3408.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Feed Waste Dom. Cons.,(1000 MT),3862.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Feed Waste Dom. Cons.,(1000 MT),3656.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Feed Waste Dom. Cons.,(1000 MT),3135.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Feed Waste Dom. Cons.,(1000 MT),4116.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Feed Waste Dom. Cons.,(1000 MT),3463.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Feed Waste Dom. Cons.,(1000 MT),3703.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Feed Waste Dom. Cons.,(1000 MT),3869.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Feed Waste Dom. Cons.,(1000 MT),3764.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Feed Waste Dom. Cons.,(1000 MT),3768.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Feed Waste Dom. Cons.,(1000 MT),4060.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Feed Waste Dom. Cons.,(1000 MT),4867.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Feed Waste Dom. Cons.,(1000 MT),4518.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Feed Waste Dom. Cons.,(1000 MT),4609.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Feed Waste Dom. Cons.,(1000 MT),4550.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Feed Waste Dom. Cons.,(1000 MT),4919.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Feed Waste Dom. Cons.,(1000 MT),4993.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Feed Waste Dom. Cons.,(1000 MT),5743.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Feed Waste Dom. Cons.,(1000 MT),5582.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Feed Waste Dom. Cons.,(1000 MT),6051.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Feed Waste Dom. Cons.,(1000 MT),5382.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Feed Waste Dom. Cons.,(1000 MT),5833.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Feed Waste Dom. Cons.,(1000 MT),5264.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Feed Waste Dom. Cons.,(1000 MT),5702.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Feed Waste Dom. Cons.,(1000 MT),6370.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Feed Waste Dom. Cons.,(1000 MT),5877.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Feed Waste Dom. Cons.,(1000 MT),6422.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Feed Waste Dom. Cons.,(1000 MT),6065.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Feed Waste Dom. Cons.,(1000 MT),6150.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Feed Waste Dom. Cons.,(1000 MT),5609.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Feed Waste Dom. Cons.,(1000 MT),6227.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Feed Waste Dom. Cons.,(1000 MT),6173.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Feed Waste Dom. Cons.,(1000 MT),5946.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Feed Waste Dom. Cons.,(1000 MT),6355.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Feed Waste Dom. Cons.,(1000 MT),6405.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Feed Waste Dom. Cons.,(1000 MT),6322.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Feed Waste Dom. Cons.,(1000 MT),6806.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Feed Waste Dom. Cons.,(1000 MT),6543.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Feed Waste Dom. Cons.,(1000 MT),6545.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Feed Waste Dom. Cons.,(1000 MT),6984.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Feed Waste Dom. Cons.,(1000 MT),7157.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Feed Waste Dom. Cons.,(1000 MT),7160.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Feed Waste Dom. Cons.,(1000 MT),7553.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Feed Waste Dom. Cons.,(1000 MT),7785.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Feed Waste Dom. Cons.,(1000 MT),7817.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Feed Waste Dom. Cons.,(1000 MT),7570.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Feed Waste Dom. Cons.,(1000 MT),7339.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Feed Waste Dom. Cons.,(1000 MT),7717.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Feed Waste Dom. Cons.,(1000 MT),7721.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Feed Waste Dom. Cons.,(1000 MT),7754.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Food Use Dom. Cons.,(1000 MT),13.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Food Use Dom. Cons.,(1000 MT),12.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Food Use Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Food Use Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Food Use Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Food Use Dom. Cons.,(1000 MT),0.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Food Use Dom. Cons.,(1000 MT),0.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Food Use Dom. Cons.,(1000 MT),0.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Food Use Dom. Cons.,(1000 MT),5.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Food Use Dom. Cons.,(1000 MT),15.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Food Use Dom. Cons.,(1000 MT),17.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Food Use Dom. Cons.,(1000 MT),21.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Food Use Dom. Cons.,(1000 MT),6.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Food Use Dom. Cons.,(1000 MT),10.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Food Use Dom. Cons.,(1000 MT),8.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Food Use Dom. Cons.,(1000 MT),9.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Food Use Dom. Cons.,(1000 MT),8.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Food Use Dom. Cons.,(1000 MT),8.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Food Use Dom. Cons.,(1000 MT),8.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Food Use Dom. Cons.,(1000 MT),10.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Food Use Dom. Cons.,(1000 MT),5.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Food Use Dom. Cons.,(1000 MT),5.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Food Use Dom. Cons.,(1000 MT),5.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Food Use Dom. Cons.,(1000 MT),5.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Food Use Dom. Cons.,(1000 MT),5.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Food Use Dom. Cons.,(1000 MT),23.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Food Use Dom. Cons.,(1000 MT),28.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Food Use Dom. Cons.,(1000 MT),10.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Food Use Dom. Cons.,(1000 MT),26.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Food Use Dom. Cons.,(1000 MT),9.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Food Use Dom. Cons.,(1000 MT),9.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Food Use Dom. Cons.,(1000 MT),10.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Food Use Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Food Use Dom. Cons.,(1000 MT),24.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Food Use Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Food Use Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Food Use Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Food Use Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Food Use Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Food Use Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Food Use Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Food Use Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Food Use Dom. Cons.,(1000 MT),5.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Food Use Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Imports,(1000 MT),1030.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Imports,(1000 MT),635.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Imports,(1000 MT),709.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Imports,(1000 MT),1129.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Imports,(1000 MT),1086.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Imports,(1000 MT),720.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Imports,(1000 MT),1085.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Imports,(1000 MT),937.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Imports,(1000 MT),520.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Imports,(1000 MT),534.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Imports,(1000 MT),544.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Imports,(1000 MT),391.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Imports,(1000 MT),295.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Imports,(1000 MT),366.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Imports,(1000 MT),430.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Imports,(1000 MT),612.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Imports,(1000 MT),743.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Imports,(1000 MT),754.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Imports,(1000 MT),737.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Imports,(1000 MT),657.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Imports,(1000 MT),630.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Imports,(1000 MT),729.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Imports,(1000 MT),572.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Imports,(1000 MT),499.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Imports,(1000 MT),450.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Imports,(1000 MT),377.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Imports,(1000 MT),288.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Imports,(1000 MT),230.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Imports,(1000 MT),220.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Imports,(1000 MT),283.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Imports,(1000 MT),118.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Imports,(1000 MT),269.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Imports,(1000 MT),130.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Imports,(1000 MT),210.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Imports,(1000 MT),175.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Imports,(1000 MT),153.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Imports,(1000 MT),68.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Imports,(1000 MT),113.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Imports,(1000 MT),120.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Imports,(1000 MT),47.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Imports,(1000 MT),39.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Imports,(1000 MT),96.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Imports,(1000 MT),27.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Imports,(1000 MT),19.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Imports,(1000 MT),139.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Imports,(1000 MT),57.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Imports,(1000 MT),99.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Imports,(1000 MT),133.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Imports,(1000 MT),95.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Imports,(1000 MT),132.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Imports,(1000 MT),124.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Imports,(1000 MT),86.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Imports,(1000 MT),38.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Imports,(1000 MT),122.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Imports,(1000 MT),123.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Industrial Dom. Cons.,(1000 MT),41.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Industrial Dom. Cons.,(1000 MT),41.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Industrial Dom. Cons.,(1000 MT),46.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Industrial Dom. Cons.,(1000 MT),45.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Industrial Dom. Cons.,(1000 MT),37.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Industrial Dom. Cons.,(1000 MT),39.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Industrial Dom. Cons.,(1000 MT),46.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Industrial Dom. Cons.,(1000 MT),55.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Industrial Dom. Cons.,(1000 MT),66.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Industrial Dom. Cons.,(1000 MT),72.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Industrial Dom. Cons.,(1000 MT),75.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Industrial Dom. Cons.,(1000 MT),76.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Industrial Dom. Cons.,(1000 MT),95.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Industrial Dom. Cons.,(1000 MT),130.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Industrial Dom. Cons.,(1000 MT),136.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Industrial Dom. Cons.,(1000 MT),165.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Industrial Dom. Cons.,(1000 MT),122.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Industrial Dom. Cons.,(1000 MT),122.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Industrial Dom. Cons.,(1000 MT),126.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Industrial Dom. Cons.,(1000 MT),112.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Industrial Dom. Cons.,(1000 MT),112.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Industrial Dom. Cons.,(1000 MT),120.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Industrial Dom. Cons.,(1000 MT),146.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Industrial Dom. Cons.,(1000 MT),0.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Industrial Dom. Cons.,(1000 MT),0.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Industrial Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Industrial Dom. Cons.,(1000 MT),0.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Industrial Dom. Cons.,(1000 MT),0.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Industrial Dom. Cons.,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Industrial Dom. Cons.,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Industrial Dom. Cons.,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Industrial Dom. Cons.,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Industrial Dom. Cons.,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Industrial Dom. Cons.,(1000 MT),0.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Industrial Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Production,(1000 MT),3177.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Production,(1000 MT),3458.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Production,(1000 MT),3821.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Production,(1000 MT),4170.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Production,(1000 MT),3803.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Production,(1000 MT),3554.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Production,(1000 MT),4129.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Production,(1000 MT),3748.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Production,(1000 MT),3316.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Production,(1000 MT),4291.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Production,(1000 MT),3644.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Production,(1000 MT),3969.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Production,(1000 MT),4161.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Production,(1000 MT),4025.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Production,(1000 MT),4192.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Production,(1000 MT),4290.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Production,(1000 MT),5071.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Production,(1000 MT),4740.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Production,(1000 MT),4741.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Production,(1000 MT),4725.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Production,(1000 MT),5041.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Production,(1000 MT),5213.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Production,(1000 MT),5910.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Production,(1000 MT),5650.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Production,(1000 MT),6090.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Production,(1000 MT),5456.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Production,(1000 MT),5842.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Production,(1000 MT),5323.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Production,(1000 MT),5720.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Production,(1000 MT),6363.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Production,(1000 MT),5880.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Production,(1000 MT),6494.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Production,(1000 MT),6069.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Production,(1000 MT),6172.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Production,(1000 MT),5653.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Production,(1000 MT),6277.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Production,(1000 MT),6244.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Production,(1000 MT),5955.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Production,(1000 MT),6436.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Production,(1000 MT),6440.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Production,(1000 MT),6389.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Production,(1000 MT),6844.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Production,(1000 MT),6569.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Production,(1000 MT),6611.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Production,(1000 MT),6987.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Production,(1000 MT),7202.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Production,(1000 MT),7207.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Production,(1000 MT),7592.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Production,(1000 MT),7812.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Production,(1000 MT),7878.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Production,(1000 MT),7624.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Production,(1000 MT),7376.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Production,(1000 MT),7781.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Production,(1000 MT),7759.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Production,(1000 MT),7799.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,SME,(1000 MT),3067.39,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,SME,(1000 MT),3267.46,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,SME,(1000 MT),3940.73,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,SME,(1000 MT),3859.82,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,SME,(1000 MT),3594.56,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,SME,(1000 MT),3830.6,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,SME,(1000 MT),4340.89,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,SME,(1000 MT),4109.34,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,SME,(1000 MT),3523.7,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,SME,(1000 MT),4626.38,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,SME,(1000 MT),3892.42,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,SME,(1000 MT),4162.16,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,SME,(1000 MT),4348.72,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,SME,(1000 MT),4230.74,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,SME,(1000 MT),4235.25,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,SME,(1000 MT),4563.44,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,SME,(1000 MT),5470.5,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,SME,(1000 MT),5078.25,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,SME,(1000 MT),5180.51,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,SME,(1000 MT),5114.1900000000005,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,SME,(1000 MT),5528.950000000001,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,SME,(1000 MT),5612.14,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,SME,(1000 MT),6455.16,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,SME,(1000 MT),6274.1900000000005,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,SME,(1000 MT),6801.32,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,SME,(1000 MT),6049.33,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,SME,(1000 MT),6556.2699999999995,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,SME,(1000 MT),5916.73,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,SME,(1000 MT),6409.05,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,SME,(1000 MT),7159.88,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,SME,(1000 MT),6605.76,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,SME,(1000 MT),7218.29,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,SME,(1000 MT),6817.030000000001,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,SME,(1000 MT),6912.58,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,SME,(1000 MT),6304.53,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,SME,(1000 MT),6999.12,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,SME,(1000 MT),6938.429999999999,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,SME,(1000 MT),6683.29,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,SME,(1000 MT),7143.03,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,SME,(1000 MT),7199.22,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,SME,(1000 MT),7105.92,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,SME,(1000 MT),7649.95,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,SME,(1000 MT),7354.34,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,SME,(1000 MT),7356.58,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,SME,(1000 MT),7850.0199999999995,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,SME,(1000 MT),8044.4800000000005,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,SME,(1000 MT),8047.84,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,SME,(1000 MT),8489.58,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,SME,(1000 MT),8750.35,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,SME,(1000 MT),8786.3,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,SME,(1000 MT),8508.68,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,SME,(1000 MT),8249.029999999999,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,SME,(1000 MT),8673.9,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,SME,(1000 MT),8678.39,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,SME,(1000 MT),8715.49,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Total Distribution,(1000 MT),4240.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Total Distribution,(1000 MT),4109.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Total Distribution,(1000 MT),4568.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Total Distribution,(1000 MT),5330.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Total Distribution,(1000 MT),4933.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Total Distribution,(1000 MT),4290.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Total Distribution,(1000 MT),5230.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Total Distribution,(1000 MT),4721.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Total Distribution,(1000 MT),3857.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Total Distribution,(1000 MT),4850.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Total Distribution,(1000 MT),4220.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Total Distribution,(1000 MT),4377.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Total Distribution,(1000 MT),4478.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Total Distribution,(1000 MT),4435.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Total Distribution,(1000 MT),4644.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Total Distribution,(1000 MT),4955.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Total Distribution,(1000 MT),5861.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Total Distribution,(1000 MT),5526.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Total Distribution,(1000 MT),5510.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Total Distribution,(1000 MT),5421.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Total Distribution,(1000 MT),5719.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Total Distribution,(1000 MT),6028.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Total Distribution,(1000 MT),6558.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Total Distribution,(1000 MT),6197.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Total Distribution,(1000 MT),6603.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Total Distribution,(1000 MT),5891.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Total Distribution,(1000 MT),6184.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Total Distribution,(1000 MT),5567.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Total Distribution,(1000 MT),5971.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Total Distribution,(1000 MT),6670.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Total Distribution,(1000 MT),6019.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Total Distribution,(1000 MT),6782.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Total Distribution,(1000 MT),6264.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Total Distribution,(1000 MT),6424.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Total Distribution,(1000 MT),5844.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Total Distribution,(1000 MT),6450.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Total Distribution,(1000 MT),6333.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Total Distribution,(1000 MT),6120.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Total Distribution,(1000 MT),6588.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Total Distribution,(1000 MT),6525.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Total Distribution,(1000 MT),6458.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Total Distribution,(1000 MT),6973.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Total Distribution,(1000 MT),6625.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Total Distribution,(1000 MT),6657.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Total Distribution,(1000 MT),7179.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Total Distribution,(1000 MT),7290.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Total Distribution,(1000 MT),7338.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Total Distribution,(1000 MT),7774.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Total Distribution,(1000 MT),7941.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Total Distribution,(1000 MT),8032.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Total Distribution,(1000 MT),7775.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Total Distribution,(1000 MT),7485.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Total Distribution,(1000 MT),7844.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Total Distribution,(1000 MT),7908.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Total Distribution,(1000 MT),7946.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1972,Total Supply,(1000 MT),4240.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1973,Total Supply,(1000 MT),4109.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1974,Total Supply,(1000 MT),4568.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1975,Total Supply,(1000 MT),5330.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1976,Total Supply,(1000 MT),4933.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1977,Total Supply,(1000 MT),4290.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1978,Total Supply,(1000 MT),5230.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1979,Total Supply,(1000 MT),4721.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1980,Total Supply,(1000 MT),3857.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1981,Total Supply,(1000 MT),4850.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1982,Total Supply,(1000 MT),4220.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1983,Total Supply,(1000 MT),4377.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1984,Total Supply,(1000 MT),4478.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1985,Total Supply,(1000 MT),4435.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1986,Total Supply,(1000 MT),4644.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1987,Total Supply,(1000 MT),4955.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1988,Total Supply,(1000 MT),5861.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1989,Total Supply,(1000 MT),5526.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1990,Total Supply,(1000 MT),5510.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1991,Total Supply,(1000 MT),5421.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1992,Total Supply,(1000 MT),5719.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1993,Total Supply,(1000 MT),6028.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1994,Total Supply,(1000 MT),6558.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1995,Total Supply,(1000 MT),6197.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1996,Total Supply,(1000 MT),6603.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1997,Total Supply,(1000 MT),5891.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1998,Total Supply,(1000 MT),6184.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,1999,Total Supply,(1000 MT),5567.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2000,Total Supply,(1000 MT),5971.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2001,Total Supply,(1000 MT),6670.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2002,Total Supply,(1000 MT),6019.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2003,Total Supply,(1000 MT),6782.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2004,Total Supply,(1000 MT),6264.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2005,Total Supply,(1000 MT),6424.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2006,Total Supply,(1000 MT),5844.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2007,Total Supply,(1000 MT),6450.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2008,Total Supply,(1000 MT),6333.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2009,Total Supply,(1000 MT),6120.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2010,Total Supply,(1000 MT),6588.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2011,Total Supply,(1000 MT),6525.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2012,Total Supply,(1000 MT),6458.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2013,Total Supply,(1000 MT),6973.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2014,Total Supply,(1000 MT),6625.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2015,Total Supply,(1000 MT),6657.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2016,Total Supply,(1000 MT),7179.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2017,Total Supply,(1000 MT),7290.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2018,Total Supply,(1000 MT),7338.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2019,Total Supply,(1000 MT),7774.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2020,Total Supply,(1000 MT),7941.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2021,Total Supply,(1000 MT),8032.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2022,Total Supply,(1000 MT),7775.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2023,Total Supply,(1000 MT),7485.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2024,Total Supply,(1000 MT),7844.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2025,Total Supply,(1000 MT),7908.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Peanut",World,2026,Total Supply,(1000 MT),7946.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

@@ -1,0 +1,807 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Meal, Fish",World,1964,Beginning Stocks,(1000 MT),508.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Beginning Stocks,(1000 MT),396.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Beginning Stocks,(1000 MT),679.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Beginning Stocks,(1000 MT),849.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Beginning Stocks,(1000 MT),608.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Beginning Stocks,(1000 MT),435.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Beginning Stocks,(1000 MT),882.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Beginning Stocks,(1000 MT),1015.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Beginning Stocks,(1000 MT),214.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Beginning Stocks,(1000 MT),230.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Beginning Stocks,(1000 MT),468.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Beginning Stocks,(1000 MT),235.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Beginning Stocks,(1000 MT),383.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Beginning Stocks,(1000 MT),368.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Beginning Stocks,(1000 MT),578.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Beginning Stocks,(1000 MT),552.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Beginning Stocks,(1000 MT),550.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Beginning Stocks,(1000 MT),901.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Beginning Stocks,(1000 MT),692.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Beginning Stocks,(1000 MT),537.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Beginning Stocks,(1000 MT),707.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Beginning Stocks,(1000 MT),608.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Beginning Stocks,(1000 MT),713.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Beginning Stocks,(1000 MT),595.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Beginning Stocks,(1000 MT),940.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Beginning Stocks,(1000 MT),795.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Beginning Stocks,(1000 MT),580.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Beginning Stocks,(1000 MT),429.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Beginning Stocks,(1000 MT),485.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Beginning Stocks,(1000 MT),613.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Beginning Stocks,(1000 MT),680.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Beginning Stocks,(1000 MT),741.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Beginning Stocks,(1000 MT),842.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Beginning Stocks,(1000 MT),646.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Beginning Stocks,(1000 MT),609.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Beginning Stocks,(1000 MT),923.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Beginning Stocks,(1000 MT),777.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Beginning Stocks,(1000 MT),642.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Beginning Stocks,(1000 MT),1013.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Beginning Stocks,(1000 MT),704.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Beginning Stocks,(1000 MT),833.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Beginning Stocks,(1000 MT),705.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Beginning Stocks,(1000 MT),733.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Beginning Stocks,(1000 MT),967.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Beginning Stocks,(1000 MT),833.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Beginning Stocks,(1000 MT),709.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Beginning Stocks,(1000 MT),276.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Beginning Stocks,(1000 MT),689.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Beginning Stocks,(1000 MT),281.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Beginning Stocks,(1000 MT),458.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Beginning Stocks,(1000 MT),232.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Beginning Stocks,(1000 MT),266.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Beginning Stocks,(1000 MT),272.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Beginning Stocks,(1000 MT),253.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Beginning Stocks,(1000 MT),248.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Beginning Stocks,(1000 MT),242.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Beginning Stocks,(1000 MT),255.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Beginning Stocks,(1000 MT),193.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Beginning Stocks,(1000 MT),267.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Beginning Stocks,(1000 MT),246.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Beginning Stocks,(1000 MT),235.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Beginning Stocks,(1000 MT),293.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Catch For Reduction,(1000 MT),0.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Catch For Reduction,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Catch For Reduction,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Catch For Reduction,(1000 MT),0.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Catch For Reduction,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Catch For Reduction,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Catch For Reduction,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Catch For Reduction,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Catch For Reduction,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Catch For Reduction,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Catch For Reduction,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Catch For Reduction,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Catch For Reduction,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Catch For Reduction,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Catch For Reduction,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Catch For Reduction,(1000 MT),1726.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Catch For Reduction,(1000 MT),1850.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Catch For Reduction,(1000 MT),6288.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Catch For Reduction,(1000 MT),8399.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Catch For Reduction,(1000 MT),11873.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Catch For Reduction,(1000 MT),15536.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Catch For Reduction,(1000 MT),16939.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Catch For Reduction,(1000 MT),14259.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Catch For Reduction,(1000 MT),17296.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Catch For Reduction,(1000 MT),17956.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Catch For Reduction,(1000 MT),16196.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Catch For Reduction,(1000 MT),12464.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Catch For Reduction,(1000 MT),13922.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Catch For Reduction,(1000 MT),14981.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Catch For Reduction,(1000 MT),17511.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Catch For Reduction,(1000 MT),16652.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Catch For Reduction,(1000 MT),16236.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Catch For Reduction,(1000 MT),16503.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Catch For Reduction,(1000 MT),11028.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Catch For Reduction,(1000 MT),14180.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Catch For Reduction,(1000 MT),15258.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Catch For Reduction,(1000 MT),14107.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Catch For Reduction,(1000 MT),20203.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Catch For Reduction,(1000 MT),17112.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Catch For Reduction,(1000 MT),19071.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Catch For Reduction,(1000 MT),19003.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Catch For Reduction,(1000 MT),16638.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Catch For Reduction,(1000 MT),17144.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Catch For Reduction,(1000 MT),17137.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Catch For Reduction,(1000 MT),16905.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Catch For Reduction,(1000 MT),13981.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Catch For Reduction,(1000 MT),17008.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Catch For Reduction,(1000 MT),14605.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Catch For Reduction,(1000 MT),15121.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Catch For Reduction,(1000 MT),14632.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Catch For Reduction,(1000 MT),16181.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Catch For Reduction,(1000 MT),14623.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Catch For Reduction,(1000 MT),16289.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Catch For Reduction,(1000 MT),16802.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Catch For Reduction,(1000 MT),16434.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Catch For Reduction,(1000 MT),16769.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Catch For Reduction,(1000 MT),16936.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Catch For Reduction,(1000 MT),17055.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Catch For Reduction,(1000 MT),17084.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Catch For Reduction,(1000 MT),17456.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Catch For Reduction,(1000 MT),17581.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Catch For Reduction,(1000 MT),17705.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Domestic Consumption,(1000 MT),3295.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Domestic Consumption,(1000 MT),3445.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Domestic Consumption,(1000 MT),4073.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Domestic Consumption,(1000 MT),5000.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Domestic Consumption,(1000 MT),4669.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Domestic Consumption,(1000 MT),4626.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Domestic Consumption,(1000 MT),4785.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Domestic Consumption,(1000 MT),4877.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Domestic Consumption,(1000 MT),3938.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Domestic Consumption,(1000 MT),3980.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Domestic Consumption,(1000 MT),4471.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Domestic Consumption,(1000 MT),4420.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Domestic Consumption,(1000 MT),4152.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Domestic Consumption,(1000 MT),4182.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Domestic Consumption,(1000 MT),4470.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Domestic Consumption,(1000 MT),4359.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Domestic Consumption,(1000 MT),4223.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Domestic Consumption,(1000 MT),4933.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Domestic Consumption,(1000 MT),4646.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Domestic Consumption,(1000 MT),4925.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Domestic Consumption,(1000 MT),5685.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Domestic Consumption,(1000 MT),5791.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Domestic Consumption,(1000 MT),5728.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Domestic Consumption,(1000 MT),5942.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Domestic Consumption,(1000 MT),6405.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Domestic Consumption,(1000 MT),6009.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Domestic Consumption,(1000 MT),5872.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Domestic Consumption,(1000 MT),5903.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Domestic Consumption,(1000 MT),5712.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Domestic Consumption,(1000 MT),6564.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Domestic Consumption,(1000 MT),6111.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Domestic Consumption,(1000 MT),6260.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Domestic Consumption,(1000 MT),6385.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Domestic Consumption,(1000 MT),5018.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Domestic Consumption,(1000 MT),5572.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Domestic Consumption,(1000 MT),6324.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Domestic Consumption,(1000 MT),6017.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Domestic Consumption,(1000 MT),5595.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Domestic Consumption,(1000 MT),5157.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Domestic Consumption,(1000 MT),5345.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Domestic Consumption,(1000 MT),5594.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Domestic Consumption,(1000 MT),5210.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Domestic Consumption,(1000 MT),5075.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Domestic Consumption,(1000 MT),5502.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Domestic Consumption,(1000 MT),5507.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Domestic Consumption,(1000 MT),5027.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Domestic Consumption,(1000 MT),5221.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Domestic Consumption,(1000 MT),5361.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Domestic Consumption,(1000 MT),4813.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Domestic Consumption,(1000 MT),4936.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Domestic Consumption,(1000 MT),4874.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Domestic Consumption,(1000 MT),4727.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Domestic Consumption,(1000 MT),5365.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Domestic Consumption,(1000 MT),5168.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Domestic Consumption,(1000 MT),5204.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Domestic Consumption,(1000 MT),5052.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Domestic Consumption,(1000 MT),5382.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Domestic Consumption,(1000 MT),5618.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Domestic Consumption,(1000 MT),5374.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Domestic Consumption,(1000 MT),5794.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Domestic Consumption,(1000 MT),6027.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Domestic Consumption,(1000 MT),5939.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Ending Stocks,(1000 MT),396.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Ending Stocks,(1000 MT),679.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Ending Stocks,(1000 MT),849.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Ending Stocks,(1000 MT),608.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Ending Stocks,(1000 MT),435.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Ending Stocks,(1000 MT),882.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Ending Stocks,(1000 MT),1015.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Ending Stocks,(1000 MT),214.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Ending Stocks,(1000 MT),230.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Ending Stocks,(1000 MT),468.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Ending Stocks,(1000 MT),235.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Ending Stocks,(1000 MT),383.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Ending Stocks,(1000 MT),368.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Ending Stocks,(1000 MT),578.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Ending Stocks,(1000 MT),552.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Ending Stocks,(1000 MT),550.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Ending Stocks,(1000 MT),901.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Ending Stocks,(1000 MT),692.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Ending Stocks,(1000 MT),540.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Ending Stocks,(1000 MT),707.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Ending Stocks,(1000 MT),608.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Ending Stocks,(1000 MT),713.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Ending Stocks,(1000 MT),595.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Ending Stocks,(1000 MT),940.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Ending Stocks,(1000 MT),795.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Ending Stocks,(1000 MT),580.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Ending Stocks,(1000 MT),429.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Ending Stocks,(1000 MT),485.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Ending Stocks,(1000 MT),613.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Ending Stocks,(1000 MT),680.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Ending Stocks,(1000 MT),741.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Ending Stocks,(1000 MT),842.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Ending Stocks,(1000 MT),646.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Ending Stocks,(1000 MT),609.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Ending Stocks,(1000 MT),923.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Ending Stocks,(1000 MT),777.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Ending Stocks,(1000 MT),642.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Ending Stocks,(1000 MT),1013.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Ending Stocks,(1000 MT),704.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Ending Stocks,(1000 MT),833.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Ending Stocks,(1000 MT),705.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Ending Stocks,(1000 MT),733.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Ending Stocks,(1000 MT),967.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Ending Stocks,(1000 MT),833.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Ending Stocks,(1000 MT),709.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Ending Stocks,(1000 MT),276.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Ending Stocks,(1000 MT),689.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Ending Stocks,(1000 MT),281.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Ending Stocks,(1000 MT),458.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Ending Stocks,(1000 MT),232.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Ending Stocks,(1000 MT),266.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Ending Stocks,(1000 MT),272.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Ending Stocks,(1000 MT),253.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Ending Stocks,(1000 MT),248.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Ending Stocks,(1000 MT),242.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Ending Stocks,(1000 MT),255.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Ending Stocks,(1000 MT),193.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Ending Stocks,(1000 MT),267.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Ending Stocks,(1000 MT),246.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Ending Stocks,(1000 MT),235.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Ending Stocks,(1000 MT),293.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Ending Stocks,(1000 MT),269.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Exports,(1000 MT),2383.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Exports,(1000 MT),2368.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Exports,(1000 MT),2838.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Exports,(1000 MT),3353.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Exports,(1000 MT),2802.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Exports,(1000 MT),2818.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Exports,(1000 MT),2946.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Exports,(1000 MT),2725.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Exports,(1000 MT),1365.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Exports,(1000 MT),1770.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Exports,(1000 MT),2059.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Exports,(1000 MT),2013.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Exports,(1000 MT),1951.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Exports,(1000 MT),2003.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Exports,(1000 MT),2363.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Exports,(1000 MT),2233.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Exports,(1000 MT),1973.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Exports,(1000 MT),2577.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Exports,(1000 MT),2236.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Exports,(1000 MT),2545.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Exports,(1000 MT),3094.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Exports,(1000 MT),3082.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Exports,(1000 MT),3126.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Exports,(1000 MT),3127.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Exports,(1000 MT),3634.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Exports,(1000 MT),3238.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Exports,(1000 MT),3361.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Exports,(1000 MT),3120.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Exports,(1000 MT),3505.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Exports,(1000 MT),4226.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Exports,(1000 MT),4012.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Exports,(1000 MT),3550.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Exports,(1000 MT),3985.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Exports,(1000 MT),2192.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Exports,(1000 MT),3043.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Exports,(1000 MT),3776.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Exports,(1000 MT),3397.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Exports,(1000 MT),3079.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Exports,(1000 MT),2890.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Exports,(1000 MT),3228.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Exports,(1000 MT),3702.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Exports,(1000 MT),2803.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Exports,(1000 MT),2648.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Exports,(1000 MT),2935.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Exports,(1000 MT),3075.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Exports,(1000 MT),2411.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Exports,(1000 MT),2687.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Exports,(1000 MT),2800.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Exports,(1000 MT),2320.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Exports,(1000 MT),2472.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Exports,(1000 MT),2283.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Exports,(1000 MT),2214.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Exports,(1000 MT),2592.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Exports,(1000 MT),2685.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Exports,(1000 MT),2649.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Exports,(1000 MT),2672.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Exports,(1000 MT),2949.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Exports,(1000 MT),2934.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Exports,(1000 MT),2546.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Exports,(1000 MT),2974.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Exports,(1000 MT),3151.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Exports,(1000 MT),3190.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Feed Waste Dom. Cons.,(1000 MT),3264.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Feed Waste Dom. Cons.,(1000 MT),3415.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Feed Waste Dom. Cons.,(1000 MT),4039.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Feed Waste Dom. Cons.,(1000 MT),4957.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Feed Waste Dom. Cons.,(1000 MT),4622.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Feed Waste Dom. Cons.,(1000 MT),4574.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Feed Waste Dom. Cons.,(1000 MT),4735.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Feed Waste Dom. Cons.,(1000 MT),4821.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Feed Waste Dom. Cons.,(1000 MT),3876.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Feed Waste Dom. Cons.,(1000 MT),3922.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Feed Waste Dom. Cons.,(1000 MT),4409.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Feed Waste Dom. Cons.,(1000 MT),4363.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Feed Waste Dom. Cons.,(1000 MT),4087.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Feed Waste Dom. Cons.,(1000 MT),4120.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Feed Waste Dom. Cons.,(1000 MT),4409.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Feed Waste Dom. Cons.,(1000 MT),4294.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Feed Waste Dom. Cons.,(1000 MT),4144.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Feed Waste Dom. Cons.,(1000 MT),4873.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Feed Waste Dom. Cons.,(1000 MT),4586.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Feed Waste Dom. Cons.,(1000 MT),4865.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Feed Waste Dom. Cons.,(1000 MT),5622.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Feed Waste Dom. Cons.,(1000 MT),5726.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Feed Waste Dom. Cons.,(1000 MT),5668.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Feed Waste Dom. Cons.,(1000 MT),5842.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Feed Waste Dom. Cons.,(1000 MT),6305.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Feed Waste Dom. Cons.,(1000 MT),5869.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Feed Waste Dom. Cons.,(1000 MT),5732.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Feed Waste Dom. Cons.,(1000 MT),5760.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Feed Waste Dom. Cons.,(1000 MT),5635.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Feed Waste Dom. Cons.,(1000 MT),6484.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Feed Waste Dom. Cons.,(1000 MT),6023.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Feed Waste Dom. Cons.,(1000 MT),6170.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Feed Waste Dom. Cons.,(1000 MT),6298.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Feed Waste Dom. Cons.,(1000 MT),4933.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Feed Waste Dom. Cons.,(1000 MT),5489.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Feed Waste Dom. Cons.,(1000 MT),6247.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Feed Waste Dom. Cons.,(1000 MT),5967.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Feed Waste Dom. Cons.,(1000 MT),5531.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Feed Waste Dom. Cons.,(1000 MT),5107.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Feed Waste Dom. Cons.,(1000 MT),5295.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Feed Waste Dom. Cons.,(1000 MT),5534.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Feed Waste Dom. Cons.,(1000 MT),5160.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Feed Waste Dom. Cons.,(1000 MT),5025.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Feed Waste Dom. Cons.,(1000 MT),5452.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Feed Waste Dom. Cons.,(1000 MT),5457.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Feed Waste Dom. Cons.,(1000 MT),4977.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Feed Waste Dom. Cons.,(1000 MT),5171.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Feed Waste Dom. Cons.,(1000 MT),5311.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Feed Waste Dom. Cons.,(1000 MT),4763.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Feed Waste Dom. Cons.,(1000 MT),4886.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Feed Waste Dom. Cons.,(1000 MT),4824.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Feed Waste Dom. Cons.,(1000 MT),4677.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Feed Waste Dom. Cons.,(1000 MT),5315.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Feed Waste Dom. Cons.,(1000 MT),5118.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Feed Waste Dom. Cons.,(1000 MT),5154.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Feed Waste Dom. Cons.,(1000 MT),4977.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Feed Waste Dom. Cons.,(1000 MT),5322.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Feed Waste Dom. Cons.,(1000 MT),5553.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Feed Waste Dom. Cons.,(1000 MT),5304.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Feed Waste Dom. Cons.,(1000 MT),5719.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Feed Waste Dom. Cons.,(1000 MT),5962.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Feed Waste Dom. Cons.,(1000 MT),5874.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Food Use Dom. Cons.,(1000 MT),0.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Food Use Dom. Cons.,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Food Use Dom. Cons.,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Food Use Dom. Cons.,(1000 MT),0.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Food Use Dom. Cons.,(1000 MT),0.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Food Use Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Food Use Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Food Use Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Food Use Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Food Use Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Food Use Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Food Use Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Food Use Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Food Use Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Food Use Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Food Use Dom. Cons.,(1000 MT),0.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Food Use Dom. Cons.,(1000 MT),0.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Food Use Dom. Cons.,(1000 MT),0.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Food Use Dom. Cons.,(1000 MT),0.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Food Use Dom. Cons.,(1000 MT),0.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Food Use Dom. Cons.,(1000 MT),0.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Food Use Dom. Cons.,(1000 MT),0.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Food Use Dom. Cons.,(1000 MT),0.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Food Use Dom. Cons.,(1000 MT),0.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Food Use Dom. Cons.,(1000 MT),0.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Food Use Dom. Cons.,(1000 MT),0.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Food Use Dom. Cons.,(1000 MT),0.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Food Use Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Food Use Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Food Use Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Imports,(1000 MT),2164.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Imports,(1000 MT),2200.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Imports,(1000 MT),2682.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Imports,(1000 MT),3312.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Imports,(1000 MT),2898.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Imports,(1000 MT),2665.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Imports,(1000 MT),2663.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Imports,(1000 MT),2796.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Imports,(1000 MT),1576.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Imports,(1000 MT),1645.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Imports,(1000 MT),2050.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Imports,(1000 MT),1897.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Imports,(1000 MT),1825.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Imports,(1000 MT),1730.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Imports,(1000 MT),2071.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Imports,(1000 MT),1931.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Imports,(1000 MT),1792.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Imports,(1000 MT),2198.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Imports,(1000 MT),1957.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Imports,(1000 MT),2119.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Imports,(1000 MT),2782.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Imports,(1000 MT),2852.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Imports,(1000 MT),2796.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Imports,(1000 MT),2827.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Imports,(1000 MT),3309.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Imports,(1000 MT),3049.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Imports,(1000 MT),3187.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Imports,(1000 MT),2999.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Imports,(1000 MT),3169.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Imports,(1000 MT),3850.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Imports,(1000 MT),3752.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Imports,(1000 MT),3540.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Imports,(1000 MT),3538.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Imports,(1000 MT),2334.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Imports,(1000 MT),2876.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Imports,(1000 MT),3691.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Imports,(1000 MT),3459.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Imports,(1000 MT),3235.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Imports,(1000 MT),2851.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Imports,(1000 MT),3124.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Imports,(1000 MT),3604.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Imports,(1000 MT),3054.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Imports,(1000 MT),2816.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Imports,(1000 MT),3166.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Imports,(1000 MT),3263.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Imports,(1000 MT),2761.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Imports,(1000 MT),2770.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Imports,(1000 MT),3048.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Imports,(1000 MT),2471.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Imports,(1000 MT),2729.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Imports,(1000 MT),2506.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Imports,(1000 MT),2442.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Imports,(1000 MT),3058.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Imports,(1000 MT),3046.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Imports,(1000 MT),3077.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Imports,(1000 MT),3090.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Imports,(1000 MT),3411.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Imports,(1000 MT),3592.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Imports,(1000 MT),3360.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Imports,(1000 MT),3617.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Imports,(1000 MT),3953.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Imports,(1000 MT),3793.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Industrial Dom. Cons.,(1000 MT),31.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Industrial Dom. Cons.,(1000 MT),30.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Industrial Dom. Cons.,(1000 MT),34.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Industrial Dom. Cons.,(1000 MT),43.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Industrial Dom. Cons.,(1000 MT),47.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Industrial Dom. Cons.,(1000 MT),52.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Industrial Dom. Cons.,(1000 MT),50.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Industrial Dom. Cons.,(1000 MT),56.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Industrial Dom. Cons.,(1000 MT),62.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Industrial Dom. Cons.,(1000 MT),58.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Industrial Dom. Cons.,(1000 MT),62.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Industrial Dom. Cons.,(1000 MT),57.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Industrial Dom. Cons.,(1000 MT),65.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Industrial Dom. Cons.,(1000 MT),62.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Industrial Dom. Cons.,(1000 MT),61.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Industrial Dom. Cons.,(1000 MT),65.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Industrial Dom. Cons.,(1000 MT),79.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Industrial Dom. Cons.,(1000 MT),60.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Industrial Dom. Cons.,(1000 MT),60.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Industrial Dom. Cons.,(1000 MT),60.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Industrial Dom. Cons.,(1000 MT),63.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Industrial Dom. Cons.,(1000 MT),65.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Industrial Dom. Cons.,(1000 MT),60.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Industrial Dom. Cons.,(1000 MT),100.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Industrial Dom. Cons.,(1000 MT),100.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Industrial Dom. Cons.,(1000 MT),140.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Industrial Dom. Cons.,(1000 MT),140.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Industrial Dom. Cons.,(1000 MT),143.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Industrial Dom. Cons.,(1000 MT),77.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Industrial Dom. Cons.,(1000 MT),80.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Industrial Dom. Cons.,(1000 MT),88.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Industrial Dom. Cons.,(1000 MT),90.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Industrial Dom. Cons.,(1000 MT),87.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Industrial Dom. Cons.,(1000 MT),85.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Industrial Dom. Cons.,(1000 MT),83.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Industrial Dom. Cons.,(1000 MT),77.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Industrial Dom. Cons.,(1000 MT),50.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Industrial Dom. Cons.,(1000 MT),64.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Industrial Dom. Cons.,(1000 MT),50.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Industrial Dom. Cons.,(1000 MT),50.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Industrial Dom. Cons.,(1000 MT),60.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Industrial Dom. Cons.,(1000 MT),50.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Industrial Dom. Cons.,(1000 MT),50.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Industrial Dom. Cons.,(1000 MT),50.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Industrial Dom. Cons.,(1000 MT),50.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Industrial Dom. Cons.,(1000 MT),75.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Industrial Dom. Cons.,(1000 MT),60.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Industrial Dom. Cons.,(1000 MT),65.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Industrial Dom. Cons.,(1000 MT),70.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Industrial Dom. Cons.,(1000 MT),75.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Industrial Dom. Cons.,(1000 MT),65.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Industrial Dom. Cons.,(1000 MT),65.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Production,(1000 MT),3402.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Production,(1000 MT),3896.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Production,(1000 MT),4399.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Production,(1000 MT),4800.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Production,(1000 MT),4400.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Production,(1000 MT),5226.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Production,(1000 MT),5201.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Production,(1000 MT),4005.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Production,(1000 MT),3743.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Production,(1000 MT),4343.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Production,(1000 MT),4247.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Production,(1000 MT),4684.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Production,(1000 MT),4263.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Production,(1000 MT),4665.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Production,(1000 MT),4736.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Production,(1000 MT),4659.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Production,(1000 MT),4755.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Production,(1000 MT),5103.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Production,(1000 MT),4773.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Production,(1000 MT),5521.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Production,(1000 MT),5898.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Production,(1000 MT),6126.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Production,(1000 MT),5940.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Production,(1000 MT),6587.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Production,(1000 MT),6585.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Production,(1000 MT),5983.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Production,(1000 MT),5895.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Production,(1000 MT),6080.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Production,(1000 MT),6176.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Production,(1000 MT),7007.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Production,(1000 MT),6432.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Production,(1000 MT),6371.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Production,(1000 MT),6636.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Production,(1000 MT),4839.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Production,(1000 MT),6053.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Production,(1000 MT),6263.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Production,(1000 MT),5820.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Production,(1000 MT),5810.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Production,(1000 MT),4887.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Production,(1000 MT),5578.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Production,(1000 MT),5564.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Production,(1000 MT),4987.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Production,(1000 MT),5141.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Production,(1000 MT),5137.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Production,(1000 MT),5195.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Production,(1000 MT),4244.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Production,(1000 MT),5551.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Production,(1000 MT),4705.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Production,(1000 MT),4839.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Production,(1000 MT),4453.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Production,(1000 MT),4685.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Production,(1000 MT),4505.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Production,(1000 MT),4880.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Production,(1000 MT),4802.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Production,(1000 MT),4770.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Production,(1000 MT),4647.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Production,(1000 MT),4858.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Production,(1000 MT),5034.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Production,(1000 MT),4539.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Production,(1000 MT),5140.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Production,(1000 MT),5283.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Production,(1000 MT),5312.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,SME,(1000 MT),4732.8,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,SME,(1000 MT),4951.75,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,SME,(1000 MT),5856.55,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,SME,(1000 MT),7187.65,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,SME,(1000 MT),6701.9,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,SME,(1000 MT),6632.3,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,SME,(1000 MT),6865.75,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,SME,(1000 MT),6990.45,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,SME,(1000 MT),5620.2,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,SME,(1000 MT),5686.900000000001,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,SME,(1000 MT),6393.05,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,SME,(1000 MT),6326.35,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,SME,(1000 MT),5926.15,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,SME,(1000 MT),5974.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,SME,(1000 MT),6393.05,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,SME,(1000 MT),6226.3,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,SME,(1000 MT),6008.8,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,SME,(1000 MT),7065.85,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,SME,(1000 MT),6649.7,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,SME,(1000 MT),7054.25,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,SME,(1000 MT),8151.9,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,SME,(1000 MT),8302.7,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,SME,(1000 MT),8218.6,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,SME,(1000 MT),8470.9,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,SME,(1000 MT),9142.25,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,SME,(1000 MT),8510.05,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,SME,(1000 MT),8311.4,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,SME,(1000 MT),8352.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,SME,(1000 MT),8170.75,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,SME,(1000 MT),9401.8,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,SME,(1000 MT),8733.35,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,SME,(1000 MT),8946.5,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,SME,(1000 MT),9132.1,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,SME,(1000 MT),7152.85,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,SME,(1000 MT),7959.049999999999,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,SME,(1000 MT),9058.15,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,SME,(1000 MT),8652.15,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,SME,(1000 MT),8019.95,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,SME,(1000 MT),7405.15,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,SME,(1000 MT),7677.75,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,SME,(1000 MT),8024.3,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,SME,(1000 MT),7482.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,SME,(1000 MT),7286.25,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,SME,(1000 MT),7905.4,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,SME,(1000 MT),7912.65,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,SME,(1000 MT),7216.65,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,SME,(1000 MT),7495.91,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,SME,(1000 MT),7698.57,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,SME,(1000 MT),6898.69,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,SME,(1000 MT),7079.85,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,SME,(1000 MT),6978.25,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,SME,(1000 MT),6766.15,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,SME,(1000 MT),7680.25,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,SME,(1000 MT),7395.6,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,SME,(1000 MT),7447.61,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,SME,(1000 MT),7191.82,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,SME,(1000 MT),7690.36,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,SME,(1000 MT),8024.16,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,SME,(1000 MT),7664.349999999999,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,SME,(1000 MT),8264.04,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,SME,(1000 MT),8615.17,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,SME,(1000 MT),8488.02,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Total Distribution,(1000 MT),6074.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Total Distribution,(1000 MT),6492.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Total Distribution,(1000 MT),7760.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Total Distribution,(1000 MT),8961.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Total Distribution,(1000 MT),7906.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Total Distribution,(1000 MT),8326.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Total Distribution,(1000 MT),8746.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Total Distribution,(1000 MT),7816.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Total Distribution,(1000 MT),5533.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Total Distribution,(1000 MT),6218.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Total Distribution,(1000 MT),6765.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Total Distribution,(1000 MT),6816.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Total Distribution,(1000 MT),6471.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Total Distribution,(1000 MT),6763.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Total Distribution,(1000 MT),7385.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Total Distribution,(1000 MT),7142.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Total Distribution,(1000 MT),7097.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Total Distribution,(1000 MT),8202.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Total Distribution,(1000 MT),7422.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Total Distribution,(1000 MT),8177.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Total Distribution,(1000 MT),9387.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Total Distribution,(1000 MT),9586.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Total Distribution,(1000 MT),9449.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Total Distribution,(1000 MT),10009.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Total Distribution,(1000 MT),10834.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Total Distribution,(1000 MT),9827.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Total Distribution,(1000 MT),9662.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Total Distribution,(1000 MT),9508.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Total Distribution,(1000 MT),9830.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Total Distribution,(1000 MT),11470.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Total Distribution,(1000 MT),10864.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Total Distribution,(1000 MT),10652.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Total Distribution,(1000 MT),11016.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Total Distribution,(1000 MT),7819.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Total Distribution,(1000 MT),9538.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Total Distribution,(1000 MT),10877.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Total Distribution,(1000 MT),10056.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Total Distribution,(1000 MT),9687.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Total Distribution,(1000 MT),8751.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Total Distribution,(1000 MT),9406.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Total Distribution,(1000 MT),10001.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Total Distribution,(1000 MT),8746.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Total Distribution,(1000 MT),8690.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Total Distribution,(1000 MT),9270.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Total Distribution,(1000 MT),9291.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Total Distribution,(1000 MT),7714.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Total Distribution,(1000 MT),8597.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Total Distribution,(1000 MT),8442.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Total Distribution,(1000 MT),7591.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Total Distribution,(1000 MT),7640.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Total Distribution,(1000 MT),7423.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Total Distribution,(1000 MT),7213.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Total Distribution,(1000 MT),8210.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Total Distribution,(1000 MT),8101.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Total Distribution,(1000 MT),8095.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Total Distribution,(1000 MT),7979.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Total Distribution,(1000 MT),8524.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Total Distribution,(1000 MT),8819.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Total Distribution,(1000 MT),8166.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Total Distribution,(1000 MT),9003.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Total Distribution,(1000 MT),9471.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Total Distribution,(1000 MT),9398.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1964,Total Supply,(1000 MT),6074.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1965,Total Supply,(1000 MT),6492.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1966,Total Supply,(1000 MT),7760.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1967,Total Supply,(1000 MT),8961.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1968,Total Supply,(1000 MT),7906.0,1,39,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1969,Total Supply,(1000 MT),8326.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1970,Total Supply,(1000 MT),8746.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1971,Total Supply,(1000 MT),7816.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1972,Total Supply,(1000 MT),5533.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1973,Total Supply,(1000 MT),6218.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1974,Total Supply,(1000 MT),6765.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1975,Total Supply,(1000 MT),6816.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1976,Total Supply,(1000 MT),6471.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1977,Total Supply,(1000 MT),6763.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1978,Total Supply,(1000 MT),7385.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1979,Total Supply,(1000 MT),7142.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1980,Total Supply,(1000 MT),7097.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1981,Total Supply,(1000 MT),8202.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1982,Total Supply,(1000 MT),7422.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1983,Total Supply,(1000 MT),8177.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1984,Total Supply,(1000 MT),9387.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1985,Total Supply,(1000 MT),9586.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1986,Total Supply,(1000 MT),9449.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1987,Total Supply,(1000 MT),10009.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1988,Total Supply,(1000 MT),10834.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1989,Total Supply,(1000 MT),9827.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1990,Total Supply,(1000 MT),9662.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1991,Total Supply,(1000 MT),9508.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1992,Total Supply,(1000 MT),9830.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1993,Total Supply,(1000 MT),11470.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1994,Total Supply,(1000 MT),10864.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1995,Total Supply,(1000 MT),10652.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1996,Total Supply,(1000 MT),11016.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1997,Total Supply,(1000 MT),7819.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1998,Total Supply,(1000 MT),9538.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,1999,Total Supply,(1000 MT),10877.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2000,Total Supply,(1000 MT),10056.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2001,Total Supply,(1000 MT),9687.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2002,Total Supply,(1000 MT),8751.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2003,Total Supply,(1000 MT),9406.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2004,Total Supply,(1000 MT),10001.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2005,Total Supply,(1000 MT),8746.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2006,Total Supply,(1000 MT),8690.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2007,Total Supply,(1000 MT),9270.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2008,Total Supply,(1000 MT),9291.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2009,Total Supply,(1000 MT),7714.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2010,Total Supply,(1000 MT),8597.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2011,Total Supply,(1000 MT),8442.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2012,Total Supply,(1000 MT),7591.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2013,Total Supply,(1000 MT),7640.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2014,Total Supply,(1000 MT),7423.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2015,Total Supply,(1000 MT),7213.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2016,Total Supply,(1000 MT),8210.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2017,Total Supply,(1000 MT),8101.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2018,Total Supply,(1000 MT),8095.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2019,Total Supply,(1000 MT),7979.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2020,Total Supply,(1000 MT),8524.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2021,Total Supply,(1000 MT),8819.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2022,Total Supply,(1000 MT),8166.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2023,Total Supply,(1000 MT),9003.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2024,Total Supply,(1000 MT),9471.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Fish",World,2025,Total Supply,(1000 MT),9398.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

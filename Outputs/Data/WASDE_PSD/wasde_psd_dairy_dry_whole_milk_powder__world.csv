@@ -1,0 +1,424 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Dairy, Dry Whole Milk Powder",World,1980,Beginning Stocks,(1000 MT),4.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1981,Beginning Stocks,(1000 MT),24.0,1,4,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1982,Beginning Stocks,(1000 MT),653.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1983,Beginning Stocks,(1000 MT),973.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1984,Beginning Stocks,(1000 MT),1272.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1985,Beginning Stocks,(1000 MT),1097.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1986,Beginning Stocks,(1000 MT),1079.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1987,Beginning Stocks,(1000 MT),1368.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1988,Beginning Stocks,(1000 MT),1001.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1989,Beginning Stocks,(1000 MT),544.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1990,Beginning Stocks,(1000 MT),580.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1991,Beginning Stocks,(1000 MT),638.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1992,Beginning Stocks,(1000 MT),162.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1993,Beginning Stocks,(1000 MT),145.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1994,Beginning Stocks,(1000 MT),165.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1995,Beginning Stocks,(1000 MT),150.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1996,Beginning Stocks,(1000 MT),179.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1997,Beginning Stocks,(1000 MT),212.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1998,Beginning Stocks,(1000 MT),195.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1999,Beginning Stocks,(1000 MT),226.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2000,Beginning Stocks,(1000 MT),218.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2001,Beginning Stocks,(1000 MT),232.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2002,Beginning Stocks,(1000 MT),225.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2003,Beginning Stocks,(1000 MT),211.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2004,Beginning Stocks,(1000 MT),201.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2005,Beginning Stocks,(1000 MT),205.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2006,Beginning Stocks,(1000 MT),193.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2007,Beginning Stocks,(1000 MT),179.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2008,Beginning Stocks,(1000 MT),153.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2009,Beginning Stocks,(1000 MT),357.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2010,Beginning Stocks,(1000 MT),303.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2011,Beginning Stocks,(1000 MT),282.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2012,Beginning Stocks,(1000 MT),363.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2013,Beginning Stocks,(1000 MT),374.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2014,Beginning Stocks,(1000 MT),419.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2015,Beginning Stocks,(1000 MT),660.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2016,Beginning Stocks,(1000 MT),690.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2017,Beginning Stocks,(1000 MT),412.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2018,Beginning Stocks,(1000 MT),435.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2019,Beginning Stocks,(1000 MT),430.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2020,Beginning Stocks,(1000 MT),358.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2021,Beginning Stocks,(1000 MT),435.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2022,Beginning Stocks,(1000 MT),442.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2023,Beginning Stocks,(1000 MT),476.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2024,Beginning Stocks,(1000 MT),535.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2025,Beginning Stocks,(1000 MT),514.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2026,Beginning Stocks,(1000 MT),500.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1980,Domestic Consumption,(1000 MT),459.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1981,Domestic Consumption,(1000 MT),626.0,1,4,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1982,Domestic Consumption,(1000 MT),2903.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1983,Domestic Consumption,(1000 MT),3475.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1984,Domestic Consumption,(1000 MT),3674.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1985,Domestic Consumption,(1000 MT),3703.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1986,Domestic Consumption,(1000 MT),3540.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1987,Domestic Consumption,(1000 MT),3388.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1988,Domestic Consumption,(1000 MT),3397.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1989,Domestic Consumption,(1000 MT),3342.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1990,Domestic Consumption,(1000 MT),3775.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1991,Domestic Consumption,(1000 MT),2741.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1992,Domestic Consumption,(1000 MT),2508.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1993,Domestic Consumption,(1000 MT),1550.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1994,Domestic Consumption,(1000 MT),1599.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1995,Domestic Consumption,(1000 MT),1842.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1996,Domestic Consumption,(1000 MT),2043.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1997,Domestic Consumption,(1000 MT),2073.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1998,Domestic Consumption,(1000 MT),2173.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1999,Domestic Consumption,(1000 MT),2246.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2000,Domestic Consumption,(1000 MT),2244.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2001,Domestic Consumption,(1000 MT),2566.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2002,Domestic Consumption,(1000 MT),2489.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2003,Domestic Consumption,(1000 MT),2675.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2004,Domestic Consumption,(1000 MT),2731.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2005,Domestic Consumption,(1000 MT),2876.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2006,Domestic Consumption,(1000 MT),2825.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2007,Domestic Consumption,(1000 MT),3005.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2008,Domestic Consumption,(1000 MT),2963.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2009,Domestic Consumption,(1000 MT),2911.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2010,Domestic Consumption,(1000 MT),3189.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2011,Domestic Consumption,(1000 MT),3366.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2012,Domestic Consumption,(1000 MT),3488.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2013,Domestic Consumption,(1000 MT),3646.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2014,Domestic Consumption,(1000 MT),3792.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2015,Domestic Consumption,(1000 MT),3941.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2016,Domestic Consumption,(1000 MT),3989.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2017,Domestic Consumption,(1000 MT),3551.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2018,Domestic Consumption,(1000 MT),3501.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2019,Domestic Consumption,(1000 MT),3773.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2020,Domestic Consumption,(1000 MT),3613.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2021,Domestic Consumption,(1000 MT),3729.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2022,Domestic Consumption,(1000 MT),3708.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2023,Domestic Consumption,(1000 MT),3609.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2024,Domestic Consumption,(1000 MT),3598.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2025,Domestic Consumption,(1000 MT),3560.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2026,Domestic Consumption,(1000 MT),3565.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1980,Ending Stocks,(1000 MT),2.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1981,Ending Stocks,(1000 MT),24.0,1,4,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1982,Ending Stocks,(1000 MT),917.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1983,Ending Stocks,(1000 MT),1272.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1984,Ending Stocks,(1000 MT),1043.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1985,Ending Stocks,(1000 MT),1068.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1986,Ending Stocks,(1000 MT),1414.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1987,Ending Stocks,(1000 MT),1001.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1988,Ending Stocks,(1000 MT),544.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1989,Ending Stocks,(1000 MT),577.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1990,Ending Stocks,(1000 MT),451.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1991,Ending Stocks,(1000 MT),617.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1992,Ending Stocks,(1000 MT),145.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1993,Ending Stocks,(1000 MT),165.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1994,Ending Stocks,(1000 MT),150.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1995,Ending Stocks,(1000 MT),179.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1996,Ending Stocks,(1000 MT),253.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1997,Ending Stocks,(1000 MT),195.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1998,Ending Stocks,(1000 MT),227.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1999,Ending Stocks,(1000 MT),220.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2000,Ending Stocks,(1000 MT),233.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2001,Ending Stocks,(1000 MT),225.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2002,Ending Stocks,(1000 MT),211.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2003,Ending Stocks,(1000 MT),201.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2004,Ending Stocks,(1000 MT),205.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2005,Ending Stocks,(1000 MT),240.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2006,Ending Stocks,(1000 MT),179.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2007,Ending Stocks,(1000 MT),153.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2008,Ending Stocks,(1000 MT),357.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2009,Ending Stocks,(1000 MT),303.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2010,Ending Stocks,(1000 MT),282.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2011,Ending Stocks,(1000 MT),363.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2012,Ending Stocks,(1000 MT),374.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2013,Ending Stocks,(1000 MT),419.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2014,Ending Stocks,(1000 MT),660.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2015,Ending Stocks,(1000 MT),690.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2016,Ending Stocks,(1000 MT),412.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2017,Ending Stocks,(1000 MT),435.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2018,Ending Stocks,(1000 MT),430.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2019,Ending Stocks,(1000 MT),358.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2020,Ending Stocks,(1000 MT),435.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2021,Ending Stocks,(1000 MT),442.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2022,Ending Stocks,(1000 MT),476.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2023,Ending Stocks,(1000 MT),535.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2024,Ending Stocks,(1000 MT),514.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2025,Ending Stocks,(1000 MT),500.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2026,Ending Stocks,(1000 MT),488.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1980,Exports,(1000 MT),0.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1981,Exports,(1000 MT),0.0,1,4,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1982,Exports,(1000 MT),1984.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1983,Exports,(1000 MT),2345.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1984,Exports,(1000 MT),2611.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1985,Exports,(1000 MT),2415.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1986,Exports,(1000 MT),2503.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1987,Exports,(1000 MT),2560.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1988,Exports,(1000 MT),2672.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1989,Exports,(1000 MT),2310.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1990,Exports,(1000 MT),2149.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1991,Exports,(1000 MT),1643.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1992,Exports,(1000 MT),1096.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1993,Exports,(1000 MT),1227.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1994,Exports,(1000 MT),1353.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1995,Exports,(1000 MT),1449.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1996,Exports,(1000 MT),1293.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1997,Exports,(1000 MT),1146.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1998,Exports,(1000 MT),1230.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1999,Exports,(1000 MT),1302.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2000,Exports,(1000 MT),1332.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2001,Exports,(1000 MT),1393.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2002,Exports,(1000 MT),1538.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2003,Exports,(1000 MT),1491.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2004,Exports,(1000 MT),1637.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2005,Exports,(1000 MT),1561.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2006,Exports,(1000 MT),1602.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2007,Exports,(1000 MT),1511.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2008,Exports,(1000 MT),1624.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2009,Exports,(1000 MT),1692.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2010,Exports,(1000 MT),1748.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2011,Exports,(1000 MT),1892.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2012,Exports,(1000 MT),2039.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2013,Exports,(1000 MT),2038.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2014,Exports,(1000 MT),2164.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2015,Exports,(1000 MT),2124.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2016,Exports,(1000 MT),2014.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2017,Exports,(1000 MT),1977.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2018,Exports,(1000 MT),2020.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2019,Exports,(1000 MT),2084.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2020,Exports,(1000 MT),2143.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2021,Exports,(1000 MT),2224.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2022,Exports,(1000 MT),1877.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2023,Exports,(1000 MT),1862.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2024,Exports,(1000 MT),1868.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2025,Exports,(1000 MT),1898.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2026,Exports,(1000 MT),1884.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1980,Imports,(1000 MT),94.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1981,Imports,(1000 MT),99.0,1,4,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1982,Imports,(1000 MT),851.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1983,Imports,(1000 MT),1219.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1984,Imports,(1000 MT),1259.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1985,Imports,(1000 MT),1423.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1986,Imports,(1000 MT),1435.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1987,Imports,(1000 MT),1192.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1988,Imports,(1000 MT),1247.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1989,Imports,(1000 MT),1048.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1990,Imports,(1000 MT),913.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1991,Imports,(1000 MT),809.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1992,Imports,(1000 MT),560.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1993,Imports,(1000 MT),569.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1994,Imports,(1000 MT),588.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1995,Imports,(1000 MT),858.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1996,Imports,(1000 MT),824.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1997,Imports,(1000 MT),589.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1998,Imports,(1000 MT),692.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1999,Imports,(1000 MT),685.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2000,Imports,(1000 MT),643.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2001,Imports,(1000 MT),671.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2002,Imports,(1000 MT),708.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2003,Imports,(1000 MT),668.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2004,Imports,(1000 MT),672.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2005,Imports,(1000 MT),688.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2006,Imports,(1000 MT),602.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2007,Imports,(1000 MT),568.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2008,Imports,(1000 MT),731.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2009,Imports,(1000 MT),793.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2010,Imports,(1000 MT),886.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2011,Imports,(1000 MT),957.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2012,Imports,(1000 MT),1059.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2013,Imports,(1000 MT),1164.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2014,Imports,(1000 MT),1229.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2015,Imports,(1000 MT),996.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2016,Imports,(1000 MT),1096.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2017,Imports,(1000 MT),1039.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2018,Imports,(1000 MT),1109.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2019,Imports,(1000 MT),1239.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2020,Imports,(1000 MT),1227.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2021,Imports,(1000 MT),1341.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2022,Imports,(1000 MT),1282.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2023,Imports,(1000 MT),1083.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2024,Imports,(1000 MT),1025.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2025,Imports,(1000 MT),1025.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2026,Imports,(1000 MT),1034.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1980,Production,(1000 MT),363.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1981,Production,(1000 MT),527.0,1,4,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1982,Production,(1000 MT),4300.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1983,Production,(1000 MT),4900.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1984,Production,(1000 MT),4797.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1985,Production,(1000 MT),4666.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1986,Production,(1000 MT),4943.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1987,Production,(1000 MT),4389.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1988,Production,(1000 MT),4365.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1989,Production,(1000 MT),4637.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1990,Production,(1000 MT),4882.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1991,Production,(1000 MT),3554.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1992,Production,(1000 MT),3027.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1993,Production,(1000 MT),2228.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1994,Production,(1000 MT),2349.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1995,Production,(1000 MT),2462.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1996,Production,(1000 MT),2586.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1997,Production,(1000 MT),2613.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1998,Production,(1000 MT),2743.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1999,Production,(1000 MT),2857.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2000,Production,(1000 MT),2948.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2001,Production,(1000 MT),3281.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2002,Production,(1000 MT),3305.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2003,Production,(1000 MT),3488.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2004,Production,(1000 MT),3700.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2005,Production,(1000 MT),3784.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2006,Production,(1000 MT),3811.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2007,Production,(1000 MT),3922.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2008,Production,(1000 MT),4060.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2009,Production,(1000 MT),3756.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2010,Production,(1000 MT),4030.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2011,Production,(1000 MT),4382.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2012,Production,(1000 MT),4479.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2013,Production,(1000 MT),4565.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2014,Production,(1000 MT),4968.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2015,Production,(1000 MT),5099.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2016,Production,(1000 MT),4629.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2017,Production,(1000 MT),4512.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2018,Production,(1000 MT),4407.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2019,Production,(1000 MT),4546.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2020,Production,(1000 MT),4606.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2021,Production,(1000 MT),4619.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2022,Production,(1000 MT),4337.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2023,Production,(1000 MT),4447.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2024,Production,(1000 MT),4420.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2025,Production,(1000 MT),4419.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2026,Production,(1000 MT),4403.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1980,Total Distribution,(1000 MT),461.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1981,Total Distribution,(1000 MT),650.0,1,4,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1982,Total Distribution,(1000 MT),5804.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1983,Total Distribution,(1000 MT),7092.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1984,Total Distribution,(1000 MT),7328.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1985,Total Distribution,(1000 MT),7186.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1986,Total Distribution,(1000 MT),7457.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1987,Total Distribution,(1000 MT),6949.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1988,Total Distribution,(1000 MT),6613.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1989,Total Distribution,(1000 MT),6229.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1990,Total Distribution,(1000 MT),6375.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1991,Total Distribution,(1000 MT),5001.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1992,Total Distribution,(1000 MT),3749.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1993,Total Distribution,(1000 MT),2942.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1994,Total Distribution,(1000 MT),3102.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1995,Total Distribution,(1000 MT),3470.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1996,Total Distribution,(1000 MT),3589.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1997,Total Distribution,(1000 MT),3414.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1998,Total Distribution,(1000 MT),3630.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1999,Total Distribution,(1000 MT),3768.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2000,Total Distribution,(1000 MT),3809.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2001,Total Distribution,(1000 MT),4184.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2002,Total Distribution,(1000 MT),4238.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2003,Total Distribution,(1000 MT),4367.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2004,Total Distribution,(1000 MT),4573.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2005,Total Distribution,(1000 MT),4677.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2006,Total Distribution,(1000 MT),4606.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2007,Total Distribution,(1000 MT),4669.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2008,Total Distribution,(1000 MT),4944.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2009,Total Distribution,(1000 MT),4906.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2010,Total Distribution,(1000 MT),5219.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2011,Total Distribution,(1000 MT),5621.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2012,Total Distribution,(1000 MT),5901.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2013,Total Distribution,(1000 MT),6103.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2014,Total Distribution,(1000 MT),6616.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2015,Total Distribution,(1000 MT),6755.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2016,Total Distribution,(1000 MT),6415.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2017,Total Distribution,(1000 MT),5963.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2018,Total Distribution,(1000 MT),5951.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2019,Total Distribution,(1000 MT),6215.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2020,Total Distribution,(1000 MT),6191.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2021,Total Distribution,(1000 MT),6395.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2022,Total Distribution,(1000 MT),6061.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2023,Total Distribution,(1000 MT),6006.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2024,Total Distribution,(1000 MT),5980.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2025,Total Distribution,(1000 MT),5958.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2026,Total Distribution,(1000 MT),5937.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1980,Total Supply,(1000 MT),461.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1981,Total Supply,(1000 MT),650.0,1,4,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1982,Total Supply,(1000 MT),5804.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1983,Total Supply,(1000 MT),7092.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1984,Total Supply,(1000 MT),7328.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1985,Total Supply,(1000 MT),7186.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1986,Total Supply,(1000 MT),7457.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1987,Total Supply,(1000 MT),6949.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1988,Total Supply,(1000 MT),6613.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1989,Total Supply,(1000 MT),6229.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1990,Total Supply,(1000 MT),6375.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1991,Total Supply,(1000 MT),5001.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1992,Total Supply,(1000 MT),3749.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1993,Total Supply,(1000 MT),2942.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1994,Total Supply,(1000 MT),3102.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1995,Total Supply,(1000 MT),3470.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1996,Total Supply,(1000 MT),3589.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1997,Total Supply,(1000 MT),3414.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1998,Total Supply,(1000 MT),3630.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1999,Total Supply,(1000 MT),3768.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2000,Total Supply,(1000 MT),3809.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2001,Total Supply,(1000 MT),4184.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2002,Total Supply,(1000 MT),4238.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2003,Total Supply,(1000 MT),4367.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2004,Total Supply,(1000 MT),4573.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2005,Total Supply,(1000 MT),4677.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2006,Total Supply,(1000 MT),4606.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2007,Total Supply,(1000 MT),4669.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2008,Total Supply,(1000 MT),4944.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2009,Total Supply,(1000 MT),4906.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2010,Total Supply,(1000 MT),5219.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2011,Total Supply,(1000 MT),5621.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2012,Total Supply,(1000 MT),5901.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2013,Total Supply,(1000 MT),6103.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2014,Total Supply,(1000 MT),6616.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2015,Total Supply,(1000 MT),6755.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2016,Total Supply,(1000 MT),6415.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2017,Total Supply,(1000 MT),5963.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2018,Total Supply,(1000 MT),5951.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2019,Total Supply,(1000 MT),6215.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2020,Total Supply,(1000 MT),6191.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2021,Total Supply,(1000 MT),6395.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2022,Total Supply,(1000 MT),6061.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2023,Total Supply,(1000 MT),6006.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2024,Total Supply,(1000 MT),5980.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2025,Total Supply,(1000 MT),5958.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2026,Total Supply,(1000 MT),5937.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1980,Total Use,(1000 MT),459.0,1,2,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1981,Total Use,(1000 MT),626.0,1,4,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1982,Total Use,(1000 MT),4887.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1983,Total Use,(1000 MT),5820.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1984,Total Use,(1000 MT),6285.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1985,Total Use,(1000 MT),6118.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1986,Total Use,(1000 MT),6043.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1987,Total Use,(1000 MT),5948.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1988,Total Use,(1000 MT),6069.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1989,Total Use,(1000 MT),5652.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1990,Total Use,(1000 MT),5924.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1991,Total Use,(1000 MT),4384.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1992,Total Use,(1000 MT),3604.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1993,Total Use,(1000 MT),2777.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1994,Total Use,(1000 MT),2952.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1995,Total Use,(1000 MT),3291.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1996,Total Use,(1000 MT),3336.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1997,Total Use,(1000 MT),3219.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1998,Total Use,(1000 MT),3403.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,1999,Total Use,(1000 MT),3548.0,1,23,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2000,Total Use,(1000 MT),3576.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2001,Total Use,(1000 MT),3959.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2002,Total Use,(1000 MT),4027.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2003,Total Use,(1000 MT),4166.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2004,Total Use,(1000 MT),4368.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2005,Total Use,(1000 MT),4437.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2006,Total Use,(1000 MT),4427.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2007,Total Use,(1000 MT),4516.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2008,Total Use,(1000 MT),4587.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2009,Total Use,(1000 MT),4603.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2010,Total Use,(1000 MT),4937.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2011,Total Use,(1000 MT),5258.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2012,Total Use,(1000 MT),5527.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2013,Total Use,(1000 MT),5684.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2014,Total Use,(1000 MT),5956.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2015,Total Use,(1000 MT),6065.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2016,Total Use,(1000 MT),6003.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2017,Total Use,(1000 MT),5528.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2018,Total Use,(1000 MT),5521.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2019,Total Use,(1000 MT),5857.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2020,Total Use,(1000 MT),5756.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2021,Total Use,(1000 MT),5953.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2022,Total Use,(1000 MT),5585.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2023,Total Use,(1000 MT),5471.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2024,Total Use,(1000 MT),5466.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2025,Total Use,(1000 MT),5458.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Dairy, Dry Whole Milk Powder",World,2026,Total Use,(1000 MT),5449.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

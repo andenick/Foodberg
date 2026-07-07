@@ -1,4 +1,4 @@
-import { CheckCircle, Clock, Database, ExternalLink, FileText } from 'lucide-react'
+import { CheckCircle, Clock, Database, ExternalLink, FileText, RefreshCw } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { api } from '../services/api'
 
@@ -35,6 +35,9 @@ export default function DataSources() {
     const [dbStats, setDbStats] = useState<DatabaseStats | null>(null)
     const [sourceStatus, setSourceStatus] = useState<{ [key: string]: SourceStatus }>({})
     const [_loading, setLoading] = useState(true)
+    const [reindexing, setReindexing] = useState(false)
+    const [reindexStatus, setReindexStatus] = useState<'idle' | 'confirm' | 'running' | 'ok' | 'err'>('idle')
+    const [reindexMessage, setReindexMessage] = useState('')
 
     useEffect(() => {
         loadDataSources()
@@ -60,6 +63,25 @@ export default function DataSources() {
             console.error('Failed to load data status:', error)
         } finally {
             setLoading(false)
+        }
+    }
+
+    const triggerReindex = async () => {
+        setReindexing(true)
+        setReindexStatus('running')
+        setReindexMessage('')
+        try {
+            const response = await api.reindex()
+            setReindexStatus('ok')
+            setReindexMessage(response.data?.message || 'Data reindex completed successfully.')
+            // Refresh the status after a short delay to show updated freshness.
+            setTimeout(() => loadDataStatus(), 2000)
+        } catch (error: any) {
+            setReindexStatus('err')
+            const detail = error?.response?.data?.detail || error?.message || 'Unknown error'
+            setReindexMessage(`Reindex failed: ${detail}`)
+        } finally {
+            setReindexing(false)
         }
     }
 
@@ -282,7 +304,7 @@ export default function DataSources() {
                             <li>WASDE reports are released monthly (usually around the 10th)</li>
                             <li>FAO Food Price Index is updated monthly</li>
                             <li>BLS CPI data is released monthly</li>
-                            <li>Alpha Vantage commodity data is available daily</li>
+                            <li>Alpha Vantage commodity series are baked monthly (offline historical, 1992–2026)</li>
                         </ul>
 
                         <h3 className="text-lg font-semibold text-ark-fg mt-6">Limitations</h3>
@@ -295,6 +317,63 @@ export default function DataSources() {
                     </div>
                 </div>
             </div>
+
+            {/* Reindex control — non-disruptive, bottom of page (Carson site DNA) */}
+            <div className="card mt-8 border-ark-line">
+                <div className="flex items-center justify-between gap-4 flex-wrap">
+                    <div>
+                        <h3 className="text-sm font-semibold text-ark-fg-dim uppercase tracking-wide">
+                            Reindex Data
+                        </h3>
+                        <p className="text-xs text-ark-fg-dim mt-1">
+                            Rebuild composite indices and refresh data caches from the source tables.
+                            Non-destructive — existing data is preserved.
+                        </p>
+                    </div>
+                    <div className="flex items-center gap-3">
+                        {reindexStatus === 'ok' && (
+                            <span className="text-xs text-emerald-400 flex items-center gap-1">
+                                <CheckCircle className="w-3.5 h-3.5" />
+                                {reindexMessage}
+                            </span>
+                        )}
+                        {reindexStatus === 'err' && (
+                            <span className="text-xs text-red-400">{reindexMessage}</span>
+                        )}
+                        {reindexStatus === 'confirm' ? (
+                            <div className="flex items-center gap-2">
+                                <span className="text-xs text-amber-400">Reindex the data? This may take a moment.</span>
+                                <button
+                                    type="button"
+                                    onClick={() => { setReindexStatus('idle'); triggerReindex() }}
+                                    disabled={reindexing}
+                                    className="px-3 py-1.5 bg-emerald-600 text-white rounded-lg text-sm font-medium hover:bg-emerald-500 disabled:opacity-50"
+                                >
+                                    {reindexing ? 'Reindexing…' : 'Yes, reindex'}
+                                </button>
+                                <button
+                                    type="button"
+                                    onClick={() => setReindexStatus('idle')}
+                                    className="px-3 py-1.5 bg-ark-tag text-ark-fg-dim rounded-lg text-sm hover:bg-ark-line"
+                                >
+                                    Cancel
+                                </button>
+                            </div>
+                        ) : (
+                            <button
+                                type="button"
+                                onClick={() => setReindexStatus('confirm')}
+                                disabled={reindexing}
+                                className="ark-btn ark-btn-sm ark-btn-ghost flex items-center gap-2"
+                            >
+                                <RefreshCw className={`w-4 h-4 ${reindexing ? 'animate-spin' : ''}`} />
+                                {reindexing ? 'Reindexing…' : 'Reindex Data'}
+                            </button>
+                        )}
+                    </div>
+                </div>
+            </div>
+
         </div>
     )
 }

@@ -1,0 +1,537 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Meat, Swine",World,1960,Beginning Stocks,(1000 MT CWE),158.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1961,Beginning Stocks,(1000 MT CWE),101.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1962,Beginning Stocks,(1000 MT CWE),119.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1963,Beginning Stocks,(1000 MT CWE),127.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1964,Beginning Stocks,(1000 MT CWE),150.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1965,Beginning Stocks,(1000 MT CWE),158.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1966,Beginning Stocks,(1000 MT CWE),96.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1967,Beginning Stocks,(1000 MT CWE),134.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1968,Beginning Stocks,(1000 MT CWE),161.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1969,Beginning Stocks,(1000 MT CWE),179.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1970,Beginning Stocks,(1000 MT CWE),151.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1971,Beginning Stocks,(1000 MT CWE),212.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1972,Beginning Stocks,(1000 MT CWE),209.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1973,Beginning Stocks,(1000 MT CWE),156.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1974,Beginning Stocks,(1000 MT CWE),283.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1975,Beginning Stocks,(1000 MT CWE),299.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1976,Beginning Stocks,(1000 MT CWE),298.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1977,Beginning Stocks,(1000 MT CWE),344.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1978,Beginning Stocks,(1000 MT CWE),334.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1979,Beginning Stocks,(1000 MT CWE),486.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1980,Beginning Stocks,(1000 MT CWE),544.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1981,Beginning Stocks,(1000 MT CWE),506.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1982,Beginning Stocks,(1000 MT CWE),496.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1983,Beginning Stocks,(1000 MT CWE),473.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1984,Beginning Stocks,(1000 MT CWE),601.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1985,Beginning Stocks,(1000 MT CWE),602.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1986,Beginning Stocks,(1000 MT CWE),782.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1987,Beginning Stocks,(1000 MT CWE),786.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1988,Beginning Stocks,(1000 MT CWE),795.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1989,Beginning Stocks,(1000 MT CWE),779.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1990,Beginning Stocks,(1000 MT CWE),794.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1991,Beginning Stocks,(1000 MT CWE),993.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1992,Beginning Stocks,(1000 MT CWE),935.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1993,Beginning Stocks,(1000 MT CWE),664.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1994,Beginning Stocks,(1000 MT CWE),602.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1995,Beginning Stocks,(1000 MT CWE),592.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1996,Beginning Stocks,(1000 MT CWE),601.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1997,Beginning Stocks,(1000 MT CWE),727.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1998,Beginning Stocks,(1000 MT CWE),734.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1999,Beginning Stocks,(1000 MT CWE),679.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2000,Beginning Stocks,(1000 MT CWE),520.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2001,Beginning Stocks,(1000 MT CWE),632.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2002,Beginning Stocks,(1000 MT CWE),802.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2003,Beginning Stocks,(1000 MT CWE),796.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2004,Beginning Stocks,(1000 MT CWE),730.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2005,Beginning Stocks,(1000 MT CWE),694.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2006,Beginning Stocks,(1000 MT CWE),796.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2007,Beginning Stocks,(1000 MT CWE),717.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2008,Beginning Stocks,(1000 MT CWE),785.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2009,Beginning Stocks,(1000 MT CWE),727.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2010,Beginning Stocks,(1000 MT CWE),613.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2011,Beginning Stocks,(1000 MT CWE),569.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2012,Beginning Stocks,(1000 MT CWE),575.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2013,Beginning Stocks,(1000 MT CWE),654.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2014,Beginning Stocks,(1000 MT CWE),651.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2015,Beginning Stocks,(1000 MT CWE),717.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2016,Beginning Stocks,(1000 MT CWE),666.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2017,Beginning Stocks,(1000 MT CWE),624.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2018,Beginning Stocks,(1000 MT CWE),673.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2019,Beginning Stocks,(1000 MT CWE),744.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2020,Beginning Stocks,(1000 MT CWE),880.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2021,Beginning Stocks,(1000 MT CWE),758.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2022,Beginning Stocks,(1000 MT CWE),746.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2023,Beginning Stocks,(1000 MT CWE),897.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2024,Beginning Stocks,(1000 MT CWE),828.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2025,Beginning Stocks,(1000 MT CWE),860.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2026,Beginning Stocks,(1000 MT CWE),821.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1960,Domestic Consumption,(1000 MT CWE),18159.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1961,Domestic Consumption,(1000 MT CWE),19900.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1962,Domestic Consumption,(1000 MT CWE),20606.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1963,Domestic Consumption,(1000 MT CWE),20949.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1964,Domestic Consumption,(1000 MT CWE),20683.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1965,Domestic Consumption,(1000 MT CWE),21917.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1966,Domestic Consumption,(1000 MT CWE),22221.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1967,Domestic Consumption,(1000 MT CWE),23290.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1968,Domestic Consumption,(1000 MT CWE),23781.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1969,Domestic Consumption,(1000 MT CWE),24260.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1970,Domestic Consumption,(1000 MT CWE),25519.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1971,Domestic Consumption,(1000 MT CWE),27730.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1972,Domestic Consumption,(1000 MT CWE),29793.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1973,Domestic Consumption,(1000 MT CWE),31073.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1974,Domestic Consumption,(1000 MT CWE),33005.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1975,Domestic Consumption,(1000 MT CWE),39072.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1976,Domestic Consumption,(1000 MT CWE),37940.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1977,Domestic Consumption,(1000 MT CWE),39860.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1978,Domestic Consumption,(1000 MT CWE),42277.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1979,Domestic Consumption,(1000 MT CWE),46640.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1980,Domestic Consumption,(1000 MT CWE),49128.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1981,Domestic Consumption,(1000 MT CWE),48965.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1982,Domestic Consumption,(1000 MT CWE),49430.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1983,Domestic Consumption,(1000 MT CWE),51205.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1984,Domestic Consumption,(1000 MT CWE),52673.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1985,Domestic Consumption,(1000 MT CWE),55094.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1986,Domestic Consumption,(1000 MT CWE),57317.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1987,Domestic Consumption,(1000 MT CWE),59115.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1988,Domestic Consumption,(1000 MT CWE),61624.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1989,Domestic Consumption,(1000 MT CWE),63001.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1990,Domestic Consumption,(1000 MT CWE),64658.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1991,Domestic Consumption,(1000 MT CWE),66286.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1992,Domestic Consumption,(1000 MT CWE),68025.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1993,Domestic Consumption,(1000 MT CWE),68850.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1994,Domestic Consumption,(1000 MT CWE),71559.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1995,Domestic Consumption,(1000 MT CWE),75779.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1996,Domestic Consumption,(1000 MT CWE),72981.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1997,Domestic Consumption,(1000 MT CWE),76591.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1998,Domestic Consumption,(1000 MT CWE),82110.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1999,Domestic Consumption,(1000 MT CWE),85411.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2000,Domestic Consumption,(1000 MT CWE),84495.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2001,Domestic Consumption,(1000 MT CWE),85779.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2002,Domestic Consumption,(1000 MT CWE),88284.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2003,Domestic Consumption,(1000 MT CWE),89907.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2004,Domestic Consumption,(1000 MT CWE),90933.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2005,Domestic Consumption,(1000 MT CWE),92271.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2006,Domestic Consumption,(1000 MT CWE),94381.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2007,Domestic Consumption,(1000 MT CWE),93224.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2008,Domestic Consumption,(1000 MT CWE),97794.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2009,Domestic Consumption,(1000 MT CWE),99694.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2010,Domestic Consumption,(1000 MT CWE),102407.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2011,Domestic Consumption,(1000 MT CWE),102720.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2012,Domestic Consumption,(1000 MT CWE),106196.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2013,Domestic Consumption,(1000 MT CWE),108465.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2014,Domestic Consumption,(1000 MT CWE),110359.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2015,Domestic Consumption,(1000 MT CWE),111375.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2016,Domestic Consumption,(1000 MT CWE),110138.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2017,Domestic Consumption,(1000 MT CWE),110790.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2018,Domestic Consumption,(1000 MT CWE),111493.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2019,Domestic Consumption,(1000 MT CWE),100292.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2020,Domestic Consumption,(1000 MT CWE),95314.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2021,Domestic Consumption,(1000 MT CWE),107216.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2022,Domestic Consumption,(1000 MT CWE),113291.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2023,Domestic Consumption,(1000 MT CWE),115631.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2024,Domestic Consumption,(1000 MT CWE),115064.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2025,Domestic Consumption,(1000 MT CWE),118428.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2026,Domestic Consumption,(1000 MT CWE),119115.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1960,Ending Stocks,(1000 MT CWE),99.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1961,Ending Stocks,(1000 MT CWE),119.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1962,Ending Stocks,(1000 MT CWE),127.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1963,Ending Stocks,(1000 MT CWE),150.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1964,Ending Stocks,(1000 MT CWE),158.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1965,Ending Stocks,(1000 MT CWE),96.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1966,Ending Stocks,(1000 MT CWE),134.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1967,Ending Stocks,(1000 MT CWE),161.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1968,Ending Stocks,(1000 MT CWE),143.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1969,Ending Stocks,(1000 MT CWE),151.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1970,Ending Stocks,(1000 MT CWE),212.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1971,Ending Stocks,(1000 MT CWE),209.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1972,Ending Stocks,(1000 MT CWE),156.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1973,Ending Stocks,(1000 MT CWE),241.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1974,Ending Stocks,(1000 MT CWE),297.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1975,Ending Stocks,(1000 MT CWE),298.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1976,Ending Stocks,(1000 MT CWE),292.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1977,Ending Stocks,(1000 MT CWE),332.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1978,Ending Stocks,(1000 MT CWE),417.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1979,Ending Stocks,(1000 MT CWE),544.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1980,Ending Stocks,(1000 MT CWE),506.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1981,Ending Stocks,(1000 MT CWE),496.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1982,Ending Stocks,(1000 MT CWE),473.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1983,Ending Stocks,(1000 MT CWE),601.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1984,Ending Stocks,(1000 MT CWE),602.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1985,Ending Stocks,(1000 MT CWE),782.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1986,Ending Stocks,(1000 MT CWE),786.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1987,Ending Stocks,(1000 MT CWE),795.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1988,Ending Stocks,(1000 MT CWE),779.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1989,Ending Stocks,(1000 MT CWE),714.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1990,Ending Stocks,(1000 MT CWE),993.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1991,Ending Stocks,(1000 MT CWE),935.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1992,Ending Stocks,(1000 MT CWE),1092.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1993,Ending Stocks,(1000 MT CWE),606.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1994,Ending Stocks,(1000 MT CWE),592.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1995,Ending Stocks,(1000 MT CWE),624.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1996,Ending Stocks,(1000 MT CWE),727.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1997,Ending Stocks,(1000 MT CWE),734.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1998,Ending Stocks,(1000 MT CWE),710.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1999,Ending Stocks,(1000 MT CWE),520.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2000,Ending Stocks,(1000 MT CWE),632.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2001,Ending Stocks,(1000 MT CWE),802.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2002,Ending Stocks,(1000 MT CWE),796.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2003,Ending Stocks,(1000 MT CWE),730.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2004,Ending Stocks,(1000 MT CWE),694.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2005,Ending Stocks,(1000 MT CWE),796.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2006,Ending Stocks,(1000 MT CWE),717.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2007,Ending Stocks,(1000 MT CWE),785.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2008,Ending Stocks,(1000 MT CWE),727.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2009,Ending Stocks,(1000 MT CWE),613.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2010,Ending Stocks,(1000 MT CWE),569.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2011,Ending Stocks,(1000 MT CWE),575.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2012,Ending Stocks,(1000 MT CWE),654.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2013,Ending Stocks,(1000 MT CWE),651.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2014,Ending Stocks,(1000 MT CWE),717.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2015,Ending Stocks,(1000 MT CWE),666.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2016,Ending Stocks,(1000 MT CWE),624.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2017,Ending Stocks,(1000 MT CWE),673.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2018,Ending Stocks,(1000 MT CWE),744.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2019,Ending Stocks,(1000 MT CWE),880.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2020,Ending Stocks,(1000 MT CWE),758.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2021,Ending Stocks,(1000 MT CWE),746.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2022,Ending Stocks,(1000 MT CWE),897.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2023,Ending Stocks,(1000 MT CWE),828.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2024,Ending Stocks,(1000 MT CWE),860.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2025,Ending Stocks,(1000 MT CWE),821.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2026,Ending Stocks,(1000 MT CWE),799.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1960,Exports,(1000 MT CWE),734.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1961,Exports,(1000 MT CWE),1028.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1962,Exports,(1000 MT CWE),1148.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1963,Exports,(1000 MT CWE),1281.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1964,Exports,(1000 MT CWE),1255.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1965,Exports,(1000 MT CWE),1401.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1966,Exports,(1000 MT CWE),1393.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1967,Exports,(1000 MT CWE),1428.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1968,Exports,(1000 MT CWE),1427.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1969,Exports,(1000 MT CWE),1455.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1970,Exports,(1000 MT CWE),1560.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1971,Exports,(1000 MT CWE),1825.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1972,Exports,(1000 MT CWE),1874.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1973,Exports,(1000 MT CWE),1989.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1974,Exports,(1000 MT CWE),1830.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1975,Exports,(1000 MT CWE),1995.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1976,Exports,(1000 MT CWE),2206.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1977,Exports,(1000 MT CWE),2161.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1978,Exports,(1000 MT CWE),2373.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1979,Exports,(1000 MT CWE),2664.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1980,Exports,(1000 MT CWE),2840.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1981,Exports,(1000 MT CWE),3107.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1982,Exports,(1000 MT CWE),3040.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1983,Exports,(1000 MT CWE),3352.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1984,Exports,(1000 MT CWE),3658.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1985,Exports,(1000 MT CWE),3712.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1986,Exports,(1000 MT CWE),3782.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1987,Exports,(1000 MT CWE),4009.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1988,Exports,(1000 MT CWE),4469.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1989,Exports,(1000 MT CWE),4413.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1990,Exports,(1000 MT CWE),4556.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1991,Exports,(1000 MT CWE),4643.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1992,Exports,(1000 MT CWE),4578.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1993,Exports,(1000 MT CWE),2066.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1994,Exports,(1000 MT CWE),2251.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1995,Exports,(1000 MT CWE),2365.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1996,Exports,(1000 MT CWE),2822.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1997,Exports,(1000 MT CWE),2901.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1998,Exports,(1000 MT CWE),2955.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1999,Exports,(1000 MT CWE),3246.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2000,Exports,(1000 MT CWE),3084.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2001,Exports,(1000 MT CWE),3224.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2002,Exports,(1000 MT CWE),3722.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2003,Exports,(1000 MT CWE),4160.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2004,Exports,(1000 MT CWE),4694.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2005,Exports,(1000 MT CWE),4819.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2006,Exports,(1000 MT CWE),5059.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2007,Exports,(1000 MT CWE),5004.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2008,Exports,(1000 MT CWE),5978.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2009,Exports,(1000 MT CWE),5488.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2010,Exports,(1000 MT CWE),5884.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2011,Exports,(1000 MT CWE),6809.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2012,Exports,(1000 MT CWE),7085.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2013,Exports,(1000 MT CWE),6873.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2014,Exports,(1000 MT CWE),6841.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2015,Exports,(1000 MT CWE),7071.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2016,Exports,(1000 MT CWE),9232.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2017,Exports,(1000 MT CWE),9219.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2018,Exports,(1000 MT CWE),9358.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2019,Exports,(1000 MT CWE),10379.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2020,Exports,(1000 MT CWE),12562.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2021,Exports,(1000 MT CWE),12215.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2022,Exports,(1000 MT CWE),10940.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2023,Exports,(1000 MT CWE),9913.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2024,Exports,(1000 MT CWE),10115.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2025,Exports,(1000 MT CWE),10363.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2026,Exports,(1000 MT CWE),10413.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1960,Imports,(1000 MT CWE),146.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1961,Imports,(1000 MT CWE),1062.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1962,Imports,(1000 MT CWE),1112.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1963,Imports,(1000 MT CWE),1190.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1964,Imports,(1000 MT CWE),1320.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1965,Imports,(1000 MT CWE),1549.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1966,Imports,(1000 MT CWE),1450.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1967,Imports,(1000 MT CWE),1439.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1968,Imports,(1000 MT CWE),1408.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1969,Imports,(1000 MT CWE),1498.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1970,Imports,(1000 MT CWE),1593.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1971,Imports,(1000 MT CWE),1800.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1972,Imports,(1000 MT CWE),1978.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1973,Imports,(1000 MT CWE),2059.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1974,Imports,(1000 MT CWE),1842.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1975,Imports,(1000 MT CWE),1943.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1976,Imports,(1000 MT CWE),2107.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1977,Imports,(1000 MT CWE),2173.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1978,Imports,(1000 MT CWE),2282.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1979,Imports,(1000 MT CWE),2440.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1980,Imports,(1000 MT CWE),2508.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1981,Imports,(1000 MT CWE),2678.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1982,Imports,(1000 MT CWE),2770.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1983,Imports,(1000 MT CWE),2885.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1984,Imports,(1000 MT CWE),3137.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1985,Imports,(1000 MT CWE),3341.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1986,Imports,(1000 MT CWE),3602.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1987,Imports,(1000 MT CWE),3732.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1988,Imports,(1000 MT CWE),3973.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1989,Imports,(1000 MT CWE),4195.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1990,Imports,(1000 MT CWE),4317.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1991,Imports,(1000 MT CWE),4348.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1992,Imports,(1000 MT CWE),4488.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1993,Imports,(1000 MT CWE),1641.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1994,Imports,(1000 MT CWE),2052.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1995,Imports,(1000 MT CWE),2295.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1996,Imports,(1000 MT CWE),2712.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1997,Imports,(1000 MT CWE),2529.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1998,Imports,(1000 MT CWE),2713.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1999,Imports,(1000 MT CWE),2974.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2000,Imports,(1000 MT CWE),2938.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2001,Imports,(1000 MT CWE),3221.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2002,Imports,(1000 MT CWE),3777.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2003,Imports,(1000 MT CWE),4047.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2004,Imports,(1000 MT CWE),4455.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2005,Imports,(1000 MT CWE),4254.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2006,Imports,(1000 MT CWE),4373.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2007,Imports,(1000 MT CWE),4679.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2008,Imports,(1000 MT CWE),5761.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2009,Imports,(1000 MT CWE),5163.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2010,Imports,(1000 MT CWE),5452.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2011,Imports,(1000 MT CWE),6134.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2012,Imports,(1000 MT CWE),6402.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2013,Imports,(1000 MT CWE),6189.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2014,Imports,(1000 MT CWE),5975.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2015,Imports,(1000 MT CWE),6392.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2016,Imports,(1000 MT CWE),8528.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2017,Imports,(1000 MT CWE),8472.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2018,Imports,(1000 MT CWE),8458.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2019,Imports,(1000 MT CWE),9258.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2020,Imports,(1000 MT CWE),11605.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2021,Imports,(1000 MT CWE),11477.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2022,Imports,(1000 MT CWE),9778.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2023,Imports,(1000 MT CWE),9168.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2024,Imports,(1000 MT CWE),8951.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2025,Imports,(1000 MT CWE),9239.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2026,Imports,(1000 MT CWE),9323.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1960,Production,(1000 MT CWE),19354.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1961,Production,(1000 MT CWE),19881.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1962,Production,(1000 MT CWE),20644.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1963,Production,(1000 MT CWE),21057.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1964,Production,(1000 MT CWE),20624.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1965,Production,(1000 MT CWE),21707.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1966,Production,(1000 MT CWE),22199.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1967,Production,(1000 MT CWE),23303.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1968,Production,(1000 MT CWE),23787.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1969,Production,(1000 MT CWE),24185.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1970,Production,(1000 MT CWE),25545.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1971,Production,(1000 MT CWE),27752.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1972,Production,(1000 MT CWE),29640.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1973,Production,(1000 MT CWE),31091.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1974,Production,(1000 MT CWE),33006.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1975,Production,(1000 MT CWE),39126.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1976,Production,(1000 MT CWE),38036.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1977,Production,(1000 MT CWE),39837.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1978,Production,(1000 MT CWE),42455.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1979,Production,(1000 MT CWE),46922.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1980,Production,(1000 MT CWE),49422.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1981,Production,(1000 MT CWE),49384.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1982,Production,(1000 MT CWE),49677.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1983,Production,(1000 MT CWE),51800.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1984,Production,(1000 MT CWE),53195.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1985,Production,(1000 MT CWE),55645.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1986,Production,(1000 MT CWE),57501.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1987,Production,(1000 MT CWE),59401.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1988,Production,(1000 MT CWE),62104.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1989,Production,(1000 MT CWE),63154.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1990,Production,(1000 MT CWE),65096.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1991,Production,(1000 MT CWE),66523.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1992,Production,(1000 MT CWE),68272.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1993,Production,(1000 MT CWE),69217.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1994,Production,(1000 MT CWE),71748.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1995,Production,(1000 MT CWE),75881.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1996,Production,(1000 MT CWE),73217.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1997,Production,(1000 MT CWE),76970.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1998,Production,(1000 MT CWE),82328.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1999,Production,(1000 MT CWE),85524.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2000,Production,(1000 MT CWE),84753.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2001,Production,(1000 MT CWE),85952.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2002,Production,(1000 MT CWE),88223.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2003,Production,(1000 MT CWE),89954.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2004,Production,(1000 MT CWE),91136.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2005,Production,(1000 MT CWE),92938.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2006,Production,(1000 MT CWE),94988.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2007,Production,(1000 MT CWE),93617.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2008,Production,(1000 MT CWE),97953.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2009,Production,(1000 MT CWE),99905.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2010,Production,(1000 MT CWE),102795.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2011,Production,(1000 MT CWE),103401.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2012,Production,(1000 MT CWE),106958.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2013,Production,(1000 MT CWE),109146.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2014,Production,(1000 MT CWE),111291.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2015,Production,(1000 MT CWE),112003.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2016,Production,(1000 MT CWE),110800.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2017,Production,(1000 MT CWE),111586.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2018,Production,(1000 MT CWE),112464.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2019,Production,(1000 MT CWE),101549.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2020,Production,(1000 MT CWE),96149.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2021,Production,(1000 MT CWE),107942.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2022,Production,(1000 MT CWE),114604.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2023,Production,(1000 MT CWE),116325.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2024,Production,(1000 MT CWE),116260.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2025,Production,(1000 MT CWE),119513.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2026,Production,(1000 MT CWE),120183.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1960,Total Distribution,(1000 MT CWE),18992.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1961,Total Distribution,(1000 MT CWE),21047.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1962,Total Distribution,(1000 MT CWE),21881.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1963,Total Distribution,(1000 MT CWE),22380.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1964,Total Distribution,(1000 MT CWE),22096.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1965,Total Distribution,(1000 MT CWE),23414.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1966,Total Distribution,(1000 MT CWE),23748.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1967,Total Distribution,(1000 MT CWE),24879.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1968,Total Distribution,(1000 MT CWE),25351.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1969,Total Distribution,(1000 MT CWE),25866.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1970,Total Distribution,(1000 MT CWE),27291.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1971,Total Distribution,(1000 MT CWE),29764.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1972,Total Distribution,(1000 MT CWE),31823.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1973,Total Distribution,(1000 MT CWE),33303.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1974,Total Distribution,(1000 MT CWE),35132.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1975,Total Distribution,(1000 MT CWE),41365.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1976,Total Distribution,(1000 MT CWE),40438.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1977,Total Distribution,(1000 MT CWE),42353.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1978,Total Distribution,(1000 MT CWE),45067.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1979,Total Distribution,(1000 MT CWE),49848.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1980,Total Distribution,(1000 MT CWE),52474.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1981,Total Distribution,(1000 MT CWE),52568.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1982,Total Distribution,(1000 MT CWE),52943.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1983,Total Distribution,(1000 MT CWE),55158.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1984,Total Distribution,(1000 MT CWE),56933.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1985,Total Distribution,(1000 MT CWE),59588.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1986,Total Distribution,(1000 MT CWE),61885.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1987,Total Distribution,(1000 MT CWE),63919.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1988,Total Distribution,(1000 MT CWE),66872.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1989,Total Distribution,(1000 MT CWE),68128.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1990,Total Distribution,(1000 MT CWE),70207.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1991,Total Distribution,(1000 MT CWE),71864.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1992,Total Distribution,(1000 MT CWE),73695.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1993,Total Distribution,(1000 MT CWE),71522.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1994,Total Distribution,(1000 MT CWE),74402.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1995,Total Distribution,(1000 MT CWE),78768.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1996,Total Distribution,(1000 MT CWE),76530.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1997,Total Distribution,(1000 MT CWE),80226.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1998,Total Distribution,(1000 MT CWE),85775.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1999,Total Distribution,(1000 MT CWE),89177.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2000,Total Distribution,(1000 MT CWE),88211.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2001,Total Distribution,(1000 MT CWE),89805.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2002,Total Distribution,(1000 MT CWE),92802.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2003,Total Distribution,(1000 MT CWE),94797.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2004,Total Distribution,(1000 MT CWE),96321.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2005,Total Distribution,(1000 MT CWE),97886.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2006,Total Distribution,(1000 MT CWE),100157.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2007,Total Distribution,(1000 MT CWE),99013.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2008,Total Distribution,(1000 MT CWE),104499.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2009,Total Distribution,(1000 MT CWE),105795.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2010,Total Distribution,(1000 MT CWE),108860.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2011,Total Distribution,(1000 MT CWE),110104.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2012,Total Distribution,(1000 MT CWE),113935.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2013,Total Distribution,(1000 MT CWE),115989.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2014,Total Distribution,(1000 MT CWE),117917.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2015,Total Distribution,(1000 MT CWE),119112.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2016,Total Distribution,(1000 MT CWE),119994.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2017,Total Distribution,(1000 MT CWE),120682.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2018,Total Distribution,(1000 MT CWE),121595.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2019,Total Distribution,(1000 MT CWE),111551.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2020,Total Distribution,(1000 MT CWE),108634.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2021,Total Distribution,(1000 MT CWE),120177.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2022,Total Distribution,(1000 MT CWE),125128.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2023,Total Distribution,(1000 MT CWE),126372.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2024,Total Distribution,(1000 MT CWE),126039.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2025,Total Distribution,(1000 MT CWE),129612.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2026,Total Distribution,(1000 MT CWE),130327.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1960,Total Supply,(1000 MT CWE),19658.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1961,Total Supply,(1000 MT CWE),21044.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1962,Total Supply,(1000 MT CWE),21875.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1963,Total Supply,(1000 MT CWE),22374.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1964,Total Supply,(1000 MT CWE),22094.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1965,Total Supply,(1000 MT CWE),23414.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1966,Total Supply,(1000 MT CWE),23745.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1967,Total Supply,(1000 MT CWE),24876.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1968,Total Supply,(1000 MT CWE),25356.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1969,Total Supply,(1000 MT CWE),25862.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1970,Total Supply,(1000 MT CWE),27289.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1971,Total Supply,(1000 MT CWE),29764.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1972,Total Supply,(1000 MT CWE),31827.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1973,Total Supply,(1000 MT CWE),33306.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1974,Total Supply,(1000 MT CWE),35131.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1975,Total Supply,(1000 MT CWE),41368.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1976,Total Supply,(1000 MT CWE),40441.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1977,Total Supply,(1000 MT CWE),42354.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1978,Total Supply,(1000 MT CWE),45071.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1979,Total Supply,(1000 MT CWE),49848.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1980,Total Supply,(1000 MT CWE),52474.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1981,Total Supply,(1000 MT CWE),52568.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1982,Total Supply,(1000 MT CWE),52943.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1983,Total Supply,(1000 MT CWE),55158.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1984,Total Supply,(1000 MT CWE),56933.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1985,Total Supply,(1000 MT CWE),59588.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1986,Total Supply,(1000 MT CWE),61885.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1987,Total Supply,(1000 MT CWE),63919.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1988,Total Supply,(1000 MT CWE),66872.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1989,Total Supply,(1000 MT CWE),68128.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1990,Total Supply,(1000 MT CWE),70207.0,1,57,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1991,Total Supply,(1000 MT CWE),71864.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1992,Total Supply,(1000 MT CWE),73695.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1993,Total Supply,(1000 MT CWE),71522.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1994,Total Supply,(1000 MT CWE),74402.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1995,Total Supply,(1000 MT CWE),78768.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1996,Total Supply,(1000 MT CWE),76530.0,1,63,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1997,Total Supply,(1000 MT CWE),80226.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1998,Total Supply,(1000 MT CWE),85775.0,1,62,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,1999,Total Supply,(1000 MT CWE),89177.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2000,Total Supply,(1000 MT CWE),88211.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2001,Total Supply,(1000 MT CWE),89805.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2002,Total Supply,(1000 MT CWE),92802.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2003,Total Supply,(1000 MT CWE),94797.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2004,Total Supply,(1000 MT CWE),96321.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2005,Total Supply,(1000 MT CWE),97886.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2006,Total Supply,(1000 MT CWE),100157.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2007,Total Supply,(1000 MT CWE),99013.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2008,Total Supply,(1000 MT CWE),104499.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2009,Total Supply,(1000 MT CWE),105795.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2010,Total Supply,(1000 MT CWE),108860.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2011,Total Supply,(1000 MT CWE),110104.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2012,Total Supply,(1000 MT CWE),113935.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2013,Total Supply,(1000 MT CWE),115989.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2014,Total Supply,(1000 MT CWE),117917.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2015,Total Supply,(1000 MT CWE),119112.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2016,Total Supply,(1000 MT CWE),119994.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2017,Total Supply,(1000 MT CWE),120682.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2018,Total Supply,(1000 MT CWE),121595.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2019,Total Supply,(1000 MT CWE),111551.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2020,Total Supply,(1000 MT CWE),108634.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2021,Total Supply,(1000 MT CWE),120177.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2022,Total Supply,(1000 MT CWE),125128.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2023,Total Supply,(1000 MT CWE),126372.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2024,Total Supply,(1000 MT CWE),126039.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2025,Total Supply,(1000 MT CWE),129612.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meat, Swine",World,2026,Total Supply,(1000 MT CWE),130327.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

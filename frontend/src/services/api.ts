@@ -85,6 +85,18 @@ export const api = {
 
     // Bulk dataset downloads
     getDownloadDatasets: () => apiClient.get('/api/download/datasets'),
+
+    // Admin: trigger server-side data reindex (rebuild indices/caches)
+    reindex: () => apiClient.post('/api/data/reindex'),
+
+    // WASDE Supply & Demand (USDA FAS PS&D, marketing-year 1960→present)
+    getPsdCommodities: () => apiClient.get('/api/psd/commodities'),
+    getPsdAttributes: (commodity: string, region = 'World') =>
+        apiClient.get(`/api/psd/${encodeURIComponent(commodity)}/attributes`, { params: { region } }),
+    getPsdSeries: (commodity: string, attribute: string, region = 'World') =>
+        apiClient.get(`/api/psd/${encodeURIComponent(commodity)}/series`, { params: { attribute, region } }),
+    getPsdBalanceSheet: (commodity: string, region = 'World', year?: number) =>
+        apiClient.get(`/api/psd/${encodeURIComponent(commodity)}/balance-sheet`, { params: { region, year } }),
 }
 
 // Absolute URL for a download file (CSV/Parquet/dictionary). Used directly as

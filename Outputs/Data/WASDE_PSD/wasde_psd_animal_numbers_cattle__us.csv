@@ -1,0 +1,872 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Animal Numbers, Cattle",United States,1960,Beef Cows Beg. Stocks,(1000 HEAD),25675.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Beef Cows Beg. Stocks,(1000 HEAD),26655.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Beef Cows Beg. Stocks,(1000 HEAD),27996.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Beef Cows Beg. Stocks,(1000 HEAD),29829.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Beef Cows Beg. Stocks,(1000 HEAD),31908.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Beef Cows Beg. Stocks,(1000 HEAD),33400.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Beef Cows Beg. Stocks,(1000 HEAD),33500.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Beef Cows Beg. Stocks,(1000 HEAD),33770.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Beef Cows Beg. Stocks,(1000 HEAD),34570.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Beef Cows Beg. Stocks,(1000 HEAD),35490.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Beef Cows Beg. Stocks,(1000 HEAD),36689.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Beef Cows Beg. Stocks,(1000 HEAD),37878.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Beef Cows Beg. Stocks,(1000 HEAD),38810.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Beef Cows Beg. Stocks,(1000 HEAD),40932.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Beef Cows Beg. Stocks,(1000 HEAD),43182.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Beef Cows Beg. Stocks,(1000 HEAD),45712.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Beef Cows Beg. Stocks,(1000 HEAD),43901.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Beef Cows Beg. Stocks,(1000 HEAD),41443.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Beef Cows Beg. Stocks,(1000 HEAD),38738.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Beef Cows Beg. Stocks,(1000 HEAD),37062.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Beef Cows Beg. Stocks,(1000 HEAD),37107.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Beef Cows Beg. Stocks,(1000 HEAD),38773.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Beef Cows Beg. Stocks,(1000 HEAD),39230.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Beef Cows Beg. Stocks,(1000 HEAD),37940.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Beef Cows Beg. Stocks,(1000 HEAD),37484.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Beef Cows Beg. Stocks,(1000 HEAD),35406.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Beef Cows Beg. Stocks,(1000 HEAD),33753.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Beef Cows Beg. Stocks,(1000 HEAD),33945.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Beef Cows Beg. Stocks,(1000 HEAD),33183.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Beef Cows Beg. Stocks,(1000 HEAD),32488.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Beef Cows Beg. Stocks,(1000 HEAD),32454.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Beef Cows Beg. Stocks,(1000 HEAD),32520.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Beef Cows Beg. Stocks,(1000 HEAD),33007.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Beef Cows Beg. Stocks,(1000 HEAD),33365.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Beef Cows Beg. Stocks,(1000 HEAD),34603.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Beef Cows Beg. Stocks,(1000 HEAD),35190.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Beef Cows Beg. Stocks,(1000 HEAD),35319.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Beef Cows Beg. Stocks,(1000 HEAD),34458.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Beef Cows Beg. Stocks,(1000 HEAD),33885.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Beef Cows Beg. Stocks,(1000 HEAD),33750.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Beef Cows Beg. Stocks,(1000 HEAD),33575.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Beef Cows Beg. Stocks,(1000 HEAD),33398.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Beef Cows Beg. Stocks,(1000 HEAD),33134.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Beef Cows Beg. Stocks,(1000 HEAD),32983.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Beef Cows Beg. Stocks,(1000 HEAD),32531.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Beef Cows Beg. Stocks,(1000 HEAD),32674.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Beef Cows Beg. Stocks,(1000 HEAD),32702.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Beef Cows Beg. Stocks,(1000 HEAD),32644.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Beef Cows Beg. Stocks,(1000 HEAD),32435.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Beef Cows Beg. Stocks,(1000 HEAD),31794.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Beef Cows Beg. Stocks,(1000 HEAD),31440.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Beef Cows Beg. Stocks,(1000 HEAD),30913.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Beef Cows Beg. Stocks,(1000 HEAD),30282.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Beef Cows Beg. Stocks,(1000 HEAD),29631.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Beef Cows Beg. Stocks,(1000 HEAD),28956.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Beef Cows Beg. Stocks,(1000 HEAD),29332.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Beef Cows Beg. Stocks,(1000 HEAD),30164.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Beef Cows Beg. Stocks,(1000 HEAD),31171.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Beef Cows Beg. Stocks,(1000 HEAD),31466.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Beef Cows Beg. Stocks,(1000 HEAD),31641.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Beef Cows Beg. Stocks,(1000 HEAD),31349.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Beef Cows Beg. Stocks,(1000 HEAD),30857.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Beef Cows Beg. Stocks,(1000 HEAD),29965.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Beef Cows Beg. Stocks,(1000 HEAD),28939.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Beef Cows Beg. Stocks,(1000 HEAD),28003.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Beef Cows Beg. Stocks,(1000 HEAD),27924.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Beef Cows Beg. Stocks,(1000 HEAD),27607.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Beginning Stocks,(1000 HEAD),96236.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Beginning Stocks,(1000 HEAD),97700.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Beginning Stocks,(1000 HEAD),100369.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Beginning Stocks,(1000 HEAD),104488.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Beginning Stocks,(1000 HEAD),107903.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Beginning Stocks,(1000 HEAD),109000.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Beginning Stocks,(1000 HEAD),108862.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Beginning Stocks,(1000 HEAD),108783.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Beginning Stocks,(1000 HEAD),109371.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Beginning Stocks,(1000 HEAD),110015.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Beginning Stocks,(1000 HEAD),112369.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Beginning Stocks,(1000 HEAD),114578.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Beginning Stocks,(1000 HEAD),117862.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Beginning Stocks,(1000 HEAD),121539.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Beginning Stocks,(1000 HEAD),127788.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Beginning Stocks,(1000 HEAD),132028.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Beginning Stocks,(1000 HEAD),127980.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Beginning Stocks,(1000 HEAD),122810.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Beginning Stocks,(1000 HEAD),116375.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Beginning Stocks,(1000 HEAD),110864.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Beginning Stocks,(1000 HEAD),111242.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Beginning Stocks,(1000 HEAD),114351.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Beginning Stocks,(1000 HEAD),115444.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Beginning Stocks,(1000 HEAD),115001.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Beginning Stocks,(1000 HEAD),113360.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Beginning Stocks,(1000 HEAD),109582.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Beginning Stocks,(1000 HEAD),105378.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Beginning Stocks,(1000 HEAD),102118.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Beginning Stocks,(1000 HEAD),99622.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Beginning Stocks,(1000 HEAD),96740.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Beginning Stocks,(1000 HEAD),95816.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Beginning Stocks,(1000 HEAD),96393.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Beginning Stocks,(1000 HEAD),97556.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Beginning Stocks,(1000 HEAD),99176.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Beginning Stocks,(1000 HEAD),100974.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Beginning Stocks,(1000 HEAD),102785.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Beginning Stocks,(1000 HEAD),103548.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Beginning Stocks,(1000 HEAD),101656.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Beginning Stocks,(1000 HEAD),99744.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Beginning Stocks,(1000 HEAD),99115.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Beginning Stocks,(1000 HEAD),98199.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Beginning Stocks,(1000 HEAD),97298.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Beginning Stocks,(1000 HEAD),96723.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Beginning Stocks,(1000 HEAD),96100.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Beginning Stocks,(1000 HEAD),94403.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Beginning Stocks,(1000 HEAD),95018.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Beginning Stocks,(1000 HEAD),96342.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Beginning Stocks,(1000 HEAD),96573.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Beginning Stocks,(1000 HEAD),96035.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Beginning Stocks,(1000 HEAD),94721.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Beginning Stocks,(1000 HEAD),94081.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Beginning Stocks,(1000 HEAD),92887.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Beginning Stocks,(1000 HEAD),91160.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Beginning Stocks,(1000 HEAD),90095.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Beginning Stocks,(1000 HEAD),88243.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Beginning Stocks,(1000 HEAD),89173.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Beginning Stocks,(1000 HEAD),91888.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Beginning Stocks,(1000 HEAD),93625.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Beginning Stocks,(1000 HEAD),94298.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Beginning Stocks,(1000 HEAD),94665.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Beginning Stocks,(1000 HEAD),93768.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Beginning Stocks,(1000 HEAD),93587.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Beginning Stocks,(1000 HEAD),91789.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Beginning Stocks,(1000 HEAD),88841.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Beginning Stocks,(1000 HEAD),87157.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Beginning Stocks,(1000 HEAD),86472.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Beginning Stocks,(1000 HEAD),86155.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Calf Slaughter,(1000 HEAD),8615.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Calf Slaughter,(1000 HEAD),8080.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Calf Slaughter,(1000 HEAD),7857.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Calf Slaughter,(1000 HEAD),7204.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Calf Slaughter,(1000 HEAD),7632.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Calf Slaughter,(1000 HEAD),7788.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Calf Slaughter,(1000 HEAD),6863.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Calf Slaughter,(1000 HEAD),6110.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Calf Slaughter,(1000 HEAD),5616.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Calf Slaughter,(1000 HEAD),5011.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Calf Slaughter,(1000 HEAD),4203.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Calf Slaughter,(1000 HEAD),3825.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Calf Slaughter,(1000 HEAD),3201.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Calf Slaughter,(1000 HEAD),2404.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Calf Slaughter,(1000 HEAD),3175.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Calf Slaughter,(1000 HEAD),5406.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Calf Slaughter,(1000 HEAD),5527.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Calf Slaughter,(1000 HEAD),5692.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Calf Slaughter,(1000 HEAD),4302.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Calf Slaughter,(1000 HEAD),2927.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Calf Slaughter,(1000 HEAD),2679.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Calf Slaughter,(1000 HEAD),2886.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Calf Slaughter,(1000 HEAD),3106.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Calf Slaughter,(1000 HEAD),3162.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Calf Slaughter,(1000 HEAD),3367.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Calf Slaughter,(1000 HEAD),3455.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Calf Slaughter,(1000 HEAD),3478.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Calf Slaughter,(1000 HEAD),2902.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Calf Slaughter,(1000 HEAD),2556.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Calf Slaughter,(1000 HEAD),2223.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Calf Slaughter,(1000 HEAD),1838.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Calf Slaughter,(1000 HEAD),1484.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Calf Slaughter,(1000 HEAD),1420.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Calf Slaughter,(1000 HEAD),1242.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Calf Slaughter,(1000 HEAD),1315.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Calf Slaughter,(1000 HEAD),1477.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Calf Slaughter,(1000 HEAD),1815.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Calf Slaughter,(1000 HEAD),1619.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Calf Slaughter,(1000 HEAD),1501.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Calf Slaughter,(1000 HEAD),1322.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Calf Slaughter,(1000 HEAD),1172.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Calf Slaughter,(1000 HEAD),1047.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Calf Slaughter,(1000 HEAD),1082.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Calf Slaughter,(1000 HEAD),1039.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Calf Slaughter,(1000 HEAD),879.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Calf Slaughter,(1000 HEAD),772.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Calf Slaughter,(1000 HEAD),748.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Calf Slaughter,(1000 HEAD),795.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Calf Slaughter,(1000 HEAD),993.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Calf Slaughter,(1000 HEAD),980.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Calf Slaughter,(1000 HEAD),917.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Calf Slaughter,(1000 HEAD),885.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Calf Slaughter,(1000 HEAD),801.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Calf Slaughter,(1000 HEAD),788.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Calf Slaughter,(1000 HEAD),591.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Calf Slaughter,(1000 HEAD),476.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Calf Slaughter,(1000 HEAD),513.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Calf Slaughter,(1000 HEAD),537.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Calf Slaughter,(1000 HEAD),604.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Calf Slaughter,(1000 HEAD),609.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Calf Slaughter,(1000 HEAD),480.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Calf Slaughter,(1000 HEAD),414.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Calf Slaughter,(1000 HEAD),391.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Calf Slaughter,(1000 HEAD),316.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Calf Slaughter,(1000 HEAD),235.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Calf Slaughter,(1000 HEAD),145.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Calf Slaughter,(1000 HEAD),135.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Cow Slaughter,(1000 HEAD),5773.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Cow Slaughter,(1000 HEAD),5179.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Cow Slaughter,(1000 HEAD),5453.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Cow Slaughter,(1000 HEAD),5229.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Cow Slaughter,(1000 HEAD),6524.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Cow Slaughter,(1000 HEAD),8074.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Cow Slaughter,(1000 HEAD),7556.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Cow Slaughter,(1000 HEAD),6754.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Cow Slaughter,(1000 HEAD),6843.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Cow Slaughter,(1000 HEAD),6920.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Cow Slaughter,(1000 HEAD),6116.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Cow Slaughter,(1000 HEAD),6375.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Cow Slaughter,(1000 HEAD),5992.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Cow Slaughter,(1000 HEAD),6248.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Cow Slaughter,(1000 HEAD),7514.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Cow Slaughter,(1000 HEAD),11557.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Cow Slaughter,(1000 HEAD),10619.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Cow Slaughter,(1000 HEAD),9864.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Cow Slaughter,(1000 HEAD),8470.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Cow Slaughter,(1000 HEAD),5930.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Cow Slaughter,(1000 HEAD),6334.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Cow Slaughter,(1000 HEAD),6643.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Cow Slaughter,(1000 HEAD),7354.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Cow Slaughter,(1000 HEAD),7597.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Cow Slaughter,(1000 HEAD),8621.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Cow Slaughter,(1000 HEAD),7391.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Cow Slaughter,(1000 HEAD),7961.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Cow Slaughter,(1000 HEAD),6610.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Cow Slaughter,(1000 HEAD),6338.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Cow Slaughter,(1000 HEAD),6316.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Cow Slaughter,(1000 HEAD),5920.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Cow Slaughter,(1000 HEAD),5623.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Cow Slaughter,(1000 HEAD),5846.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Cow Slaughter,(1000 HEAD),6088.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Cow Slaughter,(1000 HEAD),5941.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Cow Slaughter,(1000 HEAD),6281.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Cow Slaughter,(1000 HEAD),7274.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Cow Slaughter,(1000 HEAD),6560.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Cow Slaughter,(1000 HEAD),5982.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Cow Slaughter,(1000 HEAD),5708.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Cow Slaughter,(1000 HEAD),5524.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Cow Slaughter,(1000 HEAD),5774.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Cow Slaughter,(1000 HEAD),5759.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Cow Slaughter,(1000 HEAD),6129.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Cow Slaughter,(1000 HEAD),5162.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Cow Slaughter,(1000 HEAD),4859.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Cow Slaughter,(1000 HEAD),5426.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Cow Slaughter,(1000 HEAD),5767.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Cow Slaughter,(1000 HEAD),6263.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Cow Slaughter,(1000 HEAD),6248.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Cow Slaughter,(1000 HEAD),6542.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Cow Slaughter,(1000 HEAD),6819.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Cow Slaughter,(1000 HEAD),6551.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Cow Slaughter,(1000 HEAD),6356.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Cow Slaughter,(1000 HEAD),5469.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Cow Slaughter,(1000 HEAD),5234.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Cow Slaughter,(1000 HEAD),5512.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Cow Slaughter,(1000 HEAD),5861.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Cow Slaughter,(1000 HEAD),6270.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Cow Slaughter,(1000 HEAD),6509.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Cow Slaughter,(1000 HEAD),6456.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Cow Slaughter,(1000 HEAD),6802.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Cow Slaughter,(1000 HEAD),7135.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Cow Slaughter,(1000 HEAD),6717.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Cow Slaughter,(1000 HEAD),5683.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Cow Slaughter,(1000 HEAD),5085.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Cow Slaughter,(1000 HEAD),4900.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Dairy Cows Beg. Stocks,(1000 HEAD),17650.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Dairy Cows Beg. Stocks,(1000 HEAD),17390.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Dairy Cows Beg. Stocks,(1000 HEAD),17090.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Dairy Cows Beg. Stocks,(1000 HEAD),16570.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Dairy Cows Beg. Stocks,(1000 HEAD),15960.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Dairy Cows Beg. Stocks,(1000 HEAD),15380.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Dairy Cows Beg. Stocks,(1000 HEAD),14490.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Dairy Cows Beg. Stocks,(1000 HEAD),13725.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Dairy Cows Beg. Stocks,(1000 HEAD),13115.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Dairy Cows Beg. Stocks,(1000 HEAD),12550.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Dairy Cows Beg. Stocks,(1000 HEAD),12091.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Dairy Cows Beg. Stocks,(1000 HEAD),11909.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Dairy Cows Beg. Stocks,(1000 HEAD),11776.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Dairy Cows Beg. Stocks,(1000 HEAD),11622.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Dairy Cows Beg. Stocks,(1000 HEAD),11297.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Dairy Cows Beg. Stocks,(1000 HEAD),11220.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Dairy Cows Beg. Stocks,(1000 HEAD),11071.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Dairy Cows Beg. Stocks,(1000 HEAD),10998.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Dairy Cows Beg. Stocks,(1000 HEAD),10896.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Dairy Cows Beg. Stocks,(1000 HEAD),10790.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Dairy Cows Beg. Stocks,(1000 HEAD),10758.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Dairy Cows Beg. Stocks,(1000 HEAD),10849.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Dairy Cows Beg. Stocks,(1000 HEAD),10986.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Dairy Cows Beg. Stocks,(1000 HEAD),11047.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Dairy Cows Beg. Stocks,(1000 HEAD),11059.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Dairy Cows Beg. Stocks,(1000 HEAD),10777.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Dairy Cows Beg. Stocks,(1000 HEAD),11116.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Dairy Cows Beg. Stocks,(1000 HEAD),10466.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Dairy Cows Beg. Stocks,(1000 HEAD),10311.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Dairy Cows Beg. Stocks,(1000 HEAD),10137.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Dairy Cows Beg. Stocks,(1000 HEAD),10015.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Dairy Cows Beg. Stocks,(1000 HEAD),9965.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Dairy Cows Beg. Stocks,(1000 HEAD),9728.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Dairy Cows Beg. Stocks,(1000 HEAD),9658.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Dairy Cows Beg. Stocks,(1000 HEAD),9507.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Dairy Cows Beg. Stocks,(1000 HEAD),9482.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Dairy Cows Beg. Stocks,(1000 HEAD),9420.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Dairy Cows Beg. Stocks,(1000 HEAD),9318.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Dairy Cows Beg. Stocks,(1000 HEAD),9199.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Dairy Cows Beg. Stocks,(1000 HEAD),9128.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Dairy Cows Beg. Stocks,(1000 HEAD),9183.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Dairy Cows Beg. Stocks,(1000 HEAD),9172.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Dairy Cows Beg. Stocks,(1000 HEAD),9106.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Dairy Cows Beg. Stocks,(1000 HEAD),9142.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Dairy Cows Beg. Stocks,(1000 HEAD),8988.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Dairy Cows Beg. Stocks,(1000 HEAD),9004.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Dairy Cows Beg. Stocks,(1000 HEAD),9104.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Dairy Cows Beg. Stocks,(1000 HEAD),9145.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Dairy Cows Beg. Stocks,(1000 HEAD),9257.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Dairy Cows Beg. Stocks,(1000 HEAD),9333.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Dairy Cows Beg. Stocks,(1000 HEAD),9087.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Dairy Cows Beg. Stocks,(1000 HEAD),9156.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Dairy Cows Beg. Stocks,(1000 HEAD),9236.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Dairy Cows Beg. Stocks,(1000 HEAD),9221.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Dairy Cows Beg. Stocks,(1000 HEAD),9209.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Dairy Cows Beg. Stocks,(1000 HEAD),9312.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Dairy Cows Beg. Stocks,(1000 HEAD),9312.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Dairy Cows Beg. Stocks,(1000 HEAD),9369.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Dairy Cows Beg. Stocks,(1000 HEAD),9432.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Dairy Cows Beg. Stocks,(1000 HEAD),9353.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Dairy Cows Beg. Stocks,(1000 HEAD),9344.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Dairy Cows Beg. Stocks,(1000 HEAD),9450.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Dairy Cows Beg. Stocks,(1000 HEAD),9381.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Dairy Cows Beg. Stocks,(1000 HEAD),9398.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Dairy Cows Beg. Stocks,(1000 HEAD),9357.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Dairy Cows Beg. Stocks,(1000 HEAD),9349.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Dairy Cows Beg. Stocks,(1000 HEAD),9568.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Ending Stocks,(1000 HEAD),97700.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Ending Stocks,(1000 HEAD),100369.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Ending Stocks,(1000 HEAD),104488.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Ending Stocks,(1000 HEAD),107903.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Ending Stocks,(1000 HEAD),109000.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Ending Stocks,(1000 HEAD),108862.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Ending Stocks,(1000 HEAD),108783.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Ending Stocks,(1000 HEAD),109371.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Ending Stocks,(1000 HEAD),110015.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Ending Stocks,(1000 HEAD),112369.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Ending Stocks,(1000 HEAD),114578.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Ending Stocks,(1000 HEAD),117862.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Ending Stocks,(1000 HEAD),121539.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Ending Stocks,(1000 HEAD),127788.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Ending Stocks,(1000 HEAD),132028.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Ending Stocks,(1000 HEAD),127980.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Ending Stocks,(1000 HEAD),122810.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Ending Stocks,(1000 HEAD),116375.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Ending Stocks,(1000 HEAD),110864.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Ending Stocks,(1000 HEAD),111242.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Ending Stocks,(1000 HEAD),114351.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Ending Stocks,(1000 HEAD),115444.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Ending Stocks,(1000 HEAD),115001.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Ending Stocks,(1000 HEAD),113360.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Ending Stocks,(1000 HEAD),109582.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Ending Stocks,(1000 HEAD),105378.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Ending Stocks,(1000 HEAD),102118.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Ending Stocks,(1000 HEAD),99622.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Ending Stocks,(1000 HEAD),96740.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Ending Stocks,(1000 HEAD),95816.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Ending Stocks,(1000 HEAD),96393.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Ending Stocks,(1000 HEAD),97556.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Ending Stocks,(1000 HEAD),99176.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Ending Stocks,(1000 HEAD),100974.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Ending Stocks,(1000 HEAD),102785.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Ending Stocks,(1000 HEAD),103548.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Ending Stocks,(1000 HEAD),101656.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Ending Stocks,(1000 HEAD),99744.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Ending Stocks,(1000 HEAD),99115.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Ending Stocks,(1000 HEAD),98199.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Ending Stocks,(1000 HEAD),97298.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Ending Stocks,(1000 HEAD),96723.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Ending Stocks,(1000 HEAD),96100.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Ending Stocks,(1000 HEAD),94403.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Ending Stocks,(1000 HEAD),95018.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Ending Stocks,(1000 HEAD),96342.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Ending Stocks,(1000 HEAD),96573.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Ending Stocks,(1000 HEAD),96035.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Ending Stocks,(1000 HEAD),94721.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Ending Stocks,(1000 HEAD),94081.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Ending Stocks,(1000 HEAD),92887.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Ending Stocks,(1000 HEAD),91160.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Ending Stocks,(1000 HEAD),90095.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Ending Stocks,(1000 HEAD),88243.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Ending Stocks,(1000 HEAD),89173.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Ending Stocks,(1000 HEAD),91888.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Ending Stocks,(1000 HEAD),93625.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Ending Stocks,(1000 HEAD),94298.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Ending Stocks,(1000 HEAD),94665.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Ending Stocks,(1000 HEAD),93768.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Ending Stocks,(1000 HEAD),93587.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Ending Stocks,(1000 HEAD),91789.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Ending Stocks,(1000 HEAD),88841.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Ending Stocks,(1000 HEAD),87157.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Ending Stocks,(1000 HEAD),86472.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Ending Stocks,(1000 HEAD),86155.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Ending Stocks,(1000 HEAD),86700.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Exports,(1000 HEAD),32.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Exports,(1000 HEAD),24.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Exports,(1000 HEAD),19.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Exports,(1000 HEAD),23.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Exports,(1000 HEAD),62.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Exports,(1000 HEAD),54.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Exports,(1000 HEAD),35.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Exports,(1000 HEAD),55.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Exports,(1000 HEAD),36.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Exports,(1000 HEAD),39.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Exports,(1000 HEAD),88.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Exports,(1000 HEAD),93.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Exports,(1000 HEAD),104.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Exports,(1000 HEAD),273.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Exports,(1000 HEAD),204.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Exports,(1000 HEAD),196.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Exports,(1000 HEAD),205.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Exports,(1000 HEAD),107.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Exports,(1000 HEAD),122.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Exports,(1000 HEAD),66.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Exports,(1000 HEAD),66.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Exports,(1000 HEAD),88.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Exports,(1000 HEAD),58.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Exports,(1000 HEAD),56.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Exports,(1000 HEAD),71.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Exports,(1000 HEAD),125.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Exports,(1000 HEAD),108.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Exports,(1000 HEAD),131.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Exports,(1000 HEAD),321.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Exports,(1000 HEAD),169.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Exports,(1000 HEAD),120.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Exports,(1000 HEAD),311.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Exports,(1000 HEAD),322.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Exports,(1000 HEAD),153.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Exports,(1000 HEAD),231.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Exports,(1000 HEAD),95.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Exports,(1000 HEAD),174.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Exports,(1000 HEAD),284.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Exports,(1000 HEAD),285.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Exports,(1000 HEAD),330.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Exports,(1000 HEAD),482.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Exports,(1000 HEAD),449.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Exports,(1000 HEAD),244.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Exports,(1000 HEAD),99.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Exports,(1000 HEAD),16.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Exports,(1000 HEAD),22.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Exports,(1000 HEAD),50.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Exports,(1000 HEAD),66.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Exports,(1000 HEAD),107.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Exports,(1000 HEAD),58.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Exports,(1000 HEAD),91.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Exports,(1000 HEAD),194.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Exports,(1000 HEAD),191.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Exports,(1000 HEAD),161.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Exports,(1000 HEAD),108.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Exports,(1000 HEAD),73.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Exports,(1000 HEAD),69.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Exports,(1000 HEAD),193.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Exports,(1000 HEAD),244.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Exports,(1000 HEAD),307.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Exports,(1000 HEAD),321.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Exports,(1000 HEAD),511.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Exports,(1000 HEAD),424.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Exports,(1000 HEAD),352.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Exports,(1000 HEAD),436.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Exports,(1000 HEAD),506.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Exports,(1000 HEAD),400.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Imports,(1000 HEAD),663.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Imports,(1000 HEAD),1043.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Imports,(1000 HEAD),1250.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Imports,(1000 HEAD),852.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Imports,(1000 HEAD),547.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Imports,(1000 HEAD),1128.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Imports,(1000 HEAD),1100.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Imports,(1000 HEAD),752.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Imports,(1000 HEAD),1039.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Imports,(1000 HEAD),1042.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Imports,(1000 HEAD),1168.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Imports,(1000 HEAD),991.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Imports,(1000 HEAD),1186.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Imports,(1000 HEAD),1039.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Imports,(1000 HEAD),568.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Imports,(1000 HEAD),389.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Imports,(1000 HEAD),984.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Imports,(1000 HEAD),1133.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Imports,(1000 HEAD),1253.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Imports,(1000 HEAD),732.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Imports,(1000 HEAD),681.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Imports,(1000 HEAD),680.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Imports,(1000 HEAD),1005.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Imports,(1000 HEAD),921.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Imports,(1000 HEAD),753.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Imports,(1000 HEAD),836.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Imports,(1000 HEAD),1407.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Imports,(1000 HEAD),1200.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Imports,(1000 HEAD),1332.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Imports,(1000 HEAD),1459.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Imports,(1000 HEAD),2135.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Imports,(1000 HEAD),1939.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Imports,(1000 HEAD),2255.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Imports,(1000 HEAD),2499.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Imports,(1000 HEAD),2083.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Imports,(1000 HEAD),2786.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Imports,(1000 HEAD),1965.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Imports,(1000 HEAD),2046.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Imports,(1000 HEAD),2034.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Imports,(1000 HEAD),1945.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Imports,(1000 HEAD),2187.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Imports,(1000 HEAD),2437.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Imports,(1000 HEAD),2503.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Imports,(1000 HEAD),1752.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Imports,(1000 HEAD),1371.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Imports,(1000 HEAD),1816.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Imports,(1000 HEAD),2289.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Imports,(1000 HEAD),2495.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Imports,(1000 HEAD),2284.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Imports,(1000 HEAD),2002.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Imports,(1000 HEAD),2284.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Imports,(1000 HEAD),2107.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Imports,(1000 HEAD),2283.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Imports,(1000 HEAD),2033.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Imports,(1000 HEAD),2358.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Imports,(1000 HEAD),1984.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Imports,(1000 HEAD),1708.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Imports,(1000 HEAD),1807.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Imports,(1000 HEAD),1899.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Imports,(1000 HEAD),2043.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Imports,(1000 HEAD),2114.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Imports,(1000 HEAD),1775.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Imports,(1000 HEAD),1628.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Imports,(1000 HEAD),1981.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Imports,(1000 HEAD),2046.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Imports,(1000 HEAD),981.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Imports,(1000 HEAD),700.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Loss and Residual,(1000 HEAD),3939.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Loss and Residual,(1000 HEAD),3979.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Loss and Residual,(1000 HEAD),3785.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Loss and Residual,(1000 HEAD),4040.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Loss and Residual,(1000 HEAD),4232.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Loss and Residual,(1000 HEAD),4248.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Loss and Residual,(1000 HEAD),4049.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Loss and Residual,(1000 HEAD),4045.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Loss and Residual,(1000 HEAD),4012.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Loss and Residual,(1000 HEAD),4123.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Loss and Residual,(1000 HEAD),4297.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Loss and Residual,(1000 HEAD),4442.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Loss and Residual,(1000 HEAD),5126.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Loss and Residual,(1000 HEAD),6487.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Loss and Residual,(1000 HEAD),6110.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Loss and Residual,(1000 HEAD),6992.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Loss and Residual,(1000 HEAD),5190.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Loss and Residual,(1000 HEAD),6000.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Loss and Residual,(1000 HEAD),6188.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Loss and Residual,(1000 HEAD),5952.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Loss and Residual,(1000 HEAD),5649.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Loss and Residual,(1000 HEAD),6014.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Loss and Residual,(1000 HEAD),6326.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Loss and Residual,(1000 HEAD),6255.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Loss and Residual,(1000 HEAD),5671.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Loss and Residual,(1000 HEAD),5917.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Loss and Residual,(1000 HEAD),4695.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Loss and Residual,(1000 HEAD),4925.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Loss and Residual,(1000 HEAD),5331.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Loss and Residual,(1000 HEAD),4703.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Loss and Residual,(1000 HEAD),4774.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Loss and Residual,(1000 HEAD),4679.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Loss and Residual,(1000 HEAD),4757.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Loss and Residual,(1000 HEAD),5171.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Loss and Residual,(1000 HEAD),4454.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Loss and Residual,(1000 HEAD),4897.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Loss and Residual,(1000 HEAD),4931.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Loss and Residual,(1000 HEAD),4524.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Loss and Residual,(1000 HEAD),4052.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Loss and Residual,(1000 HEAD),3685.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Loss and Residual,(1000 HEAD),3649.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Loss and Residual,(1000 HEAD),4287.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Loss and Residual,(1000 HEAD),4136.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Loss and Residual,(1000 HEAD),4257.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Loss and Residual,(1000 HEAD),4241.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Loss and Residual,(1000 HEAD),4265.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Loss and Residual,(1000 HEAD),4427.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Loss and Residual,(1000 HEAD),4517.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Loss and Residual,(1000 HEAD),4141.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Loss and Residual,(1000 HEAD),4055.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Loss and Residual,(1000 HEAD),3803.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Loss and Residual,(1000 HEAD),3889.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Loss and Residual,(1000 HEAD),3753.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Loss and Residual,(1000 HEAD),4001.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Loss and Residual,(1000 HEAD),3985.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Loss and Residual,(1000 HEAD),3963.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Loss and Residual,(1000 HEAD),3776.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Loss and Residual,(1000 HEAD),3882.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Loss and Residual,(1000 HEAD),3873.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Loss and Residual,(1000 HEAD),3965.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Loss and Residual,(1000 HEAD),4110.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Loss and Residual,(1000 HEAD),3833.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Loss and Residual,(1000 HEAD),3780.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Loss and Residual,(1000 HEAD),3621.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Loss and Residual,(1000 HEAD),3557.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Loss and Residual,(1000 HEAD),3666.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Loss and Residual,(1000 HEAD),3573.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Production,(1000 HEAD),39416.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Production,(1000 HEAD),40180.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Production,(1000 HEAD),41441.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Production,(1000 HEAD),42268.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Production,(1000 HEAD),43809.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Production,(1000 HEAD),43922.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Production,(1000 HEAD),43537.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Production,(1000 HEAD),43803.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Production,(1000 HEAD),44315.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Production,(1000 HEAD),45177.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Production,(1000 HEAD),45871.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Production,(1000 HEAD),46738.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Production,(1000 HEAD),47682.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Production,(1000 HEAD),49194.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Production,(1000 HEAD),50873.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Production,(1000 HEAD),50183.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Production,(1000 HEAD),47384.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Production,(1000 HEAD),45931.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Production,(1000 HEAD),43818.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Production,(1000 HEAD),42596.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Production,(1000 HEAD),44938.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Production,(1000 HEAD),44666.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Production,(1000 HEAD),44200.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Production,(1000 HEAD),43885.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Production,(1000 HEAD),42470.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Production,(1000 HEAD),41050.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Production,(1000 HEAD),41182.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Production,(1000 HEAD),40152.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Production,(1000 HEAD),39318.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Production,(1000 HEAD),38817.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Production,(1000 HEAD),38613.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Production,(1000 HEAD),38583.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Production,(1000 HEAD),38933.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Production,(1000 HEAD),39369.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Production,(1000 HEAD),40105.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Production,(1000 HEAD),40264.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Production,(1000 HEAD),39823.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Production,(1000 HEAD),38961.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Production,(1000 HEAD),38812.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Production,(1000 HEAD),38796.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Production,(1000 HEAD),38631.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Production,(1000 HEAD),38300.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Production,(1000 HEAD),38224.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Production,(1000 HEAD),37593.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Production,(1000 HEAD),37260.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Production,(1000 HEAD),37106.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Production,(1000 HEAD),37016.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Production,(1000 HEAD),36759.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Production,(1000 HEAD),36158.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Production,(1000 HEAD),35939.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Production,(1000 HEAD),35740.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Production,(1000 HEAD),35357.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Production,(1000 HEAD),34469.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Production,(1000 HEAD),33630.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Production,(1000 HEAD),33522.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Production,(1000 HEAD),34087.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Production,(1000 HEAD),35063.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Production,(1000 HEAD),35758.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Production,(1000 HEAD),36288.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Production,(1000 HEAD),35597.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Production,(1000 HEAD),35501.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Production,(1000 HEAD),35131.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Production,(1000 HEAD),34440.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Production,(1000 HEAD),33563.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Production,(1000 HEAD),33417.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Production,(1000 HEAD),32896.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Production,(1000 HEAD),32900.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Total Distribution,(1000 HEAD),136315.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Total Distribution,(1000 HEAD),138923.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Total Distribution,(1000 HEAD),143060.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Total Distribution,(1000 HEAD),107926.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Total Distribution,(1000 HEAD),109062.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Total Distribution,(1000 HEAD),108916.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Total Distribution,(1000 HEAD),153903.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Total Distribution,(1000 HEAD),153878.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Total Distribution,(1000 HEAD),155097.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Total Distribution,(1000 HEAD),157115.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Total Distribution,(1000 HEAD),158522.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Total Distribution,(1000 HEAD),162127.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Total Distribution,(1000 HEAD),166104.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Total Distribution,(1000 HEAD),171054.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Total Distribution,(1000 HEAD),178870.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Total Distribution,(1000 HEAD),182040.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Total Distribution,(1000 HEAD),176931.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Total Distribution,(1000 HEAD),170555.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Total Distribution,(1000 HEAD),161446.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Total Distribution,(1000 HEAD),154192.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Total Distribution,(1000 HEAD),156861.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Total Distribution,(1000 HEAD),159697.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Total Distribution,(1000 HEAD),160649.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Total Distribution,(1000 HEAD),159807.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Total Distribution,(1000 HEAD),156583.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Total Distribution,(1000 HEAD),151468.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Total Distribution,(1000 HEAD),147967.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Total Distribution,(1000 HEAD),143470.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Total Distribution,(1000 HEAD),140272.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Total Distribution,(1000 HEAD),137016.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Total Distribution,(1000 HEAD),136564.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Total Distribution,(1000 HEAD),136915.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Total Distribution,(1000 HEAD),138744.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Total Distribution,(1000 HEAD),141044.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Total Distribution,(1000 HEAD),143162.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Total Distribution,(1000 HEAD),145835.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Total Distribution,(1000 HEAD),145336.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Total Distribution,(1000 HEAD),142663.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Total Distribution,(1000 HEAD),140590.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Total Distribution,(1000 HEAD),139856.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Total Distribution,(1000 HEAD),139017.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Total Distribution,(1000 HEAD),138035.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Total Distribution,(1000 HEAD),137450.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Total Distribution,(1000 HEAD),135445.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Total Distribution,(1000 HEAD),133034.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Total Distribution,(1000 HEAD),133940.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Total Distribution,(1000 HEAD),135647.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Total Distribution,(1000 HEAD),135827.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Total Distribution,(1000 HEAD),134477.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Total Distribution,(1000 HEAD),132662.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Total Distribution,(1000 HEAD),132105.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Total Distribution,(1000 HEAD),130351.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Total Distribution,(1000 HEAD),127912.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Total Distribution,(1000 HEAD),125758.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Total Distribution,(1000 HEAD),124123.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Total Distribution,(1000 HEAD),125244.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Total Distribution,(1000 HEAD),128659.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Total Distribution,(1000 HEAD),131190.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Total Distribution,(1000 HEAD),132485.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Total Distribution,(1000 HEAD),132305.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Total Distribution,(1000 HEAD),131383.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Total Distribution,(1000 HEAD),130493.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Total Distribution,(1000 HEAD),127857.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Total Distribution,(1000 HEAD),124385.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Total Distribution,(1000 HEAD),122620.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Total Distribution,(1000 HEAD),120349.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Total Distribution,(1000 HEAD),119755.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Total Slaughter,(1000 HEAD),34644.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Total Slaughter,(1000 HEAD),34551.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Total Slaughter,(1000 HEAD),34768.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Total Slaughter,(1000 HEAD),35274.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Total Slaughter,(1000 HEAD),39310.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Total Slaughter,(1000 HEAD),40959.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Total Slaughter,(1000 HEAD),41036.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Total Slaughter,(1000 HEAD),40407.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Total Slaughter,(1000 HEAD),41034.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Total Slaughter,(1000 HEAD),40584.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Total Slaughter,(1000 HEAD),39559.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Total Slaughter,(1000 HEAD),39730.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Total Slaughter,(1000 HEAD),39335.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Total Slaughter,(1000 HEAD),36506.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Total Slaughter,(1000 HEAD),40528.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Total Slaughter,(1000 HEAD),46872.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Total Slaughter,(1000 HEAD),48726.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Total Slaughter,(1000 HEAD),48073.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Total Slaughter,(1000 HEAD),44272.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Total Slaughter,(1000 HEAD),36932.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Total Slaughter,(1000 HEAD),36795.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Total Slaughter,(1000 HEAD),38151.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Total Slaughter,(1000 HEAD),39264.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Total Slaughter,(1000 HEAD),40136.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Total Slaughter,(1000 HEAD),41259.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Total Slaughter,(1000 HEAD),40048.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Total Slaughter,(1000 HEAD),41046.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Total Slaughter,(1000 HEAD),38792.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Total Slaughter,(1000 HEAD),37880.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Total Slaughter,(1000 HEAD),36328.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Total Slaughter,(1000 HEAD),35277.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Total Slaughter,(1000 HEAD),34369.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Total Slaughter,(1000 HEAD),34489.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Total Slaughter,(1000 HEAD),34746.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Total Slaughter,(1000 HEAD),35692.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Total Slaughter,(1000 HEAD),37295.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Total Slaughter,(1000 HEAD),38575.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Total Slaughter,(1000 HEAD),38111.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Total Slaughter,(1000 HEAD),37138.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Total Slaughter,(1000 HEAD),37642.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Total Slaughter,(1000 HEAD),37588.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Total Slaughter,(1000 HEAD),36576.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Total Slaughter,(1000 HEAD),36970.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Total Slaughter,(1000 HEAD),36686.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Total Slaughter,(1000 HEAD),33759.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Total Slaughter,(1000 HEAD),33311.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Total Slaughter,(1000 HEAD),34597.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Total Slaughter,(1000 HEAD),35209.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Total Slaughter,(1000 HEAD),35508.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Total Slaughter,(1000 HEAD),34468.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Total Slaughter,(1000 HEAD),35324.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Total Slaughter,(1000 HEAD),35108.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Total Slaughter,(1000 HEAD),33873.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Total Slaughter,(1000 HEAD),33353.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Total Slaughter,(1000 HEAD),30857.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Total Slaughter,(1000 HEAD),29320.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Total Slaughter,(1000 HEAD),31189.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Total Slaughter,(1000 HEAD),32817.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Total Slaughter,(1000 HEAD),33703.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Total Slaughter,(1000 HEAD),34265.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Total Slaughter,(1000 HEAD),33365.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Total Slaughter,(1000 HEAD),34360.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Total Slaughter,(1000 HEAD),34812.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Total Slaughter,(1000 HEAD),33255.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Total Slaughter,(1000 HEAD),32155.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Total Slaughter,(1000 HEAD),30022.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Total Slaughter,(1000 HEAD),29082.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1960,Total Supply,(1000 HEAD),136315.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1961,Total Supply,(1000 HEAD),138923.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1962,Total Supply,(1000 HEAD),143060.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1963,Total Supply,(1000 HEAD),147608.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1964,Total Supply,(1000 HEAD),152259.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1965,Total Supply,(1000 HEAD),154050.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1966,Total Supply,(1000 HEAD),153499.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1967,Total Supply,(1000 HEAD),153338.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1968,Total Supply,(1000 HEAD),154725.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1969,Total Supply,(1000 HEAD),156234.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1970,Total Supply,(1000 HEAD),159408.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1971,Total Supply,(1000 HEAD),162307.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1972,Total Supply,(1000 HEAD),166730.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1973,Total Supply,(1000 HEAD),171772.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1974,Total Supply,(1000 HEAD),179229.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1975,Total Supply,(1000 HEAD),182600.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1976,Total Supply,(1000 HEAD),176348.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1977,Total Supply,(1000 HEAD),169874.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1978,Total Supply,(1000 HEAD),161446.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1979,Total Supply,(1000 HEAD),154192.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1980,Total Supply,(1000 HEAD),156861.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1981,Total Supply,(1000 HEAD),159697.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1982,Total Supply,(1000 HEAD),160649.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1983,Total Supply,(1000 HEAD),159807.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1984,Total Supply,(1000 HEAD),156583.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1985,Total Supply,(1000 HEAD),151468.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1986,Total Supply,(1000 HEAD),147967.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1987,Total Supply,(1000 HEAD),143470.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1988,Total Supply,(1000 HEAD),140272.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1989,Total Supply,(1000 HEAD),137016.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1990,Total Supply,(1000 HEAD),136564.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1991,Total Supply,(1000 HEAD),136915.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1992,Total Supply,(1000 HEAD),138744.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1993,Total Supply,(1000 HEAD),141044.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1994,Total Supply,(1000 HEAD),143162.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1995,Total Supply,(1000 HEAD),145835.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1996,Total Supply,(1000 HEAD),145336.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1997,Total Supply,(1000 HEAD),142663.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1998,Total Supply,(1000 HEAD),140590.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,1999,Total Supply,(1000 HEAD),139856.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2000,Total Supply,(1000 HEAD),139017.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2001,Total Supply,(1000 HEAD),138035.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2002,Total Supply,(1000 HEAD),137450.0,0,1,00,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2003,Total Supply,(1000 HEAD),135445.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2004,Total Supply,(1000 HEAD),133034.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2005,Total Supply,(1000 HEAD),133940.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2006,Total Supply,(1000 HEAD),135647.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2007,Total Supply,(1000 HEAD),135827.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2008,Total Supply,(1000 HEAD),134477.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2009,Total Supply,(1000 HEAD),132662.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2010,Total Supply,(1000 HEAD),132105.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2011,Total Supply,(1000 HEAD),130351.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2012,Total Supply,(1000 HEAD),127912.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2013,Total Supply,(1000 HEAD),125758.0,0,1,07,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2014,Total Supply,(1000 HEAD),124123.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2015,Total Supply,(1000 HEAD),125244.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2016,Total Supply,(1000 HEAD),128659.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2017,Total Supply,(1000 HEAD),131190.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2018,Total Supply,(1000 HEAD),132485.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2019,Total Supply,(1000 HEAD),132305.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2020,Total Supply,(1000 HEAD),131383.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2021,Total Supply,(1000 HEAD),130493.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2022,Total Supply,(1000 HEAD),127857.0,0,1,10,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2023,Total Supply,(1000 HEAD),124385.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2024,Total Supply,(1000 HEAD),122620.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2025,Total Supply,(1000 HEAD),120349.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Animal Numbers, Cattle",United States,2026,Total Supply,(1000 HEAD),119755.0,0,1,04,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

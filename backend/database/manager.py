@@ -14,6 +14,7 @@ import logging
 from .models import (
     Base,
     WASDEData,
+    WasdePsd,
     MarketPrice,
     EconomicIndicator,
     GlobalPrice,
@@ -360,6 +361,63 @@ class DatabaseManager:
             results = query.all()
 
             return [self._global_price_to_dict(record) for record in results]
+        finally:
+            session.close()
+
+    def get_commodity_price_history(
+        self,
+        commodity: str,
+        limit: int = 5000,
+    ) -> List[Dict[str, Any]]:
+        """
+        Return the real monthly price-history series for a commodity from
+        global_prices (Alpha Vantage spot-price series, 1992-present).
+
+        These are genuine historical monthly prices. WASDE is NOT used here
+        because the local WASDE table holds a single marketing-year only and
+        cannot yield a time series. Returns an empty list when no real series
+        exists for the commodity (caller must NOT fabricate one).
+        """
+        # Map a user-facing commodity name to the Alpha Vantage series label
+        # stored in global_prices.commodity. Only these have real monthly history.
+        # (Alpha Vantage prefix was stripped from the DB in the 2026-07-04 cleanup.)
+        alias = {
+            'wheat': 'WHEAT',
+            'corn': 'CORN',
+            'maize': 'CORN',
+            'coffee': 'COFFEE',
+            'sugar': 'SUGAR',
+            'cotton': 'COTTON',
+        }
+        key = (commodity or '').strip().lower()
+        series = alias.get(key)
+        if not series:
+            return []
+
+        label = series  # commodity column cleaned — no 'Alpha Vantage -' prefix
+        session = self.get_session()
+        try:
+            records = (
+                session.query(GlobalPrice)
+                .filter(GlobalPrice.commodity == label)
+                .order_by(asc(GlobalPrice.date))
+                .limit(limit)
+                .all()
+            )
+            out = []
+            for r in records:
+                if r.price is None or r.date is None:
+                    continue
+                out.append({
+                    'date': r.date.isoformat(),
+                    'year': r.date.year,
+                    'price': r.price,
+                    'unit': r.unit,
+                    'currency': r.currency,
+                    'source': r.source,
+                    'series': label,
+                })
+            return out
         finally:
             session.close()
 

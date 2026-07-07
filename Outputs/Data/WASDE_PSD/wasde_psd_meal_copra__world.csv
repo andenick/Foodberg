@@ -1,0 +1,820 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Meal, Copra",World,1964,Beginning Stocks,(1000 MT),52.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Beginning Stocks,(1000 MT),54.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Beginning Stocks,(1000 MT),57.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Beginning Stocks,(1000 MT),51.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Beginning Stocks,(1000 MT),38.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Beginning Stocks,(1000 MT),39.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Beginning Stocks,(1000 MT),33.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Beginning Stocks,(1000 MT),24.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Beginning Stocks,(1000 MT),27.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Beginning Stocks,(1000 MT),67.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Beginning Stocks,(1000 MT),113.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Beginning Stocks,(1000 MT),141.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Beginning Stocks,(1000 MT),104.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Beginning Stocks,(1000 MT),114.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Beginning Stocks,(1000 MT),114.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Beginning Stocks,(1000 MT),55.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Beginning Stocks,(1000 MT),47.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Beginning Stocks,(1000 MT),54.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Beginning Stocks,(1000 MT),46.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Beginning Stocks,(1000 MT),79.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Beginning Stocks,(1000 MT),220.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Beginning Stocks,(1000 MT),127.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Beginning Stocks,(1000 MT),82.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Beginning Stocks,(1000 MT),28.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Beginning Stocks,(1000 MT),44.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Beginning Stocks,(1000 MT),105.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Beginning Stocks,(1000 MT),149.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Beginning Stocks,(1000 MT),81.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Beginning Stocks,(1000 MT),121.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Beginning Stocks,(1000 MT),117.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Beginning Stocks,(1000 MT),158.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Beginning Stocks,(1000 MT),74.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Beginning Stocks,(1000 MT),82.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Beginning Stocks,(1000 MT),150.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Beginning Stocks,(1000 MT),169.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Beginning Stocks,(1000 MT),160.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Beginning Stocks,(1000 MT),170.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Beginning Stocks,(1000 MT),160.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Beginning Stocks,(1000 MT),160.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Beginning Stocks,(1000 MT),151.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Beginning Stocks,(1000 MT),87.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Beginning Stocks,(1000 MT),96.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Beginning Stocks,(1000 MT),123.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Beginning Stocks,(1000 MT),134.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Beginning Stocks,(1000 MT),181.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Beginning Stocks,(1000 MT),329.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Beginning Stocks,(1000 MT),47.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Beginning Stocks,(1000 MT),152.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Beginning Stocks,(1000 MT),254.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Beginning Stocks,(1000 MT),130.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Beginning Stocks,(1000 MT),136.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Beginning Stocks,(1000 MT),129.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Beginning Stocks,(1000 MT),123.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Beginning Stocks,(1000 MT),141.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Beginning Stocks,(1000 MT),181.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Beginning Stocks,(1000 MT),120.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Beginning Stocks,(1000 MT),79.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Beginning Stocks,(1000 MT),56.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Beginning Stocks,(1000 MT),53.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Beginning Stocks,(1000 MT),51.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Beginning Stocks,(1000 MT),82.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Beginning Stocks,(1000 MT),89.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Beginning Stocks,(1000 MT),58.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Crush,(1000 MT),2916.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Crush,(1000 MT),3151.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Crush,(1000 MT),2983.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Crush,(1000 MT),2907.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Crush,(1000 MT),2907.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Crush,(1000 MT),2966.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Crush,(1000 MT),3332.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Crush,(1000 MT),3902.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Crush,(1000 MT),3364.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Crush,(1000 MT),2756.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Crush,(1000 MT),3758.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Crush,(1000 MT),4652.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Crush,(1000 MT),4229.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Crush,(1000 MT),4415.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Crush,(1000 MT),3676.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Crush,(1000 MT),3840.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Crush,(1000 MT),4224.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Crush,(1000 MT),4064.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Crush,(1000 MT),4029.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Crush,(1000 MT),3192.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Crush,(1000 MT),3796.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Crush,(1000 MT),4916.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Crush,(1000 MT),4258.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Crush,(1000 MT),3981.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Crush,(1000 MT),3810.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Crush,(1000 MT),4637.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Crush,(1000 MT),4435.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Crush,(1000 MT),4227.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Crush,(1000 MT),4478.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Crush,(1000 MT),4515.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Crush,(1000 MT),5260.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Crush,(1000 MT),4778.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Crush,(1000 MT),5813.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Crush,(1000 MT),5178.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Crush,(1000 MT),4181.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Crush,(1000 MT),5231.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Crush,(1000 MT),5595.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Crush,(1000 MT),4908.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Crush,(1000 MT),4880.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Crush,(1000 MT),5075.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Crush,(1000 MT),5279.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Crush,(1000 MT),5207.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Crush,(1000 MT),4837.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Crush,(1000 MT),5322.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Crush,(1000 MT),5238.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Crush,(1000 MT),5432.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Crush,(1000 MT),5637.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Crush,(1000 MT),5233.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Crush,(1000 MT),5564.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Crush,(1000 MT),5356.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Crush,(1000 MT),5262.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Crush,(1000 MT),5110.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Crush,(1000 MT),5388.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Crush,(1000 MT),5877.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Crush,(1000 MT),5981.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Crush,(1000 MT),5724.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Crush,(1000 MT),5687.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Crush,(1000 MT),5951.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Crush,(1000 MT),5887.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Crush,(1000 MT),6179.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Crush,(1000 MT),6061.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Crush,(1000 MT),5864.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Crush,(1000 MT),5905.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Domestic Consumption,(1000 MT),1048.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Domestic Consumption,(1000 MT),1098.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Domestic Consumption,(1000 MT),1082.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Domestic Consumption,(1000 MT),1046.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Domestic Consumption,(1000 MT),1067.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Domestic Consumption,(1000 MT),1021.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Domestic Consumption,(1000 MT),1184.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Domestic Consumption,(1000 MT),1359.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Domestic Consumption,(1000 MT),1294.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Domestic Consumption,(1000 MT),964.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Domestic Consumption,(1000 MT),1264.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Domestic Consumption,(1000 MT),1685.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Domestic Consumption,(1000 MT),1433.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Domestic Consumption,(1000 MT),1504.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Domestic Consumption,(1000 MT),1343.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Domestic Consumption,(1000 MT),1417.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Domestic Consumption,(1000 MT),1505.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Domestic Consumption,(1000 MT),1482.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Domestic Consumption,(1000 MT),1366.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Domestic Consumption,(1000 MT),1094.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Domestic Consumption,(1000 MT),1418.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Domestic Consumption,(1000 MT),1816.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Domestic Consumption,(1000 MT),1648.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Domestic Consumption,(1000 MT),1493.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Domestic Consumption,(1000 MT),1342.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Domestic Consumption,(1000 MT),1498.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Domestic Consumption,(1000 MT),1638.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Domestic Consumption,(1000 MT),1431.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Domestic Consumption,(1000 MT),1537.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Domestic Consumption,(1000 MT),1541.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Domestic Consumption,(1000 MT),1641.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Domestic Consumption,(1000 MT),1585.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Domestic Consumption,(1000 MT),1752.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Domestic Consumption,(1000 MT),1669.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Domestic Consumption,(1000 MT),1299.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Domestic Consumption,(1000 MT),1708.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Domestic Consumption,(1000 MT),1909.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Domestic Consumption,(1000 MT),1577.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Domestic Consumption,(1000 MT),1671.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Domestic Consumption,(1000 MT),1676.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Domestic Consumption,(1000 MT),1720.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Domestic Consumption,(1000 MT),1613.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Domestic Consumption,(1000 MT),1585.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Domestic Consumption,(1000 MT),1632.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Domestic Consumption,(1000 MT),1742.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Domestic Consumption,(1000 MT),2053.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Domestic Consumption,(1000 MT),1759.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Domestic Consumption,(1000 MT),1715.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Domestic Consumption,(1000 MT),1851.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Domestic Consumption,(1000 MT),1747.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Domestic Consumption,(1000 MT),1684.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Domestic Consumption,(1000 MT),1697.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Domestic Consumption,(1000 MT),1745.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Domestic Consumption,(1000 MT),1943.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Domestic Consumption,(1000 MT),1951.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Domestic Consumption,(1000 MT),1942.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Domestic Consumption,(1000 MT),1992.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Domestic Consumption,(1000 MT),1986.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Domestic Consumption,(1000 MT),2007.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Domestic Consumption,(1000 MT),2023.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Domestic Consumption,(1000 MT),2021.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Domestic Consumption,(1000 MT),1997.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Domestic Consumption,(1000 MT),1924.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Ending Stocks,(1000 MT),54.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Ending Stocks,(1000 MT),57.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Ending Stocks,(1000 MT),51.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Ending Stocks,(1000 MT),38.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Ending Stocks,(1000 MT),39.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Ending Stocks,(1000 MT),33.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Ending Stocks,(1000 MT),24.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Ending Stocks,(1000 MT),27.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Ending Stocks,(1000 MT),67.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Ending Stocks,(1000 MT),113.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Ending Stocks,(1000 MT),141.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Ending Stocks,(1000 MT),104.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Ending Stocks,(1000 MT),114.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Ending Stocks,(1000 MT),114.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Ending Stocks,(1000 MT),55.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Ending Stocks,(1000 MT),47.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Ending Stocks,(1000 MT),54.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Ending Stocks,(1000 MT),46.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Ending Stocks,(1000 MT),79.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Ending Stocks,(1000 MT),220.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Ending Stocks,(1000 MT),127.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Ending Stocks,(1000 MT),82.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Ending Stocks,(1000 MT),28.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Ending Stocks,(1000 MT),44.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Ending Stocks,(1000 MT),105.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Ending Stocks,(1000 MT),149.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Ending Stocks,(1000 MT),81.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Ending Stocks,(1000 MT),121.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Ending Stocks,(1000 MT),117.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Ending Stocks,(1000 MT),158.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Ending Stocks,(1000 MT),74.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Ending Stocks,(1000 MT),82.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Ending Stocks,(1000 MT),150.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Ending Stocks,(1000 MT),169.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Ending Stocks,(1000 MT),160.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Ending Stocks,(1000 MT),170.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Ending Stocks,(1000 MT),160.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Ending Stocks,(1000 MT),160.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Ending Stocks,(1000 MT),151.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Ending Stocks,(1000 MT),87.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Ending Stocks,(1000 MT),96.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Ending Stocks,(1000 MT),123.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Ending Stocks,(1000 MT),134.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Ending Stocks,(1000 MT),181.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Ending Stocks,(1000 MT),329.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Ending Stocks,(1000 MT),47.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Ending Stocks,(1000 MT),152.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Ending Stocks,(1000 MT),254.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Ending Stocks,(1000 MT),130.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Ending Stocks,(1000 MT),136.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Ending Stocks,(1000 MT),129.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Ending Stocks,(1000 MT),123.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Ending Stocks,(1000 MT),141.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Ending Stocks,(1000 MT),181.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Ending Stocks,(1000 MT),120.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Ending Stocks,(1000 MT),79.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Ending Stocks,(1000 MT),56.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Ending Stocks,(1000 MT),53.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Ending Stocks,(1000 MT),51.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Ending Stocks,(1000 MT),82.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Ending Stocks,(1000 MT),89.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Ending Stocks,(1000 MT),58.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Ending Stocks,(1000 MT),66.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Exports,(1000 MT),424.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Exports,(1000 MT),496.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Exports,(1000 MT),466.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Exports,(1000 MT),462.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Exports,(1000 MT),464.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Exports,(1000 MT),530.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Exports,(1000 MT),589.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Exports,(1000 MT),691.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Exports,(1000 MT),588.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Exports,(1000 MT),551.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Exports,(1000 MT),660.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Exports,(1000 MT),958.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Exports,(1000 MT),822.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Exports,(1000 MT),924.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Exports,(1000 MT),927.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Exports,(1000 MT),946.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Exports,(1000 MT),1023.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Exports,(1000 MT),1030.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Exports,(1000 MT),999.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Exports,(1000 MT),598.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Exports,(1000 MT),939.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Exports,(1000 MT),1321.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Exports,(1000 MT),1235.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Exports,(1000 MT),1033.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Exports,(1000 MT),877.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Exports,(1000 MT),1196.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Exports,(1000 MT),1185.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Exports,(1000 MT),820.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Exports,(1000 MT),947.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Exports,(1000 MT),882.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Exports,(1000 MT),1190.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Exports,(1000 MT),875.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Exports,(1000 MT),1100.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Exports,(1000 MT),926.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Exports,(1000 MT),604.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Exports,(1000 MT),809.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Exports,(1000 MT),1076.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Exports,(1000 MT),801.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Exports,(1000 MT),747.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Exports,(1000 MT),730.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Exports,(1000 MT),742.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Exports,(1000 MT),781.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Exports,(1000 MT),701.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Exports,(1000 MT),852.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Exports,(1000 MT),524.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Exports,(1000 MT),1078.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Exports,(1000 MT),587.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Exports,(1000 MT),788.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Exports,(1000 MT),1095.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Exports,(1000 MT),724.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Exports,(1000 MT),743.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Exports,(1000 MT),578.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Exports,(1000 MT),535.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Exports,(1000 MT),711.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Exports,(1000 MT),682.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Exports,(1000 MT),433.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Exports,(1000 MT),547.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Exports,(1000 MT),673.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Exports,(1000 MT),564.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Exports,(1000 MT),535.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Exports,(1000 MT),531.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Exports,(1000 MT),535.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Exports,(1000 MT),595.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Feed Waste Dom. Cons.,(1000 MT),1024.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Feed Waste Dom. Cons.,(1000 MT),1067.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Feed Waste Dom. Cons.,(1000 MT),1041.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Feed Waste Dom. Cons.,(1000 MT),1002.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Feed Waste Dom. Cons.,(1000 MT),1027.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Feed Waste Dom. Cons.,(1000 MT),969.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Feed Waste Dom. Cons.,(1000 MT),1093.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Feed Waste Dom. Cons.,(1000 MT),1258.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Feed Waste Dom. Cons.,(1000 MT),1192.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Feed Waste Dom. Cons.,(1000 MT),920.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Feed Waste Dom. Cons.,(1000 MT),1256.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Feed Waste Dom. Cons.,(1000 MT),1671.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Feed Waste Dom. Cons.,(1000 MT),1419.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Feed Waste Dom. Cons.,(1000 MT),1499.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Feed Waste Dom. Cons.,(1000 MT),1343.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Feed Waste Dom. Cons.,(1000 MT),1414.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Feed Waste Dom. Cons.,(1000 MT),1500.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Feed Waste Dom. Cons.,(1000 MT),1477.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Feed Waste Dom. Cons.,(1000 MT),1361.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Feed Waste Dom. Cons.,(1000 MT),1089.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Feed Waste Dom. Cons.,(1000 MT),1413.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Feed Waste Dom. Cons.,(1000 MT),1811.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Feed Waste Dom. Cons.,(1000 MT),1643.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Feed Waste Dom. Cons.,(1000 MT),1488.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Feed Waste Dom. Cons.,(1000 MT),1337.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Feed Waste Dom. Cons.,(1000 MT),1493.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Feed Waste Dom. Cons.,(1000 MT),1633.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Feed Waste Dom. Cons.,(1000 MT),1426.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Feed Waste Dom. Cons.,(1000 MT),1532.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Feed Waste Dom. Cons.,(1000 MT),1536.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Feed Waste Dom. Cons.,(1000 MT),1636.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Feed Waste Dom. Cons.,(1000 MT),1580.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Feed Waste Dom. Cons.,(1000 MT),1747.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Feed Waste Dom. Cons.,(1000 MT),1664.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Feed Waste Dom. Cons.,(1000 MT),1289.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Feed Waste Dom. Cons.,(1000 MT),1690.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Feed Waste Dom. Cons.,(1000 MT),1894.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Feed Waste Dom. Cons.,(1000 MT),1557.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Feed Waste Dom. Cons.,(1000 MT),1652.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Feed Waste Dom. Cons.,(1000 MT),1662.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Feed Waste Dom. Cons.,(1000 MT),1704.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Feed Waste Dom. Cons.,(1000 MT),1602.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Feed Waste Dom. Cons.,(1000 MT),1567.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Feed Waste Dom. Cons.,(1000 MT),1607.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Feed Waste Dom. Cons.,(1000 MT),1715.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Feed Waste Dom. Cons.,(1000 MT),2030.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Feed Waste Dom. Cons.,(1000 MT),1738.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Feed Waste Dom. Cons.,(1000 MT),1692.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Feed Waste Dom. Cons.,(1000 MT),1834.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Feed Waste Dom. Cons.,(1000 MT),1732.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Feed Waste Dom. Cons.,(1000 MT),1669.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Feed Waste Dom. Cons.,(1000 MT),1685.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Feed Waste Dom. Cons.,(1000 MT),1722.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Feed Waste Dom. Cons.,(1000 MT),1920.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Feed Waste Dom. Cons.,(1000 MT),1929.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Feed Waste Dom. Cons.,(1000 MT),1918.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Feed Waste Dom. Cons.,(1000 MT),1966.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Feed Waste Dom. Cons.,(1000 MT),1973.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Feed Waste Dom. Cons.,(1000 MT),1994.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Feed Waste Dom. Cons.,(1000 MT),2010.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Feed Waste Dom. Cons.,(1000 MT),2008.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Feed Waste Dom. Cons.,(1000 MT),1984.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Feed Waste Dom. Cons.,(1000 MT),1911.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Food Use Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Food Use Dom. Cons.,(1000 MT),27.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Food Use Dom. Cons.,(1000 MT),26.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Food Use Dom. Cons.,(1000 MT),29.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Food Use Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Food Use Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Food Use Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Food Use Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Food Use Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Food Use Dom. Cons.,(1000 MT),3.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Food Use Dom. Cons.,(1000 MT),5.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Food Use Dom. Cons.,(1000 MT),5.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Food Use Dom. Cons.,(1000 MT),5.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Food Use Dom. Cons.,(1000 MT),5.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Food Use Dom. Cons.,(1000 MT),5.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Food Use Dom. Cons.,(1000 MT),5.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Food Use Dom. Cons.,(1000 MT),5.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Food Use Dom. Cons.,(1000 MT),5.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Food Use Dom. Cons.,(1000 MT),5.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Food Use Dom. Cons.,(1000 MT),5.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Food Use Dom. Cons.,(1000 MT),5.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Food Use Dom. Cons.,(1000 MT),5.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Food Use Dom. Cons.,(1000 MT),5.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Food Use Dom. Cons.,(1000 MT),5.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Food Use Dom. Cons.,(1000 MT),5.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Food Use Dom. Cons.,(1000 MT),5.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Food Use Dom. Cons.,(1000 MT),5.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Food Use Dom. Cons.,(1000 MT),5.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Food Use Dom. Cons.,(1000 MT),10.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Food Use Dom. Cons.,(1000 MT),5.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Food Use Dom. Cons.,(1000 MT),5.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Food Use Dom. Cons.,(1000 MT),5.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Food Use Dom. Cons.,(1000 MT),7.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Food Use Dom. Cons.,(1000 MT),7.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Food Use Dom. Cons.,(1000 MT),10.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Food Use Dom. Cons.,(1000 MT),5.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Food Use Dom. Cons.,(1000 MT),5.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Food Use Dom. Cons.,(1000 MT),10.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Food Use Dom. Cons.,(1000 MT),20.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Food Use Dom. Cons.,(1000 MT),20.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Food Use Dom. Cons.,(1000 MT),20.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Food Use Dom. Cons.,(1000 MT),22.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Food Use Dom. Cons.,(1000 MT),23.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Food Use Dom. Cons.,(1000 MT),10.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Food Use Dom. Cons.,(1000 MT),10.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Food Use Dom. Cons.,(1000 MT),10.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Food Use Dom. Cons.,(1000 MT),10.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Food Use Dom. Cons.,(1000 MT),10.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Food Use Dom. Cons.,(1000 MT),10.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Imports,(1000 MT),481.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Imports,(1000 MT),520.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Imports,(1000 MT),523.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Imports,(1000 MT),512.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Imports,(1000 MT),532.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Imports,(1000 MT),540.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Imports,(1000 MT),642.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Imports,(1000 MT),739.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Imports,(1000 MT),752.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Imports,(1000 MT),600.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Imports,(1000 MT),642.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Imports,(1000 MT),997.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Imports,(1000 MT),795.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Imports,(1000 MT),902.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Imports,(1000 MT),942.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Imports,(1000 MT),989.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Imports,(1000 MT),1031.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Imports,(1000 MT),1066.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Imports,(1000 MT),967.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Imports,(1000 MT),691.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Imports,(1000 MT),918.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Imports,(1000 MT),1347.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Imports,(1000 MT),1250.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Imports,(1000 MT),1120.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Imports,(1000 MT),905.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Imports,(1000 MT),1092.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Imports,(1000 MT),1214.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Imports,(1000 MT),863.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Imports,(1000 MT),990.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Imports,(1000 MT),945.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Imports,(1000 MT),978.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Imports,(1000 MT),879.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Imports,(1000 MT),997.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Imports,(1000 MT),908.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Imports,(1000 MT),509.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Imports,(1000 MT),805.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Imports,(1000 MT),1158.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Imports,(1000 MT),787.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Imports,(1000 MT),814.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Imports,(1000 MT),679.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Imports,(1000 MT),729.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Imports,(1000 MT),706.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Imports,(1000 MT),695.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Imports,(1000 MT),776.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Imports,(1000 MT),686.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Imports,(1000 MT),1055.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Imports,(1000 MT),602.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Imports,(1000 MT),888.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Imports,(1000 MT),997.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Imports,(1000 MT),703.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Imports,(1000 MT),673.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Imports,(1000 MT),559.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Imports,(1000 MT),506.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Imports,(1000 MT),741.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Imports,(1000 MT),583.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Imports,(1000 MT),429.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Imports,(1000 MT),616.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Imports,(1000 MT),686.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Imports,(1000 MT),610.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Imports,(1000 MT),549.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Imports,(1000 MT),555.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Imports,(1000 MT),575.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Imports,(1000 MT),560.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Industrial Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Industrial Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Industrial Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Industrial Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Industrial Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Industrial Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Industrial Dom. Cons.,(1000 MT),15.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Industrial Dom. Cons.,(1000 MT),15.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Industrial Dom. Cons.,(1000 MT),15.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Industrial Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Industrial Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Industrial Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Industrial Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Industrial Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Industrial Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Industrial Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Industrial Dom. Cons.,(1000 MT),0.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Industrial Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Industrial Dom. Cons.,(1000 MT),0.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Industrial Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Industrial Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Industrial Dom. Cons.,(1000 MT),0.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Industrial Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Industrial Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Industrial Dom. Cons.,(1000 MT),0.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Industrial Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Industrial Dom. Cons.,(1000 MT),0.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Industrial Dom. Cons.,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Industrial Dom. Cons.,(1000 MT),0.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Industrial Dom. Cons.,(1000 MT),0.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Industrial Dom. Cons.,(1000 MT),0.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Industrial Dom. Cons.,(1000 MT),0.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Industrial Dom. Cons.,(1000 MT),0.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Industrial Dom. Cons.,(1000 MT),0.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Industrial Dom. Cons.,(1000 MT),0.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Industrial Dom. Cons.,(1000 MT),13.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Industrial Dom. Cons.,(1000 MT),10.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Industrial Dom. Cons.,(1000 MT),15.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Industrial Dom. Cons.,(1000 MT),12.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Industrial Dom. Cons.,(1000 MT),7.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Industrial Dom. Cons.,(1000 MT),6.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Industrial Dom. Cons.,(1000 MT),6.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Industrial Dom. Cons.,(1000 MT),13.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Industrial Dom. Cons.,(1000 MT),15.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Industrial Dom. Cons.,(1000 MT),17.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Industrial Dom. Cons.,(1000 MT),13.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Industrial Dom. Cons.,(1000 MT),11.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Industrial Dom. Cons.,(1000 MT),13.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Industrial Dom. Cons.,(1000 MT),7.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Industrial Dom. Cons.,(1000 MT),5.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Industrial Dom. Cons.,(1000 MT),5.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Industrial Dom. Cons.,(1000 MT),2.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Industrial Dom. Cons.,(1000 MT),3.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Industrial Dom. Cons.,(1000 MT),3.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Industrial Dom. Cons.,(1000 MT),2.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Industrial Dom. Cons.,(1000 MT),2.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Industrial Dom. Cons.,(1000 MT),3.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Industrial Dom. Cons.,(1000 MT),3.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Industrial Dom. Cons.,(1000 MT),3.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Industrial Dom. Cons.,(1000 MT),3.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Industrial Dom. Cons.,(1000 MT),3.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Industrial Dom. Cons.,(1000 MT),3.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Industrial Dom. Cons.,(1000 MT),3.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Production,(1000 MT),994.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Production,(1000 MT),1077.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Production,(1000 MT),1019.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Production,(1000 MT),983.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Production,(1000 MT),1000.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Production,(1000 MT),1005.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Production,(1000 MT),1122.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Production,(1000 MT),1314.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Production,(1000 MT),1170.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Production,(1000 MT),961.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Production,(1000 MT),1310.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Production,(1000 MT),1609.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Production,(1000 MT),1470.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Production,(1000 MT),1526.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Production,(1000 MT),1269.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Production,(1000 MT),1366.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Production,(1000 MT),1504.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Production,(1000 MT),1438.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Production,(1000 MT),1431.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Production,(1000 MT),1142.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Production,(1000 MT),1346.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Production,(1000 MT),1745.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Production,(1000 MT),1579.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Production,(1000 MT),1422.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Production,(1000 MT),1375.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Production,(1000 MT),1646.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Production,(1000 MT),1541.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Production,(1000 MT),1428.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Production,(1000 MT),1490.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Production,(1000 MT),1519.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Production,(1000 MT),1769.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Production,(1000 MT),1589.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Production,(1000 MT),1923.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Production,(1000 MT),1706.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Production,(1000 MT),1385.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Production,(1000 MT),1722.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Production,(1000 MT),1817.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Production,(1000 MT),1591.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Production,(1000 MT),1595.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Production,(1000 MT),1663.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Production,(1000 MT),1742.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Production,(1000 MT),1715.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Production,(1000 MT),1602.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Production,(1000 MT),1755.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Production,(1000 MT),1728.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Production,(1000 MT),1794.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Production,(1000 MT),1849.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Production,(1000 MT),1717.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Production,(1000 MT),1825.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Production,(1000 MT),1774.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Production,(1000 MT),1747.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Production,(1000 MT),1710.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Production,(1000 MT),1792.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Production,(1000 MT),1953.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Production,(1000 MT),1989.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Production,(1000 MT),1905.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Production,(1000 MT),1900.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Production,(1000 MT),1970.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Production,(1000 MT),1959.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Production,(1000 MT),2040.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Production,(1000 MT),2004.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Production,(1000 MT),1926.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Production,(1000 MT),1967.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,SME,(1000 MT),462.34999999999997,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,SME,(1000 MT),481.77000000000004,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,SME,(1000 MT),470.02000000000004,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,SME,(1000 MT),452.41,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,SME,(1000 MT),463.69,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,SME,(1000 MT),437.5,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,SME,(1000 MT),493.48,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,SME,(1000 MT),567.98,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,SME,(1000 MT),538.1800000000001,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,SME,(1000 MT),415.38,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,SME,(1000 MT),567.08,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,SME,(1000 MT),754.46,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,SME,(1000 MT),640.66,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,SME,(1000 MT),676.78,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,SME,(1000 MT),606.37,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,SME,(1000 MT),638.41,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,SME,(1000 MT),677.26,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,SME,(1000 MT),666.85,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,SME,(1000 MT),614.46,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,SME,(1000 MT),491.68,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,SME,(1000 MT),637.9399999999999,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,SME,(1000 MT),817.65,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,SME,(1000 MT),741.82,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,SME,(1000 MT),671.8100000000001,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,SME,(1000 MT),603.65,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,SME,(1000 MT),674.0600000000001,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,SME,(1000 MT),737.29,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,SME,(1000 MT),643.8399999999999,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,SME,(1000 MT),691.6999999999999,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,SME,(1000 MT),693.51,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,SME,(1000 MT),738.6700000000001,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,SME,(1000 MT),713.4,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,SME,(1000 MT),788.78,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,SME,(1000 MT),751.31,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,SME,(1000 MT),582.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,SME,(1000 MT),763.04,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,SME,(1000 MT),855.16,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,SME,(1000 MT),703.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,SME,(1000 MT),745.89,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,SME,(1000 MT),750.41,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,SME,(1000 MT),769.37,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,SME,(1000 MT),723.3,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,SME,(1000 MT),707.51,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,SME,(1000 MT),725.56,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,SME,(1000 MT),774.33,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,SME,(1000 MT),916.53,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,SME,(1000 MT),784.7,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,SME,(1000 MT),763.95,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,SME,(1000 MT),828.0699999999999,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,SME,(1000 MT),782.01,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,SME,(1000 MT),753.5600000000001,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,SME,(1000 MT),760.79,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,SME,(1000 MT),777.49,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,SME,(1000 MT),866.89,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,SME,(1000 MT),870.9399999999999,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,SME,(1000 MT),865.99,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,SME,(1000 MT),887.65,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,SME,(1000 MT),890.8299999999999,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,SME,(1000 MT),900.3000000000001,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,SME,(1000 MT),907.52,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,SME,(1000 MT),906.62,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,SME,(1000 MT),895.81,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,SME,(1000 MT),862.84,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Total Distribution,(1000 MT),1526.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Total Distribution,(1000 MT),1651.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Total Distribution,(1000 MT),1599.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Total Distribution,(1000 MT),1546.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Total Distribution,(1000 MT),1570.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Total Distribution,(1000 MT),1584.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Total Distribution,(1000 MT),1797.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Total Distribution,(1000 MT),2077.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Total Distribution,(1000 MT),1949.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Total Distribution,(1000 MT),1628.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Total Distribution,(1000 MT),2065.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Total Distribution,(1000 MT),2747.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Total Distribution,(1000 MT),2369.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Total Distribution,(1000 MT),2542.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Total Distribution,(1000 MT),2325.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Total Distribution,(1000 MT),2410.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Total Distribution,(1000 MT),2582.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Total Distribution,(1000 MT),2558.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Total Distribution,(1000 MT),2444.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Total Distribution,(1000 MT),1912.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Total Distribution,(1000 MT),2484.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Total Distribution,(1000 MT),3219.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Total Distribution,(1000 MT),2911.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Total Distribution,(1000 MT),2570.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Total Distribution,(1000 MT),2324.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Total Distribution,(1000 MT),2843.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Total Distribution,(1000 MT),2904.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Total Distribution,(1000 MT),2372.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Total Distribution,(1000 MT),2601.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Total Distribution,(1000 MT),2581.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Total Distribution,(1000 MT),2905.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Total Distribution,(1000 MT),2542.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Total Distribution,(1000 MT),3002.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Total Distribution,(1000 MT),2764.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Total Distribution,(1000 MT),2063.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Total Distribution,(1000 MT),2687.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Total Distribution,(1000 MT),3145.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Total Distribution,(1000 MT),2538.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Total Distribution,(1000 MT),2569.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Total Distribution,(1000 MT),2493.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Total Distribution,(1000 MT),2558.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Total Distribution,(1000 MT),2517.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Total Distribution,(1000 MT),2420.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Total Distribution,(1000 MT),2665.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Total Distribution,(1000 MT),2595.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Total Distribution,(1000 MT),3178.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Total Distribution,(1000 MT),2498.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Total Distribution,(1000 MT),2757.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Total Distribution,(1000 MT),3076.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Total Distribution,(1000 MT),2607.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Total Distribution,(1000 MT),2556.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Total Distribution,(1000 MT),2398.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Total Distribution,(1000 MT),2421.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Total Distribution,(1000 MT),2835.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Total Distribution,(1000 MT),2753.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Total Distribution,(1000 MT),2454.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Total Distribution,(1000 MT),2595.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Total Distribution,(1000 MT),2712.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Total Distribution,(1000 MT),2622.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Total Distribution,(1000 MT),2640.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Total Distribution,(1000 MT),2641.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Total Distribution,(1000 MT),2590.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Total Distribution,(1000 MT),2585.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1964,Total Supply,(1000 MT),1527.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1965,Total Supply,(1000 MT),1651.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1966,Total Supply,(1000 MT),1599.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1967,Total Supply,(1000 MT),1546.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1968,Total Supply,(1000 MT),1570.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1969,Total Supply,(1000 MT),1584.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1970,Total Supply,(1000 MT),1797.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1971,Total Supply,(1000 MT),2077.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1972,Total Supply,(1000 MT),1949.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1973,Total Supply,(1000 MT),1628.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1974,Total Supply,(1000 MT),2065.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1975,Total Supply,(1000 MT),2747.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1976,Total Supply,(1000 MT),2369.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1977,Total Supply,(1000 MT),2542.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1978,Total Supply,(1000 MT),2325.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1979,Total Supply,(1000 MT),2410.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1980,Total Supply,(1000 MT),2582.0,1,30,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1981,Total Supply,(1000 MT),2558.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1982,Total Supply,(1000 MT),2444.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1983,Total Supply,(1000 MT),1912.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1984,Total Supply,(1000 MT),2484.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1985,Total Supply,(1000 MT),3219.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1986,Total Supply,(1000 MT),2911.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1987,Total Supply,(1000 MT),2570.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1988,Total Supply,(1000 MT),2324.0,1,28,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1989,Total Supply,(1000 MT),2843.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1990,Total Supply,(1000 MT),2904.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1991,Total Supply,(1000 MT),2372.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1992,Total Supply,(1000 MT),2601.0,1,14,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1993,Total Supply,(1000 MT),2581.0,1,15,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1994,Total Supply,(1000 MT),2905.0,1,16,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1995,Total Supply,(1000 MT),2542.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1996,Total Supply,(1000 MT),3002.0,1,18,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1997,Total Supply,(1000 MT),2764.0,1,17,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1998,Total Supply,(1000 MT),2063.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,1999,Total Supply,(1000 MT),2687.0,1,19,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2000,Total Supply,(1000 MT),3145.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2001,Total Supply,(1000 MT),2538.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2002,Total Supply,(1000 MT),2569.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2003,Total Supply,(1000 MT),2493.0,1,21,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2004,Total Supply,(1000 MT),2558.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2005,Total Supply,(1000 MT),2517.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2006,Total Supply,(1000 MT),2420.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2007,Total Supply,(1000 MT),2665.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2008,Total Supply,(1000 MT),2595.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2009,Total Supply,(1000 MT),3178.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2010,Total Supply,(1000 MT),2498.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2011,Total Supply,(1000 MT),2757.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2012,Total Supply,(1000 MT),3076.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2013,Total Supply,(1000 MT),2607.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2014,Total Supply,(1000 MT),2556.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2015,Total Supply,(1000 MT),2398.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2016,Total Supply,(1000 MT),2421.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2017,Total Supply,(1000 MT),2835.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2018,Total Supply,(1000 MT),2753.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2019,Total Supply,(1000 MT),2454.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2020,Total Supply,(1000 MT),2595.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2021,Total Supply,(1000 MT),2712.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2022,Total Supply,(1000 MT),2622.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2023,Total Supply,(1000 MT),2640.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2024,Total Supply,(1000 MT),2641.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2025,Total Supply,(1000 MT),2590.0,1,22,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Meal, Copra",World,2026,Total Supply,(1000 MT),2585.0,1,20,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

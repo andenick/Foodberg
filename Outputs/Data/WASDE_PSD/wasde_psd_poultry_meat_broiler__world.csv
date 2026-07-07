@@ -1,0 +1,514 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Poultry, Meat, Broiler",World,1960,Beginning Stocks,(1000 MT),34.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1961,Beginning Stocks,(1000 MT),29.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1962,Beginning Stocks,(1000 MT),42.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1963,Beginning Stocks,(1000 MT),35.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1964,Beginning Stocks,(1000 MT),66.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1965,Beginning Stocks,(1000 MT),74.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1966,Beginning Stocks,(1000 MT),59.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1967,Beginning Stocks,(1000 MT),92.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1968,Beginning Stocks,(1000 MT),86.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1969,Beginning Stocks,(1000 MT),67.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1970,Beginning Stocks,(1000 MT),90.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1971,Beginning Stocks,(1000 MT),104.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1972,Beginning Stocks,(1000 MT),113.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1973,Beginning Stocks,(1000 MT),95.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1974,Beginning Stocks,(1000 MT),130.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1975,Beginning Stocks,(1000 MT),122.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1976,Beginning Stocks,(1000 MT),94.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1977,Beginning Stocks,(1000 MT),136.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1978,Beginning Stocks,(1000 MT),155.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1979,Beginning Stocks,(1000 MT),139.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1980,Beginning Stocks,(1000 MT),148.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1981,Beginning Stocks,(1000 MT),150.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1982,Beginning Stocks,(1000 MT),171.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1983,Beginning Stocks,(1000 MT),263.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1984,Beginning Stocks,(1000 MT),260.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1985,Beginning Stocks,(1000 MT),304.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1986,Beginning Stocks,(1000 MT),338.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1987,Beginning Stocks,(1000 MT),635.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1988,Beginning Stocks,(1000 MT),470.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1989,Beginning Stocks,(1000 MT),388.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1990,Beginning Stocks,(1000 MT),293.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1991,Beginning Stocks,(1000 MT),355.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1992,Beginning Stocks,(1000 MT),397.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1993,Beginning Stocks,(1000 MT),427.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1994,Beginning Stocks,(1000 MT),447.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1995,Beginning Stocks,(1000 MT),497.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1996,Beginning Stocks,(1000 MT),534.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1997,Beginning Stocks,(1000 MT),480.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1998,Beginning Stocks,(1000 MT),443.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1999,Beginning Stocks,(1000 MT),467.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2000,Beginning Stocks,(1000 MT),503.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2001,Beginning Stocks,(1000 MT),540.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2002,Beginning Stocks,(1000 MT),485.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2003,Beginning Stocks,(1000 MT),508.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2004,Beginning Stocks,(1000 MT),489.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2005,Beginning Stocks,(1000 MT),597.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2006,Beginning Stocks,(1000 MT),647.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2007,Beginning Stocks,(1000 MT),587.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2008,Beginning Stocks,(1000 MT),508.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2009,Beginning Stocks,(1000 MT),587.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2010,Beginning Stocks,(1000 MT),459.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2011,Beginning Stocks,(1000 MT),535.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2012,Beginning Stocks,(1000 MT),561.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2013,Beginning Stocks,(1000 MT),662.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2014,Beginning Stocks,(1000 MT),596.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2015,Beginning Stocks,(1000 MT),631.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2016,Beginning Stocks,(1000 MT),712.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1960,Domestic Consumption,(1000 MT),1929.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1961,Domestic Consumption,(1000 MT),2162.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1962,Domestic Consumption,(1000 MT),2196.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1963,Domestic Consumption,(1000 MT),2338.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1964,Domestic Consumption,(1000 MT),4434.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1965,Domestic Consumption,(1000 MT),4955.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1966,Domestic Consumption,(1000 MT),5471.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1967,Domestic Consumption,(1000 MT),5777.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1968,Domestic Consumption,(1000 MT),5979.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1969,Domestic Consumption,(1000 MT),6630.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1970,Domestic Consumption,(1000 MT),7373.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1971,Domestic Consumption,(1000 MT),7601.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1972,Domestic Consumption,(1000 MT),8431.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1973,Domestic Consumption,(1000 MT),9020.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1974,Domestic Consumption,(1000 MT),9659.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1975,Domestic Consumption,(1000 MT),10538.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1976,Domestic Consumption,(1000 MT),11652.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1977,Domestic Consumption,(1000 MT),12533.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1978,Domestic Consumption,(1000 MT),13750.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1979,Domestic Consumption,(1000 MT),14886.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1980,Domestic Consumption,(1000 MT),15730.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1981,Domestic Consumption,(1000 MT),16619.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1982,Domestic Consumption,(1000 MT),17714.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1983,Domestic Consumption,(1000 MT),18286.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1984,Domestic Consumption,(1000 MT),19069.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1985,Domestic Consumption,(1000 MT),20159.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1986,Domestic Consumption,(1000 MT),20881.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1987,Domestic Consumption,(1000 MT),24072.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1988,Domestic Consumption,(1000 MT),23339.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1989,Domestic Consumption,(1000 MT),25652.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1990,Domestic Consumption,(1000 MT),27323.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1991,Domestic Consumption,(1000 MT),29170.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1992,Domestic Consumption,(1000 MT),31052.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1993,Domestic Consumption,(1000 MT),32253.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1994,Domestic Consumption,(1000 MT),34877.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1995,Domestic Consumption,(1000 MT),39595.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1996,Domestic Consumption,(1000 MT),43007.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1997,Domestic Consumption,(1000 MT),45526.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1998,Domestic Consumption,(1000 MT),46595.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1999,Domestic Consumption,(1000 MT),50604.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2000,Domestic Consumption,(1000 MT),53466.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2001,Domestic Consumption,(1000 MT),55170.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2002,Domestic Consumption,(1000 MT),57743.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2003,Domestic Consumption,(1000 MT),58340.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2004,Domestic Consumption,(1000 MT),60256.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2005,Domestic Consumption,(1000 MT),63573.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2006,Domestic Consumption,(1000 MT),65333.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2007,Domestic Consumption,(1000 MT),69279.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2008,Domestic Consumption,(1000 MT),71878.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2009,Domestic Consumption,(1000 MT),72783.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2010,Domestic Consumption,(1000 MT),76848.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2011,Domestic Consumption,(1000 MT),79810.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2012,Domestic Consumption,(1000 MT),81671.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2013,Domestic Consumption,(1000 MT),82897.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2014,Domestic Consumption,(1000 MT),85162.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2015,Domestic Consumption,(1000 MT),87413.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2016,Domestic Consumption,(1000 MT),87485.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1960,Ending Stocks,(1000 MT),29.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1961,Ending Stocks,(1000 MT),42.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1962,Ending Stocks,(1000 MT),35.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1963,Ending Stocks,(1000 MT),36.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1964,Ending Stocks,(1000 MT),74.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1965,Ending Stocks,(1000 MT),59.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1966,Ending Stocks,(1000 MT),92.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1967,Ending Stocks,(1000 MT),86.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1968,Ending Stocks,(1000 MT),67.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1969,Ending Stocks,(1000 MT),90.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1970,Ending Stocks,(1000 MT),104.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1971,Ending Stocks,(1000 MT),113.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1972,Ending Stocks,(1000 MT),90.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1973,Ending Stocks,(1000 MT),156.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1974,Ending Stocks,(1000 MT),122.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1975,Ending Stocks,(1000 MT),94.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1976,Ending Stocks,(1000 MT),138.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1977,Ending Stocks,(1000 MT),150.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1978,Ending Stocks,(1000 MT),139.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1979,Ending Stocks,(1000 MT),148.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1980,Ending Stocks,(1000 MT),150.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1981,Ending Stocks,(1000 MT),168.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1982,Ending Stocks,(1000 MT),258.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1983,Ending Stocks,(1000 MT),260.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1984,Ending Stocks,(1000 MT),276.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1985,Ending Stocks,(1000 MT),308.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1986,Ending Stocks,(1000 MT),372.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1987,Ending Stocks,(1000 MT),730.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1988,Ending Stocks,(1000 MT),384.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1989,Ending Stocks,(1000 MT),326.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1990,Ending Stocks,(1000 MT),353.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1991,Ending Stocks,(1000 MT),396.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1992,Ending Stocks,(1000 MT),439.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1993,Ending Stocks,(1000 MT),447.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1994,Ending Stocks,(1000 MT),494.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1995,Ending Stocks,(1000 MT),534.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1996,Ending Stocks,(1000 MT),496.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1997,Ending Stocks,(1000 MT),444.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1998,Ending Stocks,(1000 MT),472.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1999,Ending Stocks,(1000 MT),503.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2000,Ending Stocks,(1000 MT),544.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2001,Ending Stocks,(1000 MT),485.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2002,Ending Stocks,(1000 MT),508.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2003,Ending Stocks,(1000 MT),489.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2004,Ending Stocks,(1000 MT),597.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2005,Ending Stocks,(1000 MT),647.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2006,Ending Stocks,(1000 MT),587.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2007,Ending Stocks,(1000 MT),508.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2008,Ending Stocks,(1000 MT),587.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2009,Ending Stocks,(1000 MT),459.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2010,Ending Stocks,(1000 MT),535.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2011,Ending Stocks,(1000 MT),561.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2012,Ending Stocks,(1000 MT),662.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2013,Ending Stocks,(1000 MT),596.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2014,Ending Stocks,(1000 MT),631.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2015,Ending Stocks,(1000 MT),712.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2016,Ending Stocks,(1000 MT),696.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1960,Exports,(1000 MT),42.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1961,Exports,(1000 MT),68.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1962,Exports,(1000 MT),78.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1963,Exports,(1000 MT),51.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1964,Exports,(1000 MT),185.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1965,Exports,(1000 MT),209.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1966,Exports,(1000 MT),221.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1967,Exports,(1000 MT),242.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1968,Exports,(1000 MT),256.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1969,Exports,(1000 MT),282.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1970,Exports,(1000 MT),340.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1971,Exports,(1000 MT),359.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1972,Exports,(1000 MT),375.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1973,Exports,(1000 MT),397.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1974,Exports,(1000 MT),431.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1975,Exports,(1000 MT),514.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1976,Exports,(1000 MT),615.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1977,Exports,(1000 MT),758.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1978,Exports,(1000 MT),769.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1979,Exports,(1000 MT),905.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1980,Exports,(1000 MT),1157.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1981,Exports,(1000 MT),1564.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1982,Exports,(1000 MT),1472.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1983,Exports,(1000 MT),1386.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1984,Exports,(1000 MT),1339.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1985,Exports,(1000 MT),1395.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1986,Exports,(1000 MT),1457.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1987,Exports,(1000 MT),1670.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1988,Exports,(1000 MT),1814.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1989,Exports,(1000 MT),2026.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1990,Exports,(1000 MT),2277.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1991,Exports,(1000 MT),2493.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1992,Exports,(1000 MT),2782.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1993,Exports,(1000 MT),3179.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1994,Exports,(1000 MT),3907.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1995,Exports,(1000 MT),4257.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1996,Exports,(1000 MT),4771.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1997,Exports,(1000 MT),4083.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1998,Exports,(1000 MT),4245.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1999,Exports,(1000 MT),4377.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2000,Exports,(1000 MT),4774.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2001,Exports,(1000 MT),5498.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2002,Exports,(1000 MT),5648.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2003,Exports,(1000 MT),6016.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2004,Exports,(1000 MT),6079.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2005,Exports,(1000 MT),6863.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2006,Exports,(1000 MT),6515.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2007,Exports,(1000 MT),7329.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2008,Exports,(1000 MT),8373.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2009,Exports,(1000 MT),8487.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2010,Exports,(1000 MT),8912.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2011,Exports,(1000 MT),9588.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2012,Exports,(1000 MT),10098.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2013,Exports,(1000 MT),10284.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2014,Exports,(1000 MT),10489.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2015,Exports,(1000 MT),10285.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2016,Exports,(1000 MT),10706.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1960,Imports,(1000 MT),0.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1961,Imports,(1000 MT),0.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1962,Imports,(1000 MT),0.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1963,Imports,(1000 MT),0.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1964,Imports,(1000 MT),180.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1965,Imports,(1000 MT),198.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1966,Imports,(1000 MT),204.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1967,Imports,(1000 MT),205.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1968,Imports,(1000 MT),223.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1969,Imports,(1000 MT),247.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1970,Imports,(1000 MT),259.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1971,Imports,(1000 MT),300.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1972,Imports,(1000 MT),328.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1973,Imports,(1000 MT),319.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1974,Imports,(1000 MT),316.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1975,Imports,(1000 MT),398.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1976,Imports,(1000 MT),461.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1977,Imports,(1000 MT),523.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1978,Imports,(1000 MT),566.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1979,Imports,(1000 MT),666.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1980,Imports,(1000 MT),773.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1981,Imports,(1000 MT),1002.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1982,Imports,(1000 MT),930.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1983,Imports,(1000 MT),944.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1984,Imports,(1000 MT),1037.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1985,Imports,(1000 MT),1049.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1986,Imports,(1000 MT),1206.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1987,Imports,(1000 MT),1345.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1988,Imports,(1000 MT),1216.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1989,Imports,(1000 MT),1738.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1990,Imports,(1000 MT),1948.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1991,Imports,(1000 MT),2033.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1992,Imports,(1000 MT),2377.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1993,Imports,(1000 MT),2633.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1994,Imports,(1000 MT),3318.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1995,Imports,(1000 MT),3944.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1996,Imports,(1000 MT),4438.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1997,Imports,(1000 MT),3940.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1998,Imports,(1000 MT),3644.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1999,Imports,(1000 MT),4130.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2000,Imports,(1000 MT),4256.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2001,Imports,(1000 MT),4603.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2002,Imports,(1000 MT),4985.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2003,Imports,(1000 MT),5314.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2004,Imports,(1000 MT),5403.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2005,Imports,(1000 MT),6177.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2006,Imports,(1000 MT),6344.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2007,Imports,(1000 MT),6947.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2008,Imports,(1000 MT),7491.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2009,Imports,(1000 MT),7434.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2010,Imports,(1000 MT),7807.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2011,Imports,(1000 MT),8237.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2012,Imports,(1000 MT),8549.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2013,Imports,(1000 MT),8720.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2014,Imports,(1000 MT),8925.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2015,Imports,(1000 MT),8638.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2016,Imports,(1000 MT),8986.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1960,Production,(1000 MT),1966.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1961,Production,(1000 MT),2243.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1962,Production,(1000 MT),2267.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1963,Production,(1000 MT),2390.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1964,Production,(1000 MT),4448.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1965,Production,(1000 MT),4952.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1966,Production,(1000 MT),5523.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1967,Production,(1000 MT),5808.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1968,Production,(1000 MT),5995.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1969,Production,(1000 MT),6689.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1970,Production,(1000 MT),7470.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1971,Production,(1000 MT),7672.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1972,Production,(1000 MT),8455.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1973,Production,(1000 MT),9161.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1974,Production,(1000 MT),9767.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1975,Production,(1000 MT),10626.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1976,Production,(1000 MT),11850.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1977,Production,(1000 MT),12782.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1978,Production,(1000 MT),13937.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1979,Production,(1000 MT),15134.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1980,Production,(1000 MT),16116.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1981,Production,(1000 MT),17199.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1982,Production,(1000 MT),18343.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1983,Production,(1000 MT),18725.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1984,Production,(1000 MT),19387.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1985,Production,(1000 MT),20509.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1986,Production,(1000 MT),21166.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1987,Production,(1000 MT),24492.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1988,Production,(1000 MT),23851.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1989,Production,(1000 MT),25878.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1990,Production,(1000 MT),27712.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1991,Production,(1000 MT),29671.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1992,Production,(1000 MT),31499.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1993,Production,(1000 MT),32819.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1994,Production,(1000 MT),35513.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1995,Production,(1000 MT),39945.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1996,Production,(1000 MT),43302.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1997,Production,(1000 MT),45633.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1998,Production,(1000 MT),47225.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1999,Production,(1000 MT),50887.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2000,Production,(1000 MT),54025.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2001,Production,(1000 MT),56010.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2002,Production,(1000 MT),58429.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2003,Production,(1000 MT),59023.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2004,Production,(1000 MT),61040.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2005,Production,(1000 MT),64309.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2006,Production,(1000 MT),65444.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2007,Production,(1000 MT),69582.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2008,Production,(1000 MT),72839.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2009,Production,(1000 MT),73708.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2010,Production,(1000 MT),78029.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2011,Production,(1000 MT),81187.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2012,Production,(1000 MT),83321.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2013,Production,(1000 MT),84395.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2014,Production,(1000 MT),86761.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2015,Production,(1000 MT),89170.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2016,Production,(1000 MT),89189.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1960,Total Distribution,(1000 MT),2000.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1961,Total Distribution,(1000 MT),2272.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1962,Total Distribution,(1000 MT),2309.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1963,Total Distribution,(1000 MT),2425.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1964,Total Distribution,(1000 MT),4693.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1965,Total Distribution,(1000 MT),5223.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1966,Total Distribution,(1000 MT),5784.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1967,Total Distribution,(1000 MT),6105.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1968,Total Distribution,(1000 MT),6302.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1969,Total Distribution,(1000 MT),7002.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1970,Total Distribution,(1000 MT),7817.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1971,Total Distribution,(1000 MT),8073.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1972,Total Distribution,(1000 MT),8896.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1973,Total Distribution,(1000 MT),9573.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1974,Total Distribution,(1000 MT),10212.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1975,Total Distribution,(1000 MT),11146.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1976,Total Distribution,(1000 MT),12405.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1977,Total Distribution,(1000 MT),13441.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1978,Total Distribution,(1000 MT),14658.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1979,Total Distribution,(1000 MT),15939.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1980,Total Distribution,(1000 MT),17037.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1981,Total Distribution,(1000 MT),18351.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1982,Total Distribution,(1000 MT),19444.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1983,Total Distribution,(1000 MT),19932.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1984,Total Distribution,(1000 MT),20684.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1985,Total Distribution,(1000 MT),21862.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1986,Total Distribution,(1000 MT),22710.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1987,Total Distribution,(1000 MT),26472.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1988,Total Distribution,(1000 MT),25537.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1989,Total Distribution,(1000 MT),28004.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1990,Total Distribution,(1000 MT),29953.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1991,Total Distribution,(1000 MT),32059.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1992,Total Distribution,(1000 MT),34273.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1993,Total Distribution,(1000 MT),35879.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1994,Total Distribution,(1000 MT),39278.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1995,Total Distribution,(1000 MT),44386.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1996,Total Distribution,(1000 MT),48274.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1997,Total Distribution,(1000 MT),50053.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1998,Total Distribution,(1000 MT),51312.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1999,Total Distribution,(1000 MT),55484.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2000,Total Distribution,(1000 MT),58784.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2001,Total Distribution,(1000 MT),61153.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2002,Total Distribution,(1000 MT),63899.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2003,Total Distribution,(1000 MT),64845.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2004,Total Distribution,(1000 MT),66932.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2005,Total Distribution,(1000 MT),71083.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2006,Total Distribution,(1000 MT),72435.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2007,Total Distribution,(1000 MT),77116.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2008,Total Distribution,(1000 MT),80838.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2009,Total Distribution,(1000 MT),81729.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2010,Total Distribution,(1000 MT),86295.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2011,Total Distribution,(1000 MT),89959.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2012,Total Distribution,(1000 MT),92431.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2013,Total Distribution,(1000 MT),93777.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2014,Total Distribution,(1000 MT),96282.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2015,Total Distribution,(1000 MT),98410.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2016,Total Distribution,(1000 MT),98887.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1960,Total Supply,(1000 MT),2000.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1961,Total Supply,(1000 MT),2272.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1962,Total Supply,(1000 MT),2309.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1963,Total Supply,(1000 MT),2425.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1964,Total Supply,(1000 MT),4694.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1965,Total Supply,(1000 MT),5224.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1966,Total Supply,(1000 MT),5786.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1967,Total Supply,(1000 MT),6105.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1968,Total Supply,(1000 MT),6304.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1969,Total Supply,(1000 MT),7003.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1970,Total Supply,(1000 MT),7819.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1971,Total Supply,(1000 MT),8076.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1972,Total Supply,(1000 MT),8896.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1973,Total Supply,(1000 MT),9575.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1974,Total Supply,(1000 MT),10213.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1975,Total Supply,(1000 MT),11146.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1976,Total Supply,(1000 MT),12405.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1977,Total Supply,(1000 MT),13441.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1978,Total Supply,(1000 MT),14658.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1979,Total Supply,(1000 MT),15939.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1980,Total Supply,(1000 MT),17037.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1981,Total Supply,(1000 MT),18351.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1982,Total Supply,(1000 MT),19444.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1983,Total Supply,(1000 MT),19932.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1984,Total Supply,(1000 MT),20684.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1985,Total Supply,(1000 MT),21862.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1986,Total Supply,(1000 MT),22710.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1987,Total Supply,(1000 MT),26472.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1988,Total Supply,(1000 MT),25537.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1989,Total Supply,(1000 MT),28004.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1990,Total Supply,(1000 MT),29953.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1991,Total Supply,(1000 MT),32059.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1992,Total Supply,(1000 MT),34273.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1993,Total Supply,(1000 MT),35879.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1994,Total Supply,(1000 MT),39278.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1995,Total Supply,(1000 MT),44386.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1996,Total Supply,(1000 MT),48274.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1997,Total Supply,(1000 MT),50053.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1998,Total Supply,(1000 MT),51312.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1999,Total Supply,(1000 MT),55484.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2000,Total Supply,(1000 MT),58784.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2001,Total Supply,(1000 MT),61153.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2002,Total Supply,(1000 MT),63899.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2003,Total Supply,(1000 MT),64845.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2004,Total Supply,(1000 MT),66932.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2005,Total Supply,(1000 MT),71083.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2006,Total Supply,(1000 MT),72435.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2007,Total Supply,(1000 MT),77116.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2008,Total Supply,(1000 MT),80838.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2009,Total Supply,(1000 MT),81729.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2010,Total Supply,(1000 MT),86295.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2011,Total Supply,(1000 MT),89959.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2012,Total Supply,(1000 MT),92431.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2013,Total Supply,(1000 MT),93777.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2014,Total Supply,(1000 MT),96282.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2015,Total Supply,(1000 MT),98410.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2016,Total Supply,(1000 MT),98887.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1960,Total Use,(1000 MT),1971.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1961,Total Use,(1000 MT),2230.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1962,Total Use,(1000 MT),2274.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1963,Total Use,(1000 MT),2389.0,1,1,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1964,Total Use,(1000 MT),4619.0,1,24,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1965,Total Use,(1000 MT),5164.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1966,Total Use,(1000 MT),5692.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1967,Total Use,(1000 MT),6019.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1968,Total Use,(1000 MT),6235.0,1,27,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1969,Total Use,(1000 MT),6912.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1970,Total Use,(1000 MT),7713.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1971,Total Use,(1000 MT),7960.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1972,Total Use,(1000 MT),8806.0,1,29,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1973,Total Use,(1000 MT),9417.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1974,Total Use,(1000 MT),10090.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1975,Total Use,(1000 MT),11052.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1976,Total Use,(1000 MT),12267.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1977,Total Use,(1000 MT),13291.0,1,48,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1978,Total Use,(1000 MT),14519.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1979,Total Use,(1000 MT),15791.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1980,Total Use,(1000 MT),16887.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1981,Total Use,(1000 MT),18183.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1982,Total Use,(1000 MT),19186.0,1,50,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1983,Total Use,(1000 MT),19672.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1984,Total Use,(1000 MT),20408.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1985,Total Use,(1000 MT),21554.0,1,45,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1986,Total Use,(1000 MT),22338.0,1,44,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1987,Total Use,(1000 MT),25742.0,1,43,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1988,Total Use,(1000 MT),25153.0,1,42,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1989,Total Use,(1000 MT),27678.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1990,Total Use,(1000 MT),29600.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1991,Total Use,(1000 MT),31663.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1992,Total Use,(1000 MT),33834.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1993,Total Use,(1000 MT),35432.0,1,56,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1994,Total Use,(1000 MT),38784.0,1,55,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1995,Total Use,(1000 MT),43852.0,1,49,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1996,Total Use,(1000 MT),47778.0,1,51,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1997,Total Use,(1000 MT),49609.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1998,Total Use,(1000 MT),50840.0,1,59,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,1999,Total Use,(1000 MT),54981.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2000,Total Use,(1000 MT),58240.0,1,54,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2001,Total Use,(1000 MT),60668.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2002,Total Use,(1000 MT),63391.0,1,53,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2003,Total Use,(1000 MT),64356.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2004,Total Use,(1000 MT),66335.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2005,Total Use,(1000 MT),70436.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2006,Total Use,(1000 MT),71848.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2007,Total Use,(1000 MT),76608.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2008,Total Use,(1000 MT),80251.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2009,Total Use,(1000 MT),81270.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2010,Total Use,(1000 MT),85760.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2011,Total Use,(1000 MT),89398.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2012,Total Use,(1000 MT),91769.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2013,Total Use,(1000 MT),93181.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2014,Total Use,(1000 MT),95651.0,1,52,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2015,Total Use,(1000 MT),97698.0,1,47,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Poultry, Meat, Broiler",World,2016,Total Use,(1000 MT),98191.0,1,46,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/

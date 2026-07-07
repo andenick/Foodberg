@@ -1,5 +1,5 @@
 import { History } from 'lucide-react'
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { api } from '../services/api'
 import {
     CartesianGrid,
@@ -10,8 +10,9 @@ import {
     Tooltip,
     XAxis, YAxis
 } from 'recharts'
-import { useArkTheme } from '../arcanum/arkChartTheme'
+import { downloadCsv, useArkTheme } from '../arcanum/arkChartTheme'
 import { ChartMetaStrip, ScrollableDataTable } from '../components/ChartDetails'
+import { ReindexControl, distinctYears, reindexRows } from '../components/ReindexControl'
 
 // Color palette for multiple commodities
 const COLORS = [
@@ -37,7 +38,20 @@ export default function HistoricalTrends() {
     const [sourcesUsed, setSourcesUsed] = useState<Record<string, string>>({})
     const [loading, setLoading] = useState(true)
     const [timeRange, setTimeRange] = useState<string>('all')
+    const [baseYear, setBaseYear] = useState<number | null>(null)
     const t = useArkTheme()
+
+    // Base-year options + client-side reindexed view of exactly what's plotted.
+    const baseYears = useMemo(() => distinctYears(chartData, 'year'), [chartData])
+    const displayData = useMemo(
+        () => reindexRows(chartData, selectedCommodities, baseYear, 'year'),
+        [chartData, selectedCommodities, baseYear],
+    )
+
+    // Drop a base year that no longer exists in the visible window.
+    useEffect(() => {
+        if (baseYear !== null && !baseYears.includes(baseYear)) setBaseYear(null)
+    }, [baseYears, baseYear])
 
     useEffect(() => {
         api.getPriceCoverage()
@@ -232,7 +246,25 @@ export default function HistoricalTrends() {
 
             {/* Main Chart */}
             <div className="card mb-6">
-                <h2 className="text-xl font-semibold text-ark-fg mb-4">Historical Price Comparison</h2>
+                <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
+                    <h2 className="text-xl font-semibold text-ark-fg">Historical Price Comparison</h2>
+                    <div className="flex items-center gap-3 flex-wrap">
+                        <ReindexControl
+                            id="trends-reindex"
+                            years={baseYears}
+                            baseYear={baseYear}
+                            onChange={setBaseYear}
+                        />
+                        <button
+                            type="button"
+                            className="ark-btn ark-btn-sm ark-btn-ghost"
+                            onClick={() => downloadCsv(displayData, 'foodberg_trends')}
+                            disabled={displayData.length === 0}
+                        >
+                            Download CSV
+                        </button>
+                    </div>
+                </div>
 
                 {loading ? (
                     <div className="h-[500px] flex items-center justify-center">
@@ -241,11 +273,11 @@ export default function HistoricalTrends() {
                             <p className="text-ark-fg-dim mt-4">Loading price data...</p>
                         </div>
                     </div>
-                ) : chartData.length > 0 ? (
+                ) : displayData.length > 0 ? (
                     <>
                         <div className="h-[500px]">
                             <ResponsiveContainer width="100%" height="100%">
-                                <LineChart data={chartData} margin={{ left: 12, bottom: 8 }}>
+                                <LineChart data={displayData} margin={{ left: 12, bottom: 8 }}>
                                     <CartesianGrid strokeDasharray="3 3" stroke={t.gridStroke} />
                                     <XAxis
                                         dataKey="year"
@@ -257,13 +289,20 @@ export default function HistoricalTrends() {
                                         stroke={t.axisStroke}
                                         tick={{ fill: t.dim }}
                                         tickFormatter={(value) => value.toLocaleString()}
-                                        label={{ value: 'Price (annual average; per-unit basis varies)', angle: -90, position: 'insideLeft', fill: t.dim, fontSize: 11 }}
+                                        label={{
+                                            value: baseYear
+                                                ? `Index (${baseYear} = 100)`
+                                                : 'Price (annual average; per-unit basis varies)',
+                                            angle: -90, position: 'insideLeft', fill: t.dim, fontSize: 11
+                                        }}
                                     />
                                     <Tooltip
                                         contentStyle={t.tooltip}
                                         labelStyle={{ color: t.fg }}
                                         formatter={(value: number, name: string) => [
-                                            `${value.toLocaleString(undefined, { maximumFractionDigits: 3 })} ${units[name] || ''}`,
+                                            baseYear
+                                                ? `${value.toLocaleString(undefined, { maximumFractionDigits: 1 })} (${baseYear}=100)`
+                                                : `${value.toLocaleString(undefined, { maximumFractionDigits: 3 })} ${units[name] || ''}`,
                                             `${name.charAt(0).toUpperCase() + name.slice(1)} (${SRC_SHORT[sourcesUsed[name]] || ''})`
                                         ]}
                                         labelFormatter={(label) => `Year ${label}`}
@@ -291,15 +330,19 @@ export default function HistoricalTrends() {
                                 source: selectedCommodities
                                     .filter(c => sourcesUsed[c])
                                     .map(c => `${c}: ${SRC_SHORT[sourcesUsed[c]]}`).join(' · '),
-                                unit: selectedCommodities.map(c => `${c}: ${units[c] || '—'}`).join(' · '),
+                                unit: baseYear
+                                    ? `Reindexed (${baseYear} = 100, computed in-browser)`
+                                    : selectedCommodities.map(c => `${c}: ${units[c] || '—'}`).join(' · '),
                                 dateRange: yearSpan,
-                                points: chartData.length,
-                                note: 'Each point is the annual average of that commodity\'s preferred real series. Units differ — compare shapes, not levels.',
+                                points: displayData.length,
+                                note: baseYear
+                                    ? `Each series rescaled to 100 at ${baseYear}, so shapes are directly comparable across commodities and units.`
+                                    : 'Each point is the annual average of that commodity\'s preferred real series. Units differ — compare shapes, not levels.',
                             }}
                         />
 
                         <ScrollableDataTable
-                            rows={chartData}
+                            rows={displayData}
                             columns={[
                                 { key: 'year', label: 'Year' },
                                 ...selectedCommodities.map(c => ({ key: c, label: c.charAt(0).toUpperCase() + c.slice(1), numeric: true })),
@@ -318,7 +361,7 @@ export default function HistoricalTrends() {
             </div>
 
             {/* Correlation Matrix */}
-            {selectedCommodities.length >= 2 && chartData.length > 0 && (
+            {selectedCommodities.length >= 2 && displayData.length > 0 && (
                 <div className="card">
                     <h2 className="text-xl font-semibold text-ark-fg mb-4">Price Correlations</h2>
                     <p className="text-ark-fg-dim text-sm mb-4">
@@ -340,7 +383,7 @@ export default function HistoricalTrends() {
                                     <tr key={c1}>
                                         <td className="p-2 text-ark-fg-dim capitalize font-medium">{c1}</td>
                                         {selectedCommodities.map((c2, j) => {
-                                            const correlation = i === j ? 1 : calculateCorrelation(chartData, c1, c2)
+                                            const correlation = i === j ? 1 : calculateCorrelation(displayData, c1, c2)
                                             const bgColor = correlation > 0.7 ? 'bg-green-900/30' :
                                                 correlation > 0.3 ? 'bg-green-900/10' :
                                                     correlation < -0.3 ? 'bg-red-900/10' :

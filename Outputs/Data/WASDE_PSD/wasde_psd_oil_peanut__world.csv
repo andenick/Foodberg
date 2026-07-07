@@ -1,0 +1,661 @@
+commodity,country,market_year,attribute,unit,value,is_aggregate,n_countries,vintage_month,source,source_url
+"Oil, Peanut",World,1972,Beginning Stocks,(1000 MT),17.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Beginning Stocks,(1000 MT),33.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Beginning Stocks,(1000 MT),26.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Beginning Stocks,(1000 MT),37.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Beginning Stocks,(1000 MT),80.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Beginning Stocks,(1000 MT),145.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Beginning Stocks,(1000 MT),48.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Beginning Stocks,(1000 MT),129.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Beginning Stocks,(1000 MT),106.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Beginning Stocks,(1000 MT),95.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Beginning Stocks,(1000 MT),91.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Beginning Stocks,(1000 MT),60.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Beginning Stocks,(1000 MT),51.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Beginning Stocks,(1000 MT),37.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Beginning Stocks,(1000 MT),72.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Beginning Stocks,(1000 MT),65.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Beginning Stocks,(1000 MT),44.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Beginning Stocks,(1000 MT),56.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Beginning Stocks,(1000 MT),60.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Beginning Stocks,(1000 MT),43.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Beginning Stocks,(1000 MT),78.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Beginning Stocks,(1000 MT),65.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Beginning Stocks,(1000 MT),47.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Beginning Stocks,(1000 MT),67.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Beginning Stocks,(1000 MT),103.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Beginning Stocks,(1000 MT),99.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Beginning Stocks,(1000 MT),72.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Beginning Stocks,(1000 MT),60.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Beginning Stocks,(1000 MT),171.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Beginning Stocks,(1000 MT),184.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Beginning Stocks,(1000 MT),214.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Beginning Stocks,(1000 MT),192.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Beginning Stocks,(1000 MT),316.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Beginning Stocks,(1000 MT),281.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Beginning Stocks,(1000 MT),252.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Beginning Stocks,(1000 MT),202.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Beginning Stocks,(1000 MT),349.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Beginning Stocks,(1000 MT),403.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Beginning Stocks,(1000 MT),319.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Beginning Stocks,(1000 MT),320.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Beginning Stocks,(1000 MT),285.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Beginning Stocks,(1000 MT),227.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Beginning Stocks,(1000 MT),249.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Beginning Stocks,(1000 MT),252.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Beginning Stocks,(1000 MT),273.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Beginning Stocks,(1000 MT),402.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Beginning Stocks,(1000 MT),543.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Beginning Stocks,(1000 MT),439.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Beginning Stocks,(1000 MT),417.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Beginning Stocks,(1000 MT),314.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Beginning Stocks,(1000 MT),360.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Beginning Stocks,(1000 MT),392.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Beginning Stocks,(1000 MT),329.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Beginning Stocks,(1000 MT),371.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Beginning Stocks,(1000 MT),400.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Crush,(1000 MT),7957.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Crush,(1000 MT),8471.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Crush,(1000 MT),9252.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Crush,(1000 MT),10441.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Crush,(1000 MT),9336.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Crush,(1000 MT),8787.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Crush,(1000 MT),9927.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Crush,(1000 MT),9050.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Crush,(1000 MT),8045.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Crush,(1000 MT),10448.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Crush,(1000 MT),8796.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Crush,(1000 MT),9615.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Crush,(1000 MT),10073.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Crush,(1000 MT),9878.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Crush,(1000 MT),10213.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Crush,(1000 MT),10309.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Crush,(1000 MT),12277.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Crush,(1000 MT),11545.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Crush,(1000 MT),11574.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Crush,(1000 MT),11544.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Crush,(1000 MT),12285.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Crush,(1000 MT),12698.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Crush,(1000 MT),14470.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Crush,(1000 MT),13939.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Crush,(1000 MT),15021.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Crush,(1000 MT),13733.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Crush,(1000 MT),14730.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Crush,(1000 MT),13766.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Crush,(1000 MT),14835.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Crush,(1000 MT),16455.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Crush,(1000 MT),15198.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Crush,(1000 MT),16373.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Crush,(1000 MT),15367.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Crush,(1000 MT),15608.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Crush,(1000 MT),14239.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Crush,(1000 MT),15673.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Crush,(1000 MT),15627.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Crush,(1000 MT),14916.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Crush,(1000 MT),16148.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Crush,(1000 MT),16183.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Crush,(1000 MT),16121.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Crush,(1000 MT),17180.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Crush,(1000 MT),16533.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Crush,(1000 MT),16653.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Crush,(1000 MT),17520.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Crush,(1000 MT),18037.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Crush,(1000 MT),18043.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Crush,(1000 MT),19024.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Crush,(1000 MT),19559.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Crush,(1000 MT),19720.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Crush,(1000 MT),19076.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Crush,(1000 MT),18439.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Crush,(1000 MT),19354.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Crush,(1000 MT),19322.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Crush,(1000 MT),19417.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Domestic Consumption,(1000 MT),2310.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Domestic Consumption,(1000 MT),2493.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Domestic Consumption,(1000 MT),2665.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Domestic Consumption,(1000 MT),2907.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Domestic Consumption,(1000 MT),2607.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Domestic Consumption,(1000 MT),2586.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Domestic Consumption,(1000 MT),2780.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Domestic Consumption,(1000 MT),2733.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Domestic Consumption,(1000 MT),2399.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Domestic Consumption,(1000 MT),2946.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Domestic Consumption,(1000 MT),2529.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Domestic Consumption,(1000 MT),2821.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Domestic Consumption,(1000 MT),2933.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Domestic Consumption,(1000 MT),2737.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Domestic Consumption,(1000 MT),2884.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Domestic Consumption,(1000 MT),3002.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Domestic Consumption,(1000 MT),3615.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Domestic Consumption,(1000 MT),3341.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Domestic Consumption,(1000 MT),3306.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Domestic Consumption,(1000 MT),3184.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Domestic Consumption,(1000 MT),3575.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Domestic Consumption,(1000 MT),3595.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Domestic Consumption,(1000 MT),4139.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Domestic Consumption,(1000 MT),4016.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Domestic Consumption,(1000 MT),4460.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Domestic Consumption,(1000 MT),4218.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Domestic Consumption,(1000 MT),4411.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Domestic Consumption,(1000 MT),4219.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Domestic Consumption,(1000 MT),4706.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Domestic Consumption,(1000 MT),5270.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Domestic Consumption,(1000 MT),4969.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Domestic Consumption,(1000 MT),5146.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Domestic Consumption,(1000 MT),4974.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Domestic Consumption,(1000 MT),5001.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Domestic Consumption,(1000 MT),4651.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Domestic Consumption,(1000 MT),4927.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Domestic Consumption,(1000 MT),4949.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Domestic Consumption,(1000 MT),4898.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Domestic Consumption,(1000 MT),5231.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Domestic Consumption,(1000 MT),5241.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Domestic Consumption,(1000 MT),5264.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Domestic Consumption,(1000 MT),5512.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Domestic Consumption,(1000 MT),5345.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Domestic Consumption,(1000 MT),5369.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Domestic Consumption,(1000 MT),5505.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Domestic Consumption,(1000 MT),5668.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Domestic Consumption,(1000 MT),5945.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Domestic Consumption,(1000 MT),6183.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Domestic Consumption,(1000 MT),6414.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Domestic Consumption,(1000 MT),6307.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Domestic Consumption,(1000 MT),6204.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Domestic Consumption,(1000 MT),6027.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Domestic Consumption,(1000 MT),6154.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Domestic Consumption,(1000 MT),6208.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Domestic Consumption,(1000 MT),6261.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Ending Stocks,(1000 MT),33.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Ending Stocks,(1000 MT),26.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Ending Stocks,(1000 MT),37.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Ending Stocks,(1000 MT),80.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Ending Stocks,(1000 MT),145.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Ending Stocks,(1000 MT),48.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Ending Stocks,(1000 MT),129.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Ending Stocks,(1000 MT),106.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Ending Stocks,(1000 MT),95.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Ending Stocks,(1000 MT),93.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Ending Stocks,(1000 MT),60.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Ending Stocks,(1000 MT),51.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Ending Stocks,(1000 MT),37.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Ending Stocks,(1000 MT),72.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Ending Stocks,(1000 MT),65.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Ending Stocks,(1000 MT),44.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Ending Stocks,(1000 MT),56.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Ending Stocks,(1000 MT),60.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Ending Stocks,(1000 MT),64.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Ending Stocks,(1000 MT),78.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Ending Stocks,(1000 MT),65.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Ending Stocks,(1000 MT),47.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Ending Stocks,(1000 MT),67.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Ending Stocks,(1000 MT),103.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Ending Stocks,(1000 MT),99.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Ending Stocks,(1000 MT),72.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Ending Stocks,(1000 MT),60.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Ending Stocks,(1000 MT),171.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Ending Stocks,(1000 MT),184.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Ending Stocks,(1000 MT),214.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Ending Stocks,(1000 MT),192.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Ending Stocks,(1000 MT),316.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Ending Stocks,(1000 MT),281.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Ending Stocks,(1000 MT),252.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Ending Stocks,(1000 MT),202.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Ending Stocks,(1000 MT),349.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Ending Stocks,(1000 MT),403.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Ending Stocks,(1000 MT),319.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Ending Stocks,(1000 MT),320.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Ending Stocks,(1000 MT),285.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Ending Stocks,(1000 MT),227.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Ending Stocks,(1000 MT),249.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Ending Stocks,(1000 MT),252.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Ending Stocks,(1000 MT),273.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Ending Stocks,(1000 MT),402.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Ending Stocks,(1000 MT),543.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Ending Stocks,(1000 MT),439.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Ending Stocks,(1000 MT),417.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Ending Stocks,(1000 MT),314.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Ending Stocks,(1000 MT),360.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Ending Stocks,(1000 MT),392.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Ending Stocks,(1000 MT),329.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Ending Stocks,(1000 MT),371.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Ending Stocks,(1000 MT),400.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Ending Stocks,(1000 MT),407.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Exports,(1000 MT),434.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Exports,(1000 MT),325.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Exports,(1000 MT),352.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Exports,(1000 MT),566.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Exports,(1000 MT),498.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Exports,(1000 MT),426.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Exports,(1000 MT),460.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Exports,(1000 MT),414.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Exports,(1000 MT),265.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Exports,(1000 MT),451.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Exports,(1000 MT),478.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Exports,(1000 MT),287.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Exports,(1000 MT),257.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Exports,(1000 MT),294.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Exports,(1000 MT),344.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Exports,(1000 MT),281.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Exports,(1000 MT),193.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Exports,(1000 MT),261.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Exports,(1000 MT),284.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Exports,(1000 MT),297.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Exports,(1000 MT),178.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Exports,(1000 MT),265.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Exports,(1000 MT),229.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Exports,(1000 MT),229.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Exports,(1000 MT),192.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Exports,(1000 MT),208.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Exports,(1000 MT),257.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Exports,(1000 MT),283.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Exports,(1000 MT),209.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Exports,(1000 MT),215.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Exports,(1000 MT),151.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Exports,(1000 MT),186.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Exports,(1000 MT),155.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Exports,(1000 MT),195.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Exports,(1000 MT),184.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Exports,(1000 MT),165.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Exports,(1000 MT),206.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Exports,(1000 MT),202.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Exports,(1000 MT),195.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Exports,(1000 MT),201.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Exports,(1000 MT),180.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Exports,(1000 MT),221.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Exports,(1000 MT),260.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Exports,(1000 MT),250.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Exports,(1000 MT),277.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Exports,(1000 MT),285.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Exports,(1000 MT),315.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Exports,(1000 MT),320.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Exports,(1000 MT),478.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Exports,(1000 MT),357.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Exports,(1000 MT),353.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Exports,(1000 MT),371.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Exports,(1000 MT),585.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Exports,(1000 MT),435.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Exports,(1000 MT),435.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Feed Waste Dom. Cons.,(1000 MT),12.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Feed Waste Dom. Cons.,(1000 MT),6.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Feed Waste Dom. Cons.,(1000 MT),14.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Feed Waste Dom. Cons.,(1000 MT),6.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Feed Waste Dom. Cons.,(1000 MT),3.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Feed Waste Dom. Cons.,(1000 MT),1.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Feed Waste Dom. Cons.,(1000 MT),4.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Feed Waste Dom. Cons.,(1000 MT),3.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Feed Waste Dom. Cons.,(1000 MT),1.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Feed Waste Dom. Cons.,(1000 MT),1.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Feed Waste Dom. Cons.,(1000 MT),1.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Feed Waste Dom. Cons.,(1000 MT),1.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Feed Waste Dom. Cons.,(1000 MT),1.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Feed Waste Dom. Cons.,(1000 MT),1.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Feed Waste Dom. Cons.,(1000 MT),1.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Feed Waste Dom. Cons.,(1000 MT),1.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Feed Waste Dom. Cons.,(1000 MT),1.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Feed Waste Dom. Cons.,(1000 MT),2.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Feed Waste Dom. Cons.,(1000 MT),1.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Feed Waste Dom. Cons.,(1000 MT),1.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Feed Waste Dom. Cons.,(1000 MT),1.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Feed Waste Dom. Cons.,(1000 MT),1.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Feed Waste Dom. Cons.,(1000 MT),2.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Feed Waste Dom. Cons.,(1000 MT),2.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Feed Waste Dom. Cons.,(1000 MT),2.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Feed Waste Dom. Cons.,(1000 MT),1.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Feed Waste Dom. Cons.,(1000 MT),1.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Feed Waste Dom. Cons.,(1000 MT),1.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Feed Waste Dom. Cons.,(1000 MT),9.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Feed Waste Dom. Cons.,(1000 MT),9.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Feed Waste Dom. Cons.,(1000 MT),5.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Feed Waste Dom. Cons.,(1000 MT),3.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Feed Waste Dom. Cons.,(1000 MT),2.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Feed Waste Dom. Cons.,(1000 MT),3.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Feed Waste Dom. Cons.,(1000 MT),1.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Feed Waste Dom. Cons.,(1000 MT),1.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Feed Waste Dom. Cons.,(1000 MT),1.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Feed Waste Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Feed Waste Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Feed Waste Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Feed Waste Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Feed Waste Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Feed Waste Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Feed Waste Dom. Cons.,(1000 MT),0.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Feed Waste Dom. Cons.,(1000 MT),0.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Food Use Dom. Cons.,(1000 MT),2298.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Food Use Dom. Cons.,(1000 MT),2487.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Food Use Dom. Cons.,(1000 MT),2651.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Food Use Dom. Cons.,(1000 MT),2905.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Food Use Dom. Cons.,(1000 MT),2604.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Food Use Dom. Cons.,(1000 MT),2585.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Food Use Dom. Cons.,(1000 MT),2776.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Food Use Dom. Cons.,(1000 MT),2730.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Food Use Dom. Cons.,(1000 MT),2398.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Food Use Dom. Cons.,(1000 MT),2865.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Food Use Dom. Cons.,(1000 MT),2464.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Food Use Dom. Cons.,(1000 MT),2740.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Food Use Dom. Cons.,(1000 MT),2856.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Food Use Dom. Cons.,(1000 MT),2716.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Food Use Dom. Cons.,(1000 MT),2870.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Food Use Dom. Cons.,(1000 MT),2983.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Food Use Dom. Cons.,(1000 MT),3593.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Food Use Dom. Cons.,(1000 MT),3318.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Food Use Dom. Cons.,(1000 MT),3288.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Food Use Dom. Cons.,(1000 MT),3167.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Food Use Dom. Cons.,(1000 MT),3560.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Food Use Dom. Cons.,(1000 MT),3580.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Food Use Dom. Cons.,(1000 MT),4130.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Food Use Dom. Cons.,(1000 MT),4007.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Food Use Dom. Cons.,(1000 MT),4453.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Food Use Dom. Cons.,(1000 MT),4212.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Food Use Dom. Cons.,(1000 MT),4405.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Food Use Dom. Cons.,(1000 MT),4213.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Food Use Dom. Cons.,(1000 MT),4687.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Food Use Dom. Cons.,(1000 MT),5244.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Food Use Dom. Cons.,(1000 MT),4947.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Food Use Dom. Cons.,(1000 MT),5115.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Food Use Dom. Cons.,(1000 MT),4944.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Food Use Dom. Cons.,(1000 MT),4981.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Food Use Dom. Cons.,(1000 MT),4636.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Food Use Dom. Cons.,(1000 MT),4909.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Food Use Dom. Cons.,(1000 MT),4932.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Food Use Dom. Cons.,(1000 MT),4882.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Food Use Dom. Cons.,(1000 MT),5215.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Food Use Dom. Cons.,(1000 MT),5230.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Food Use Dom. Cons.,(1000 MT),5253.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Food Use Dom. Cons.,(1000 MT),5501.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Food Use Dom. Cons.,(1000 MT),5334.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Food Use Dom. Cons.,(1000 MT),5358.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Food Use Dom. Cons.,(1000 MT),5494.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Food Use Dom. Cons.,(1000 MT),5657.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Food Use Dom. Cons.,(1000 MT),5934.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Food Use Dom. Cons.,(1000 MT),6172.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Food Use Dom. Cons.,(1000 MT),6403.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Food Use Dom. Cons.,(1000 MT),6296.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Food Use Dom. Cons.,(1000 MT),6193.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Food Use Dom. Cons.,(1000 MT),6016.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Food Use Dom. Cons.,(1000 MT),6143.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Food Use Dom. Cons.,(1000 MT),6197.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Food Use Dom. Cons.,(1000 MT),6250.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Imports,(1000 MT),401.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Imports,(1000 MT),315.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Imports,(1000 MT),309.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Imports,(1000 MT),377.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Imports,(1000 MT),399.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Imports,(1000 MT),359.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Imports,(1000 MT),438.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Imports,(1000 MT),479.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Imports,(1000 MT),319.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Imports,(1000 MT),381.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Imports,(1000 MT),439.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Imports,(1000 MT),327.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Imports,(1000 MT),299.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Imports,(1000 MT),285.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Imports,(1000 MT),316.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Imports,(1000 MT),347.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Imports,(1000 MT),328.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Imports,(1000 MT),294.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Imports,(1000 MT),302.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Imports,(1000 MT),222.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Imports,(1000 MT),230.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Imports,(1000 MT),228.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Imports,(1000 MT),249.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Imports,(1000 MT),215.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Imports,(1000 MT),222.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Imports,(1000 MT),223.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Imports,(1000 MT),216.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Imports,(1000 MT),202.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Imports,(1000 MT),205.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Imports,(1000 MT),221.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Imports,(1000 MT),212.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Imports,(1000 MT),192.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Imports,(1000 MT),160.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Imports,(1000 MT),153.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Imports,(1000 MT),184.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Imports,(1000 MT),153.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Imports,(1000 MT),143.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Imports,(1000 MT),186.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Imports,(1000 MT),197.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Imports,(1000 MT),166.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Imports,(1000 MT),161.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Imports,(1000 MT),191.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Imports,(1000 MT),249.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Imports,(1000 MT),249.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Imports,(1000 MT),231.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Imports,(1000 MT),245.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Imports,(1000 MT),297.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Imports,(1000 MT),313.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Imports,(1000 MT),443.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Imports,(1000 MT),292.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Imports,(1000 MT),389.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Imports,(1000 MT),339.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Imports,(1000 MT),473.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Imports,(1000 MT),366.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Imports,(1000 MT),368.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Industrial Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Industrial Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Industrial Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Industrial Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Industrial Dom. Cons.,(1000 MT),0.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Industrial Dom. Cons.,(1000 MT),0.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Industrial Dom. Cons.,(1000 MT),0.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Industrial Dom. Cons.,(1000 MT),0.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Industrial Dom. Cons.,(1000 MT),0.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Industrial Dom. Cons.,(1000 MT),80.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Industrial Dom. Cons.,(1000 MT),64.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Industrial Dom. Cons.,(1000 MT),80.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Industrial Dom. Cons.,(1000 MT),76.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Industrial Dom. Cons.,(1000 MT),20.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Industrial Dom. Cons.,(1000 MT),13.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Industrial Dom. Cons.,(1000 MT),18.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Industrial Dom. Cons.,(1000 MT),21.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Industrial Dom. Cons.,(1000 MT),21.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Industrial Dom. Cons.,(1000 MT),17.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Industrial Dom. Cons.,(1000 MT),16.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Industrial Dom. Cons.,(1000 MT),14.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Industrial Dom. Cons.,(1000 MT),14.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Industrial Dom. Cons.,(1000 MT),7.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Industrial Dom. Cons.,(1000 MT),7.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Industrial Dom. Cons.,(1000 MT),5.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Industrial Dom. Cons.,(1000 MT),5.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Industrial Dom. Cons.,(1000 MT),5.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Industrial Dom. Cons.,(1000 MT),5.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Industrial Dom. Cons.,(1000 MT),10.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Industrial Dom. Cons.,(1000 MT),17.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Industrial Dom. Cons.,(1000 MT),17.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Industrial Dom. Cons.,(1000 MT),28.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Industrial Dom. Cons.,(1000 MT),28.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Industrial Dom. Cons.,(1000 MT),17.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Industrial Dom. Cons.,(1000 MT),14.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Industrial Dom. Cons.,(1000 MT),17.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Industrial Dom. Cons.,(1000 MT),16.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Industrial Dom. Cons.,(1000 MT),16.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Industrial Dom. Cons.,(1000 MT),16.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Industrial Dom. Cons.,(1000 MT),11.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Industrial Dom. Cons.,(1000 MT),11.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Industrial Dom. Cons.,(1000 MT),11.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Industrial Dom. Cons.,(1000 MT),11.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Industrial Dom. Cons.,(1000 MT),11.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Industrial Dom. Cons.,(1000 MT),11.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Production,(1000 MT),2359.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Production,(1000 MT),2496.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Production,(1000 MT),2719.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Production,(1000 MT),3139.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Production,(1000 MT),2771.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Production,(1000 MT),2556.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Production,(1000 MT),2883.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Production,(1000 MT),2645.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Production,(1000 MT),2334.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Production,(1000 MT),3014.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Production,(1000 MT),2537.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Production,(1000 MT),2772.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Production,(1000 MT),2877.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Production,(1000 MT),2781.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Production,(1000 MT),2905.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Production,(1000 MT),2915.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Production,(1000 MT),3492.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Production,(1000 MT),3312.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Production,(1000 MT),3292.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Production,(1000 MT),3294.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Production,(1000 MT),3510.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Production,(1000 MT),3614.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Production,(1000 MT),4139.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Production,(1000 MT),4066.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Production,(1000 MT),4426.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Production,(1000 MT),4176.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Production,(1000 MT),4440.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Production,(1000 MT),4411.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Production,(1000 MT),4723.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Production,(1000 MT),5294.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Production,(1000 MT),4886.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Production,(1000 MT),5264.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Production,(1000 MT),4934.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Production,(1000 MT),5014.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Production,(1000 MT),4601.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Production,(1000 MT),5086.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Production,(1000 MT),5066.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Production,(1000 MT),4830.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Production,(1000 MT),5230.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Production,(1000 MT),5241.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Production,(1000 MT),5225.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Production,(1000 MT),5564.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Production,(1000 MT),5359.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Production,(1000 MT),5391.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Production,(1000 MT),5680.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Production,(1000 MT),5849.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Production,(1000 MT),5859.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Production,(1000 MT),6168.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Production,(1000 MT),6346.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Production,(1000 MT),6418.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Production,(1000 MT),6200.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Production,(1000 MT),5996.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Production,(1000 MT),6308.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Production,(1000 MT),6306.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Production,(1000 MT),6335.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Total Distribution,(1000 MT),2777.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Total Distribution,(1000 MT),2844.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Total Distribution,(1000 MT),3054.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Total Distribution,(1000 MT),3553.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Total Distribution,(1000 MT),3250.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Total Distribution,(1000 MT),3060.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Total Distribution,(1000 MT),3369.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Total Distribution,(1000 MT),3253.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Total Distribution,(1000 MT),2759.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Total Distribution,(1000 MT),3490.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Total Distribution,(1000 MT),3067.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Total Distribution,(1000 MT),3159.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Total Distribution,(1000 MT),3227.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Total Distribution,(1000 MT),3103.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Total Distribution,(1000 MT),3293.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Total Distribution,(1000 MT),3327.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Total Distribution,(1000 MT),3864.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Total Distribution,(1000 MT),3662.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Total Distribution,(1000 MT),3654.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Total Distribution,(1000 MT),3559.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Total Distribution,(1000 MT),3818.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Total Distribution,(1000 MT),3907.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Total Distribution,(1000 MT),4435.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Total Distribution,(1000 MT),4348.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Total Distribution,(1000 MT),4751.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Total Distribution,(1000 MT),4498.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Total Distribution,(1000 MT),4728.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Total Distribution,(1000 MT),4673.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Total Distribution,(1000 MT),5099.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Total Distribution,(1000 MT),5699.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Total Distribution,(1000 MT),5312.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Total Distribution,(1000 MT),5648.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Total Distribution,(1000 MT),5410.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Total Distribution,(1000 MT),5448.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Total Distribution,(1000 MT),5037.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Total Distribution,(1000 MT),5441.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Total Distribution,(1000 MT),5558.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Total Distribution,(1000 MT),5419.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Total Distribution,(1000 MT),5746.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Total Distribution,(1000 MT),5727.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Total Distribution,(1000 MT),5671.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Total Distribution,(1000 MT),5982.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Total Distribution,(1000 MT),5857.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Total Distribution,(1000 MT),5892.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Total Distribution,(1000 MT),6184.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Total Distribution,(1000 MT),6496.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Total Distribution,(1000 MT),6699.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Total Distribution,(1000 MT),6920.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Total Distribution,(1000 MT),7206.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Total Distribution,(1000 MT),7024.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Total Distribution,(1000 MT),6949.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Total Distribution,(1000 MT),6727.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Total Distribution,(1000 MT),7110.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Total Distribution,(1000 MT),7043.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Total Distribution,(1000 MT),7103.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1972,Total Supply,(1000 MT),2777.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1973,Total Supply,(1000 MT),2844.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1974,Total Supply,(1000 MT),3054.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1975,Total Supply,(1000 MT),3553.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1976,Total Supply,(1000 MT),3250.0,1,31,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1977,Total Supply,(1000 MT),3060.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1978,Total Supply,(1000 MT),3369.0,1,36,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1979,Total Supply,(1000 MT),3253.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1980,Total Supply,(1000 MT),2759.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1981,Total Supply,(1000 MT),3490.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1982,Total Supply,(1000 MT),3067.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1983,Total Supply,(1000 MT),3159.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1984,Total Supply,(1000 MT),3227.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1985,Total Supply,(1000 MT),3103.0,1,35,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1986,Total Supply,(1000 MT),3293.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1987,Total Supply,(1000 MT),3327.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1988,Total Supply,(1000 MT),3864.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1989,Total Supply,(1000 MT),3662.0,1,33,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1990,Total Supply,(1000 MT),3654.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1991,Total Supply,(1000 MT),3559.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1992,Total Supply,(1000 MT),3818.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1993,Total Supply,(1000 MT),3907.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1994,Total Supply,(1000 MT),4435.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1995,Total Supply,(1000 MT),4348.0,1,26,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1996,Total Supply,(1000 MT),4751.0,1,25,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1997,Total Supply,(1000 MT),4498.0,1,32,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1998,Total Supply,(1000 MT),4728.0,1,34,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,1999,Total Supply,(1000 MT),4673.0,1,37,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2000,Total Supply,(1000 MT),5099.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2001,Total Supply,(1000 MT),5699.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2002,Total Supply,(1000 MT),5312.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2003,Total Supply,(1000 MT),5648.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2004,Total Supply,(1000 MT),5410.0,1,38,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2005,Total Supply,(1000 MT),5448.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2006,Total Supply,(1000 MT),5037.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2007,Total Supply,(1000 MT),5441.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2008,Total Supply,(1000 MT),5558.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2009,Total Supply,(1000 MT),5419.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2010,Total Supply,(1000 MT),5746.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2011,Total Supply,(1000 MT),5727.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2012,Total Supply,(1000 MT),5671.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2013,Total Supply,(1000 MT),5982.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2014,Total Supply,(1000 MT),5857.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2015,Total Supply,(1000 MT),5892.0,1,40,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2016,Total Supply,(1000 MT),6184.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2017,Total Supply,(1000 MT),6496.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2018,Total Supply,(1000 MT),6699.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2019,Total Supply,(1000 MT),6920.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2020,Total Supply,(1000 MT),7206.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2021,Total Supply,(1000 MT),7024.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2022,Total Supply,(1000 MT),6949.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2023,Total Supply,(1000 MT),6727.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2024,Total Supply,(1000 MT),7110.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2025,Total Supply,(1000 MT),7043.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
+"Oil, Peanut",World,2026,Total Supply,(1000 MT),7103.0,1,41,agg,"USDA FAS PS&D (Production, Supply & Distribution)",https://apps.fas.usda.gov/psdonline/downloads/
