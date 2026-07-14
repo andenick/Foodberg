@@ -1,5 +1,6 @@
 import { Link, Route, Routes, useLocation } from 'react-router-dom'
 import ArcanumChrome, { type Ecosystem, type NavItem } from './arcanum/ArcanumChrome'
+import { type Cdf } from './arcanum/ArkTriad'
 import ecosystemData from './arcanum/ecosystem.json'
 import CommodityDetail from './pages/CommodityDetail'
 import DataSources from './pages/DataSources'
@@ -13,6 +14,9 @@ import SupplyDemand from './pages/SupplyDemand'
 
 // Canonical Arcanum Research ecosystem manifest (bundled statically — no CDN).
 const ecosystem = ecosystemData as unknown as Ecosystem
+
+// This site's Code-&-Data-First triad targets (drives the action footer).
+const FOODBERG_CDF = (ecosystem.sites?.find((s) => s.key === 'foodberg') as unknown as { cdf?: Cdf } | undefined)?.cdf ?? null
 
 // Foodberg's real views, mapped to the shared-chrome nav.
 const NAV: NavItem[] = [
@@ -36,6 +40,7 @@ function App() {
             dprUrl="/sources"
             dprLabel="Data Sources"
             ecosystem={ecosystem}
+            cdf={FOODBERG_CDF}
             activePath={location.pathname}
         >
             <Routes>

@@ -2,6 +2,12 @@ import { ArrowRight, BarChart3, Database, Globe, History, TrendingUp } from 'luc
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { api } from '../services/api'
+import ArkTriad, { type Cdf } from '../arcanum/ArkTriad'
+import ecosystem from '../arcanum/ecosystem.json'
+
+// The hub-level Research Triad targets for this site (Data · Code · Outputs),
+// read from the single-source ecosystem manifest's `cdf` block.
+const FOODBERG_CDF = (ecosystem.sites.find((s) => s.key === 'foodberg') as unknown as { cdf?: Cdf } | undefined)?.cdf ?? null
 
 // Shape of the /api/data/status response we rely on (only the fields used here).
 interface DataStatusSource {
@@ -110,7 +116,7 @@ export default function HomePage() {
         { label: 'Commodities', value: `${COMMODITIES_COUNT}+`, footnote: `as of ${COMMODITIES_AS_OF}` },
         { label: 'Data Sources', value: liveStats.sources },
         { label: 'Years of Data', value: liveStats.years === '—' ? '—' : `${liveStats.years}+` },
-        { label: 'Price Records', value: liveStats.records },
+        { label: 'Database records', value: liveStats.records },
     ]
 
     // Featured commodities link into the Price Explorer pre-selected to that
@@ -139,7 +145,7 @@ export default function HomePage() {
                     </h1>
                     <p className="text-xl text-ark-fg-dim mb-8 max-w-3xl mx-auto">
                         A comprehensive tool for historically-minded chefs and researchers to understand
-                        the broader environmental and historical context of food commodity prices.
+                        the broader historical and economic context of food commodity prices.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
                         <Link to="/index" className="btn-primary text-lg px-8 py-3 inline-flex items-center justify-center space-x-2">
@@ -151,6 +157,13 @@ export default function HomePage() {
                             <span>Explore Prices</span>
                         </Link>
                     </div>
+                </div>
+            </section>
+
+            {/* Research Triad — hub-level Data · Code · Outputs, above the fold. */}
+            <section className="pb-4 px-4 sm:px-6 lg:px-8">
+                <div className="max-w-7xl mx-auto">
+                    <ArkTriad cdf={FOODBERG_CDF} track={{ site: 'foodberg', endpoint: '/__track' }} />
                 </div>
             </section>
 

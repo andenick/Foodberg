@@ -1,0 +1,44 @@
+# Foodberg
+
+> Foodberg (foodberg.org) is a global food & agriculture data explorer: historical
+> food-commodity prices, USDA WASDE supply & demand, USDA FAS PS&D balance sheets,
+> and FAO/FRED/World Bank indicators — with the underlying data and code openly
+> available. Part of the Heterodata ecosystem (an Arcanum Research project).
+
+## What this site is
+
+- An interactive explorer over real, cited public data. Foodberg is an educational
+  research tool, not an official statistical agency — defer to each named upstream
+  source (USDA, FAO, FRED/BLS, World Bank) as authoritative.
+- Data is downloadable (CSV + Parquet, never JSON). Code is open source.
+
+## Get the data and the code
+
+- Data bundle (curated, CSV + Parquet, ~12 MB): https://foodberg.org/downloads/foodberg-data.zip
+  - Contents: global spot prices, composite food-price indices, economic indicators,
+    retail prices, USDA WASDE, and a US+World USDA FAS PS&D extract, plus a data
+    dictionary, PROVENANCE.csv and a CC BY 4.0 LICENSE.
+- Per-dataset downloads: https://foodberg.org/api/download/{dataset}.csv and .parquet
+- Source code (pipeline + SPA, Python + TypeScript, MIT): https://github.com/andenick/Foodberg
+
+## Explore (outputs)
+
+- Price Explorer: https://foodberg.org/explore
+- Supply & Demand (USDA PS&D, 1960→present): https://foodberg.org/supply-demand
+- Food Price Index: https://foodberg.org/index
+- Geographic comparison: https://foodberg.org/geographic
+- Historical trends: https://foodberg.org/trends
+- Data Sources / methodology: https://foodberg.org/sources
+
+## Data sources
+
+- USDA WASDE / NASS — supply & demand estimates
+- USDA FAS PS&D — production, supply & distribution balance sheets
+- FAO — food price index and per-country food CPI
+- FRED / BLS — macro and food-economic indicators
+- World Bank Pink Sheet — global commodity prices
+
+## Ecosystem
+
+- Hub: https://heterodata.org
+- Architect: https://nickanderson.us

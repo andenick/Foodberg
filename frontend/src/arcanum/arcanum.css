@@ -623,3 +623,94 @@ code, kbd, samp, pre { font-family: var(--ark-mono); }
   :root:not([data-theme]) .ark-theme-sun  { display: none; }
   :root:not([data-theme]) .ark-theme-moon { display: inline; }
 }
+
+/* =============================================================================
+   CDF Kit v2.0.1 — Research Triad + Action Footer (appended 2026-07-14).
+   Single-source blocks lifted from the kit arcanum.css so the vendored copy
+   carries the triad + footer-v2 styles without a full re-vendor.
+   Data/Code = PRIMARY (accent fill, --ark-on-accent ink); Outputs = SECONDARY
+   (outline, fills on hover). Stacked full-width < 768px; equal-width row ≥ 768px. */
+.ark-triad {
+  display: grid;
+  grid-template-columns: 1fr;                 /* mobile: stacked, full width */
+  gap: var(--ark-space-3);
+  margin: var(--ark-space-5) 0;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .ark-triad { grid-template-columns: repeat(3, minmax(0, 1fr)); }  /* one row, equal cols */
+}
+.ark-triad[hidden], .ark-triad-btn[hidden] { display: none; }
+
+.ark-triad-btn {
+  display: flex; align-items: center; gap: var(--ark-space-3);
+  padding: var(--ark-space-4) var(--ark-space-5);
+  border-radius: var(--ark-radius-sm);
+  border: 1px solid var(--ark-accent);
+  background: var(--ark-accent);
+  color: var(--ark-on-accent) !important;
+  text-decoration: none; cursor: pointer;
+  transition: filter .12s ease, transform .12s ease, box-shadow .12s ease;
+  min-height: 56px;
+}
+.ark-triad-btn:hover { filter: brightness(1.08); text-decoration: none; transform: translateY(-1px); box-shadow: var(--ark-shadow); }
+.ark-triad-btn:active { filter: brightness(.94); transform: none; }
+.ark-triad-btn:focus-visible { outline: 3px solid var(--ark-accent); outline-offset: 2px; }
+
+.ark-triad-icon { font-size: 1.25rem; line-height: 1; flex: none; }
+.ark-triad-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.ark-triad-label { font-weight: 600; font-size: var(--ark-text-md); line-height: 1.2; }
+.ark-triad-sub {
+  font-size: var(--ark-text-sm); line-height: 1.2;
+  color: var(--ark-on-accent); opacity: .88;   /* AA-safe: the on-accent pair is AA by token contract */
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.ark-triad-sub:empty { display: none; }
+
+/* Outputs = SECONDARY (outline). --ark-fg ink on transparent; fills accent on hover. */
+.ark-triad-secondary {
+  background: transparent;
+  color: var(--ark-fg) !important;
+  border-color: var(--ark-accent);
+}
+.ark-triad-secondary .ark-triad-icon,
+.ark-triad-secondary .ark-triad-label { color: var(--ark-fg); }
+.ark-triad-secondary .ark-triad-sub { color: var(--ark-fg-dim); opacity: 1; }
+.ark-triad-secondary:hover { background: var(--ark-accent); color: var(--ark-on-accent) !important; filter: none; }
+.ark-triad-secondary:hover .ark-triad-icon,
+.ark-triad-secondary:hover .ark-triad-label,
+.ark-triad-secondary:hover .ark-triad-sub { color: var(--ark-on-accent); opacity: 1; }
+
+/* Compact form — the footer triad (smaller, tighter). */
+.ark-triad-compact { gap: var(--ark-space-2); margin: 0; }
+.ark-triad-compact .ark-triad-btn { padding: var(--ark-space-2) var(--ark-space-3); min-height: 0; }
+.ark-triad-compact .ark-triad-icon { font-size: 1rem; }
+.ark-triad-compact .ark-triad-label { font-size: var(--ark-text-sm); }
+.ark-triad-compact .ark-triad-sub { font-size: .72rem; }
+
+/* ── §21 ArkActionFooter — the footer v2 useful-buttons bar ────────────────────
+   CODE_DATA_FIRST_STANDARD.md §B1.2. A compact triad + "Website source" + "Cite
+   this site", ABOVE the existing dual-anchor colophon (which is preserved exactly
+   — heterodata.org hub + nickanderson.us author). One footer per page. */
+.ark-action-footer .ark-action-bar {
+  max-width: var(--ark-maxw); margin: 0 auto;
+  padding: var(--ark-space-5) 1.25rem var(--ark-space-4);
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: var(--ark-space-4) var(--ark-space-5);
+  border-bottom: 1px solid var(--ark-line);
+}
+.ark-action-footer .ark-triad-compact { flex: 1 1 320px; max-width: 680px; }
+.ark-action-tools { display: inline-flex; flex-wrap: wrap; gap: var(--ark-space-2); align-items: center; }
+.ark-action-tools [hidden] { display: none; }
+
+/* Action-footer tool buttons (Website source / Cite) — kit-consistent, self-contained. */
+.ark-action-btn {
+  display: inline-flex; align-items: center; gap: .4rem;
+  padding: var(--ark-space-2) var(--ark-space-3);
+  border: 1px solid var(--ark-line); border-radius: var(--ark-radius-sm);
+  background: transparent; color: var(--ark-fg); cursor: pointer;
+  font-size: var(--ark-text-sm); line-height: 1; text-decoration: none;
+  transition: border-color .12s ease, color .12s ease, background .12s ease;
+}
+.ark-action-btn:hover { border-color: var(--ark-accent); color: var(--ark-accent); text-decoration: none; }
+.ark-action-btn:focus-visible { outline: 2px solid var(--ark-accent); outline-offset: 2px; }

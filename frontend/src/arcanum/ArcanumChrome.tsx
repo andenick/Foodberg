@@ -44,6 +44,7 @@
    ============================================================================= */
 import React from "react";
 import { Moon, Sun } from "lucide-react";
+import ArkTriad, { type Cdf } from "./ArkTriad";
 
 /* ---- light/dark theme toggle ---------------------------------------------
    Toggles the `.dark` class (Tailwind darkMode:'class') AND the kit
@@ -139,6 +140,8 @@ export interface ArcanumChromeProps {
   ecosystem?: Ecosystem;
   /** Current path for nav `.active` (e.g. location.pathname). */
   activePath?: string;
+  /** This site's `cdf` block — drives the action-footer (triad + repo + cite). */
+  cdf?: Cdf | null;
   children?: React.ReactNode;
 }
 
@@ -262,13 +265,46 @@ export const ArcanumHeader: React.FC<ArcanumChromeProps> = (props) => {
   );
 };
 
-/* ---- footer (MANDATED dual anchors) --------------------------------------- */
+/* ---- cite control: copies cdf.citation to the clipboard (graceful fallback) --- */
+const ArkCiteButton: React.FC<{ citation?: string }> = ({ citation }) => {
+  const [copied, setCopied] = React.useState(false);
+  if (!citation) return null;
+  const copy = () => {
+    const done = () => { setCopied(true); window.setTimeout(() => setCopied(false), 1800); };
+    try {
+      if (navigator.clipboard?.writeText) { navigator.clipboard.writeText(citation).then(done).catch(done); }
+      else { done(); }
+    } catch { done(); }
+  };
+  return (
+    <button type="button" className="ark-action-btn" data-cdf-cite onClick={copy}
+      aria-label="Copy the citation for this site" title={citation}>
+      {copied ? "Citation copied" : "Cite this site"}
+    </button>
+  );
+};
+
+/* ---- footer v2: action bar (triad + repo + cite) ABOVE the MANDATED dual anchors */
 export const ArcanumFooter: React.FC<Pick<ArcanumChromeProps,
-  "ecosystem" | "dprUrl" | "dprLabel">> = ({ ecosystem, dprUrl, dprLabel = "Provenance" }) => {
+  "ecosystem" | "dprUrl" | "dprLabel" | "cdf">> = ({ ecosystem, dprUrl, dprLabel = "Provenance", cdf }) => {
     const hub = ecosystem?.anchors?.hub ?? HUB;
     const author = ecosystem?.anchors?.author ?? AUTHOR;
+    const siteRepo = cdf?.site_repo ?? null;
     return (
-      <footer className="ark-footer">
+      <footer className="ark-footer ark-action-footer">
+        {cdf ? (
+          <div className="ark-action-bar" aria-label="Get the data, the code, and cite this site">
+            <ArkTriad cdf={cdf} className="ark-triad-compact"
+              track={{ site: "foodberg", endpoint: "/__track" }} />
+            <div className="ark-action-tools">
+              {siteRepo ? (
+                <a className="ark-action-btn" data-cdf-repo href={siteRepo}
+                  aria-label="View this website's source code">Website source</a>
+              ) : null}
+              <ArkCiteButton citation={cdf.citation} />
+            </div>
+          </div>
+        ) : null}
         <div className="ark-footer-inner">
           <span><strong>Heterodata</strong> &mdash; an Arcanum Research project</span>
           <span className="ark-sep" aria-hidden="true">&middot;</span>
@@ -305,7 +341,7 @@ const ArcanumChrome: React.FC<ArcanumChromeProps> = (props) => {
       <main id="ark-main" className="ark-main">
         <div className="ark-wrap">{children}</div>
       </main>
-      <ArcanumFooter ecosystem={props.ecosystem} dprUrl={props.dprUrl} dprLabel={props.dprLabel} />
+      <ArcanumFooter ecosystem={props.ecosystem} dprUrl={props.dprUrl} dprLabel={props.dprLabel} cdf={props.cdf} />
     </div>
   );
 };

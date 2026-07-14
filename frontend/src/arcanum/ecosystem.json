@@ -1,8 +1,8 @@
 {
   "_comment": "Canonical Heterodata ecosystem manifest. Single source for the header ecosystem switcher, the heterodata.org hub cards, the nickanderson.us ecosystem section, and the link-graph reciprocity check. Kit v1.3 (adds Files site, data.freenic bulk link, scrubbed taglines). Sites: Hub first, then alphabetical by title; each site lists its detailed subpages for the dropdown. A page path may be an absolute URL.",
-  "version": "2.1",
-  "kit_version": "1.3",
-  "updated": "2026-06-12",
+  "version": "3",
+  "kit_version": "2.0.1",
+  "updated": "2026-07-14",
   "brand": { "lead": "Heterodata", "tagline": "An Arcanum Research project" },
   "anchors": {
     "hub":    { "name": "Heterodata", "url": "https://heterodata.org", "role": "Research hub — front door to the data tools" },
@@ -11,10 +11,20 @@
   "sites": [
     { "key": "foodberg", "title": "Foodberg", "display": "foodberg.org", "url": "https://foodberg.org", "accent": "#ea580c", "status": "live",
       "tagline": "Global food & commodity price explorer, drawing on USDA WASDE, FAO, and World Bank sources.",
+      "cdf": {
+        "provisional": false,
+        "data":    { "href": "/downloads/foodberg-data.zip", "kind": "bundle", "size": "12 MB", "formats": ["csv", "parquet"] },
+        "code":    { "href": "https://github.com/andenick/Foodberg", "kind": "repo", "langs": ["python", "typescript"], "license": "MIT" },
+        "outputs": { "href": "/explore", "label": "Explore" },
+        "site_repo": "https://github.com/andenick/Foodberg",
+        "citation": "Anderson, N. (2026). Foodberg. https://foodberg.org.",
+        "llms_txt": true
+      },
       "pages": [
-        { "label": "Explore", "path": "/" },
-        { "label": "Data", "path": "/#data" },
-        { "label": "Methodology", "path": "/#methodology" }
+        { "label": "Explore", "path": "/explore" },
+        { "label": "Supply & Demand", "path": "/supply-demand" },
+        { "label": "Downloads", "path": "/downloads" },
+        { "label": "Data Sources", "path": "/sources" }
       ] },
     { "key": "files", "title": "Files", "display": "files.heterodata.org", "url": "https://files.heterodata.org", "accent": "#0369a1", "status": "live", "hub_only": true,
       "tagline": "Plain static downloads — public dataset releases served as browsable files with checksums.",
