@@ -945,6 +945,10 @@ async def get_composite_index(category: str):
             "data": data,
             "timestamp": datetime.now().isoformat(),
         }
+    except HTTPException:
+        # Propagate the honest 404 (unknown category, e.g. "global") instead of
+        # masking it as a 500 in the generic handler below (FBD-1 tail).
+        raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -1393,6 +1397,14 @@ async def startup_event():
 @app.on_event("shutdown")
 async def shutdown_event():
     print("Foodberg API shutting down...")
+
+
+# --- PS&D WASDE Supply & Demand (additive; see routers/psd_router.py) ---
+# Reconciled 2026-07-14 (CDF campaign): the live box image carried this mount
+# additively (2026-06-21) while the repo/deploy tree carried the /api/indices/global
+# and /api/geo/producer/items routes. This canonical main.py carries BOTH surfaces.
+from routers.psd_router import router as psd_router
+app.include_router(psd_router)
 
 
 if __name__ == "__main__":
