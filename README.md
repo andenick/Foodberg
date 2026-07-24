@@ -1,8 +1,16 @@
 # Foodberg — Historical Food Price Explorer
 
-**🟢 LIVE AT [foodberg.org](https://foodberg.org)** — A full-stack web application for exploring historical food commodity prices, built with React and FastAPI. **745 MB SQLite database with ~1.3M+ records across USDA NASS history, World Bank Pink Sheet, FAO producer prices, and BLS retail data** covering 50+ agricultural commodities with honest coverage badges.
+**🟢 LIVE AT [foodberg.org](https://foodberg.org)** — A full-stack web application for exploring historical food commodity prices, built with React and FastAPI. Its multi-source SQLite build covers USDA NASS history, USDA PSD, World Bank Pink Sheet, FAO producer prices, and BLS retail data, with honest coverage badges rather than fabricated trend lines.
 
 > **Project state:** Deployed via Carson on a self-hosted Docker box behind Cloudflare Tunnel (FastAPI + Caddy → SPA). Data is acquired by Robin collectors, rebaked through `rebake_history.py`, and baked into the production Docker image. Multi-source Price Explorer with source-picker tabs; three-mode Geographic page (FAOSTAT producer, US state NASS, World Bank indicators); honest coverage badges — no fabricated trend lines.
+
+> **Living status (verified 2026-07-17):** the website remains active and live. The separate
+> document track has advanced: **895 Hopper-read documents** were landed in `Knowledge_Base/`,
+> method-tagged, catalogued by KBIP, and packaged to ArcArchive on 2026-07-16. The canonical
+> `/kb-integrate-pipeline` pass and the downstream RobertDB build are still pending; do not
+> describe Foodberg as having a completed RobertDB. Current evidence is in
+> `Technical/PROGRESS_LOG.md`. See the [generated project timeline](../../Council/Druck/Technical/History/views/PROJECT_TIMELINE_INDEX.md)
+> and [workspace chronology](../../Council/Druck/Technical/History/views/WORKSPACE_TIMELINE.md).
 
 ---
 
@@ -100,7 +108,7 @@ Foodberg/
 |-------|-----------|
 | Frontend | React 19, TypeScript, Vite, Tailwind CSS, Recharts |
 | Backend | FastAPI, Python, SQLAlchemy |
-| Database | SQLite (~1.3M rows, 745 MB) |
+| Database | SQLite, multi-million-row production build (exact counts vary by rebake) |
 | Deployment | Docker + Caddy + Cloudflare Tunnel (self-hosted Carson box) |
 | Data Pipeline | Robin collectors → rebake_history.py → baked image |
 

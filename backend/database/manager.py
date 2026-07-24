@@ -14,7 +14,6 @@ import logging
 from .models import (
     Base,
     WASDEData,
-    WasdePsd,
     MarketPrice,
     EconomicIndicator,
     GlobalPrice,
@@ -380,7 +379,6 @@ class DatabaseManager:
         """
         # Map a user-facing commodity name to the Alpha Vantage series label
         # stored in global_prices.commodity. Only these have real monthly history.
-        # (Alpha Vantage prefix was stripped from the DB in the 2026-07-04 cleanup.)
         alias = {
             'wheat': 'WHEAT',
             'corn': 'CORN',
@@ -394,12 +392,14 @@ class DatabaseManager:
         if not series:
             return []
 
-        label = series  # commodity column cleaned — no 'Alpha Vantage -' prefix
         session = self.get_session()
         try:
             records = (
                 session.query(GlobalPrice)
-                .filter(GlobalPrice.commodity == label)
+                .filter(
+                    GlobalPrice.commodity == series,
+                    GlobalPrice.source == 'Alpha Vantage',
+                )
                 .order_by(asc(GlobalPrice.date))
                 .limit(limit)
                 .all()
@@ -415,7 +415,7 @@ class DatabaseManager:
                     'unit': r.unit,
                     'currency': r.currency,
                     'source': r.source,
-                    'series': label,
+                    'series': series,
                 })
             return out
         finally:

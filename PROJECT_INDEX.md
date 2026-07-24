@@ -4,6 +4,11 @@
 
 Historical Food Price Explorer — a data visualization app for understanding food commodity prices and their history. Built for historically minded chefs who want to understand the broader environmental and historical context of food prices. **🟢 LIVE at [foodberg.org](https://foodberg.org).**
 
+**Current status (2026-07-17):** web application active/live; 895 Hopper-read documents landed
+and KBIP-catalogued on 2026-07-16; canonical KB integration and RobertDB build still pending.
+For chronology, use the [generated project timeline](../../Council/Druck/Technical/History/views/PROJECT_TIMELINE_INDEX.md)
+and [workspace timeline](../../Council/Druck/Technical/History/views/WORKSPACE_TIMELINE.md).
+
 ## Quick Start
 
 ```bash
@@ -106,6 +111,10 @@ Foodberg/
 - `GET /api/indices/{category}` — Historical values for a category
 
 ## Database
+
+The counts below are a historical project-local snapshot. Production is rebuilt from Robin data,
+and its exact table counts should be read from the current deploy database rather than inferred
+from this index.
 
 SQLite database at `backend/data/foodberg.db` with 6 tables:
 
@@ -218,8 +227,9 @@ USDA_NASS_API_KEY=your_key
 2. **USDA PSD not surfaced** — 192 MB CSV in Robin; supply/demand data acquired but not baked into the DB and not visible in the UI (`/supply-demand` page is a placeholder).
 3. **Pink Sheet URL drift** — World Bank occasionally changes the xlsx URL; re-acquire before next rebake if local store is empty.
 4. **`market_prices` table empty** — USDA Market News terminal prices not imported. Live API calls require `USDA_API_KEY`.
-5. **README + PROJECT_INDEX historically stale** — documentation updated 2026-07-04; verify against deploy tree for drift.
-6. **KB / HDARP not initialized** — ~802 acquired PDFs in `Inputs/`, 1,985-entry wishlist (v4), no `Knowledge_Base/` or HDARP campaign started. Separate multi-month track; does not block the live web app.
+5. **Project-local backend can lag production** — verify behavior against the Carson deploy tree before editing backend claims.
+6. **Document integration incomplete** — 895 Hopper-read documents are in `Knowledge_Base/` and
+   KBIP catalogs exist, but `/kb-integrate-pipeline` and `robert-db-build` remain pending.
 
 ## Critical Design Constraints
 
@@ -241,10 +251,10 @@ Separate from the web app, Foodberg maintains a scholarly KB acquisition wishlis
 
 - `README.md` — Project overview, architecture, and quick start
 - `PROJECT_INDEX.md` — This file
-- `Technical/Handoffs/HANDOFF_20260612_170000.md` — Most recent handoff (post-maximal-coverage deploy)
+- `Technical/PROGRESS_LOG.md` — current document-campaign and integration status
 - `Technical/PROGRESS_LOG.md` — Development history
 - `.claude/instructions.md` — Agent configuration
 
 ---
 
-*Last updated: July 4, 2026 — updated for live deployment state, multi-source architecture, current DB counts, and known issues.*
+*Last updated: July 17, 2026 — living status reconciled after Hopper landing and KBIP cataloguing.*

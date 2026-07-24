@@ -86,6 +86,25 @@ export const api = {
     // Bulk dataset downloads
     getDownloadDatasets: () => apiClient.get('/api/download/datasets'),
 
+    // WASDE Vintages — as-reported revision trajectory per report date
+    getVintagesCommodities: () => apiClient.get('/api/vintages/commodities'),
+    getVintagesAttributes: (commodity: string) =>
+        apiClient.get(`/api/vintages/${encodeURIComponent(commodity)}/attributes`),
+    getVintagesSeries: (commodity: string, attribute: string, region: string, marketYear: string) =>
+        apiClient.get(`/api/vintages/${encodeURIComponent(commodity)}/series`, {
+            params: { attribute, region, market_year: marketYear },
+        }),
+    getVintagesMarketYears: (commodity: string) =>
+        apiClient.get(`/api/vintages/${encodeURIComponent(commodity)}/market-years`),
+
+    // WASDE Legacy — machine-extracted historical WASDE (1979–2009)
+    getLegacyCommodities: () => apiClient.get('/api/legacy/commodities'),
+    getLegacyCoverage: () => apiClient.get('/api/legacy/coverage'),
+    getLegacySeries: (commodity: string, region: string, attribute?: string) =>
+        apiClient.get(`/api/legacy/${encodeURIComponent(commodity)}/series`, {
+            params: { region, ...(attribute ? { attribute } : {}) },
+        }),
+
     // Admin: trigger server-side data reindex (rebuild indices/caches)
     reindex: () => apiClient.post('/api/data/reindex'),
 
