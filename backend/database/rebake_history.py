@@ -24,11 +24,21 @@ What it loads (all from Robin's canonical store, all public-domain/CC-BY):
   5. BLS Average Prices  (DATA/BLS_AP/ap_fred_*.json)
        -> retail_prices  ~50 retail food items, monthly US city average.
                          source='BLS AP'.
+  6. FRED + BLS macro / food CPI + PPI  (backend/data/collected/*.json)
+       -> economic_indicators   upserted on (series_id, date, source).
+  7. Composite indices  (derived from 2/4 above + economic_indicators)
+       -> composite_indices     recomputed and upserted every rebake.
 
 USDA PSD (quantities) stays in Robin's raw store — acquired but not baked
 (no current page consumes supply/demand quantities; honest deferral).
 
 No synthetic values: every row is copied verbatim from the source artifact.
+
+2026-07-24 (P0-5): steps 6 and 7 were added. Previously `economic_indicators`
+and `composite_indices` were only COUNTED in the final census and never
+refreshed, so `composite_indices.computed_at` was frozen at 2026-03-28 and the
+headline Food Price Index page fell behind the Explorer. Both are now refreshed
+in-transaction, in dependency order, on every rebake.
 """
 
 import csv
@@ -40,13 +50,26 @@ import sys
 from pathlib import Path
 
 BACKEND = Path(__file__).resolve().parent.parent
+if str(BACKEND) not in sys.path:          # so `indices.composite` resolves
+    sys.path.insert(0, str(BACKEND))
+
 DB_PATH = BACKEND / "data" / "foodberg.db"
-ROBIN = Path(os.environ.get("ROBIN_DATA_PATH", "")) or (BACKEND.parent.parent / "Council" / "Robin" / "DATA")
+
+# Robin's canonical data store. Never hardcode an absolute workspace path here:
+# this file ships in the public repo. Set ROBIN_DATA_PATH, or rely on the
+# relative default when the project sits inside the workspace.
+_robin_env = os.environ.get("ROBIN_DATA_PATH", "").strip()
+ROBIN = Path(_robin_env) if _robin_env else (
+    BACKEND.parent.parent.parent / "Council" / "Robin" / "DATA")
 if not ROBIN.is_dir():
     raise FileNotFoundError(
         "ROBIN_DATA_PATH not set and default not found. "
         "Set ROBIN_DATA_PATH env var to the Robin DATA directory."
     )
+
+COLLECTED = BACKEND / "data" / "collected"
+COLLECTED_FRED = COLLECTED / "fred_data.json"
+COLLECTED_BLS = COLLECTED / "bls_data.json"
 
 NASS_DIR = ROBIN / "USDA_NASS_HISTORY"
 FAO_PRICES_CSV = ROBIN / "FAO/FAOSTAT_BULK/Prices_E_All_Data_(Normalized).csv"
@@ -341,6 +364,118 @@ def import_bls_ap(con: sqlite3.Connection) -> int:
     return total
 
 
+# ---------------------------------------------------------------------------
+# 6. FRED / BLS macro + food CPI/PPI series -> economic_indicators   (P0-5)
+# ---------------------------------------------------------------------------
+
+def _indicator_category(series_id: str) -> str:
+    """Classify a series id into the category vocabulary already in the table."""
+    if series_id.startswith("WPU"):
+        return "PPI"
+    if series_id.startswith(("CUUR", "CUSR")) and ("SAF" in series_id or "SEF" in series_id):
+        return "Food CPI"
+    if series_id.startswith("CPI"):
+        return "CPI"
+    return "Macro"
+
+
+def import_economic_indicators(con: sqlite3.Connection) -> int:
+    """
+    Refresh `economic_indicators` from the canonical collected artifacts.
+
+    P0-5: before 2026-07-24 the rebake only COUNTED this table (and
+    `composite_indices`); neither was ever refreshed, so both froze at their
+    last ad-hoc load while every other table moved on.
+
+    Upsert on (series_id, date, source): values and `imported_at` are
+    refreshed in place, new observations are inserted, and nothing is deleted -
+    so series loaded by other collectors survive a rebake untouched.
+    """
+    total_seen = updated = inserted = dupe_groups = 0
+    cur = con.cursor()
+
+    for path, source in ((COLLECTED_FRED, "FRED"), (COLLECTED_BLS, "BLS")):
+        if not path.exists():
+            log(f"economic_indicators: {path.name} missing — SKIPPING {source}")
+            continue
+
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        n_series = 0
+        for series_id, block in payload.items():
+            observations = block.get("data") or []
+            if not observations:
+                continue
+            n_series += 1
+            name = block.get("name") or series_id
+            category = _indicator_category(series_id)
+
+            for obs in observations:
+                date_str = obs.get("date")
+                value = numeric(obs.get("value"))
+                if not date_str or value is None:
+                    continue
+                total_seen += 1
+                date_full = f"{date_str} 00:00:00.000000"
+
+                rows = cur.execute(
+                    "SELECT id FROM economic_indicators "
+                    "WHERE series_id = ? AND date = ? AND source = ?",
+                    (series_id, date_full, source)).fetchall()
+
+                if rows:
+                    if len(rows) > 1:
+                        dupe_groups += 1
+                    cur.executemany(
+                        "UPDATE economic_indicators SET value = ?, imported_at = ? "
+                        "WHERE id = ?",
+                        [(value, NOW, r[0]) for r in rows])
+                    updated += len(rows)
+                else:
+                    cur.execute(
+                        "INSERT INTO economic_indicators (indicator_name, series_id, "
+                        "value, date, category, frequency, source, imported_at) "
+                        "VALUES (?,?,?,?,?,?,?,?)",
+                        (name, series_id, value, date_full, category,
+                         "Monthly", source, NOW))
+                    inserted += 1
+
+        log(f"economic_indicators: {source} — {n_series} series from {path.name}")
+
+    con.commit()
+    if dupe_groups:
+        log(f"economic_indicators: WARNING — {dupe_groups} (series_id,date,source) "
+            f"groups hold duplicate rows; all copies were refreshed, none removed")
+    log(f"economic_indicators: {total_seen} observations processed "
+        f"(+{inserted} inserted, {updated} rows updated)")
+    return inserted + updated
+
+
+# ---------------------------------------------------------------------------
+# 7. composite_indices — recomputed from the refreshed source tables  (P0-5)
+# ---------------------------------------------------------------------------
+
+def refresh_composite_indices(con: sqlite3.Connection) -> int:
+    """
+    Rebuild `composite_indices` from the *current* contents of `global_prices`
+    (FAO) and `economic_indicators` (BLS CPI).
+
+    P0-5: this step did not exist. `composite_indices.computed_at` was
+    uniformly 2026-03-28, so the headline Food Price Index page served whatever
+    was computed that day regardless of later source updates.
+
+    Must run AFTER import_economic_indicators, since `bls_overall` is derived
+    from it. Writes are upserts (see indices/composite.py), so this is
+    idempotent and does actually update changed values.
+    """
+    from indices.composite import compute_all_indices
+
+    stats = compute_all_indices(conn=con)
+    con.commit()
+    log(f"composite_indices: +{stats['inserted']} inserted, "
+        f"{stats['updated']} updated, {stats['unchanged']} unchanged")
+    return stats["inserted"] + stats["updated"]
+
+
 def main() -> int:
     if not DB_PATH.exists():
         print(f"DB not found: {DB_PATH}")
@@ -356,6 +491,10 @@ def main() -> int:
         "fao_cpi": import_fao_cpi(con),
         "pinksheet": import_pinksheet(con),
         "bls_ap": import_bls_ap(con),
+        # P0-5: these two were previously only counted, never refreshed.
+        # economic_indicators must precede composites (bls_overall reads it).
+        "economic_indicators": import_economic_indicators(con),
+        "composite_indices": refresh_composite_indices(con),
     }
 
     # Helpful composite indexes for the new query patterns.

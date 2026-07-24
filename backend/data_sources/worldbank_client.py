@@ -19,7 +19,7 @@ hardcoded, or fabricated numbers are ever returned.
 import sqlite3
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict, Optional
+from typing import Any, List, Dict, Optional
 
 # Default location of the baked-in SQLite DB (backend/data/foodberg.db).
 DEFAULT_DB_PATH = str(Path(__file__).resolve().parent.parent / "data" / "foodberg.db")
@@ -250,8 +250,16 @@ class WorldBankClient:
         "milk":     {"retail": "Milk, fresh, whole, fortified"},
         "potatoes": {"retail": "Potatoes, white"},
         "oranges":  {"pinksheet": "Orange", "retail": "Oranges, navel"},
+        # 'apples' -> 'Apples, red delicious' is a REAL series, but BLS stopped
+        # publishing it in 2017-10. It is retained (real history is worth
+        # showing) and is now automatically flagged `discontinued` by
+        # _liveness() so it can never again be presented as current. P0-6.
         "apples":   {"retail": "Apples, red delicious"},
-        "strawberries": {"retail": "Strawberries, dry pint"},
+        # 'strawberries' -> 'Strawberries, dry pint' REMOVED 2026-07-24 (P0-6):
+        # that item name resolves to ZERO rows in retail_prices. It was a dead
+        # mapping failing silently — the UI offered a BLS retail tab that could
+        # never render. BLS AP carries no live strawberry item, so the honest
+        # state is "no retail series", not a broken link.
         "peanuts":  {"pinksheet": "Groundnuts"},
         "coffee":   {"pinksheet": "Coffee, Arabica", "retail": "Coffee, 100% ground roast, all sizes"},
         "sugar":    {"pinksheet": "Sugar, world", "retail": "Sugar, white, all sizes"},
@@ -262,6 +270,72 @@ class WorldBankClient:
 
     def _retail_name(self, slug: str) -> Optional[str]:
         return self.COMMODITY_LINKS.get(slug, {}).get("retail")
+
+    # -- Liveness (P0-6 / S5) ------------------------------------------------
+    # Classify a series by its LAST REAL OBSERVATION, never by item-list
+    # membership or a declared end_year. Fifteen BLS AP items carry a 2025-M10
+    # placeholder (footnoted "data unavailable due to the 2025 lapse in
+    # appropriations") whose real data is years older; several more went dark
+    # in 2017-2020 with no announcement. Both classes must be visibly stale.
+    #
+    # Self-calibrating: a series is judged against the newest observation in
+    # its OWN source catalog, so it does not need a hardcoded "today".
+
+    LIVENESS_STALE_MONTHS = 6
+    LIVENESS_DISCONTINUED_MONTHS = 24
+
+    @staticmethod
+    def _parse_ym(value: str):
+        """
+        Parse 'YYYY-MM-DD', 'YYYY-MM' or a bare 'YYYY' into (year, month).
+
+        Bare years (the NASS catalog reports annual coverage as a year) are
+        treated as December, so an annual series is only judged stale once the
+        whole year is behind.
+        """
+        try:
+            s = str(value).strip()
+            year = int(s[:4])
+        except (ValueError, TypeError):
+            return None
+        if len(s) >= 7 and s[4] == "-":
+            try:
+                return year, int(s[5:7])
+            except ValueError:
+                return None
+        return year, 12
+
+    @classmethod
+    def _months_between(cls, earlier: str, later: str) -> Optional[int]:
+        """Whole months between two dates (see _parse_ym for accepted forms)."""
+        a, b = cls._parse_ym(earlier), cls._parse_ym(later)
+        if a is None or b is None:
+            return None
+        return (b[0] - a[0]) * 12 + (b[1] - a[1])
+
+    @classmethod
+    def _liveness(cls, series_end: Optional[str],
+                  catalog_end: Optional[str]) -> Dict[str, Any]:
+        """
+        Return {'status', 'months_behind', 'last_real_observation'} for a
+        series, relative to the newest observation in its source catalog.
+
+        status is one of: 'live' | 'stale' | 'discontinued' | 'unknown'
+        """
+        if not series_end or not catalog_end:
+            return {"status": "unknown", "months_behind": None,
+                    "last_real_observation": series_end}
+        behind = cls._months_between(series_end, catalog_end)
+        if behind is None:
+            status = "unknown"
+        elif behind >= cls.LIVENESS_DISCONTINUED_MONTHS:
+            status = "discontinued"
+        elif behind >= cls.LIVENESS_STALE_MONTHS:
+            status = "stale"
+        else:
+            status = "live"
+        return {"status": status, "months_behind": behind,
+                "last_real_observation": series_end}
 
     def get_price_coverage(self) -> Dict:
         """Multi-source price-history coverage per commodity (honest UI labels).
@@ -340,6 +414,16 @@ class WorldBankClient:
 
         if "corn" in av:
             av["maize"] = av["corn"]
+
+        # P0-6 / S5: stamp every catalog entry with a liveness verdict derived
+        # from its LAST REAL OBSERVATION, measured against the newest
+        # observation in its own source catalog.
+        for catalog in (av, nass, pink, retail):
+            catalog_end = max(
+                (e["end"] for e in catalog.values() if e.get("end")),
+                default=None)
+            for entry in catalog.values():
+                entry["liveness"] = self._liveness(entry.get("end"), catalog_end)
 
         # Assemble per-commodity source map over the NASS commodity universe
         # plus anything AV covers.

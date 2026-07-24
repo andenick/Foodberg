@@ -1,16 +1,37 @@
 """
 Composite Food Price Index Calculator
 
-Builds weighted composite indices from FAO sub-indices and BLS CPI food data.
+Builds composite indices from FAO sub-indices and BLS CPI food data.
 
 Two index families:
 1. FAO-based global indices (1990-present, base 2014-2016=100)
-   - Uses FAO's own meat, dairy, cereals, oils, sugar sub-indices
-   - Computes a Foodberg Overall from weighted FAO components
+   - Passes through FAO's own published meat, dairy, cereals, oils, sugar
+     sub-indices AND FAO's own published headline Food Price Index
+   - Separately publishes a Foodberg-weighted composite under a Foodberg name
 
 2. BLS-based US indices (2015-present, base 1982-1984=100)
    - Uses BLS CPI food sub-components
    - Cereals & Bakery, Meats/Poultry/Fish/Eggs, Fruits & Veg, Dairy, Food Away
+   - This is a Foodberg construction, not a BLS publication (see below)
+
+
+RECOMPUTE-VS-PUBLISH RULE (P0-4, 2026-07-24)
+--------------------------------------------
+A series that carries a publisher's name must carry that publisher's published
+numbers. Before 2026-07-24 the `fao_overall` category held a Foodberg
+recomputation - a fixed-weight average of five FAO sub-indices - while the
+chart labelled that line "FAO Overall". It disagreed with FAO's actual Food
+Price Index in **405 of 431 months**, by up to **4.05 index points**
+(2025-11: Foodberg 124.5 vs FAO's published 125.1). FAO chains its index with
+2014-2016 trade-share weights that vary by year; a fixed-weight average cannot
+reproduce it and must not borrow its name.
+
+Resolution: `fao_overall` now carries FAO's **published** Food Price Index
+verbatim. The category key, base period and date range are unchanged, so the
+frontend contract (`FoodPriceIndex.tsx` keys off `fao_overall`) is untouched -
+only the numbers become FAO's own. The fixed-weight recomputation is retained
+in full under the category `foodberg_global_composite`, which claims no
+publisher's name.
 """
 
 import json
@@ -49,38 +70,69 @@ BLS_SERIES_NAMES = {
 }
 
 
-def compute_all_indices(db_path: Optional[str] = None):
+def compute_all_indices(db_path: Optional[str] = None, conn=None):
     """
     Compute and store all composite food price indices.
 
     Produces monthly records for:
-    - fao_meat, fao_dairy, fao_cereals, fao_oils, fao_sugar (direct from FAO)
-    - fao_overall (weighted composite of FAO sub-indices)
-    - bls_overall (weighted composite of BLS CPI food components)
+    - fao_meat, fao_dairy, fao_cereals, fao_oils, fao_sugar
+        FAO's own published sub-indices, passed through verbatim.
+    - fao_overall
+        FAO's own published headline Food Price Index, passed through
+        verbatim (see the recompute-vs-publish note in the module docstring).
+    - foodberg_global_composite
+        Foodberg's fixed-weight average of the five FAO sub-indices. A
+        Foodberg construction; deliberately does not carry FAO's name.
+    - bls_overall
+        Foodberg's weighted composite of BLS CPI food components. A Foodberg
+        construction; BLS publishes no such index.
+
+    Every write is an UPSERT, so re-running this refreshes stale values and
+    stale `computed_at` stamps instead of silently skipping them. Prior to
+    2026-07-24 it skipped any (date, category) that already existed, which is
+    why `composite_indices.computed_at` was frozen at 2026-03-28 while the
+    underlying source tables moved on.
+
+    Args:
+        db_path: path to foodberg.db. Ignored when `conn` is supplied.
+        conn:    an open sqlite3 connection to reuse. When supplied, the
+                 caller owns commit/close (used by rebake_history.py so the
+                 rebake runs in one transaction scope).
     """
-    if db_path is None:
-        db_path = str(Path(__file__).parent.parent / "data" / "foodberg.db")
+    owns_conn = conn is None
+    if owns_conn:
+        if db_path is None:
+            db_path = str(Path(__file__).parent.parent / "data" / "foodberg.db")
+        conn = sqlite3.connect(db_path)
 
-    conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
-
-    total_inserted = 0
+    stats = {"inserted": 0, "updated": 0, "unchanged": 0}
 
     # --- FAO-based indices ---
-    print("Computing FAO-based composite indices...")
+    print("Refreshing FAO-published indices + Foodberg global composite...")
     fao_data = _load_fao_data(cursor)
-    total_inserted += _store_fao_indices(cursor, fao_data)
+    _accumulate(stats, _store_fao_indices(cursor, fao_data))
 
     # --- BLS-based US index ---
-    print("Computing BLS-based US composite index...")
+    print("Refreshing Foodberg BLS-based US composite index...")
     bls_data = _load_bls_data(cursor)
-    total_inserted += _store_bls_index(cursor, bls_data)
+    _accumulate(stats, _store_bls_index(cursor, bls_data))
 
     conn.commit()
-    conn.close()
+    if owns_conn:
+        conn.close()
 
-    print(f"\nComposite index computation complete: {total_inserted} records stored")
-    return total_inserted
+    print(
+        f"\nComposite index refresh complete: "
+        f"{stats['inserted']} inserted, {stats['updated']} updated, "
+        f"{stats['unchanged']} unchanged"
+    )
+    return stats
+
+
+def _accumulate(total: Dict[str, int], part: Dict[str, int]) -> None:
+    for k in ("inserted", "updated", "unchanged"):
+        total[k] += part.get(k, 0)
 
 
 def _load_fao_data(cursor) -> Dict[str, List]:
@@ -122,10 +174,14 @@ def _fao_commodity_to_category(commodity: str) -> str:
     return "other"
 
 
-def _store_fao_indices(cursor, fao_data: Dict) -> int:
-    """Store FAO sub-indices and compute weighted overall"""
-    inserted = 0
+def _store_fao_indices(cursor, fao_data: Dict) -> Dict[str, int]:
+    """
+    Store FAO's published sub-indices and headline index verbatim, plus the
+    Foodberg fixed-weight composite under its own (non-FAO) name.
+    """
+    stats = {"inserted": 0, "updated": 0, "unchanged": 0}
     now = datetime.utcnow().isoformat()
+    missing_published = 0
 
     # Get all dates that have data for at least 3 categories
     all_dates = set()
@@ -135,37 +191,69 @@ def _store_fao_indices(cursor, fao_data: Dict) -> int:
     for date_key in sorted(all_dates):
         date_str = f"{date_key}-01"
 
-        # Store individual FAO sub-indices
+        # --- FAO's own published sub-indices, verbatim ---
         for cat in ["meat", "dairy", "cereals", "oils", "sugar"]:
             if cat in fao_data and date_key in fao_data[cat]:
                 value = fao_data[cat][date_key]
-                if _insert_index(cursor, date_str, f"fao_{cat}", value,
-                                 json.dumps({"source": "FAO", "raw_value": value}),
-                                 "2014-2016", now):
-                    inserted += 1
+                _accumulate(stats, _upsert_index(
+                    cursor, date_str, f"fao_{cat}", value,
+                    json.dumps({
+                        "series": "published",
+                        "publisher": "FAO",
+                        "publisher_series": f"FAO Food Price Index - {cat.title()}",
+                        "raw_value": value,
+                    }),
+                    "2014-2016", now))
 
-        # Compute weighted FAO overall
+        # --- FAO's own published headline Food Price Index, verbatim ---
+        # P0-4: this category is named after FAO, so it must carry FAO's number.
+        published_overall = fao_data.get("food", {}).get(date_key)
+        if published_overall is not None:
+            _accumulate(stats, _upsert_index(
+                cursor, date_str, "fao_overall", published_overall,
+                json.dumps({
+                    "series": "published",
+                    "publisher": "FAO",
+                    "publisher_series": "FAO Food Price Index (headline)",
+                    "recomputed": False,
+                    "note": "FAO's published figure, passed through verbatim.",
+                }),
+                "2014-2016", now))
+        else:
+            missing_published += 1
+
+        # --- Foodberg's fixed-weight composite, under a Foodberg name ---
         components = {}
-        for cat, weight in FAO_WEIGHTS.items():
+        for cat in FAO_WEIGHTS:
             if cat in fao_data and date_key in fao_data[cat]:
                 components[cat] = fao_data[cat][date_key]
 
         if len(components) >= 4:  # Need most categories
-            overall = sum(
-                FAO_WEIGHTS[cat] * val
-                for cat, val in components.items()
-                if cat in FAO_WEIGHTS
-            )
-            # Normalize: sum of available weights
-            weight_sum = sum(FAO_WEIGHTS[cat] for cat in components if cat in FAO_WEIGHTS)
+            weight_sum = sum(FAO_WEIGHTS[cat] for cat in components)
+            overall = sum(FAO_WEIGHTS[cat] * val for cat, val in components.items())
             overall = overall / weight_sum if weight_sum > 0 else 0
 
-            if _insert_index(cursor, date_str, "fao_overall", round(overall, 2),
-                             json.dumps(components), "2014-2016", now):
-                inserted += 1
+            _accumulate(stats, _upsert_index(
+                cursor, date_str, "foodberg_global_composite", round(overall, 2),
+                json.dumps({
+                    "series": "recomputed",
+                    "publisher": "Foodberg",
+                    "method": "fixed-weight average of FAO sub-indices",
+                    "weights": FAO_WEIGHTS,
+                    "components": components,
+                    "note": ("Foodberg construction. NOT the FAO Food Price "
+                             "Index; see fao_overall for FAO's published figure."),
+                }),
+                "2014-2016", now))
 
-    print(f"  FAO indices: {inserted} records")
-    return inserted
+    if missing_published:
+        logger.warning(
+            "%d month(s) had FAO sub-indices but no published headline index; "
+            "fao_overall left unwritten for those months rather than recomputed.",
+            missing_published,
+        )
+    print(f"  FAO indices: {stats}")
+    return stats
 
 
 def _load_bls_data(cursor) -> Dict[str, Dict]:
@@ -188,9 +276,17 @@ def _load_bls_data(cursor) -> Dict[str, Dict]:
     return series_data
 
 
-def _store_bls_index(cursor, bls_data: Dict) -> int:
-    """Compute and store BLS-based US food price composite index"""
-    inserted = 0
+def _store_bls_index(cursor, bls_data: Dict) -> Dict[str, int]:
+    """
+    Compute and store Foodberg's US food price composite index from BLS CPI
+    food components.
+
+    NOTE: `bls_overall` is a Foodberg construction using approximate US
+    consumer expenditure shares - BLS publishes no such index. The category
+    key is retained because the frontend depends on it, but the label shown to
+    users must not imply BLS authorship (tracked separately from P0-4).
+    """
+    stats = {"inserted": 0, "updated": 0, "unchanged": 0}
     now = datetime.utcnow().isoformat()
 
     # Get all dates
@@ -220,27 +316,58 @@ def _store_bls_index(cursor, bls_data: Dict) -> int:
             )
             overall = overall / weight_sum if weight_sum > 0 else 0
 
-            if _insert_index(cursor, date_str, "bls_overall", round(overall, 2),
-                             json.dumps(components), "1982-1984", now):
-                inserted += 1
+            _accumulate(stats, _upsert_index(
+                cursor, date_str, "bls_overall", round(overall, 2),
+                json.dumps({
+                    "series": "recomputed",
+                    "publisher": "Foodberg",
+                    "method": ("weighted average of BLS CPI food components, "
+                               "approximate US consumer expenditure shares"),
+                    "weights": BLS_WEIGHTS,
+                    "components": components,
+                    "note": ("Foodberg construction. BLS publishes no overall "
+                             "food price index under this definition."),
+                }),
+                "1982-1984", now))
 
-    print(f"  BLS US index: {inserted} records")
-    return inserted
+    print(f"  BLS US index: {stats}")
+    return stats
 
 
-def _insert_index(cursor, date_str: str, category: str, value: float,
-                  components_json: str, base_period: str, computed_at: str) -> bool:
-    """Insert a composite index record, skip if duplicate"""
-    cursor.execute(
-        "SELECT id FROM composite_indices WHERE date = ? AND category = ?",
+def _upsert_index(cursor, date_str: str, category: str, value: float,
+                  components_json: str, base_period: str,
+                  computed_at: str) -> Dict[str, int]:
+    """
+    Insert or update a composite index record.
+
+    Returns a one-hot dict of {inserted|updated|unchanged}. An existing row
+    whose value or components differ is UPDATED - the previous implementation
+    skipped it, which froze `composite_indices` at its first computation
+    (P0-5) and kept the wrong `fao_overall` values alive (P0-4).
+    """
+    row = cursor.execute(
+        "SELECT id, index_value, components_json, base_period "
+        "FROM composite_indices WHERE date = ? AND category = ?",
         (date_str, category)
-    )
-    if cursor.fetchone():
-        return False
+    ).fetchone()
+
+    if row is None:
+        cursor.execute(
+            "INSERT INTO composite_indices "
+            "(date, category, index_value, components_json, base_period, computed_at) "
+            "VALUES (?, ?, ?, ?, ?, ?)",
+            (date_str, category, value, components_json, base_period, computed_at)
+        )
+        return {"inserted": 1}
+
+    row_id, old_value, old_components, old_base = row
+    if (old_value == value and old_components == components_json
+            and old_base == base_period):
+        return {"unchanged": 1}
 
     cursor.execute(
-        """INSERT INTO composite_indices (date, category, index_value, components_json, base_period, computed_at)
-           VALUES (?, ?, ?, ?, ?, ?)""",
-        (date_str, category, value, components_json, base_period, computed_at)
+        "UPDATE composite_indices SET index_value = ?, components_json = ?, "
+        "base_period = ?, computed_at = ? WHERE id = ?",
+        (value, components_json, base_period, computed_at, row_id)
     )
-    return True
+    return {"updated": 1}
