@@ -176,6 +176,7 @@ async def get_data_status():
     db_path = Path(__file__).parent / "data" / "foodberg.db"
     status = {
         "timestamp": datetime.utcnow().isoformat(),
+        "as_of": datetime.utcnow().isoformat(),
         "database": {
             "exists": db_path.exists(),
             "size_mb": (
@@ -191,71 +192,258 @@ async def get_data_status():
         try:
             conn = sqlite3.connect(str(db_path))
             cursor = conn.cursor()
+            current_year = datetime.now().year
 
-            tables_info = {
-                "wasde_psd": {"name": "WASDE Supply & Demand (USDA FAS PS&D)", "date_col": "market_year"},
-                "wasde_data": {"name": "WASDE (USDA)", "date_col": "year"},
-                "economic_indicators": {
-                    "name": "Economic Indicators (FRED/BLS)",
-                    "date_col": "date",
-                },
-                "global_prices": {
-                    "name": "Global Prices (FAO/World Bank)",
-                    "date_col": "date",
-                },
-                "retail_prices": {
-                    "name": "Retail Prices",
-                    "date_col": "date",
-                },
-                "composite_indices": {
-                    "name": "Composite Food Indices",
-                    "date_col": "date",
-                },
-            }
-
-            for table, info in tables_info.items():
-                try:
-                    cursor.execute(f"SELECT COUNT(*) FROM {table}")
-                    count = cursor.fetchone()[0]
-
-                    cursor.execute(
-                        f"SELECT MIN({info['date_col']}), MAX({info['date_col']}) FROM {table}"
-                    )
-                    min_date, max_date = cursor.fetchone()
-
+            # wasde_psd: monthly refresh, fresh if max market_year >= current year
+            try:
+                cursor.execute("SELECT COUNT(*) FROM wasde_psd")
+                count = cursor.fetchone()[0]
+                cursor.execute("SELECT MIN(market_year), MAX(market_year) FROM wasde_psd")
+                min_year, max_year = cursor.fetchone()
+                
+                if max_year:
+                    years_behind = current_year - int(max_year)
+                    if years_behind <= 0:
+                        freshness = "current"
+                    elif years_behind == 1:
+                        freshness = "stale"
+                    else:
+                        freshness = "outdated"
+                else:
                     freshness = "unknown"
+                    years_behind = None
+                
+                status["sources"]["wasde_psd"] = {
+                    "name": "WASDE Supply & Demand (USDA FAS PS&D)",
+                    "records": count,
+                    "date_range": {"min": min_year, "max": max_year},
+                    "cadence": "monthly",
+                    "freshness": freshness,
+                    "years_since_max": years_behind
+                }
+            except Exception as e:
+                status["sources"]["wasde_psd"] = {"name": "WASDE Supply & Demand (USDA FAS PS&D)", "error": str(e)}
+
+            # wasde_data: annual cadence, fresh if max year >= current year - 1
+            try:
+                cursor.execute("SELECT COUNT(*) FROM wasde_data")
+                count = cursor.fetchone()[0]
+                cursor.execute("SELECT MIN(year), MAX(year) FROM wasde_data")
+                min_year, max_year = cursor.fetchone()
+                
+                if max_year:
+                    years_behind = current_year - int(max_year)
+                    if years_behind <= 1:
+                        freshness = "current"
+                    elif years_behind <= 2:
+                        freshness = "stale"
+                    else:
+                        freshness = "outdated"
+                else:
+                    freshness = "unknown"
+                    years_behind = None
+                
+                status["sources"]["wasde_data"] = {
+                    "name": "WASDE (USDA)",
+                    "records": count,
+                    "date_range": {"min": min_year, "max": max_year},
+                    "cadence": "annual",
+                    "freshness": freshness,
+                    "years_since_max": years_behind
+                }
+            except Exception as e:
+                status["sources"]["wasde_data"] = {"name": "WASDE (USDA)", "error": str(e)}
+
+            # global_prices: mixed sources with different cadences
+            try:
+                cursor.execute("SELECT COUNT(*) FROM global_prices")
+                total_count = cursor.fetchone()[0]
+                
+                # Get per-source stats
+                cursor.execute("""
+                    SELECT source, 
+                           COUNT(*) as count,
+                           MIN(date) as min_date, 
+                           MAX(date) as max_date
+                    FROM global_prices 
+                    GROUP BY source
+                """)
+                sub_sources = {}
+                for row in cursor.fetchall():
+                    source_name = row[0] or "unknown"
+                    max_date = row[3]
+                    
                     if max_date:
                         try:
                             if "T" in str(max_date):
-                                last_date = datetime.fromisoformat(
-                                    max_date.replace("Z", "+00:00")
-                                )
+                                last_date = datetime.fromisoformat(max_date.replace("Z", "+00:00"))
                             else:
-                                last_date = datetime.strptime(
-                                    str(max_date)[:10], "%Y-%m-%d"
-                                )
-                            days_old = (
-                                datetime.now() - last_date.replace(tzinfo=None)
-                            ).days
-                            if days_old < 7:
-                                freshness = "fresh"
-                            elif days_old < 30:
-                                freshness = "recent"
-                            elif days_old < 90:
-                                freshness = "stale"
+                                last_date = datetime.strptime(str(max_date)[:10], "%Y-%m-%d")
+                            days_old = (datetime.now() - last_date.replace(tzinfo=None)).days
+                            
+                            # Determine cadence and freshness based on source name
+                            if "faostat" in source_name.lower() and "cpi" in source_name.lower():
+                                cadence = "monthly"
+                                if days_old <= 45:
+                                    freshness = "current"
+                                elif days_old <= 120:
+                                    freshness = "stale"
+                                else:
+                                    freshness = "outdated"
+                            elif "faostat" in source_name.lower():
+                                cadence = "annual"
+                                if days_old <= 548:  # 18 months
+                                    freshness = "current"
+                                else:
+                                    freshness = "outdated"
+                            elif "world bank" in source_name.lower() or "pink sheet" in source_name.lower():
+                                cadence = "monthly"
+                                if days_old <= 45:
+                                    freshness = "current"
+                                elif days_old <= 120:
+                                    freshness = "stale"
+                                else:
+                                    freshness = "outdated"
                             else:
-                                freshness = "outdated"
+                                cadence = "unknown"
+                                freshness = "unknown"
                         except:
+                            days_old = None
+                            cadence = "unknown"
                             freshness = "unknown"
-
-                    status["sources"][table] = {
-                        "name": info["name"],
-                        "records": count,
-                        "date_range": {"min": min_date, "max": max_date},
+                    else:
+                        days_old = None
+                        cadence = "unknown"
+                        freshness = "unknown"
+                    
+                    sub_sources[source_name] = {
+                        "records": row[1],
+                        "date_range": {"min": row[2], "max": row[3]},
+                        "cadence": cadence,
                         "freshness": freshness,
+                        "days_since_max": days_old
                     }
-                except Exception as e:
-                    status["sources"][table] = {"name": info["name"], "error": str(e)}
+                
+                # Overall freshness is the max of sub-sources
+                freshness_priority = {"current": 2, "stale": 1, "outdated": 0, "unknown": -1}
+                overall_freshness = max(sub_sources.values(), key=lambda x: freshness_priority.get(x["freshness"], -1))["freshness"] if sub_sources else "unknown"
+                
+                status["sources"]["global_prices"] = {
+                    "name": "Global Prices (FAO/World Bank)",
+                    "records": total_count,
+                    "freshness": overall_freshness,
+                    "sub_sources": sub_sources
+                }
+            except Exception as e:
+                status["sources"]["global_prices"] = {"name": "Global Prices (FAO/World Bank)", "error": str(e)}
+
+            # retail_prices: BLS AP monthly
+            try:
+                cursor.execute("SELECT COUNT(*) FROM retail_prices")
+                count = cursor.fetchone()[0]
+                cursor.execute("SELECT MIN(date), MAX(date) FROM retail_prices")
+                min_date, max_date = cursor.fetchone()
+                
+                if max_date:
+                    try:
+                        if "T" in str(max_date):
+                            last_date = datetime.fromisoformat(max_date.replace("Z", "+00:00"))
+                        else:
+                            last_date = datetime.strptime(str(max_date)[:10], "%Y-%m-%d")
+                        days_old = (datetime.now() - last_date.replace(tzinfo=None)).days
+                        
+                        if days_old <= 45:
+                            freshness = "current"
+                        elif days_old <= 120:
+                            freshness = "stale"
+                        else:
+                            freshness = "outdated"
+                    except:
+                        days_old = None
+                        freshness = "unknown"
+                else:
+                    days_old = None
+                    freshness = "unknown"
+                
+                status["sources"]["retail_prices"] = {
+                    "name": "Retail Prices (BLS AP)",
+                    "records": count,
+                    "date_range": {"min": min_date, "max": max_date},
+                    "cadence": "monthly",
+                    "freshness": freshness,
+                    "days_since_max": days_old
+                }
+            except Exception as e:
+                status["sources"]["retail_prices"] = {"name": "Retail Prices (BLS AP)", "error": str(e)}
+
+            # economic_indicators: FRED/BLS monthly
+            try:
+                cursor.execute("SELECT COUNT(*) FROM economic_indicators")
+                count = cursor.fetchone()[0]
+                cursor.execute("SELECT MIN(date), MAX(date) FROM economic_indicators")
+                min_date, max_date = cursor.fetchone()
+                
+                if max_date:
+                    try:
+                        if "T" in str(max_date):
+                            last_date = datetime.fromisoformat(max_date.replace("Z", "+00:00"))
+                        else:
+                            last_date = datetime.strptime(str(max_date)[:10], "%Y-%m-%d")
+                        days_old = (datetime.now() - last_date.replace(tzinfo=None)).days
+                        
+                        if days_old <= 45:
+                            freshness = "current"
+                        elif days_old <= 120:
+                            freshness = "stale"
+                        else:
+                            freshness = "outdated"
+                    except:
+                        days_old = None
+                        freshness = "unknown"
+                else:
+                    days_old = None
+                    freshness = "unknown"
+                
+                status["sources"]["economic_indicators"] = {
+                    "name": "Economic Indicators (FRED/BLS)",
+                    "records": count,
+                    "date_range": {"min": min_date, "max": max_date},
+                    "cadence": "monthly",
+                    "freshness": freshness,
+                    "days_since_max": days_old
+                }
+            except Exception as e:
+                status["sources"]["economic_indicators"] = {"name": "Economic Indicators (FRED/BLS)", "error": str(e)}
+
+            # composite_indices: derived, freshness = worst of inputs
+            try:
+                cursor.execute("SELECT COUNT(*) FROM composite_indices")
+                count = cursor.fetchone()[0]
+                cursor.execute("SELECT MIN(date), MAX(date) FROM composite_indices")
+                min_date, max_date = cursor.fetchone()
+                
+                # Get freshness of input sources
+                input_freshness = []
+                for src in ["global_prices", "economic_indicators"]:
+                    if src in status["sources"] and "freshness" in status["sources"][src]:
+                        input_freshness.append(status["sources"][src]["freshness"])
+                
+                if input_freshness:
+                    freshness_priority = {"current": 2, "stale": 1, "outdated": 0, "unknown": -1}
+                    freshness = min(input_freshness, key=lambda x: freshness_priority.get(x, -1))
+                else:
+                    freshness = "unknown"
+                
+                status["sources"]["composite_indices"] = {
+                    "name": "Composite Food Indices",
+                    "records": count,
+                    "date_range": {"min": min_date, "max": max_date},
+                    "cadence": "derived",
+                    "freshness": freshness,
+                    "note": "Freshness based on input sources"
+                }
+            except Exception as e:
+                status["sources"]["composite_indices"] = {"name": "Composite Food Indices", "error": str(e)}
 
             conn.close()
         except Exception as e:
@@ -1405,6 +1593,14 @@ async def shutdown_event():
 # and /api/geo/producer/items routes. This canonical main.py carries BOTH surfaces.
 from routers.psd_router import router as psd_router
 app.include_router(psd_router)
+
+# --- WASDE Vintages (revision trajectory per report date) ---
+from routers.wasde_vintages_router import router as vintages_router
+app.include_router(vintages_router)
+
+# --- WASDE Legacy (machine-extracted 1979–2009) ---
+from routers.wasde_legacy_router import router as legacy_router
+app.include_router(legacy_router)
 
 
 if __name__ == "__main__":

@@ -84,6 +84,9 @@ htmlcov/
 # Database files
 *.db
 *.sqlite3
+# Timestamped database backups (taken before any destructive data operation)
+*.db.backup_*
+**/foodberg.db.backup_*
 
 # Archive folders
 _archive/
