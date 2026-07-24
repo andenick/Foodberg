@@ -104,19 +104,92 @@ synced backwards:
   public repo is a publication-hygiene leak.
 - `backend/indices/composite.py` — the project copy carries the P0-4 fix (FAO's published
   index served under FAO's name). The deploy copy still recomputes it.
-- `backend/data/foodberg.db` — see the warning immediately below.
+- `backend/data/foodberg.db` — see §5.
 
-## 5. ⚠️ Open production exposure (requires a human decision)
+> **Note added 2026-07-24 (post-deploy):** this table describes the *workstation staging mirror*
+> at `Council/Carson/Technical/deploy/foodberg/`, which was **not** updated by the deploy and is
+> now stale in both halves. It is not what production runs. For the divergence that actually
+> matters — project tree vs **the box** — see the hazard table in §5.
 
-**The 70 fabricated `retail_prices` rows deleted on 2026-07-24 are still being served by
-the live site.** The deletion was applied to the canonical database at
-`Projects/Foodberg/backend/data/foodberg.db`. Production serves the database **baked into
-the running image**, which was built from `deploy/foodberg/backend/data/foodberg.db` and
-still contains all 70 rows. They clear only when the backend image is rebuilt and
-recreated per §3, which is deliberately **not** done by the P0 work.
+## 5. ✅ P0 SHIPPED — deployed to production 2026-07-24
 
-Nothing else in the P0 batch (P0-4 FAO honesty, P0-5 unfrozen tables) reaches production
-either, for the same reason. All of it ships together on the next reviewed deploy.
+**Status: CLOSED.** The exposure recorded here (fabricated rows served live) was cleared by a
+reviewed deploy on **2026-07-24 ~18:18 EDT**, after PR #1 was merged to `master` as
+**`cd4568f`**. What is now live:
+
+| Defect | Before (live) | After (live, verified) |
+|---|---|---|
+| P0-3 fabricated rows | `retail_prices` = **20,429**; `/api/prices/search?commodity=saffron&sources=retail` returned `saffron $2.85 source "USDA"` (also truffle $2.15, lobster $2.71) | `retail_prices` = **20,359**; saffron / truffle / lobster / "Tomato powder" all return **0 hits**; `tomato` returns 100 real **BLS AP** rows (latest 2026-06 = **$2.154/lb**) |
+| P0-4 FAO honesty | `fao_overall` 2025-11 = **124.5**, a Foodberg recomputation labelled FAO | `fao_overall` 2025-11 = **125.1**, FAO's published figure, `components_json` = `{"series":"published","publisher":"FAO","recomputed":false}`. The recomputation now ships separately as **`foodberg_global_composite`** |
+| P0-5 frozen tables | `composite_indices` = 2,715 rows, `computed_at` uniformly **2026-03-28** | `composite_indices` = **3,146** rows, `computed_at` **2026-07-24T21:36:44** |
+| P0-6 liveness (S5) | `apples`→BLS retail served as current with no staleness marker; `strawberries`→dead mapping returning zero rows | every series in `/api/prices/coverage` now carries a `liveness` block (53 live / 12 stale / 5 discontinued); `apples` retail is `discontinued, 104 months behind`; the dead `strawberries` retail mapping is gone |
+
+### How it was actually deployed (correcting §3)
+
+§3's "run on the box … from `Council/Carson/Technical/deploy/foodberg/`" is misleading. The
+containers do **not** run on the workstation. They run on the **HP EliteDesk 800 G5 at
+`192.168.0.174`** (Ubuntu + Docker), in `~/sites/foodberg/`. The workstation path
+`Council/Carson/Technical/deploy/foodberg/` is a *third* copy — a staging mirror — and it is
+**stale in both halves**. The real deploy is `scp` from the project tree to the box, then
+`docker compose build` + `up -d --force-recreate foodberg-backend` **on the box**.
+
+What shipped, and only this (a surgical delta, not a tree sync):
+
+```
+scp Projects/Foodberg/backend/indices/composite.py             -> box:~/sites/foodberg/backend/indices/
+scp Projects/Foodberg/backend/data_sources/worldbank_client.py -> box:~/sites/foodberg/backend/data_sources/
+scp Projects/Foodberg/backend/database/rebake_history.py       -> box:~/sites/foodberg/backend/database/
+scp Projects/Foodberg/backend/data/foodberg.db  (1.64 GB, md5 0b7373fb4665...)
+                                                               -> box:~/sites/foodberg/backend/data/
+ssh box 'cd ~/sites/foodberg && docker compose build foodberg-backend \
+                             && docker compose up -d --force-recreate foodberg-backend'
+```
+
+`foodberg-web` was **not** touched (it stayed up 4 weeks through the deploy). No other
+container on the box was touched.
+
+### 🔴 NEW HAZARD — the project tree is BEHIND the box for five backend files
+
+`Projects/Foodberg/backend/` is **not** a superset of what production runs. P0-1 reconciled the
+project tree against the *workstation staging mirror*; nobody compared it against **the box**.
+Byte-comparison on 2026-07-24 (CRLF-normalised) found `main.py`, `database/manager.py` and both
+WASDE routers identical, but these five files differ, and for at least two of them the **box is
+newer**:
+
+| File | Box (live) | Project tree | Verdict |
+|---|---|---|---|
+| `data_sources/fred_client.py` | **offline, local-DB backed** — no outbound HTTP, no `FRED_API_KEY` | old **online** version calling `api.stlouisfed.org` via `httpx` | 🔴 box is newer — syncing the project copy would break economic indicators in a container that has no FRED key |
+| `data_sources/fao_client.py` | later offline rewrite; mock generators deleted | 2026-07-04 DB-query version | 🔴 box is newer |
+| `database/models.py` | no `WasdePsd` model | adds `WasdePsd` | project ahead (additive, unshipped) |
+| `database/collect_live.py` | plain Alpha Vantage commodity names | prefixes `"Alpha Vantage - "` | project ahead (unshipped) |
+| `data_sources/robin_client.py` | — | import reorder only | cosmetic |
+
+Also: `backend/routers/__init__.py` exists **on the box** and **not** in the project tree.
+
+**Rule until this is reconciled: never `rsync --delete` the project backend onto the box.**
+Deploy the specific files a change touches, exactly as done above. Reconciling these five files
+(pulling the box's newer `fred_client.py` / `fao_client.py` back into the project tree) is
+outstanding work.
+
+### Rollback point for the 2026-07-24 deploy
+
+Still on the box, nothing pruned:
+
+- image `foodberg-backend:rollback-20260720` = `7685f4bd180f` (the pre-deploy image; the
+  `1.0.0` tag was overwritten by the rebuild and is now `bb0f1ed53f53`)
+- `~/sites/foodberg_rollback_20260724/` = pre-deploy `composite.py`, `worldbank_client.py`,
+  `rebake_history.py`, and `foodberg.db.rollback_20260720` (1,637,339,136 B)
+
+```bash
+ssh andenick@192.168.0.174 \
+  'cd ~/sites/foodberg && docker rm -f foodberg-backend \
+   && docker tag foodberg-backend:rollback-20260720 foodberg-backend:1.0.0 \
+   && docker compose up -d --no-build foodberg-backend'
+```
+
+That restores the exact pre-deploy image (code **and** DB, both baked in) without touching the
+source tree or `foodberg-web`. Retire the rollback artifacts only once this deploy has been
+observed healthy for a while.
 
 ## 6. Dead configurations — do not follow
 
