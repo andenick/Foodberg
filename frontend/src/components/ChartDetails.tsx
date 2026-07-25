@@ -1,4 +1,4 @@
-import { downloadCsv } from '../arcanum/arkChartTheme'
+import ArkDownloads from '../arcanum/ArkDownloads'
 
 /* ChartDetails — the standard "what am I looking at" block under every chart:
    a meta strip (source, unit, range, observation count, latest value) and a
@@ -37,16 +37,37 @@ export function ChartMetaStrip({ meta }: { meta: ChartMeta }) {
     )
 }
 
+/**
+ * The site's one data table.
+ *
+ * TABLE_RENDERING_STANDARD rules 1 & 3: this used to be a bare
+ * `overflow-x-auto` div — a wide table became a horizontally-scrolling mystery
+ * on a phone, with no way to tell which column a number belonged to. It now
+ * emits the kit's `.ark-table-wrap` / `.ark-table` markup and stamps every cell
+ * with `data-label`, which is what the vendored arcanum.css §18 reflow reads to
+ * turn each row into a label-stacked card below 680px. Upgrading this component
+ * fixes every table on the site at once, which is the point of a shared kit.
+ *
+ * Downloads go through <ArkDownloads/> so every table offers the same formats
+ * in the same order as every chart (DOWNLOAD_AND_FORMATS_STANDARD rule 2).
+ */
 export function ScrollableDataTable({
     rows,
     columns,
     filename,
     maxHeight = 320,
+    downloads,
+    downloadsUnavailable,
+    title,
 }: {
     rows: Array<Record<string, unknown>>
     columns: Array<{ key: string; label: string; numeric?: boolean }>
     filename: string
     maxHeight?: number
+    /** Server-side bulk formats where this table has them (XLSX/Parquet). */
+    downloads?: { xlsx?: string; parquet?: string }
+    downloadsUnavailable?: { xlsx?: string; parquet?: string }
+    title?: string
 }) {
     if (!rows.length) return null
     const fmt = (v: unknown, numeric?: boolean) => {
@@ -57,29 +78,33 @@ export function ScrollableDataTable({
     }
     return (
         <div className="mt-4">
-            <div className="flex items-center justify-between mb-2">
+            <div className="flex items-center justify-between mb-2 flex-wrap gap-2">
                 <h3 className="text-sm font-semibold text-ark-fg-dim uppercase tracking-wide">
-                    Plotted data ({rows.length.toLocaleString()} rows)
+                    {title ?? 'Plotted data'} ({rows.length.toLocaleString()} rows)
                 </h3>
-                <button
-                    type="button"
-                    className="ark-btn ark-btn-sm ark-btn-ghost"
-                    onClick={() => downloadCsv(rows, filename)}
-                >
-                    Download CSV
-                </button>
+                <ArkDownloads
+                    rows={rows}
+                    filename={filename}
+                    hrefs={downloads}
+                    unavailable={downloadsUnavailable}
+                    label={null}
+                />
             </div>
             <div
-                className="overflow-y-auto overflow-x-auto border border-ark-line rounded-lg"
+                className="ark-table-wrap overflow-y-auto"
                 style={{ maxHeight }}
+                role="region"
+                tabIndex={0}
+                aria-label={title ?? 'Plotted data'}
             >
-                <table className="w-full text-sm">
-                    <thead className="sticky top-0 bg-ark-tag">
+                <table className="ark-table">
+                    <thead>
                         <tr>
                             {columns.map((c) => (
                                 <th
                                     key={c.key}
-                                    className={`p-2 text-ark-fg-dim font-semibold text-xs uppercase tracking-wide ${c.numeric ? 'text-right' : 'text-left'}`}
+                                    scope="col"
+                                    className={c.numeric ? 'text-right' : 'text-left'}
                                 >
                                     {c.label}
                                 </th>
@@ -88,11 +113,14 @@ export function ScrollableDataTable({
                     </thead>
                     <tbody>
                         {rows.map((r, i) => (
-                            <tr key={i} className="border-t border-ark-line/50 hover:bg-ark-tag/50">
+                            <tr key={i}>
                                 {columns.map((c) => (
                                     <td
                                         key={c.key}
-                                        className={`p-2 ${c.numeric ? 'text-right font-mono text-ark-fg' : 'text-ark-fg-dim'}`}
+                                        /* Read by the §18 reflow to show the column
+                                           header beside the value on narrow screens. */
+                                        data-label={c.label}
+                                        className={c.numeric ? 'text-right font-mono text-ark-fg' : 'text-ark-fg-dim'}
                                     >
                                         {fmt(r[c.key], c.numeric)}
                                     </td>

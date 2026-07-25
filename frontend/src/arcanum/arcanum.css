@@ -714,3 +714,47 @@ code, kbd, samp, pre { font-family: var(--ark-mono); }
 }
 .ark-action-btn:hover { border-color: var(--ark-accent); color: var(--ark-accent); text-decoration: none; }
 .ark-action-btn:focus-visible { outline: 2px solid var(--ark-accent); outline-offset: 2px; }
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   §18 RESPONSIVE TABLE REFLOW  (vendored from the Arcanum Site Kit v1,
+   arcanum.css §18 — the ark-table.js companion rules)
+
+   TABLE_RENDERING_STANDARD rules 1 & 3: a table too wide to render inline must
+   NOT become a horizontally-scrolling mystery — below 680px it reflows to
+   label-stacked cards, each cell showing its column header via `data-label`.
+   Foodberg shipped `.overflow-x-auto` with no reflow, which is the exact defect
+   these rules exist to kill. <ScrollableDataTable> stamps the data-labels.
+   ───────────────────────────────────────────────────────────────────────────── */
+@media (max-width: 680px) {
+  /* Scoped under .ark-table-wrap + !important so the reflow beats Tailwind
+     utilities and any page-local table CSS regardless of source order. */
+  .ark-table-wrap .ark-table,
+  .ark-table-wrap .ark-table tbody,
+  .ark-table-wrap .ark-table tr,
+  .ark-table-wrap .ark-table td {
+    display: block !important; width: 100% !important; box-sizing: border-box !important;
+  }
+  /* Keep the header for screen readers but take it out of the visual flow. */
+  .ark-table-wrap .ark-table thead {
+    position: absolute !important; width: 1px; height: 1px;
+    overflow: hidden; clip: rect(0 0 0 0);
+  }
+  .ark-table-wrap .ark-table tr {
+    margin: 0 0 12px !important; border: 1px solid var(--ark-line) !important;
+    border-radius: var(--ark-radius, 10px); padding: 4px 0 !important;
+    background: var(--ark-bg-soft);
+  }
+  .ark-table-wrap .ark-table td {
+    border-bottom: 1px solid var(--ark-line); padding: 6px 10px 6px 44% !important;
+    position: relative; min-height: 1.6em; overflow-wrap: anywhere;
+    white-space: normal !important; text-align: left !important;
+  }
+  .ark-table-wrap .ark-table td:last-child { border-bottom: 0; }
+  .ark-table-wrap .ark-table td::before {
+    content: attr(data-label); position: absolute; left: 10px; top: 6px; width: 38%;
+    font-weight: 600; color: var(--ark-fg-dim);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  /* The wrap itself must not force a min-width from the old table layout. */
+  .ark-table-wrap { overflow-x: hidden !important; }
+}

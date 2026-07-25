@@ -746,8 +746,8 @@ export default function SupplyDemand() {
             {/* Coverage label */}
             {legacyCoverage && legacyCommodity && legacyCoverage.coverage_matrix[legacyCommodity] && (
                 <div className="card mb-6 bg-amber-900/20 border-amber-700/50">
-                    <h3 className="text-sm font-semibold text-amber-300 mb-2">Coverage note</h3>
-                    <p className="text-sm text-amber-200/80 leading-relaxed">
+                    <h3 className="text-sm font-semibold text-amber-700 dark:text-amber-300 mb-2">Coverage note</h3>
+                    <p className="text-sm text-amber-900/80 dark:text-amber-200/80 leading-relaxed">
                         Machine-extracted from historical USDA WASDE reports, 1979–2009, partial coverage.
                         {Object.entries(legacyCoverage.coverage_matrix[legacyCommodity]).map(([decade, info]) => (
                             <span key={decade} className="ml-2">
@@ -755,7 +755,7 @@ export default function SupplyDemand() {
                                 ({info.min_my}–{info.max_my})
                             </span>
                         ))}
-                        <span className="block mt-1 text-xs text-amber-300/60">
+                        <span className="block mt-1 text-xs text-amber-700 dark:text-amber-700/70 dark:text-amber-300/60">
                             Units as printed per row. Gaps are real extraction gaps — no interpolation.
                             <a href="/docs/provenance" className="underline ml-1">See provenance →</a>
                         </span>

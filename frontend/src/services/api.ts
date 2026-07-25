@@ -61,6 +61,20 @@ export const api = {
 
     // Real price-history coverage (which commodities have a genuine series)
     getPriceCoverage: () => apiClient.get('/api/prices/coverage'),
+
+    // The detail rail behind the Price Explorer: every source carrying an item
+    // (with a normalized frequency and a last-real-observation date), its
+    // regional variants, the farm -> wholesale -> retail wedge where all three
+    // genuinely exist, and inline provenance.
+    getPriceDetail: (slug: string) =>
+        apiClient.get(`/api/prices/detail/${encodeURIComponent(slug)}`),
+
+    // GDP implicit price deflator, for the client-side real-terms toggle.
+    // WEBSITE_VISUALIZATION_STANDARD §2 requires the GDP deflator and forbids
+    // CPI — deflating a food price by an index containing food prices is
+    // circular. Returns an honest data_unavailable payload rather than a 500
+    // when the series has not been ingested.
+    getDeflator: () => apiClient.get('/api/prices/deflator'),
     getPriceHistory: (commodity: string) =>
         apiClient.get(`/api/prices/history/${commodity}`),
     getSourceHistory: (commodity: string, source: string) =>

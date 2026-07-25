@@ -252,6 +252,73 @@ That restores the exact pre-deploy image (code **and** DB, both baked in) withou
 source tree or `foodberg-web`. Retire the rollback artifacts only once this deploy has been
 observed healthy for a while.
 
+## 5c. ✅ THIRD DEPLOY — 2026-07-25 (chef-first IA flip: the explorer becomes `/`)
+
+Same surgical method as §5 and §5b: `scp` file-by-file from the project tree to the box
+with an **md5 check on both ends for every file**, then `docker compose build` + `up -d
+--force-recreate foodberg-backend` **on the box**. Backend was shipped **before** the
+frontend, so the new UI never faced an API that lacked its endpoints.
+
+| | Before (live) | After (live, verified by `curl` + headless Chromium against foodberg.org) |
+|---|---|---|
+| `/` | Hero, then ⬇ Download the Data / ⬇ Download the Code, then a stats row and a feature grid. No price above the fold. `/` was not in the nav | **The Price Explorer itself.** Renders `Tomatoes, field grown · $2.15 / lb · Jun 2026 · +24% vs a year ago` on load |
+| Nav | `Food Index · Price Explorer · Wholesale · Supply & Demand · Geographic · Trends · Downloads · Data Sources` | `Prices · History · Compare · Seasons · Sources · Data & Code`, plus a "More views" strip carrying the four research surfaces so none is orphaned |
+| Research Triad | hero position on `/` | hero position on **`/data`** (new), under the ratified tool-first exception. Compact triad still in the action footer on every page |
+| Real (inflation-adjusted) prices | did not exist anywhere | GDP-deflator toggle. Tomatoes nominal `$0.703 → $2.154`; **real `$2.438 → $2.255`** in constant 2026-01 dollars |
+| Seasonality | destroyed at the presentation layer — a 552-point monthly series was plotted against a YEAR axis | seasonal band by default; **cheapest June `$1.72/lb`, dearest January `$1.98/lb`, 14.9% swing, June 2026 at the 95th percentile of Junes** |
+| Kitchen units | none; y-axis read the literal word "Value" when a unit was missing | unit selector, kitchen units first, native unit always shown and labelled |
+| Frequency | not surfaced | first-class filter + per-series badge; annual stored but off by default |
+| New routes | — | `/data`, `/seasons`, `/compare` (all 200) |
+| `economic_indicators` | 16,246 | **16,563** (+317 `GDPDEF`, 1947-01 → 2026-01) |
+| `foodberg.db` | 2,941,763,584 B | **2,941,886,464 B**, md5 `102430ad…` |
+
+### Files shipped (all md5-verified on both ends)
+
+```
+backend/main.py                          backend/database/rebake_history.py
+backend/data_sources/worldbank_client.py backend/data/foodberg.db  (2.94 GB, ~42 s)
+frontend/dist/{index.html,llms.txt,favicon.*,logo.png,assets/*,code/*,downloads/*}
+                                              ← bind mount: LIVE on write (15 files)
+```
+
+### D13 was run BOTH ways — the negative control is the evidence
+
+Foodberg is a client-rendered SPA, so both runs are against **Playwright-prerendered**
+pages (`--mode tree`), per CDF §9.1's "Note on SPA sites". A shell-only run is not evidence.
+
+- `check_cdf.py --tool-first` → **PASS (exit 0)**, triad on `/data`, `offset_ratio=0.113`.
+- the same pages with `cdf.tool_first` stripped → **FAIL (exit 1)**, `offset_ratio=0.985`
+  on `/` — the only triad there is the footer's compact one, at 98.5% down the page.
+
+That failing run is what makes the passing one meaningful: the gate was **retargeted, not
+waived**. Note also that check **(a)** passes in *both* modes, because `has_marker` cannot
+tell a hero triad from the mandatory footer triad — **on any CDF site, (a) alone is never
+evidence of a hero triad; (b) is the load-bearing check.**
+
+Artifacts: `Technical/evidence/chef_first_20260725/` (before/after/live screenshots at
+1440 and 390, plus both D13 JSON + stderr transcripts).
+
+### Rollback point for the 2026-07-25 deploy
+
+- image `foodberg-backend:rollback-20260725` = `c3155c895183` (the pre-deploy image)
+- `~/sites/foodberg_rollback_20260725/` = pre-deploy `foodberg.db` (2,941,763,584 B),
+  `main.py`, `worldbank_client.py`, `rebake_history.py`, and the whole pre-deploy
+  `frontend/dist/`
+
+```bash
+ssh andenick@192.168.0.174 \
+  'cd ~/sites/foodberg && docker rm -f foodberg-backend \
+   && docker tag foodberg-backend:rollback-20260725 foodberg-backend:1.0.0 \
+   && docker compose up -d --no-build foodberg-backend'
+# frontend (bind mount) rolls back by copying the saved dist back over it:
+#   cp -r ~/sites/foodberg_rollback_20260725/dist/. ~/sites/foodberg/frontend/dist/
+```
+
+> **Housekeeping, not a defect:** `~/sites/foodberg/frontend/dist/assets/` has accumulated
+> the hashed bundles of every previous deploy (30 files where 7 are referenced). `index.html`
+> names only the current ones, so nothing stale is served. Prune them in a quiet window, not
+> during a deploy.
+
 ## 6. Dead configurations — do not follow
 
 Checked into this repository but non-functional. They exist for history only.

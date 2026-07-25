@@ -265,6 +265,77 @@ class WorldBankClient:
         "sugar":    {"pinksheet": "Sugar, world", "retail": "Sugar, white, all sizes"},
     }
 
+    # Retail item -> the PPI series in `economic_indicators` that measures the
+    # SAME good one step earlier in the chain (farm/producer gate rather than
+    # the grocery shelf). Deliberately tiny, explicit and hand-verified: a
+    # farm->retail wedge is only meaningful when the two series really do track
+    # the same commodity, so this is an allow-list, never a fuzzy match. An item
+    # with no entry here reports `wedge.ppi: null` — an honest absence.
+    #   'Tomatoes, field grown' <-> WPU01130217 "PPI - Farm Products: Tomatoes"
+    #   is the pair named in FOODBERG_CHEF_FIRST_PLAN_20260724.md §1.1; both
+    #   sides were ingested by Technical/scripts/ingest_bls_monthly_series.py.
+    # The mapped series is looked up in the database before it is emitted, so a
+    # link to a series that is not actually loaded degrades to null instead of
+    # inventing a wedge.
+    RETAIL_PPI_LINKS: Dict[str, str] = {
+        "Tomatoes, field grown": "WPU01130217",
+    }
+
+    # Publisher provenance per source key. The landing URLs are the same public
+    # pages Technical/scripts/reality_audit.py resolves for these sources.
+    # `retrieval_url` is a publisher page, not an API call: everything Foodberg
+    # serves comes from the baked local database, offline.
+    SOURCE_PROVENANCE: Dict[str, Dict[str, str]] = {
+        "retail": {
+            "publisher": "U.S. Bureau of Labor Statistics",
+            "programme": "Average Price Data (AP)",
+            "retrieval_url": "https://www.bls.gov/cpi/data.htm",
+            "geography": "U.S. city average",
+            "licence": "U.S. Government work (public domain)",
+            "series_id_note": (
+                "retail_prices stores no publisher series id; the BLS item name "
+                "is the key. The APU series ids live in Robin's canonical store "
+                "(Council/Robin/DATA/BLS_AP/)."),
+        },
+        "nass": {
+            "publisher": "USDA National Agricultural Statistics Service",
+            "programme": "Quick Stats - PRICE RECEIVED",
+            "retrieval_url": "https://quickstats.nass.usda.gov/",
+            "geography": "United States (national)",
+            "licence": "U.S. Government work (public domain)",
+        },
+        "pinksheet": {
+            "publisher": "World Bank",
+            "programme": "Commodity Markets 'Pink Sheet' (Monthly)",
+            "retrieval_url": (
+                "https://www.worldbank.org/en/research/commodity-markets"),
+            "geography": "global",
+            "licence": "CC BY 4.0",
+        },
+        "av": {
+            "publisher": "Alpha Vantage (commercial aggregator)",
+            "programme": "Commodities API (continuous contract)",
+            "retrieval_url": (
+                "https://www.alphavantage.co/documentation/#commodities"),
+            "geography": "global",
+            "licence": "UNRESOLVED - redistribution terms not established",
+        },
+        "wholesale": {
+            "publisher": "USDA Agricultural Marketing Service",
+            "programme": "Market News - terminal market prices (MARS API v3.1)",
+            "retrieval_url": (
+                "https://marsapi.ams.usda.gov/services/v3.1/reports"),
+            "geography": "US terminal markets",
+            "licence": "U.S. Government work (public domain)",
+        },
+    }
+
+    # Order in which sources are listed, and therefore which one is treated as
+    # the item's PRIMARY source for the headline unit and provenance: the
+    # closest to a kitchen first (US retail shelf), the furthest last (global
+    # farm-gate / futures).
+    SOURCE_ORDER = ("retail", "nass", "pinksheet", "av")
+
     def _pinksheet_name(self, slug: str) -> Optional[str]:
         return self.COMMODITY_LINKS.get(slug, {}).get("pinksheet")
 
@@ -400,6 +471,68 @@ class WorldBankClient:
         return {"status": status, "months_behind": behind,
                 "last_real_observation": series_end}
 
+    # -- Frequency normalization (Wave B) ------------------------------------
+    # Every source spells its own frequency differently, and one of them
+    # ("annual+monthly", USDA NASS) is not a frequency at all — it describes the
+    # mix of rows stored, not the cadence of the series the API actually serves.
+    # A client cannot filter, badge, or resample on strings like that, so the
+    # API emits a NORMALIZED `freq` alongside the original `frequency` string.
+    # The original key is never removed: the shipped frontend reads it.
+    #
+    # Exactly one of daily | weekly | monthly | annual, or None when the stored
+    # string names no cadence this vocabulary covers. None is an honest "not
+    # classifiable", never a guess.
+
+    CANONICAL_FREQUENCIES = ("daily", "weekly", "monthly", "annual")
+
+    _FREQUENCY_ALIASES: Dict[str, Optional[str]] = {
+        "daily": "daily",
+        "daily (business days)": "daily",
+        "business daily": "daily",
+        "weekly": "weekly",
+        "monthly": "monthly",
+        "quarterly": None,          # no quarterly price series is served here
+        "annual": "annual",
+        "annually": "annual",
+        "yearly": "annual",
+        # USDA NASS PRICE RECEIVED keeps ANNUAL and MONTHLY rows for the same
+        # national series. get_source_history() serves the ANNUAL series (it
+        # falls back to averaging monthly rows into years only when a commodity
+        # publishes no annual row at all), so the cadence a client receives is
+        # annual in both cases.
+        "annual+monthly": "annual",
+        "annual/monthly": "annual",
+    }
+
+    # The cadence of each source as Foodberg SERVES it. Used where no stored
+    # frequency string exists to normalize (USDA AMS wholesale rows carry no
+    # frequency column — they are one row per commodity/package/city/report day).
+    SOURCE_FREQUENCY: Dict[str, str] = {
+        "av": "monthly",            # Alpha Vantage monthly continuous contract
+        "nass": "annual",           # USDA NASS PRICE RECEIVED, national annual
+        "pinksheet": "monthly",     # World Bank Pink Sheet monthly
+        "retail": "monthly",        # BLS Average Price monthly
+        "wholesale": "daily",       # USDA AMS terminal markets, per report day
+    }
+
+    @classmethod
+    def normalize_frequency(cls, raw: Optional[str]) -> Optional[str]:
+        """Map a stored frequency string onto the canonical vocabulary.
+
+        Returns 'daily' | 'weekly' | 'monthly' | 'annual', or None when the
+        input names no cadence in that vocabulary.
+        """
+        if raw is None:
+            return None
+        key = str(raw).strip().lower()
+        if not key:
+            return None
+        if key in cls._FREQUENCY_ALIASES:
+            return cls._FREQUENCY_ALIASES[key]
+        if key in cls.CANONICAL_FREQUENCIES:
+            return key
+        return None
+
     def get_price_coverage(self) -> Dict:
         """Multi-source price-history coverage per commodity (honest UI labels).
 
@@ -481,12 +614,18 @@ class WorldBankClient:
         # P0-6 / S5: stamp every catalog entry with a liveness verdict derived
         # from its LAST REAL OBSERVATION, measured against the newest
         # observation in its own source catalog.
-        for catalog in (av, nass, pink, retail):
+        # Wave B: every entry also carries a NORMALIZED `freq`
+        # (daily|weekly|monthly|annual) so a client can badge and filter on
+        # cadence without parsing prose. `frequency` is left untouched.
+        for source_key, catalog in (("av", av), ("nass", nass),
+                                    ("pinksheet", pink), ("retail", retail)):
             catalog_end = max(
                 (e["end"] for e in catalog.values() if e.get("end")),
                 default=None)
             for entry in catalog.values():
                 entry["liveness"] = self._liveness(entry.get("end"), catalog_end)
+                entry["freq"] = (self.normalize_frequency(entry.get("frequency"))
+                                 or self.SOURCE_FREQUENCY.get(source_key))
 
         # Assemble per-commodity source map over the NASS commodity universe
         # plus anything AV covers.
@@ -608,6 +747,362 @@ class WorldBankClient:
             "label": label, "unit": unit, "data_points": len(data),
             "date_range": {"start": data[0]["date"], "end": data[-1]["date"]},
             "data": data,
+        }
+
+    # -- Detail rail (Wave B) ------------------------------------------------
+
+    @staticmethod
+    def _head_noun(item: str) -> str:
+        """'Tomatoes, field grown' -> 'Tomatoes'; 'Bananas' -> 'Bananas'.
+
+        The BLS AP item convention is `<commodity>, <qualifiers>`, so the text
+        before the first comma is the commodity itself. Used ONLY to propose a
+        candidate USDA AMS `commodity`, which is then verified against the table
+        before anything is emitted.
+        """
+        return str(item).split(",")[0].strip()
+
+    @staticmethod
+    def _region_of(item: str) -> Optional[str]:
+        """'Tomatoes, field grown (Midwest)' -> 'Midwest'."""
+        if item.endswith(")") and "(" in item:
+            return item[item.rindex("(") + 1:-1].strip() or None
+        return None
+
+    def get_price_detail(self, slug: str) -> Dict:
+        """Everything the explorer's detail rail needs for ONE item, in one call.
+
+        Assembles, for a commodity slug:
+          sources     every source carrying the item, each with a NORMALIZED
+                      frequency (daily|weekly|monthly|annual), unit, span and
+                      liveness verdict
+          regional    sibling series discovered from the `<item> (<Region>)`
+                      naming convention in retail_prices - not a hardcoded list
+          wedge       farm -> wholesale -> retail for the same good, emitted
+                      ONLY where each leg genuinely exists
+          provenance  publisher, series id or item key, retrieval URL, geography
+                      and unit of the primary source
+
+        Every `null` means "checked, genuinely absent" - `wedge.basis` says why
+        for each leg, so absence is never confused with "not looked at".
+        Returns {'status': 'unknown_commodity'} for a slug that is not in the
+        coverage universe; the HTTP layer turns that into a 404.
+        """
+        slug = str(slug).lower().strip()
+        coverage = self.get_price_coverage()
+        entry = coverage["commodities"].get(slug)
+        if entry is None:
+            return {
+                "status": "unknown_commodity",
+                "slug": slug,
+                "reason": ("No commodity with this slug exists in the local "
+                           "price coverage universe."),
+                "n_known_slugs": len(coverage["commodities"]),
+            }
+
+        label = coverage["display_names"].get(slug) or slug.replace("-", " ").title()
+        retail_item = entry.get("retail", {}).get("item")
+
+        conn = self._connect()
+        try:
+            cur = conn.cursor()
+
+            # -- units per source, read from the rows actually served ---------
+            units: Dict[str, Optional[str]] = {}
+            if "retail" in entry:
+                units["retail"] = entry["retail"].get("unit")
+            if "pinksheet" in entry:
+                units["pinksheet"] = entry["pinksheet"].get("unit")
+            if "av" in entry:
+                row = cur.execute(
+                    "SELECT MIN(unit) u FROM global_prices "
+                    "WHERE source='Alpha Vantage' AND indicator_code = ?",
+                    (("CORN" if slug == "maize" else slug).upper(),)).fetchone()
+                units["av"] = row["u"] if row else None
+            if "nass" in entry:
+                # Same filters get_source_history() uses for the annual series,
+                # so the reported unit is the unit of the series actually served.
+                row = cur.execute(
+                    "SELECT MIN(unit) u FROM wasde_data WHERE commodity = ? "
+                    "AND statistic_category='PRICE RECEIVED' "
+                    "AND agg_level='NATIONAL' AND freq_desc='ANNUAL' "
+                    "AND numeric_value IS NOT NULL", (slug.upper(),)).fetchone()
+                unit = row["u"] if row else None
+                if unit is None:
+                    row = cur.execute(
+                        "SELECT MIN(unit) u FROM wasde_data WHERE commodity = ? "
+                        "AND statistic_category='PRICE RECEIVED' "
+                        "AND agg_level='NATIONAL' AND numeric_value IS NOT NULL",
+                        (slug.upper(),)).fetchone()
+                    unit = row["u"] if row else None
+                units["nass"] = unit
+
+            # -- sources -------------------------------------------------------
+            sources: List[Dict[str, Any]] = []
+            for key in self.SOURCE_ORDER:
+                src = entry.get(key)
+                if not src:
+                    continue
+                item: Dict[str, Any] = {
+                    "key": key,
+                    "label": src.get("label") or key,
+                    "frequency": (self.normalize_frequency(src.get("frequency"))
+                                  or self.SOURCE_FREQUENCY[key]),
+                    "frequency_as_stored": src.get("frequency"),
+                    "unit": units.get(key),
+                    "points": src.get("points"),
+                    "start": src.get("start"),
+                    "end": src.get("end"),
+                    "liveness": src.get("liveness"),
+                }
+                if key == "nass":
+                    item["n_years"] = src.get("n_years")
+                    item["points_note"] = (
+                        "`points` counts every stored PRICE RECEIVED "
+                        "observation (annual and monthly rows); the national "
+                        "series served by /api/prices/source is annual, one "
+                        "point per year (`n_years`).")
+                if key == "retail" and src.get("item"):
+                    item["series"] = src["item"]
+                if key == "pinksheet" and src.get("series"):
+                    item["series"] = src["series"]
+                sources.append(item)
+
+            primary = sources[0]["key"] if sources else None
+
+            # -- regional variants --------------------------------------------
+            # Discovered from the publisher's own naming convention
+            # `<base item> (<Region>)`, so any future regional item is picked up
+            # without a code change. Nothing about tomatoes is hardcoded.
+            regional: List[Dict[str, Any]] = []
+            if retail_item:
+                variants = cur.execute(
+                    "SELECT food_item, MIN(location) location, MIN(unit) unit, "
+                    "COUNT(*) n, MAX(date) e FROM retail_prices "
+                    "WHERE source='BLS AP' AND food_item LIKE ? "
+                    "AND food_item <> ? GROUP BY food_item ORDER BY food_item",
+                    (f"{retail_item} (%)", retail_item)).fetchall()
+                for v in variants:
+                    region = self._region_of(v["food_item"])
+                    if region is None:
+                        continue
+                    latest = cur.execute(
+                        "SELECT date, price FROM retail_prices "
+                        "WHERE source='BLS AP' AND food_item = ? "
+                        "ORDER BY date DESC LIMIT 1", (v["food_item"],)).fetchone()
+                    regional.append({
+                        "slug": self._retail_slug(v["food_item"]),
+                        "label": v["food_item"],
+                        "region": region,
+                        "location": v["location"],
+                        "unit": v["unit"],
+                        "frequency": self.SOURCE_FREQUENCY["retail"],
+                        "points": v["n"],
+                        "latest": ({"date": str(latest["date"])[:10],
+                                    "price": latest["price"]}
+                                   if latest else None),
+                    })
+
+            # -- wedge: farm -> wholesale -> retail ----------------------------
+            wedge: Dict[str, Any] = {"retail": None, "ppi": None,
+                                     "wholesale": None}
+            basis: Dict[str, str] = {}
+
+            if retail_item:
+                latest = cur.execute(
+                    "SELECT date, price, unit FROM retail_prices "
+                    "WHERE source='BLS AP' AND food_item = ? "
+                    "AND location='U.S. city average' "
+                    "ORDER BY date DESC LIMIT 1", (retail_item,)).fetchone()
+                if latest:
+                    wedge["retail"] = {
+                        "label": f"BLS US retail average - {retail_item}",
+                        "series": retail_item,
+                        "unit": latest["unit"],
+                        "latest": {"date": str(latest["date"])[:10],
+                                   "price": latest["price"]},
+                    }
+                    basis["retail"] = (
+                        f"BLS AP item '{retail_item}', national "
+                        f"(location='U.S. city average')")
+                else:
+                    basis["retail"] = (
+                        f"BLS AP item '{retail_item}' has no national row "
+                        f"(location='U.S. city average')")
+            else:
+                basis["retail"] = "no BLS Average Price item carries this commodity"
+
+            ppi_series = self.RETAIL_PPI_LINKS.get(retail_item or "")
+            if ppi_series:
+                row = cur.execute(
+                    "SELECT date, value, indicator_name FROM economic_indicators "
+                    "WHERE series_id = ? ORDER BY date DESC LIMIT 1",
+                    (ppi_series,)).fetchone()
+                if row:
+                    wedge["ppi"] = {
+                        "series_id": ppi_series,
+                        "label": row["indicator_name"],
+                        "unit": "index",
+                        "unit_note": ("economic_indicators has no unit column; "
+                                      "PPI series are index points, not prices, "
+                                      "so the wedge is a co-movement comparison, "
+                                      "not a margin in dollars."),
+                        "latest": {"date": str(row["date"])[:10],
+                                   "value": row["value"]},
+                    }
+                    basis["ppi"] = (f"explicit retail->PPI pair "
+                                    f"'{retail_item}' -> {ppi_series}")
+                else:
+                    basis["ppi"] = (
+                        f"retail->PPI pair maps '{retail_item}' to {ppi_series}, "
+                        f"but that series is not loaded in economic_indicators")
+            else:
+                basis["ppi"] = (
+                    "no producer-price pair is mapped for this item "
+                    "(RETAIL_PPI_LINKS is a hand-verified allow-list; an "
+                    "unmapped item reports null rather than a guessed match)")
+
+            # Two candidate names, tried in order, each an EXACT (case-
+            # insensitive) match against the AMS `commodity` column and each
+            # verified to return rows before anything is emitted:
+            #   1. the publisher's full item name  ('Lettuce, iceberg' ->
+            #      AMS 'Lettuce, Iceberg')
+            #   2. its head noun                   ('Tomatoes, field grown' ->
+            #      AMS 'Tomatoes')
+            # No substring, prefix, or fuzzy matching is ever attempted: 'Onions,
+            # dry yellow' does not become AMS 'Onions, Dry', because those are
+            # different pack specifications and the site would be asserting a
+            # linkage the publishers never made.
+            base_name = retail_item or label
+            candidates = [base_name]
+            head = self._head_noun(base_name)
+            if head and head.lower() != base_name.lower():
+                candidates.append(head)
+            row = None
+            candidate = candidates[-1]
+            for name in candidates:
+                found = cur.execute(
+                    "SELECT commodity, COUNT(*) rows, COUNT(DISTINCT city) cities, "
+                    "COUNT(DISTINCT variety) varieties, MAX(report_date) latest "
+                    "FROM ams_wholesale_prices WHERE commodity = ? COLLATE NOCASE",
+                    (name,)).fetchone()
+                if found and found["rows"]:
+                    row, candidate = found, name
+                    break
+            if row and row["rows"]:
+                commodity = row["commodity"]
+                latest_date = row["latest"]
+                # Terminal-market prices are quoted per PACKAGE, and the packages
+                # differ (25 lb cartons loose, flats 2 layer, ...). A low/high
+                # taken across mixed packages would not be a price range, so the
+                # range is confined to the package unit most quoted on the latest
+                # report day, and that unit is reported with it.
+                unit_row = cur.execute(
+                    "SELECT unit, COUNT(*) n FROM ams_wholesale_prices "
+                    "WHERE commodity = ? COLLATE NOCASE AND report_date = ? "
+                    "AND unit IS NOT NULL GROUP BY unit "
+                    "ORDER BY n DESC, unit LIMIT 1",
+                    (candidate, latest_date)).fetchone()
+                modal_unit = unit_row["unit"] if unit_row else None
+                span = cur.execute(
+                    "SELECT MIN(low_price) lo, MAX(high_price) hi, COUNT(*) n, "
+                    "COUNT(DISTINCT unit) units FROM ams_wholesale_prices "
+                    "WHERE commodity = ? COLLATE NOCASE AND report_date = ? "
+                    "AND unit IS ?", (candidate, latest_date, modal_unit)
+                ).fetchone()
+                all_units = cur.execute(
+                    "SELECT COUNT(DISTINCT unit) u FROM ams_wholesale_prices "
+                    "WHERE commodity = ? COLLATE NOCASE AND report_date = ?",
+                    (candidate, latest_date)).fetchone()
+                wedge["wholesale"] = {
+                    "commodity": commodity,
+                    "cities": row["cities"],
+                    "rows": row["rows"],
+                    "latest_date": str(latest_date)[:10] if latest_date else None,
+                    "low": span["lo"] if span else None,
+                    "high": span["hi"] if span else None,
+                    "unit": modal_unit,
+                    "varieties": row["varieties"],
+                    "frequency": self.SOURCE_FREQUENCY["wholesale"],
+                    "quotes_at_latest_unit": span["n"] if span else 0,
+                    "units_at_latest_date": all_units["u"] if all_units else 0,
+                    "range_note": (
+                        "low/high are the extremes of the quotes carrying the "
+                        "most-quoted package unit on the latest report day; "
+                        "other package units on the same day are priced "
+                        "differently and are not mixed in."),
+                }
+                how = ("the full item name" if candidate.lower() == base_name.lower()
+                       else "the head noun")
+                basis["wholesale"] = (
+                    f"USDA AMS commodity '{commodity}' matched exactly on "
+                    f"{how} of '{base_name}' ('{candidate}') and returns "
+                    f"{row['rows']} rows")
+            else:
+                basis["wholesale"] = (
+                    f"no USDA AMS commodity matches "
+                    f"{' or '.join(repr(c) for c in candidates)} exactly; no "
+                    f"fuzzy or partial linkage is ever made")
+            wedge["basis"] = basis
+
+            # -- provenance of the primary source ------------------------------
+            if primary:
+                reg = dict(self.SOURCE_PROVENANCE[primary])
+                if primary == "retail":
+                    series_key = retail_item
+                    locations = [r["location"] for r in cur.execute(
+                        "SELECT DISTINCT location FROM retail_prices "
+                        "WHERE source='BLS AP' AND food_item = ?",
+                        (retail_item,)).fetchall()]
+                    geography = (locations[0] if len(locations) == 1
+                                 else reg["geography"])
+                elif primary == "pinksheet":
+                    series_key = entry["pinksheet"].get("series")
+                    geography = reg["geography"]
+                elif primary == "av":
+                    series_key = "CORN" if slug == "maize" else slug.upper()
+                    geography = reg["geography"]
+                else:
+                    series_key = slug.upper()
+                    geography = reg["geography"]
+                provenance = {
+                    "source_key": primary,
+                    "publisher": reg["publisher"],
+                    "programme": reg["programme"],
+                    "series_id_or_item": series_key,
+                    "retrieval_url": reg["retrieval_url"],
+                    "geography": geography,
+                    "unit": units.get(primary),
+                    "licence": reg["licence"],
+                    "delivery": ("served from the baked local database; the URL "
+                                 "is the publisher's page, not a live call"),
+                }
+                if reg.get("series_id_note"):
+                    provenance["series_id_note"] = reg["series_id_note"]
+            else:
+                provenance = None
+        finally:
+            conn.close()
+
+        return {
+            "slug": slug,
+            "label": label,
+            "unit": units.get(primary) if primary else None,
+            "primary_source": primary,
+            "sources": sources,
+            "regional": regional,
+            "wedge": wedge,
+            "provenance": provenance,
+            "note": (
+                "One item, every source that genuinely carries it. `unit` is "
+                "the primary source's own unit, verbatim - no conversion is "
+                "applied here. `frequency` is normalized to "
+                "daily|weekly|monthly|annual; `frequency_as_stored` keeps the "
+                "publisher's own wording. An empty `regional` list means the "
+                "publisher issues no regional variant of this item. Each null "
+                "in `wedge` is a checked absence, explained in `wedge.basis`; "
+                "the wedge compares different measurement bases (retail $/unit, "
+                "PPI index points, wholesale $/package) and is not a margin."),
         }
 
     def get_producer_price_items(self, min_countries: int = 5) -> List[Dict]:
