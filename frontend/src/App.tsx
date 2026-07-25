@@ -11,6 +11,7 @@ import HistoricalTrends from './pages/HistoricalTrends'
 import HomePage from './pages/HomePage'
 import PriceExplorer from './pages/PriceExplorer'
 import SupplyDemand from './pages/SupplyDemand'
+import WholesalePrices from './pages/WholesalePrices'
 
 // Canonical Arcanum Research ecosystem manifest (bundled statically — no CDN).
 const ecosystem = ecosystemData as unknown as Ecosystem
@@ -22,6 +23,7 @@ const FOODBERG_CDF = (ecosystem.sites?.find((s) => s.key === 'foodberg') as unkn
 const NAV: NavItem[] = [
     { label: 'Food Index', href: '/index' },
     { label: 'Price Explorer', href: '/explore' },
+    { label: 'Wholesale', href: '/wholesale' },
     { label: 'Supply & Demand', href: '/supply-demand' },
     { label: 'Geographic', href: '/geographic' },
     { label: 'Trends', href: '/trends' },
@@ -47,6 +49,7 @@ function App() {
                 <Route path="/" element={<HomePage />} />
                 <Route path="/index" element={<FoodPriceIndex />} />
                 <Route path="/explore" element={<PriceExplorer />} />
+                <Route path="/wholesale" element={<WholesalePrices />} />
                 <Route path="/supply-demand" element={<SupplyDemand />} />
                 <Route path="/commodity/:commodityId" element={<CommodityDetail />} />
                 <Route path="/geographic" element={<GeographicPrices />} />

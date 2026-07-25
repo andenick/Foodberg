@@ -22,10 +22,15 @@ What it loads (all from Robin's canonical store, all public-domain/CC-BY):
        -> global_prices  every monthly commodity series + indices,
                          region='World'. source='World Bank Pink Sheet'.
   5. BLS Average Prices  (DATA/BLS_AP/ap_fred_*.json)
-       -> retail_prices  ~50 retail food items, monthly US city average.
-                         source='BLS AP'.
+       -> retail_prices  ~50 retail food items, monthly. `location` is the
+                         artifact's own `area` (U.S. city average for the
+                         national items; the Census-region name for the four
+                         APU0[1-4]00712311 tomato series). source='BLS AP'.
   6. FRED + BLS macro / food CPI + PPI  (backend/data/collected/*.json)
        -> economic_indicators   upserted on (series_id, date, source).
+                         Four artifacts: the 2025-12 fred_data/bls_data
+                         snapshots plus fred_food_extra/bls_food_extra written
+                         by Technical/scripts/ingest_bls_monthly_series.py.
   7. Composite indices  (derived from 2/4 above + economic_indicators)
        -> composite_indices     recomputed and upserted every rebake.
 
@@ -70,6 +75,20 @@ if not ROBIN.is_dir():
 COLLECTED = BACKEND / "data" / "collected"
 COLLECTED_FRED = COLLECTED / "fred_data.json"
 COLLECTED_BLS = COLLECTED / "bls_data.json"
+# 2026-07-24: monthly BLS series added by
+# Technical/scripts/ingest_bls_monthly_series.py (keyless FRED mirror for
+# WPU01130217; keyless BLS public API v1 for CUUR0000SEFV01/02, which FRED does
+# not mirror). Separate artifacts so the 2025-12 snapshots above keep their own
+# retrieval provenance. Each (path, source) pair names the endpoint the data
+# actually came from.
+COLLECTED_FRED_EXTRA = COLLECTED / "fred_food_extra.json"
+COLLECTED_BLS_EXTRA = COLLECTED / "bls_food_extra.json"
+COLLECTED_SOURCES = (
+    (COLLECTED_FRED, "FRED"),
+    (COLLECTED_BLS, "BLS"),
+    (COLLECTED_FRED_EXTRA, "FRED"),
+    (COLLECTED_BLS_EXTRA, "BLS"),
+)
 
 NASS_DIR = ROBIN / "USDA_NASS_HISTORY"
 FAO_PRICES_CSV = ROBIN / "FAO/FAOSTAT_BULK/Prices_E_All_Data_(Normalized).csv"
@@ -352,9 +371,16 @@ def import_bls_ap(con: sqlite3.Connection) -> int:
     total = 0
     for fp in files:
         p = json.loads(fp.read_text(encoding="utf-8"))
+        # `location` is the publisher's own area, taken from the artifact — NOT
+        # hardcoded. Before 2026-07-24 every row was stamped 'U.S. city average'
+        # because the store held only area 0000 series; the four Census-region
+        # tomato series (APU0[1-4]00712311) would then have been silently
+        # mislabelled as national. Older artifacts have no `area` key, and their
+        # area really is U.S. city average, so that stays the default.
+        area = p.get("area") or "U.S. city average"
         rows = [(
             p["item_name"], r["value"], p["unit"], "Grocery (avg)",
-            "U.S. city average", "", "USA",
+            area, "", "USA",
             f"{r['date']} 00:00:00.000000", "BLS AP", "", "", NOW)
             for r in p["data"]]
         cur.executemany(ins, rows)
@@ -394,7 +420,7 @@ def import_economic_indicators(con: sqlite3.Connection) -> int:
     total_seen = updated = inserted = dupe_groups = 0
     cur = con.cursor()
 
-    for path, source in ((COLLECTED_FRED, "FRED"), (COLLECTED_BLS, "BLS")):
+    for path, source in COLLECTED_SOURCES:
         if not path.exists():
             log(f"economic_indicators: {path.name} missing — SKIPPING {source}")
             continue

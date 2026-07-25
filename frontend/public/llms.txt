@@ -25,7 +25,9 @@
 
 ## Explore (outputs)
 
-- Price Explorer: https://foodberg.org/explore
+- Price Explorer (retail + farm-gate + global spot, monthly/annual): https://foodberg.org/explore
+- Wholesale terminal-market prices (USDA AMS, DAILY, by city x variety x package x
+  grade x origin x organic): https://foodberg.org/wholesale
 - Supply & Demand (USDA PS&D, 1960→present): https://foodberg.org/supply-demand
 - Food Price Index: https://foodberg.org/index
 - Geographic comparison: https://foodberg.org/geographic
@@ -39,6 +41,8 @@
 - FAO — food price index and per-country food CPI
 - FRED / BLS — macro and food-economic indicators
 - World Bank Pink Sheet — global commodity prices
+- USDA AMS Market News — daily terminal-market wholesale fruit & vegetable prices
+- BLS Average Price — US retail prices per food item in $/lb, $/dozen, $/gallon
 
 ## Ecosystem
 

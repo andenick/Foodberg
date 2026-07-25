@@ -581,18 +581,258 @@ async def get_data_sources():
 
 @app.get("/api/prices/terminal/{market}")
 async def get_terminal_prices(market: str, date: Optional[str] = None):
-    """Get terminal market prices for a specific market (requires USDA_API_KEY)"""
+    """Live USDA AMS terminal-market prices for one city (calls the MARS API).
+
+    Hits marsapi.ams.usda.gov at request time and needs a credential. For the
+    baked-in history — which needs no network and no key — use
+    /api/wholesale/search."""
     try:
         usda_client = USDAMarketNewsClient()
     except ValueError:
         raise HTTPException(
             status_code=503,
-            detail="USDA Market News API key not configured. Set USDA_API_KEY environment variable.",
+            detail=(
+                "USDA AMS Market News credential not configured. Browse the "
+                "stored history at /api/wholesale/search instead."
+            ),
         )
-    data = usda_client.get_terminal_market_prices(market)
+    data = usda_client.get_terminal_market_prices(market, report_date=date)
     if data:
         return data
     return {"error": f"Could not retrieve data for market: {market}"}
+
+
+# ---------- USDA AMS wholesale prices (stored, no network, no key) ----------
+
+AMS_TABLE = "ams_wholesale_prices"
+
+# Columns served by the wholesale endpoints. The package, variety, grade,
+# item size, organic flag and origin are the analytical content of an AMS
+# quote — a price is quoted FOR a package of a lot from an origin — so they
+# travel intact and are never collapsed into a single per-commodity number.
+AMS_ROW_COLUMNS = (
+    "report_date", "slug_name", "slug_id", "market", "city", "state",
+    "geography", "category", "commodity", "variety", "package", "grade",
+    "item_size", "organic", "origin", "origin_detail", "repack", "storage",
+    "quality", "condition", "appearance", "environment", "unit_of_sale",
+    "low_price", "high_price", "mostly_low_price", "mostly_high_price",
+    "market_tone_comments", "unit", "source", "retrieval_url", "retrieved_at",
+)
+
+
+def _ams_connect():
+    """Read-only sqlite handle on foodberg.db, tolerant of concurrent writers."""
+    import sqlite3
+
+    db_path = _download_db_path()
+    if not db_path.exists():
+        raise HTTPException(status_code=503, detail="Database file not found")
+    conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True, timeout=30)
+    conn.execute("PRAGMA busy_timeout=30000")
+    conn.row_factory = sqlite3.Row
+    return conn
+
+
+def _ams_table_present(conn) -> bool:
+    return conn.execute(
+        "SELECT 1 FROM sqlite_master WHERE type='table' AND name=?",
+        (AMS_TABLE,),
+    ).fetchone() is not None
+
+
+@app.get("/api/wholesale/markets")
+async def list_wholesale_markets():
+    """Terminal markets present in the stored AMS wholesale history.
+
+    Derived from the data itself (report slugs, cities, coverage), so it can
+    never claim a market the database does not actually hold."""
+    conn = _ams_connect()
+    try:
+        if not _ams_table_present(conn):
+            return {"source": "USDA AMS Market News", "markets": [], "streams": []}
+        streams = [
+            dict(r)
+            for r in conn.execute(
+                f"SELECT slug_name, MIN(slug_id) AS slug_id, "
+                f"       MIN(report_title) AS report_title, MIN(market) AS market, "
+                f"       MIN(city) AS city, MIN(state) AS state, "
+                f"       COUNT(*) AS rows, COUNT(DISTINCT commodity) AS commodities, "
+                f"       COUNT(DISTINCT report_date) AS report_days, "
+                f"       MIN(report_date) AS first_report_date, "
+                f"       MAX(report_date) AS last_report_date, "
+                f"       MIN(retrieval_url) AS retrieval_url "
+                f"FROM {AMS_TABLE} GROUP BY slug_name ORDER BY city, slug_name"
+            )
+        ]
+        # Grouped by the published market name ("New York Terminal Market"),
+        # with the publisher's physical city alongside it ("Bronx") rather
+        # than in place of it.
+        cities = [
+            dict(r)
+            for r in conn.execute(
+                f"SELECT market, MIN(city) AS city, MIN(state) AS state, "
+                f"       COUNT(*) AS rows, COUNT(DISTINCT commodity) AS commodities, "
+                f"       COUNT(DISTINCT slug_name) AS report_streams, "
+                f"       COUNT(DISTINCT report_date) AS report_days, "
+                f"       MIN(report_date) AS first_report_date, "
+                f"       MAX(report_date) AS last_report_date "
+                f"FROM {AMS_TABLE} GROUP BY market ORDER BY market"
+            )
+        ]
+    finally:
+        conn.close()
+    return {
+        "source": "USDA AMS Market News",
+        "publisher": "USDA Agricultural Marketing Service",
+        "licence": "U.S. Government work (public domain)",
+        "frequency": "daily (business days)",
+        "markets": cities,
+        "streams": streams,
+    }
+
+
+@app.get("/api/wholesale/commodities")
+async def list_wholesale_commodities(city: Optional[str] = None):
+    """Commodities in the stored AMS wholesale history, optionally per city."""
+    conn = _ams_connect()
+    try:
+        if not _ams_table_present(conn):
+            return {"source": "USDA AMS Market News", "commodities": []}
+        sql = (
+            f"SELECT commodity, MIN(category) AS category, COUNT(*) AS rows, "
+            f"       COUNT(DISTINCT city) AS cities, "
+            f"       COUNT(DISTINCT variety) AS varieties, "
+            f"       COUNT(DISTINCT package) AS packages, "
+            f"       COUNT(DISTINCT origin) AS origins, "
+            f"       MIN(report_date) AS first_report_date, "
+            f"       MAX(report_date) AS last_report_date "
+            f"FROM {AMS_TABLE}"
+        )
+        params: List[Any] = []
+        if city:
+            sql += (" WHERE (city LIKE ? COLLATE NOCASE "
+                    "OR market LIKE ? COLLATE NOCASE)")
+            params.extend([f"%{city}%", f"%{city}%"])
+        sql += " GROUP BY commodity ORDER BY commodity"
+        rows = [dict(r) for r in conn.execute(sql, params)]
+    finally:
+        conn.close()
+    return {
+        "source": "USDA AMS Market News",
+        "city": city,
+        "count": len(rows),
+        "commodities": rows,
+    }
+
+
+@app.get("/api/wholesale/search")
+async def search_wholesale_prices(
+    commodity: Optional[str] = None,
+    city: Optional[str] = None,
+    slug_name: Optional[str] = None,
+    origin: Optional[str] = None,
+    organic: Optional[str] = None,
+    package: Optional[str] = None,
+    start_date: Optional[str] = None,
+    end_date: Optional[str] = None,
+    limit: int = 500,
+    offset: int = 0,
+):
+    """Browse stored USDA AMS wholesale prices by commodity / city / date.
+
+    Every row keeps its variety, package, grade, item size, organic flag and
+    origin, because an AMS price is a price FOR that package of that lot —
+    averaging across packages would invent a number the publisher never
+    printed. `commodity`, `origin` and `package` match as substrings
+    (case-insensitive); `city` and `slug_name` match exactly. Dates are ISO
+    YYYY-MM-DD and inclusive."""
+    limit = max(1, min(limit, 5000))
+    offset = max(0, offset)
+
+    conn = _ams_connect()
+    try:
+        if not _ams_table_present(conn):
+            raise HTTPException(
+                status_code=503,
+                detail=(
+                    "No USDA AMS wholesale data loaded. Run "
+                    "Technical/scripts/ingest_ams.py."
+                ),
+            )
+
+        clauses: List[str] = []
+        params: List[Any] = []
+        if commodity:
+            clauses.append("commodity LIKE ? COLLATE NOCASE")
+            params.append(f"%{commodity}%")
+        if city:
+            # AMS records the market's physical city, which is not always the
+            # name people search for: New York Terminal Market is in the Bronx,
+            # Boston Terminal Market is in Everett. Match either the published
+            # city or the published market name so both spellings work.
+            clauses.append(
+                "(city LIKE ? COLLATE NOCASE OR market LIKE ? COLLATE NOCASE)")
+            params.extend([f"%{city}%", f"%{city}%"])
+        if slug_name:
+            clauses.append("slug_name = ? COLLATE NOCASE")
+            params.append(slug_name)
+        if origin:
+            clauses.append("origin LIKE ? COLLATE NOCASE")
+            params.append(f"%{origin}%")
+        if organic:
+            clauses.append("organic = ? COLLATE NOCASE")
+            params.append(organic)
+        if package:
+            clauses.append("package LIKE ? COLLATE NOCASE")
+            params.append(f"%{package}%")
+        if start_date:
+            clauses.append("report_date >= ?")
+            params.append(start_date)
+        if end_date:
+            clauses.append("report_date <= ?")
+            params.append(end_date)
+
+        where = f" WHERE {' AND '.join(clauses)}" if clauses else ""
+        total = conn.execute(
+            f"SELECT COUNT(*) FROM {AMS_TABLE}{where}", params
+        ).fetchone()[0]
+        rows = [
+            dict(r)
+            for r in conn.execute(
+                f"SELECT {', '.join(AMS_ROW_COLUMNS)} FROM {AMS_TABLE}{where} "
+                f"ORDER BY report_date DESC, city, commodity, package "
+                f"LIMIT ? OFFSET ?",
+                params + [limit, offset],
+            )
+        ]
+    finally:
+        conn.close()
+
+    return {
+        "source": "USDA AMS Market News",
+        "publisher": "USDA Agricultural Marketing Service",
+        "programme": "Market News — terminal market fruit & vegetable prices (MARS API v3.1)",
+        "licence": "U.S. Government work (public domain)",
+        "filters": {
+            "commodity": commodity,
+            "city": city,
+            "slug_name": slug_name,
+            "origin": origin,
+            "organic": organic,
+            "package": package,
+            "start_date": start_date,
+            "end_date": end_date,
+        },
+        "total_matching": total,
+        "returned": len(rows),
+        "limit": limit,
+        "offset": offset,
+        "note": (
+            "Prices are quoted per package as published; rows are not averaged "
+            "or collapsed across packages, varieties or origins."
+        ),
+        "results": rows,
+    }
 
 
 @app.get("/api/prices/search")
@@ -1194,6 +1434,28 @@ DOWNLOAD_DATASETS: List[Dict[str, Any]] = [
         "order_by": "category, date",
     },
     {
+        "id": "ams_wholesale_prices",
+        "name": "USDA AMS wholesale terminal-market prices — most recent 90 days",
+        "table": "ams_wholesale_prices",
+        "source": "USDA AMS Market News (MARS API v3.1)",
+        "defer_to": "USDA AMS Market News (marsapi.ams.usda.gov / ams.usda.gov/market-news)",
+        "description": (
+            "Daily wholesale fruit, vegetable, onion/potato and nut prices at "
+            "the US terminal markets, one row per published price line. The "
+            "package, variety, grade, item size, organic flag and origin are "
+            "preserved exactly as published — an AMS price is quoted FOR a "
+            "package of a specific lot, so nothing is averaged across packages "
+            "or origins. Bounded to a rolling 90-day window because the full "
+            "stored history runs to millions of rows; query any date range "
+            "through /api/wholesale/search."
+        ),
+        # A rolling window keeps the export a workable size (and inside the
+        # 1,048,576-row Excel limit). The bound is stated in the name above,
+        # so the download is never silently truncated.
+        "where": "report_date >= date('now','-90 day')",
+        "order_by": "report_date DESC, city, commodity, package",
+    },
+    {
         "id": "economic_indicators",
         "name": "Economic indicators (FRED / BLS)",
         "table": "economic_indicators",
@@ -1204,6 +1466,24 @@ DOWNLOAD_DATASETS: List[Dict[str, Any]] = [
             "employment, output, interest rates) by date, series and category."
         ),
         "order_by": "category, indicator_name, date",
+    },
+    {
+        # DOWNLOAD_AND_FORMATS_STANDARD rule 3 — "no data with no download".
+        # retail_prices is the single most user-facing table on the site (it is
+        # what the Price Explorer charts for every BLS item, tomatoes included)
+        # and it had no download path at all.
+        "id": "retail_prices",
+        "name": "US retail food prices (BLS Average Price)",
+        "table": "retail_prices",
+        "source": "BLS Average Price (AP) programme",
+        "defer_to": "BLS (bls.gov/cpi/data.htm — series APU…)",
+        "description": (
+            "Monthly US retail average prices for individual food items in the "
+            "units a kitchen buys in ($ per lb, $ per dozen, $ per gallon), "
+            "1980-present, US city average and BLS regions. One row per item, "
+            "location and month."
+        ),
+        "order_by": "food_item, location, date",
     },
 ]
 
@@ -1280,8 +1560,9 @@ async def list_download_datasets():
             "description": spec["description"],
             "source": spec["source"],
             "defer_to": spec["defer_to"],
-            "formats": ["csv", "parquet"],
+            "formats": ["csv", "xlsx", "parquet"],
             "csv_url": f"/api/download/{spec['id']}.csv",
+            "xlsx_url": f"/api/download/{spec['id']}.xlsx",
             "parquet_url": f"/api/download/{spec['id']}.parquet",
             "rows": None,
         }
@@ -1373,6 +1654,39 @@ async def download_dataset_csv(dataset: str):
         media_type="text/csv",
         headers={
             "Content-Disposition": f'attachment; filename="foodberg_{dataset}.csv"'
+        },
+    )
+
+
+@app.get("/api/download/{dataset}.xlsx")
+async def download_dataset_xlsx(dataset: str):
+    """Full XLSX export of a dataset (DOWNLOAD_AND_FORMATS_STANDARD rule 1).
+
+    Excel is the format most food professionals actually open, and the standard
+    requires CSV + XLSX + Parquet on every dataset; Foodberg shipped only
+    csv + parquet. Excel caps a worksheet at 1,048,576 rows, so a dataset larger
+    than that is split across numbered sheets rather than silently truncated."""
+    import pandas as pd  # noqa: F401  (kept local, matching the other exporters)
+
+    df = _load_dataset_df(dataset)
+    max_rows = 1_048_575  # 1,048,576 minus the header row
+    buf = io.BytesIO()
+    with pd.ExcelWriter(buf, engine="openpyxl") as writer:
+        if len(df) <= max_rows:
+            df.to_excel(writer, index=False, sheet_name="data")
+        else:
+            for i in range(0, len(df), max_rows):
+                part = i // max_rows + 1
+                df.iloc[i:i + max_rows].to_excel(
+                    writer, index=False, sheet_name=f"data_{part}")
+    buf.seek(0)
+    return StreamingResponse(
+        iter([buf.getvalue()]),
+        media_type=(
+            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        ),
+        headers={
+            "Content-Disposition": f'attachment; filename="foodberg_{dataset}.xlsx"'
         },
     )
 

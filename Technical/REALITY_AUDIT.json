@@ -1,7 +1,7 @@
 {
   "audit": "Foodberg reality audit",
   "spec": "FOODBERG_CHEF_FIRST_PLAN_20260724.md P0-6",
-  "generated_at": "2026-07-24T21:47:05.469480+00:00",
+  "generated_at": "2026-07-25T03:30:43.959210+00:00",
   "database": "D:\\Arcanum\\Projects\\Foodberg\\backend\\data\\foodberg.db",
   "thresholds": {
     "liveness_stale_months": 6,
@@ -10,18 +10,18 @@
     "unit_magnitude_ratio": 8.0
   },
   "summary": {
-    "series_audited": 450,
+    "series_audited": 500,
     "verdicts": {
-      "PASS": 38,
-      "WARN": 392,
+      "PASS": 84,
+      "WARN": 396,
       "FAIL": 20
     },
     "flags": {
       "D_DUPLICATE_OBSERVATIONS": 5,
       "L_DISCONTINUED": 39,
-      "L_STALE": 43,
+      "L_STALE": 51,
       "N_PUBLISHER_NAME_ON_RECOMPUTED_SERIES": 1,
-      "P_PROVENANCE_INCOMPLETE": 395,
+      "P_PROVENANCE_INCOMPLETE": 398,
       "U_UNIT_INCONSISTENT": 16,
       "U_UNIT_PLACEHOLDER": 16
     },
@@ -77,6 +77,952 @@
     "global_prices_total_excess_rows": 1328
   },
   "series": [
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::AJ_FV010",
+      "name": "Atlanta Terminal Market Fruit Prices (AJ_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "AJ_FV010 (slug_id 2277)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2277/Report%20Details",
+      "retrieved_at": "2026-07-25T02:51:23.433208+00:00",
+      "unit": "USD per quoted package (95 distinct packages in this report; see the package column)",
+      "geography": "Atlanta, GA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-11-03",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 62367,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "58 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::AJ_FV020",
+      "name": "Atlanta Terminal Market Vegetables Prices (AJ_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "AJ_FV020 (slug_id 2278)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2278/Report%20Details",
+      "retrieved_at": "2026-07-25T02:52:45.046372+00:00",
+      "unit": "USD per quoted package (120 distinct packages in this report; see the package column)",
+      "geography": "Atlanta, GA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-11-04",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 77958,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "136 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::AJ_FV030",
+      "name": "Atlanta Terminal Market Onions and Potatoes Prices (AJ_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "AJ_FV030 (slug_id 2279)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2279/Report%20Details",
+      "retrieved_at": "2026-07-25T02:53:13.265868+00:00",
+      "unit": "USD per quoted package (20 distinct packages in this report; see the package column)",
+      "geography": "Atlanta, GA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-11-05",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 18707,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::AJ_FV040",
+      "name": "Atlanta Terminal Market Nuts Prices (AJ_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "AJ_FV040 (slug_id 2280)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2280/Report%20Details",
+      "retrieved_at": "2026-07-25T02:53:23.185455+00:00",
+      "unit": "USD per quoted package (9 distinct packages in this report; see the package column)",
+      "geography": "Atlanta, GA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-11-03",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 2573,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "4 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::AS_FV010",
+      "name": "Asheville, NC Terminal Market Fruit Prices (AS_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "AS_FV010 (slug_id 3913)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/3913/Report%20Details",
+      "retrieved_at": "2026-07-25T02:49:53.550478+00:00",
+      "unit": "USD per quoted package (53 distinct packages in this report; see the package column)",
+      "geography": "Asheville, NC",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-09-15",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 11378,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "28 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::AS_FV020",
+      "name": "Asheville, NC Terminal Market Vegetables Prices (AS_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "AS_FV020 (slug_id 3914)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/3914/Report%20Details",
+      "retrieved_at": "2026-07-25T02:50:07.845038+00:00",
+      "unit": "USD per quoted package (52 distinct packages in this report; see the package column)",
+      "geography": "Asheville, NC",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-09-15",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 9946,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "49 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::AS_FV030",
+      "name": "Asheville, NC Terminal Market Onions and Potatoes Prices (AS_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "AS_FV030 (slug_id 3915)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/3915/Report%20Details",
+      "retrieved_at": "2026-07-25T02:50:18.988872+00:00",
+      "unit": "USD per quoted package (11 distinct packages in this report; see the package column)",
+      "geography": "Asheville, NC",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-09-15",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 3216,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "3 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::BH_FV010",
+      "name": "Boston Terminal Market Fruit Prices (BH_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "BH_FV010 (slug_id 2285)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2285/Report%20Details",
+      "retrieved_at": "2026-07-25T02:56:54.521221+00:00",
+      "unit": "USD per quoted package (90 distinct packages in this report; see the package column)",
+      "geography": "Everett, MA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 54967,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "67 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::BH_FV020",
+      "name": "Boston Terminal Market Vegetables Prices (BH_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "BH_FV020 (slug_id 2286)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2286/Report%20Details",
+      "retrieved_at": "2026-07-25T02:58:19.795388+00:00",
+      "unit": "USD per quoted package (122 distinct packages in this report; see the package column)",
+      "geography": "Everett, MA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 92018,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "128 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::BH_FV030",
+      "name": "Boston Terminal Market Onions and Potatoes Prices (BH_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "BH_FV030 (slug_id 2287)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2287/Report%20Details",
+      "retrieved_at": "2026-07-25T02:58:42.740975+00:00",
+      "unit": "USD per quoted package (14 distinct packages in this report; see the package column)",
+      "geography": "Everett, MA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 17167,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::BH_FV040",
+      "name": "Boston Terminal Market Nuts Prices (BH_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "BH_FV040 (slug_id 2288)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2288/Report%20Details",
+      "retrieved_at": "2026-07-25T02:58:51.966548+00:00",
+      "unit": "USD per quoted package (5 distinct packages in this report; see the package column)",
+      "geography": "Everett, MA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 1744,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "5 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::BP_FV010",
+      "name": "Baltimore Terminal Market Fruit Prices (BP_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "BP_FV010 (slug_id 2281)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2281/Report%20Details",
+      "retrieved_at": "2026-07-25T02:54:07.627399+00:00",
+      "unit": "USD per quoted package (105 distinct packages in this report; see the package column)",
+      "geography": "Baltimore, MD",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 38971,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "55 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::BP_FV020",
+      "name": "Baltimore Terminal Market Vegetables Prices (BP_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "BP_FV020 (slug_id 2282)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2282/Report%20Details",
+      "retrieved_at": "2026-07-25T02:55:20.184590+00:00",
+      "unit": "USD per quoted package (139 distinct packages in this report; see the package column)",
+      "geography": "Baltimore, MD",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 68889,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "137 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::BP_FV030",
+      "name": "Baltimore Terminal Market Onions and Potatoes Prices (BP_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "BP_FV030 (slug_id 2283)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2283/Report%20Details",
+      "retrieved_at": "2026-07-25T02:55:41.240710+00:00",
+      "unit": "USD per quoted package (13 distinct packages in this report; see the package column)",
+      "geography": "Baltimore, MD",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 14927,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::BP_FV040",
+      "name": "Baltimore Terminal Market Nuts Prices (BP_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "BP_FV040 (slug_id 2284)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2284/Report%20Details",
+      "retrieved_at": "2026-07-25T02:55:49.172012+00:00",
+      "unit": "USD per quoted package (3 distinct packages in this report; see the package column)",
+      "geography": "Baltimore, MD",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 627,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "4 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::CA_FV010",
+      "name": "Columbia Terminal Market Fruit Prices (CA_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "CA_FV010 (slug_id 2294)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2294/Report%20Details",
+      "retrieved_at": "2026-07-25T03:03:58.528276+00:00",
+      "unit": "USD per quoted package (85 distinct packages in this report; see the package column)",
+      "geography": "Columbia, SC",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 31820,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "47 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::CA_FV020",
+      "name": "Columbia Terminal Market Vegetables Prices (CA_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "CA_FV020 (slug_id 2295)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2295/Report%20Details",
+      "retrieved_at": "2026-07-25T03:04:56.242906+00:00",
+      "unit": "USD per quoted package (116 distinct packages in this report; see the package column)",
+      "geography": "Columbia, SC",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 51330,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "108 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::CA_FV030",
+      "name": "Columbia Terminal Market Onions and Potatoes Prices (CA_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "CA_FV030 (slug_id 2296)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2296/Report%20Details",
+      "retrieved_at": "2026-07-25T03:05:18.562275+00:00",
+      "unit": "USD per quoted package (13 distinct packages in this report; see the package column)",
+      "geography": "Columbia, SC",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 12881,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::CA_FV040",
+      "name": "Columbia Terminal Market Nuts Prices (CA_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "CA_FV040 (slug_id 2297)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2297/Report%20Details",
+      "retrieved_at": "2026-07-25T03:05:29.700127+00:00",
+      "unit": "USD per quoted package (6 distinct packages in this report; see the package column)",
+      "geography": "Columbia, SC",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 2090,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "4 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::DU_FV010",
+      "name": "Detroit Terminal Market Fruit Prices (DU_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "DU_FV010 (slug_id 2302)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2302/Report%20Details",
+      "retrieved_at": "2026-07-25T03:06:49.940284+00:00",
+      "unit": "USD per quoted package (131 distinct packages in this report; see the package column)",
+      "geography": "Detroit, MI",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 69593,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "64 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::DU_FV020",
+      "name": "Detroit Terminal Market Vegetables Prices (DU_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "DU_FV020 (slug_id 2303)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2303/Report%20Details",
+      "retrieved_at": "2026-07-25T03:08:32.104056+00:00",
+      "unit": "USD per quoted package (148 distinct packages in this report; see the package column)",
+      "geography": "Detroit, MI",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 100812,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "146 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::DU_FV030",
+      "name": "Detroit Terminal Market Onions and Potatoes Prices (DU_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "DU_FV030 (slug_id 2304)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2304/Report%20Details",
+      "retrieved_at": "2026-07-25T03:08:54.629479+00:00",
+      "unit": "USD per quoted package (19 distinct packages in this report; see the package column)",
+      "geography": "Detroit, MI",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 15869,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::DU_FV040",
+      "name": "Detroit Terminal Market Nuts Prices (DU_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "DU_FV040 (slug_id 2305)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2305/Report%20Details",
+      "retrieved_at": "2026-07-25T03:09:03.008605+00:00",
+      "unit": "USD per quoted package (4 distinct packages in this report; see the package column)",
+      "geography": "Detroit, MI",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 1111,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "4 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::HC_FV010",
+      "name": "Los Angeles Terminal Market Fruit Prices (HC_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "HC_FV010 (slug_id 2306)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2306/Report%20Details",
+      "retrieved_at": "2026-07-25T03:10:23.358207+00:00",
+      "unit": "USD per quoted package (132 distinct packages in this report; see the package column)",
+      "geography": "Los Angeles, CA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 77873,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "79 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::HC_FV020",
+      "name": "Los Angeles Terminal Market Vegetables Prices (HC_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "HC_FV020 (slug_id 2307)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2307/Report%20Details",
+      "retrieved_at": "2026-07-25T03:11:43.502715+00:00",
+      "unit": "USD per quoted package (115 distinct packages in this report; see the package column)",
+      "geography": "Los Angeles, CA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 74579,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "156 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::HC_FV030",
+      "name": "Los Angeles Terminal Market Onions and Potatoes Prices (HC_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "HC_FV030 (slug_id 2308)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2308/Report%20Details",
+      "retrieved_at": "2026-07-25T03:12:07.424881+00:00",
+      "unit": "USD per quoted package (12 distinct packages in this report; see the package column)",
+      "geography": "Los Angeles, CA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 14959,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::HC_FV040",
+      "name": "Los Angeles Terminal Market Nuts Prices (HC_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "HC_FV040 (slug_id 2309)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2309/Report%20Details",
+      "retrieved_at": "2026-07-25T03:12:15.722087+00:00",
+      "unit": "USD per quoted package (2 distinct packages in this report; see the package column)",
+      "geography": "Los Angeles, CA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 936,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "6 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::HX_FV010",
+      "name": "Chicago Terminal Market Fruit Prices (HX_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "HX_FV010 (slug_id 2290)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2290/Report%20Details",
+      "retrieved_at": "2026-07-25T03:00:22.454176+00:00",
+      "unit": "USD per quoted package (132 distinct packages in this report; see the package column)",
+      "geography": "Chicago, IL",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 90052,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "70 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::HX_FV020",
+      "name": "Chicago Terminal Market Vegetables Prices (HX_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "HX_FV020 (slug_id 2291)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2291/Report%20Details",
+      "retrieved_at": "2026-07-25T03:02:34.533745+00:00",
+      "unit": "USD per quoted package (138 distinct packages in this report; see the package column)",
+      "geography": "Chicago, IL",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 131630,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "157 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::HX_FV030",
+      "name": "Chicago Terminal Market Onions and Potatoes Prices (HX_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "HX_FV030 (slug_id 2292)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2292/Report%20Details",
+      "retrieved_at": "2026-07-25T03:03:09.268591+00:00",
+      "unit": "USD per quoted package (18 distinct packages in this report; see the package column)",
+      "geography": "Chicago, IL",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 23741,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::HX_FV040",
+      "name": "Chicago Terminal Market Nuts Prices (HX_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "HX_FV040 (slug_id 2293)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2293/Report%20Details",
+      "retrieved_at": "2026-07-25T03:03:20.105599+00:00",
+      "unit": "USD per quoted package (5 distinct packages in this report; see the package column)",
+      "geography": "Chicago, IL",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 2578,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "10 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::MH_FV010",
+      "name": "Miami Terminal Market Fruit Prices (MH_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "MH_FV010 (slug_id 2310)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2310/Report%20Details",
+      "retrieved_at": "2026-07-25T03:12:55.070065+00:00",
+      "unit": "USD per quoted package (49 distinct packages in this report; see the package column)",
+      "geography": "Miami, FL",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 27642,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "38 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::MH_FV020",
+      "name": "Miami Terminal Market Vegetables Prices (MH_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "MH_FV020 (slug_id 2311)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2311/Report%20Details",
+      "retrieved_at": "2026-07-25T03:13:55.158373+00:00",
+      "unit": "USD per quoted package (88 distinct packages in this report; see the package column)",
+      "geography": "Miami, FL",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 55056,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "104 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::MH_FV030",
+      "name": "Miami Terminal Market Onions and Potatoes Prices (MH_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "MH_FV030 (slug_id 2312)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2312/Report%20Details",
+      "retrieved_at": "2026-07-25T03:14:10.059633+00:00",
+      "unit": "USD per quoted package (8 distinct packages in this report; see the package column)",
+      "geography": "Miami, FL",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 5995,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::MH_FV040",
+      "name": "Miami Terminal Market Nuts Prices (MH_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "MH_FV040 (slug_id 2313)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2313/Report%20Details",
+      "retrieved_at": "2026-07-25T03:14:15.724582+00:00",
+      "unit": "USD per 50 lb sacks",
+      "geography": "Miami, FL",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 247,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "1 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::NA_FV010",
+      "name": "Philadelphia Terminal Market Fruit Prices (NA_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "NA_FV010 (slug_id 2318)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2318/Report%20Details",
+      "retrieved_at": "2026-07-25T03:19:40.337843+00:00",
+      "unit": "USD per quoted package (156 distinct packages in this report; see the package column)",
+      "geography": "Philadelphia, PA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 90496,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "76 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::NA_FV020",
+      "name": "Philadelphia Terminal Market Vegetables Prices (NA_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "NA_FV020 (slug_id 2319)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2319/Report%20Details",
+      "retrieved_at": "2026-07-25T03:21:06.998996+00:00",
+      "unit": "USD per quoted package (183 distinct packages in this report; see the package column)",
+      "geography": "Philadelphia, PA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 81724,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "162 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::NA_FV030",
+      "name": "Philadelphia Terminal Market Onions and Potatoes Prices (NA_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "NA_FV030 (slug_id 2320)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2320/Report%20Details",
+      "retrieved_at": "2026-07-25T03:21:36.330061+00:00",
+      "unit": "USD per quoted package (16 distinct packages in this report; see the package column)",
+      "geography": "Philadelphia, PA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 21973,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::NA_FV040",
+      "name": "Philadelphia Terminal Market Nuts Prices (NA_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "NA_FV040 (slug_id 2321)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2321/Report%20Details",
+      "retrieved_at": "2026-07-25T03:21:49.939447+00:00",
+      "unit": "USD per quoted package (3 distinct packages in this report; see the package column)",
+      "geography": "Philadelphia, PA",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 1057,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "6 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::NX_FV010",
+      "name": "New York Terminal Market Fruit Prices (NX_FV010)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "NX_FV010 (slug_id 2314)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2314/Report%20Details",
+      "retrieved_at": "2026-07-25T03:15:59.899561+00:00",
+      "unit": "USD per quoted package (139 distinct packages in this report; see the package column)",
+      "geography": "Bronx, NY",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 101981,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "76 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::NX_FV020",
+      "name": "New York Terminal Market Vegetables Prices (NX_FV020)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "NX_FV020 (slug_id 2315)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2315/Report%20Details",
+      "retrieved_at": "2026-07-25T03:17:29.461345+00:00",
+      "unit": "USD per quoted package (158 distinct packages in this report; see the package column)",
+      "geography": "Bronx, NY",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 89063,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "126 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::NX_FV030",
+      "name": "New York Terminal Market Onions and Potatoes Prices (NX_FV030)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "NX_FV030 (slug_id 2316)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2316/Report%20Details",
+      "retrieved_at": "2026-07-25T03:17:52.242401+00:00",
+      "unit": "USD per quoted package (13 distinct packages in this report; see the package column)",
+      "geography": "Bronx, NY",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 15237,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "2 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
+    {
+      "series_key": "ams_wholesale_prices::USDA AMS Market News::NX_FV040",
+      "name": "New York Terminal Market Nuts Prices (NX_FV040)",
+      "table": "ams_wholesale_prices",
+      "source": "USDA AMS Market News",
+      "publisher": "USDA Agricultural Marketing Service",
+      "publisher_series_id": "NX_FV040 (slug_id 2317)",
+      "retrieval_url": "https://marsapi.ams.usda.gov/services/v3.1/reports/2317/Report%20Details",
+      "retrieved_at": "2026-07-25T03:18:04.533913+00:00",
+      "unit": "USD per quoted package (7 distinct packages in this report; see the package column)",
+      "geography": "Bronx, NY",
+      "frequency": "daily (business days)",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "2025-07-24",
+      "last_real_observation": "2026-07-24",
+      "n_observations": 3971,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": [
+        "8 distinct commodities; price is quoted for the package, so package/variety/grade/origin are preserved per row and never collapsed to a single price."
+      ]
+    },
     {
       "series_key": "composite_indices::bls_overall",
       "name": "bls_overall",
@@ -282,6 +1228,11 @@
       "verdict": "WARN",
       "flags": [
         {
+          "code": "L_STALE",
+          "severity": "WARN",
+          "detail": "Last real observation 2025-09-01 is 9 months behind the BLS catalog (2026-06-01). Needs a staleness marker."
+        },
+        {
           "code": "P_PROVENANCE_INCOMPLETE",
           "severity": "WARN",
           "detail": "Not captured: unit. Displayable, but provenance is thin."
@@ -309,6 +1260,11 @@
       "n_observations": 129,
       "verdict": "WARN",
       "flags": [
+        {
+          "code": "L_STALE",
+          "severity": "WARN",
+          "detail": "Last real observation 2025-09-01 is 9 months behind the BLS catalog (2026-06-01). Needs a staleness marker."
+        },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
           "severity": "WARN",
@@ -338,6 +1294,11 @@
       "verdict": "WARN",
       "flags": [
         {
+          "code": "L_STALE",
+          "severity": "WARN",
+          "detail": "Last real observation 2025-09-01 is 9 months behind the BLS catalog (2026-06-01). Needs a staleness marker."
+        },
+        {
           "code": "P_PROVENANCE_INCOMPLETE",
           "severity": "WARN",
           "detail": "Not captured: unit. Displayable, but provenance is thin."
@@ -365,6 +1326,11 @@
       "n_observations": 129,
       "verdict": "WARN",
       "flags": [
+        {
+          "code": "L_STALE",
+          "severity": "WARN",
+          "detail": "Last real observation 2025-09-01 is 9 months behind the BLS catalog (2026-06-01). Needs a staleness marker."
+        },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
           "severity": "WARN",
@@ -394,6 +1360,11 @@
       "verdict": "WARN",
       "flags": [
         {
+          "code": "L_STALE",
+          "severity": "WARN",
+          "detail": "Last real observation 2025-09-01 is 9 months behind the BLS catalog (2026-06-01). Needs a staleness marker."
+        },
+        {
           "code": "P_PROVENANCE_INCOMPLETE",
           "severity": "WARN",
           "detail": "Not captured: unit. Displayable, but provenance is thin."
@@ -422,6 +1393,11 @@
       "verdict": "WARN",
       "flags": [
         {
+          "code": "L_STALE",
+          "severity": "WARN",
+          "detail": "Last real observation 2025-09-01 is 9 months behind the BLS catalog (2026-06-01). Needs a staleness marker."
+        },
+        {
           "code": "P_PROVENANCE_INCOMPLETE",
           "severity": "WARN",
           "detail": "Not captured: unit. Displayable, but provenance is thin."
@@ -447,6 +1423,67 @@
       "first_observation": "2015-01-01",
       "last_real_observation": "2025-09-01",
       "n_observations": 129,
+      "verdict": "WARN",
+      "flags": [
+        {
+          "code": "L_STALE",
+          "severity": "WARN",
+          "detail": "Last real observation 2025-09-01 is 9 months behind the BLS catalog (2026-06-01). Needs a staleness marker."
+        },
+        {
+          "code": "P_PROVENANCE_INCOMPLETE",
+          "severity": "WARN",
+          "detail": "Not captured: unit. Displayable, but provenance is thin."
+        }
+      ],
+      "notes": [
+        "economic_indicators has no unit column; unit is not captured anywhere in the pipeline for this table."
+      ]
+    },
+    {
+      "series_key": "economic_indicators::BLS::CUUR0000SEFV01",
+      "name": "CPI - Full Service Meals and Snacks",
+      "table": "economic_indicators",
+      "source": "BLS",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "publisher_series_id": "CUUR0000SEFV01",
+      "retrieval_url": "https://data.bls.gov/timeseries/CUUR0000SEFV01",
+      "retrieved_at": "2026-07-24 22:53:59",
+      "unit": "NOT CAPTURED",
+      "geography": "United States",
+      "frequency": "monthly",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "1997-12-01",
+      "last_real_observation": "2026-06-01",
+      "n_observations": 342,
+      "verdict": "WARN",
+      "flags": [
+        {
+          "code": "P_PROVENANCE_INCOMPLETE",
+          "severity": "WARN",
+          "detail": "Not captured: unit. Displayable, but provenance is thin."
+        }
+      ],
+      "notes": [
+        "economic_indicators has no unit column; unit is not captured anywhere in the pipeline for this table."
+      ]
+    },
+    {
+      "series_key": "economic_indicators::BLS::CUUR0000SEFV02",
+      "name": "CPI - Limited Service Meals and Snacks",
+      "table": "economic_indicators",
+      "source": "BLS",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "publisher_series_id": "CUUR0000SEFV02",
+      "retrieval_url": "https://data.bls.gov/timeseries/CUUR0000SEFV02",
+      "retrieved_at": "2026-07-24 22:53:59",
+      "unit": "NOT CAPTURED",
+      "geography": "United States",
+      "frequency": "monthly",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "1997-12-01",
+      "last_real_observation": "2026-06-01",
+      "n_observations": 342,
       "verdict": "WARN",
       "flags": [
         {
@@ -480,7 +1517,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -541,7 +1578,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -574,7 +1611,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-08-01 is 7 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-08-01 is 10 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -635,7 +1672,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -836,7 +1873,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -897,7 +1934,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-01 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-01 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -930,7 +1967,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -963,7 +2000,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -996,7 +2033,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1029,7 +2066,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1062,7 +2099,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1095,7 +2132,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1128,7 +2165,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1161,7 +2198,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1194,7 +2231,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1227,7 +2264,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1260,7 +2297,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-08-01 is 7 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-08-01 is 10 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1293,7 +2330,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-08-01 is 7 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-08-01 is 10 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1326,7 +2363,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1359,7 +2396,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1420,7 +2457,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-09-16 is 6 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1448,6 +2485,34 @@
       "first_observation": "2006-01-01",
       "last_real_observation": "2026-02-01",
       "n_observations": 242,
+      "verdict": "WARN",
+      "flags": [
+        {
+          "code": "P_PROVENANCE_INCOMPLETE",
+          "severity": "WARN",
+          "detail": "Not captured: unit. Displayable, but provenance is thin."
+        }
+      ],
+      "notes": [
+        "economic_indicators has no unit column; unit is not captured anywhere in the pipeline for this table."
+      ]
+    },
+    {
+      "series_key": "economic_indicators::FRED::WPU01130217",
+      "name": "PPI - Farm Products: Tomatoes",
+      "table": "economic_indicators",
+      "source": "FRED",
+      "publisher": "Federal Reserve Bank of St. Louis",
+      "publisher_series_id": "WPU01130217",
+      "retrieval_url": "https://fred.stlouisfed.org/series/WPU01130217",
+      "retrieved_at": "2026-07-24 22:53:59",
+      "unit": "NOT CAPTURED",
+      "geography": "United States",
+      "frequency": "monthly",
+      "licence": "mixed - underlying publisher terms apply",
+      "first_observation": "1947-01-01",
+      "last_real_observation": "2026-06-01",
+      "n_observations": 922,
       "verdict": "WARN",
       "flags": [
         {
@@ -1509,7 +2574,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-08-01 is 7 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-08-01 is 10 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -1542,7 +2607,7 @@
         {
           "code": "L_STALE",
           "severity": "WARN",
-          "detail": "Last real observation 2025-08-01 is 7 months behind the FRED catalog (2026-03-01). Needs a staleness marker."
+          "detail": "Last real observation 2025-08-01 is 10 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
         {
           "code": "P_PROVENANCE_INCOMPLETE",
@@ -10952,6 +12017,92 @@
       "n_observations": 552,
       "verdict": "PASS",
       "flags": [],
+      "notes": []
+    },
+    {
+      "series_key": "retail_prices::BLS AP::Tomatoes, field grown (Midwest)",
+      "name": "Tomatoes, field grown (Midwest)",
+      "table": "retail_prices",
+      "source": "BLS AP",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "publisher_series_id": "APU0200712311",
+      "retrieval_url": "https://data.bls.gov/timeseries/APU0200712311",
+      "retrieved_at": "2026-07-24T22:53:59.912176",
+      "unit": "$ per lb",
+      "geography": "Midwest Census Region - Urban",
+      "frequency": "monthly",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "1980-01-01",
+      "last_real_observation": "2026-06-01",
+      "n_observations": 527,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": []
+    },
+    {
+      "series_key": "retail_prices::BLS AP::Tomatoes, field grown (Northeast)",
+      "name": "Tomatoes, field grown (Northeast)",
+      "table": "retail_prices",
+      "source": "BLS AP",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "publisher_series_id": "APU0100712311",
+      "retrieval_url": "https://data.bls.gov/timeseries/APU0100712311",
+      "retrieved_at": "2026-07-24T22:53:59.912176",
+      "unit": "$ per lb",
+      "geography": "Northeast Census Region - Urban",
+      "frequency": "monthly",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "1980-01-01",
+      "last_real_observation": "2026-06-01",
+      "n_observations": 455,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": []
+    },
+    {
+      "series_key": "retail_prices::BLS AP::Tomatoes, field grown (South)",
+      "name": "Tomatoes, field grown (South)",
+      "table": "retail_prices",
+      "source": "BLS AP",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "publisher_series_id": "APU0300712311",
+      "retrieval_url": "https://data.bls.gov/timeseries/APU0300712311",
+      "retrieved_at": "2026-07-24T22:53:59.912176",
+      "unit": "$ per lb",
+      "geography": "South Census Region - Urban",
+      "frequency": "monthly",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "1980-01-01",
+      "last_real_observation": "2026-06-01",
+      "n_observations": 536,
+      "verdict": "PASS",
+      "flags": [],
+      "notes": []
+    },
+    {
+      "series_key": "retail_prices::BLS AP::Tomatoes, field grown (West)",
+      "name": "Tomatoes, field grown (West)",
+      "table": "retail_prices",
+      "source": "BLS AP",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "publisher_series_id": "APU0400712311",
+      "retrieval_url": "https://data.bls.gov/timeseries/APU0400712311",
+      "retrieved_at": "2026-07-24T22:53:59.912176",
+      "unit": "$ per lb",
+      "geography": "West Census Region - Urban",
+      "frequency": "monthly",
+      "licence": "U.S. Government work (public domain)",
+      "first_observation": "1980-01-01",
+      "last_real_observation": "2025-03-01",
+      "n_observations": 521,
+      "verdict": "WARN",
+      "flags": [
+        {
+          "code": "L_STALE",
+          "severity": "WARN",
+          "detail": "Last real observation 2025-03-01 is 15 months behind the BLS AP catalog (2026-06-01). Needs a staleness marker."
+        }
+      ],
       "notes": []
     },
     {

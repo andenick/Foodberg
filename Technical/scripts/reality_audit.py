@@ -41,7 +41,9 @@ N  NAME CLAIM       A recomputed series may never carry a publisher's name.
                     Either serve the published figure or rename it.
 P  PROVENANCE       Every series must resolve to a publisher series ID (or
                     report slug) and a retrieval URL. Series that cannot are
-                    quarantine candidates: do not display.
+                    quarantine candidates: do not display. USDA AMS wholesale
+                    streams carry theirs per row (slug_name/slug_id,
+                    retrieval_url, retrieved_at), written at ingest.
 
 VERDICTS
 --------
@@ -175,6 +177,15 @@ SOURCE_REGISTRY: Dict[str, Dict[str, Any]] = {
         "landing": "https://quickstats.nass.usda.gov/",
         "licence": "U.S. Government work (public domain)",
         "frequency": "annual/monthly",
+    },
+    "USDA AMS Market News": {
+        "publisher": "USDA Agricultural Marketing Service",
+        "programme": "Market News - terminal market fruit & vegetable prices "
+                     "(MARS API v3.1)",
+        "series_url_template": None,
+        "landing": "https://marsapi.ams.usda.gov/services/v3.1/reports",
+        "licence": "U.S. Government work (public domain)",
+        "frequency": "daily (business days)",
     },
     "Foodberg": {
         "publisher": "Foodberg (this site)",
@@ -517,6 +528,67 @@ def collect_nass_price_series(con: sqlite3.Connection) -> List[Series]:
     return series
 
 
+def collect_ams_wholesale_prices(con: sqlite3.Connection) -> List[Series]:
+    """USDA AMS daily terminal-market wholesale prices.
+
+    One auditable series per PUBLISHED REPORT STREAM, because the report slug
+    is the publisher's own series identity: slug_name NX_FV020 / slug_id 2315
+    is 'New York Terminal Market Vegetables Prices'. Provenance is read from
+    the rows themselves - retrieval_url and retrieved_at are stored per row by
+    the ingest, so nothing here is asserted on the data's behalf.
+
+    The unit is deliberately expressed against the quoted PACKAGE. AMS prices
+    a specific package of a specific lot ('16 kg cartons', '50 lb sacks'), and
+    a stream carries many packages at once; collapsing that to one number
+    would be the dishonest move, so the package stays a column and the unit
+    says so.
+    """
+    exists = con.execute(
+        "SELECT 1 FROM sqlite_master WHERE type='table' AND name=?",
+        ("ams_wholesale_prices",)).fetchone()
+    if not exists:
+        return []
+
+    series: List[Series] = []
+    rows = con.execute(
+        "SELECT slug_name, MIN(slug_id) slug_id, MIN(report_title) title, "
+        "       MIN(geography) geo, COUNT(*) n, "
+        "       COUNT(DISTINCT package) n_pack, MIN(package) one_pack, "
+        "       COUNT(DISTINCT commodity) n_comm, "
+        "       MIN(report_date) d0, MAX(report_date) d1, "
+        "       MAX(retrieved_at) got, MIN(retrieval_url) url, MIN(source) src "
+        "FROM ams_wholesale_prices GROUP BY slug_name").fetchall()
+
+    for r in rows:
+        source = r["src"] or "USDA AMS Market News"
+        reg = SOURCE_REGISTRY.get(source, {})
+        s = Series(f"ams_wholesale_prices::{source}::{r['slug_name']}",
+                   "ams_wholesale_prices", source,
+                   r["title"] or str(r["slug_name"]))
+        s.publisher_series_id = (
+            f"{r['slug_name']} (slug_id {r['slug_id']})"
+            if r["slug_id"] else r["slug_name"])
+        s.retrieval_url = r["url"] or NOT_CAPTURED
+        s.retrieved_at = r["got"] or NOT_CAPTURED
+        if r["n_pack"] == 1 and r["one_pack"]:
+            s.unit = f"USD per {r['one_pack']}"
+        elif r["n_pack"]:
+            s.unit = (f"USD per quoted package ({r['n_pack']} distinct packages "
+                      f"in this report; see the package column)")
+        s.geography = r["geo"] or NOT_CAPTURED
+        s.frequency = reg.get("frequency", NOT_CAPTURED)
+        s.licence = reg.get("licence", NOT_CAPTURED)
+        s.n_observations = r["n"]
+        s.first_observation = iso_day(r["d0"])
+        s.last_real_observation = iso_day(r["d1"])
+        s.notes.append(
+            f"{r['n_comm']} distinct commodities; price is quoted for the "
+            f"package, so package/variety/grade/origin are preserved per row "
+            f"and never collapsed to a single price.")
+        series.append(s)
+    return series
+
+
 # --------------------------------------------------------------------------
 # Checks
 # --------------------------------------------------------------------------
@@ -799,6 +871,7 @@ def run_audit(db_path: Path) -> Dict[str, Any]:
         series += collect_economic_indicators(con)
         series += collect_composite_indices(con)
         series += collect_nass_price_series(con)
+        series += collect_ams_wholesale_prices(con)
 
         check_liveness(series)
         check_flat_tail(con, series)

@@ -203,3 +203,109 @@ class CompositeIndex(Base):
     __table_args__ = (
         Index('ix_composite_date_category', 'date', 'category'),
     )
+
+
+class AmsWholesalePrice(Base):
+    """USDA AMS Market News — daily terminal-market wholesale prices.
+
+    One row per published price line item. The publisher quotes a price for a
+    specific PACKAGE of a specific VARIETY from a specific ORIGIN, so the row
+    is deliberately NOT collapsed to a single price per commodity: the package
+    and the origin are the analytical content.
+
+    Provenance travels with every row (source, slug_name/slug_id as the
+    publisher series id, retrieval_url, retrieved_at, unit, geography). Fields
+    the publisher does not emit are stored NULL — never defaulted, never
+    inferred.
+
+    Populated by Technical/scripts/ingest_ams.py via
+    data_sources/usda_client.py (MARS API v3.1, addressed by numeric slug_id).
+    """
+    __tablename__ = 'ams_wholesale_prices'
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+
+    # Report identity / geography
+    report_date = Column(String(10), nullable=False)  # ISO YYYY-MM-DD
+    published_date = Column(String(30))
+    slug_id = Column(String(10), nullable=False)
+    slug_name = Column(String(20), nullable=False)
+    report_title = Column(Text)
+    market = Column(String(120))
+    city = Column(String(80))
+    state = Column(String(10))
+    geography = Column(String(120))
+
+    # What was sold
+    category = Column(String(80))
+    commodity = Column(String(120), nullable=False)
+    variety = Column(String(160))
+    package = Column(String(160))
+    grade = Column(String(120))
+    item_size = Column(String(120))
+    organic = Column(String(10))
+    origin = Column(String(120))
+    origin_detail = Column(String(160))
+    repack = Column(String(40))
+    storage = Column(String(80))
+    quality = Column(String(120))
+    condition = Column(String(120))
+    appearance = Column(String(120))
+    crop = Column(String(120))
+    district = Column(String(120))
+    environment = Column(String(120))
+    transportation_mode = Column(String(80))
+    unit_of_sale = Column(String(120))
+
+    # Prices (USD for the quoted package)
+    low_price = Column(Float)
+    high_price = Column(Float)
+    mostly_low_price = Column(Float)
+    mostly_high_price = Column(Float)
+    market_tone_comments = Column(Text)
+
+    # Provenance
+    unit = Column(String(180))
+    source = Column(String(60), default='USDA AMS Market News')
+    retrieval_url = Column(Text)
+    retrieved_at = Column(String(40))
+    # SHA-1 of the full price line item; see __table_args__.
+    row_hash = Column(String(40), nullable=False)
+
+    __table_args__ = (
+        # IDEMPOTENCE KEY.
+        #
+        # The obvious natural key — (report_date, slug_id, commodity, variety,
+        # package, grade, item_size, organic, origin) — is NOT unique in the
+        # publisher's own data and cannot be used as the UNIQUE constraint. On
+        # New York vegetables for 2026-07-23 alone it collapses 377 published
+        # line items into 338: AMS legitimately prints several price lines for
+        # one lot description that differ only on appearance ('Fine
+        # Appearance' vs none), condition ('Holdovers'), quality, or on the
+        # price itself (Peppers, Finger Hot / 4 kg cartons / Netherlands
+        # prints at 30.00, 34.00 and 35.00-36.00 on the same day). Enforcing
+        # uniqueness on those nine columns would silently discard ~10% of real
+        # observations.
+        #
+        # So the UNIQUE constraint is row_hash — a digest of the full price
+        # line item (identity fields AND the four prices). Byte-identical
+        # repeats collapse, every genuinely distinct line survives, and
+        # re-running any window is still a no-op. The nine-column natural key
+        # is kept below as a NON-unique lookup path.
+        Index('ux_ams_row_hash', 'row_hash', unique=True),
+        Index(
+            'ix_ams_natural_key',
+            'report_date', 'slug_id', 'commodity', 'variety', 'package',
+            'grade', 'item_size', 'organic', 'origin',
+        ),
+        Index('ix_ams_commodity_date', 'commodity', 'report_date'),
+        Index('ix_ams_market_date', 'market', 'report_date'),
+        Index('ix_ams_city_date', 'city', 'report_date'),
+        Index('ix_ams_report_date', 'report_date'),
+    )
+
+    def __repr__(self):
+        return (
+            f"<AmsWholesalePrice({self.report_date} {self.slug_name} "
+            f"{self.commodity} {self.package} {self.low_price}-{self.high_price})>"
+        )
