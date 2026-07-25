@@ -158,8 +158,8 @@ box-only `routers/__init__.py`:
 
 | File | Divergence found | Resolution (2026-07-24) |
 |---|---|---|
-| `data_sources/fred_client.py` | box was **offline, local-DB backed** (no outbound HTTP, no `FRED_API_KEY`); project tree carried the old **online** version calling `api.stlouisfed.org` via `httpx` | ✅ **box version pulled into the project tree.** md5 `0d3d5a074fa2dd01d5edff872bd1d388` on both ends. Syncing the old project copy would have broken economic indicators in a container that has no FRED key |
-| `data_sources/fao_client.py` | box carried a later offline rewrite with the mock generators deleted; project tree had the 2026-07-04 DB-query version | ✅ **box version pulled into the project tree.** md5 `3c3af71c0955b186ccb22a3db64f8b06` on both ends |
+| `data_sources/fred_client.py` | box was **offline, local-DB backed** (no outbound HTTP, no `FRED_API_KEY`); project tree carried the old **online** version calling `api.stlouisfed.org` via `httpx` | ✅ **box version pulled into the project tree.** md5 `0d3d5a074fa2...` on both ends. Syncing the old project copy would have broken economic indicators in a container that has no FRED key |
+| `data_sources/fao_client.py` | box carried a later offline rewrite with the mock generators deleted; project tree had the 2026-07-04 DB-query version | ✅ **box version pulled into the project tree.** md5 `3c3af71c0955...` on both ends |
 | `database/models.py` | project ahead — adds the `WasdePsd` model (additive, unshipped) | ✅ project stays ahead **by design**; ships with the next backend image build. Additive only — no box behaviour depends on its absence |
 | `database/collect_live.py` | project ahead — prefixes `"Alpha Vantage - "` on commodity names (unshipped) | ✅ project stays ahead **by design**. This is a live-collection path, not a serving path; it does not run inside the container |
 | `data_sources/robin_client.py` | import reorder only | ✅ cosmetic; no action. Not a functional divergence |
@@ -192,7 +192,7 @@ Same surgical method as §5: `scp` file-by-file from the project tree to the box
 | `retail_prices` | 20,359 | **22,398** (+4 regional tomato series) |
 | `economic_indicators` | 14,640 | **16,246** (+`WPU01130217`, `CUUR0000SEFV01/02`) |
 | Download formats | csv + parquet; `retail_prices` had **no download at all** | csv + **xlsx** + parquet; `retail_prices` and `ams_wholesale_prices` both downloadable |
-| `foodberg.db` | 1,637,339,136 B | **2,941,763,584 B**, md5 `5f34549ae864a4f4f921d7d3e9526da8` |
+| `foodberg.db` | 1,637,339,136 B | **2,941,763,584 B**, md5 `5f34549ae864...` |
 
 ### Files shipped (all md5-verified on both ends)
 
