@@ -66,6 +66,15 @@ export const api = {
     getSourceHistory: (commodity: string, source: string) =>
         apiClient.get(`/api/prices/source/${commodity}`, { params: { source } }),
 
+    // USDA AMS Market News — daily terminal-market wholesale prices.
+    // The only source on the site with daily cadence and chef-level granularity
+    // (variety x package x grade x origin x organic), so rows are never averaged.
+    getWholesaleMarkets: () => apiClient.get('/api/wholesale/markets'),
+    getWholesaleCommodities: (city?: string) =>
+        apiClient.get('/api/wholesale/commodities', { params: city ? { city } : {} }),
+    searchWholesale: (params: Record<string, string | number | undefined>) =>
+        apiClient.get('/api/wholesale/search', { params }),
+
     // Geographic comparison (World Bank indicators, per-region annual series)
     getGeoIndicators: () => apiClient.get('/api/geo/indicators'),
     getGeoSeries: (indicatorCode: string) =>

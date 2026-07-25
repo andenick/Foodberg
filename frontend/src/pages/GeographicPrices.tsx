@@ -73,6 +73,11 @@ export default function GeographicPrices() {
     const [series, setSeries] = useState<GeoSeries | null>(null)
     const [selectedRegions, setSelectedRegions] = useState<string[]>(DEFAULT_REGIONS.producer)
     const [regionFilter, setRegionFilter] = useState('')
+    // The producer-price picker carries ~185 FAOSTAT items. Rendered as a flat,
+    // unfiltered wall of buttons in a short scroll box, roughly 25 fresh
+    // vegetables — tomatoes among them — were present but effectively
+    // unfindable. A filter box makes the already-loaded data reachable.
+    const [itemFilter, setItemFilter] = useState('')
     const [loading, setLoading] = useState(true)
     const t = useArkTheme()
 
@@ -83,6 +88,7 @@ export default function GeographicPrices() {
         setSelectedKey(null)
         setSelectedRegions(DEFAULT_REGIONS[mode])
         setRegionFilter('')
+        setItemFilter('')
         const load = async () => {
             try {
                 if (mode === 'producer') {
@@ -159,6 +165,13 @@ export default function GeographicPrices() {
         return Object.values(byYear).sort((a, b) => (a.year as number) - (b.year as number))
     })()
 
+    const filteredPicker = picker.filter(p => {
+        const needle = itemFilter.trim().toLowerCase()
+        if (!needle) return true
+        return p.label.toLowerCase().includes(needle)
+            || p.key.toLowerCase().includes(needle)
+    })
+
     const unitLabel = series?.unit || 'Value'
     const filteredRegions = (series?.regions ?? []).filter(
         r => !regionFilter || r.toLowerCase().includes(regionFilter.toLowerCase()))
@@ -201,25 +214,54 @@ export default function GeographicPrices() {
 
             {/* Item picker */}
             <div className="card mb-6">
-                <h2 className="text-lg font-semibold text-ark-fg mb-4 capitalize">
-                    Select {mode === 'indicators' ? 'indicator' : 'commodity'}
-                    <span className="text-sm text-ark-fg-dim ml-2">({picker.length} available)</span>
-                </h2>
-                <div className="flex flex-wrap gap-2 max-h-44 overflow-y-auto">
-                    {picker.map(p => (
-                        <button
-                            key={p.key}
-                            onClick={() => setSelectedKey(p.key)}
-                            title={p.sub}
-                            className={`px-3 py-1.5 rounded-lg text-sm font-medium capitalize transition-colors ${selectedKey === p.key
-                                ? 'bg-emerald-600 text-white'
-                                : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
-                                }`}
-                        >
-                            {p.label}
-                        </button>
-                    ))}
+                <div className="flex items-center justify-between flex-wrap gap-2 mb-4">
+                    <h2 className="text-lg font-semibold text-ark-fg capitalize">
+                        Select {mode === 'indicators' ? 'indicator' : 'commodity'}
+                        <span className="text-sm text-ark-fg-dim ml-2">
+                            ({filteredPicker.length}
+                            {filteredPicker.length !== picker.length ? ` of ${picker.length}` : ''} available)
+                        </span>
+                    </h2>
+                    {picker.length > 20 && (
+                        <input
+                            type="text"
+                            placeholder={mode === 'producer'
+                                ? 'Filter items — try “tomato”, “lettuce”, “onion”…'
+                                : 'Filter…'}
+                            value={itemFilter}
+                            onChange={(e) => setItemFilter(e.target.value)}
+                            className="px-3 py-1.5 min-w-[16rem] bg-ark-tag border border-ark-line rounded-lg text-sm text-ark-fg placeholder-ark-fg-dim focus:outline-none focus:border-emerald-500"
+                        />
+                    )}
                 </div>
+                {filteredPicker.length === 0 ? (
+                    <p className="text-sm text-ark-fg-dim py-2">
+                        No item matches “{itemFilter.trim()}”. There are {picker.length} items in
+                        this source; the filter searches all of them.
+                    </p>
+                ) : (
+                    <div className="flex flex-wrap gap-2 max-h-72 overflow-y-auto">
+                        {filteredPicker.map(p => (
+                            <button
+                                key={p.key}
+                                onClick={() => setSelectedKey(p.key)}
+                                title={p.sub}
+                                className={`px-3 py-2 rounded-lg text-left text-sm font-medium capitalize transition-colors ${selectedKey === p.key
+                                    ? 'bg-emerald-600 text-white'
+                                    : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
+                                    }`}
+                            >
+                                <span className="block">{p.label}</span>
+                                {p.sub && (
+                                    <span className={`block text-[10px] normal-case mt-0.5 ${selectedKey === p.key ? 'text-emerald-100' : 'text-ark-fg-dim'
+                                        }`}>
+                                        {p.sub}
+                                    </span>
+                                )}
+                            </button>
+                        ))}
+                    </div>
+                )}
             </div>
 
             {/* Region picker */}

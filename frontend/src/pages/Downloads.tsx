@@ -10,6 +10,8 @@ interface DownloadDataset {
     defer_to: string
     formats: string[]
     csv_url: string
+    xlsx_url?: string
+    xlsx_unavailable_reason?: string
     parquet_url: string
     rows: number | null
 }
@@ -123,7 +125,10 @@ export default function Downloads() {
                             </div>
                         </div>
 
-                        <div className="flex gap-3 pt-4 border-t border-ark-line">
+                        {/* CSV / XLSX / Parquet — the three formats
+                            DOWNLOAD_AND_FORMATS_STANDARD rule 1 requires. XLSX
+                            was missing until 2026-07-24. */}
+                        <div className="flex gap-3 pt-4 border-t border-ark-line flex-wrap">
                             <a
                                 href={downloadUrl(d.csv_url)}
                                 className="btn-primary inline-flex items-center"
@@ -131,6 +136,25 @@ export default function Downloads() {
                                 <Download className="w-4 h-4 mr-2" />
                                 CSV
                             </a>
+                            {/* XLSX is offered only where the dataset fits in one
+                                Excel worksheet; the backend omits xlsx_url and
+                                explains why when it does not. */}
+                            {d.xlsx_url ? (
+                                <a
+                                    href={downloadUrl(d.xlsx_url)}
+                                    className="btn-secondary inline-flex items-center"
+                                >
+                                    <Download className="w-4 h-4 mr-2" />
+                                    XLSX
+                                </a>
+                            ) : d.xlsx_unavailable_reason ? (
+                                <span
+                                    title={d.xlsx_unavailable_reason}
+                                    className="inline-flex items-center text-xs text-ark-fg-dim px-2"
+                                >
+                                    XLSX unavailable — too many rows for Excel
+                                </span>
+                            ) : null}
                             <a
                                 href={downloadUrl(d.parquet_url)}
                                 className="btn-secondary inline-flex items-center"

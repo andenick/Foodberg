@@ -269,7 +269,70 @@ class WorldBankClient:
         return self.COMMODITY_LINKS.get(slug, {}).get("pinksheet")
 
     def _retail_name(self, slug: str) -> Optional[str]:
-        return self.COMMODITY_LINKS.get(slug, {}).get("retail")
+        """Resolve a commodity slug to a BLS AP `retail_prices.food_item`.
+
+        Two-step, because COMMODITY_LINKS is a hand-written allow-list that only
+        ever covered 11 of the 47 BLS AP items (Tier 0 defect: 36 items — every
+        vegetable including tomatoes — were orphaned because they have no USDA
+        NASS parent commodity to hang off).
+
+        1. The curated link, where one exists (it maps a NASS slug such as
+           `cattle` onto the BLS item "Ground beef, 100% beef").
+        2. Otherwise the auto-derived slug of the BLS item itself, so every AP
+           item is addressable in its own right. See _retail_slug().
+        """
+        linked = self.COMMODITY_LINKS.get(slug, {}).get("retail")
+        if linked:
+            return linked
+        return self._retail_index().get(slug)
+
+    # -- BLS AP auto-surfacing (Tier 0) --------------------------------------
+    # Every BLS Average Price item becomes a first-class, addressable commodity
+    # instead of being reachable only when some NASS commodity happened to be
+    # hand-linked to it.
+
+    @staticmethod
+    def _retail_slug(food_item: str) -> str:
+        """'Tomatoes, field grown' -> 'tomatoes-field-grown'.
+
+        Deterministic and reversible-enough to be a URL slug. Keeping the full
+        item name in the slug (rather than truncating to the head noun) avoids
+        collisions between e.g. 'Bread, white, pan' and 'Bread, whole wheat,
+        pan', and still substring-matches a search for 'tomato' or 'bread'.
+        """
+        out = []
+        prev_dash = False
+        for ch in str(food_item).lower():
+            if ch.isalnum():
+                out.append(ch)
+                prev_dash = False
+            elif not prev_dash:
+                out.append("-")
+                prev_dash = True
+        return "".join(out).strip("-")
+
+    def _retail_index(self) -> Dict[str, str]:
+        """slug -> BLS AP food_item, for every item present in retail_prices.
+
+        Cached on the instance; the underlying table is baked into the image and
+        cannot change at runtime.
+        """
+        cached = getattr(self, "_retail_index_cache", None)
+        if cached is not None:
+            return cached
+        conn = self._connect()
+        try:
+            cur = conn.cursor()
+            cur.execute(
+                "SELECT DISTINCT food_item FROM retail_prices WHERE source='BLS AP'")
+            index = {self._retail_slug(r["food_item"]): r["food_item"]
+                     for r in cur.fetchall()}
+        except sqlite3.Error:
+            index = {}
+        finally:
+            conn.close()
+        self._retail_index_cache = index
+        return index
 
     # -- Liveness (P0-6 / S5) ------------------------------------------------
     # Classify a series by its LAST REAL OBSERVATION, never by item-list
@@ -428,6 +491,7 @@ class WorldBankClient:
         # Assemble per-commodity source map over the NASS commodity universe
         # plus anything AV covers.
         commodities: Dict[str, Dict] = {}
+        display_names: Dict[str, str] = {}
         slugs = set(nass) | set(av) | set(self.COMMODITY_LINKS)
         for slug in sorted(slugs):
             entry: Dict[str, Dict] = {}
@@ -439,17 +503,44 @@ class WorldBankClient:
             if pname and pname in pink:
                 entry["pinksheet"] = {**pink[pname], "series": pname,
                                       "label": "World Bank Pink Sheet"}
-            rname = self._retail_name(slug)
+            rname = self.COMMODITY_LINKS.get(slug, {}).get("retail")
             if rname and rname in retail:
                 entry["retail"] = {**retail[rname], "item": rname,
                                    "label": "BLS US retail average"}
             if entry:
                 commodities[slug] = entry
 
+        # TIER 0 — surface EVERY BLS AP item, not just the hand-linked ones.
+        #
+        # Before this block the browsable universe was the USDA NASS commodity
+        # list plus a 20-entry hand-written allow-list (COMMODITY_LINKS). BLS
+        # retail could only appear as a source *tab* on a commodity that already
+        # had a NASS parent, so 36 of the 47 AP items — every vegetable, all the
+        # bakery/dairy/pantry items, and "Tomatoes, field grown" (552 monthly
+        # observations, 1980-01 → 2026-06) — were in the database and
+        # unreachable from the UI. Each unlinked AP item now becomes a
+        # first-class commodity keyed by its own slug.
+        #
+        # Items already carried by a curated link (e.g. "Ground beef, 100% beef"
+        # under `cattle`) are NOT duplicated — their NASS parent shows strictly
+        # more sources.
+        linked_items = {v["retail"] for v in self.COMMODITY_LINKS.values()
+                        if "retail" in v}
+        for slug, item in sorted(self._retail_index().items()):
+            if item in linked_items or item not in retail or slug in commodities:
+                continue
+            commodities[slug] = {"retail": {**retail[item], "item": item,
+                                            "label": "BLS US retail average"}}
+            display_names[slug] = item
+
         return {
             "note": ("Per-commodity real series by source; a missing source "
                      "means no genuine series exists in the local data."),
             "commodities": commodities,
+            # Human-readable name for slugs derived from a publisher's own item
+            # label (BLS AP). Slugs absent from this map are plain commodity
+            # names and the UI title-cases them.
+            "display_names": display_names,
             "catalogs": {"pinksheet": pink, "retail": retail, "faostat": faostat},
         }
 
