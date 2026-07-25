@@ -1,7 +1,7 @@
 {
   "audit": "Foodberg reality audit",
   "spec": "FOODBERG_CHEF_FIRST_PLAN_20260724.md P0-6",
-  "generated_at": "2026-07-25T03:42:28.047810+00:00",
+  "generated_at": "2026-07-25T22:44:10.150282+00:00",
   "database": "D:\\Arcanum\\Projects\\Foodberg\\backend\\data\\foodberg.db",
   "thresholds": {
     "liveness_stale_months": 6,
@@ -10,10 +10,10 @@
     "unit_magnitude_ratio": 8.0
   },
   "summary": {
-    "series_audited": 500,
+    "series_audited": 501,
     "verdicts": {
       "PASS": 84,
-      "WARN": 396,
+      "WARN": 397,
       "FAIL": 20
     },
     "flags": {
@@ -21,7 +21,7 @@
       "L_DISCONTINUED": 39,
       "L_STALE": 51,
       "N_PUBLISHER_NAME_ON_RECOMPUTED_SERIES": 1,
-      "P_PROVENANCE_INCOMPLETE": 398,
+      "P_PROVENANCE_INCOMPLETE": 399,
       "U_UNIT_INCONSISTENT": 16,
       "U_UNIT_PLACEHOLDER": 16
     },
@@ -1924,7 +1924,7 @@
       "retrieved_at": "2025-12-05 18:42:39.817610",
       "unit": "NOT CAPTURED",
       "geography": "United States",
-      "frequency": "monthly",
+      "frequency": "quarterly",
       "licence": "mixed - underlying publisher terms apply",
       "first_observation": "2000-01-01",
       "last_real_observation": "2025-09-01",
@@ -1969,6 +1969,34 @@
           "severity": "WARN",
           "detail": "Last real observation 2025-09-16 is 9 months behind the FRED catalog (2026-06-01). Needs a staleness marker."
         },
+        {
+          "code": "P_PROVENANCE_INCOMPLETE",
+          "severity": "WARN",
+          "detail": "Not captured: unit. Displayable, but provenance is thin."
+        }
+      ],
+      "notes": [
+        "economic_indicators has no unit column; unit is not captured anywhere in the pipeline for this table."
+      ]
+    },
+    {
+      "series_key": "economic_indicators::FRED::GDPDEF",
+      "name": "GDP Implicit Price Deflator",
+      "table": "economic_indicators",
+      "source": "FRED",
+      "publisher": "Federal Reserve Bank of St. Louis",
+      "publisher_series_id": "GDPDEF",
+      "retrieval_url": "https://fred.stlouisfed.org/series/GDPDEF",
+      "retrieved_at": "2026-07-25 18:26:10",
+      "unit": "NOT CAPTURED",
+      "geography": "United States",
+      "frequency": "quarterly",
+      "licence": "mixed - underlying publisher terms apply",
+      "first_observation": "1947-01-01",
+      "last_real_observation": "2026-01-01",
+      "n_observations": 317,
+      "verdict": "WARN",
+      "flags": [
         {
           "code": "P_PROVENANCE_INCOMPLETE",
           "severity": "WARN",

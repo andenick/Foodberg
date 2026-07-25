@@ -412,7 +412,8 @@ def collect_economic_indicators(con: sqlite3.Connection) -> List[Series]:
     series: List[Series] = []
     rows = con.execute(
         "SELECT source, series_id, MIN(indicator_name) name, "
-        "COUNT(*) n, MIN(date) d0, MAX(date) d1, MAX(imported_at) imported "
+        "COUNT(*) n, MIN(date) d0, MAX(date) d1, MAX(imported_at) imported, "
+        "MIN(frequency) freq, COUNT(DISTINCT frequency) n_freq "
         "FROM economic_indicators GROUP BY source, series_id").fetchall()
     for r in rows:
         s = Series(f"economic_indicators::{r['source']}::{r['series_id']}",
@@ -424,7 +425,20 @@ def collect_economic_indicators(con: sqlite3.Connection) -> List[Series]:
         s.first_observation = iso_day(r["d0"])
         s.last_real_observation = iso_day(r["d1"])
         s.retrieved_at = str(r["imported"]) if r["imported"] else NOT_CAPTURED
-        s.frequency = reg.get("frequency", NOT_CAPTURED)
+        # Unlike the other tables, economic_indicators stores the frequency of
+        # each series ON THE ROW. Trust that over the source-level default in
+        # SOURCE_REGISTRY, which describes the programme rather than the series
+        # (FRED carries monthly CPI/PPI and quarterly national-accounts series
+        # such as GDPDEF side by side).
+        if r["freq"] and r["n_freq"] == 1:
+            s.frequency = str(r["freq"]).lower()
+        else:
+            s.frequency = reg.get("frequency", NOT_CAPTURED)
+            if r["n_freq"] and r["n_freq"] > 1:
+                s.notes.append(
+                    f"rows of this series disagree about frequency "
+                    f"({r['n_freq']} distinct values); the source-level "
+                    f"default is reported instead.")
         s.licence = reg.get("licence", NOT_CAPTURED)
         s.geography = "United States"
         # economic_indicators has no unit column - index series are unitless

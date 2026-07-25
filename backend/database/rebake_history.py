@@ -83,11 +83,19 @@ COLLECTED_BLS = COLLECTED / "bls_data.json"
 # actually came from.
 COLLECTED_FRED_EXTRA = COLLECTED / "fred_food_extra.json"
 COLLECTED_BLS_EXTRA = COLLECTED / "bls_food_extra.json"
+# 2026-07-25: GDPDEF, the GDP implicit price deflator, added by
+# Technical/scripts/ingest_gdp_deflator.py (keyless FRED CSV mirror). It is the
+# ONLY series the site may use to convert nominal prices to real prices
+# (WEBSITE_VISUALIZATION_STANDARD §2 requires the GDP deflator and forbids the
+# CPI for that purpose). It is quarterly, so its artifact carries an explicit
+# `frequency` — see the frequency handling in import_economic_indicators().
+COLLECTED_FRED_DEFLATOR = COLLECTED / "fred_gdp_deflator.json"
 COLLECTED_SOURCES = (
     (COLLECTED_FRED, "FRED"),
     (COLLECTED_BLS, "BLS"),
     (COLLECTED_FRED_EXTRA, "FRED"),
     (COLLECTED_BLS_EXTRA, "BLS"),
+    (COLLECTED_FRED_DEFLATOR, "FRED"),
 )
 
 NASS_DIR = ROBIN / "USDA_NASS_HISTORY"
@@ -402,6 +410,10 @@ def _indicator_category(series_id: str) -> str:
         return "Food CPI"
     if series_id.startswith("CPI"):
         return "CPI"
+    if series_id == "GDPDEF":
+        # The GDP implicit price deflator is not a consumer price index and must
+        # not be filed with them: it is the site's ONLY real-terms deflator.
+        return "Deflator"
     return "Macro"
 
 
@@ -434,6 +446,11 @@ def import_economic_indicators(con: sqlite3.Connection) -> int:
             n_series += 1
             name = block.get("name") or series_id
             category = _indicator_category(series_id)
+            # Almost every collected series is monthly, and the artifacts
+            # written before 2026-07-25 carry no frequency at all, so "Monthly"
+            # stays the default. An artifact that declares its own frequency
+            # (GDPDEF is quarterly) is honoured rather than mislabelled.
+            frequency = block.get("frequency") or "Monthly"
 
             for obs in observations:
                 date_str = obs.get("date")
@@ -462,7 +479,7 @@ def import_economic_indicators(con: sqlite3.Connection) -> int:
                         "value, date, category, frequency, source, imported_at) "
                         "VALUES (?,?,?,?,?,?,?,?)",
                         (name, series_id, value, date_full, category,
-                         "Monthly", source, NOW))
+                         frequency, source, NOW))
                     inserted += 1
 
         log(f"economic_indicators: {source} — {n_series} series from {path.name}")

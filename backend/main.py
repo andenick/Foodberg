@@ -1289,6 +1289,144 @@ async def get_source_history_endpoint(commodity: str, source: str = "nass"):
     return client.get_source_history(commodity, source)
 
 
+@app.get("/api/prices/detail/{slug}")
+async def get_price_detail_endpoint(slug: str):
+    """Everything the explorer's detail rail needs for ONE item, in one call.
+
+    Sources carrying the item (each with a normalized daily|weekly|monthly|
+    annual frequency, unit, span and liveness), regional variants discovered
+    from the publisher's own naming convention, the farm -> wholesale -> retail
+    wedge where each leg genuinely exists, and the primary source's provenance.
+    Every null is a checked absence, explained in `wedge.basis`.
+    """
+    client = WorldBankClient()
+    detail = client.get_price_detail(slug)
+    if detail.get("status") == "unknown_commodity":
+        raise HTTPException(
+            status_code=404,
+            detail=(f"Unknown commodity '{slug}'. See /api/prices/coverage for "
+                    f"the {detail['n_known_slugs']} commodity slugs served."),
+        )
+    return detail
+
+
+# The GDP deflator is the ONLY series this site may use to convert nominal
+# prices to real prices. WEBSITE_VISUALIZATION_STANDARD §2 requires the GDP
+# deflator and forbids the CPI for that purpose (the CPI basket contains the
+# very food prices Foodberg charts). Ingested by
+# Technical/scripts/ingest_gdp_deflator.py.
+DEFLATOR_SERIES_ID = "GDPDEF"
+
+
+@app.get("/api/prices/deflator")
+async def get_price_deflator():
+    """The stored GDP implicit price deflator, for client-side real-terms
+    conversion of any nominal price series.
+
+    Serves the publisher's quarterly observations as published — no monthly
+    interpolation, no carry-forward. Returns an honest `status:
+    'data_unavailable'` payload (not a 500) when the series has not been
+    ingested, so a client built ahead of the ingest degrades gracefully.
+    """
+    import sqlite3
+
+    note = (
+        "GDP-deflator, never CPI (WEBSITE_VISUALIZATION_STANDARD §2). "
+        "Quarterly observations dated to the first day of each quarter, as the "
+        "publisher dates them; they are not expanded to months. Observations "
+        "before {start} cannot be deflated and must be shown nominal."
+    )
+    unavailable = {
+        "status": "data_unavailable",
+        "series_id": DEFLATOR_SERIES_ID,
+        "name": "GDP Implicit Price Deflator",
+        "publisher": "U.S. Bureau of Economic Analysis via FRED",
+        "frequency": "quarterly",
+        "base_period": None,
+        "coverage": {"start": None, "end": None},
+        "latest": None,
+        "data": [],
+        "reason": (
+            f"No {DEFLATOR_SERIES_ID} observations are loaded in "
+            f"economic_indicators. Run "
+            f"Technical/scripts/ingest_gdp_deflator.py. Until then every price "
+            f"series must be presented as NOMINAL — no substitute deflator, "
+            f"and never the CPI."),
+        "note": note.format(start="the first available quarter"),
+    }
+
+    db_path = _download_db_path()
+    if not db_path.exists():
+        return unavailable
+
+    conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True, timeout=30)
+    conn.row_factory = sqlite3.Row
+    try:
+        conn.execute("PRAGMA busy_timeout=30000")
+        rows = conn.execute(
+            "SELECT date, value FROM economic_indicators WHERE series_id = ? "
+            "ORDER BY date", (DEFLATOR_SERIES_ID,)).fetchall()
+        meta = conn.execute(
+            "SELECT MIN(indicator_name) name, MIN(frequency) freq, "
+            "MIN(source) src FROM economic_indicators WHERE series_id = ?",
+            (DEFLATOR_SERIES_ID,)).fetchone()
+    except sqlite3.Error:
+        return unavailable
+    finally:
+        conn.close()
+
+    if not rows:
+        return unavailable
+
+    data = [{"date": str(r["date"])[:10], "value": r["value"]} for r in rows]
+
+    # State what the index base actually is, established FROM the data: the
+    # base year of a =100 index is the year whose observations average to 100.
+    by_year: Dict[int, List[float]] = {}
+    for point in data:
+        by_year.setdefault(int(point["date"][:4]), []).append(point["value"])
+    complete = {y: v for y, v in by_year.items() if len(v) == 4}
+    if complete:
+        base_year = min(complete,
+                        key=lambda y: abs(sum(complete[y]) / 4 - 100.0))
+        base_mean = sum(complete[base_year]) / 4
+        base_period = (f"Index {base_year}=100 (the four quarters of "
+                       f"{base_year} average {base_mean:.3f} in the stored "
+                       f"data; base established from the data, not asserted)")
+    else:
+        base_year, base_mean = None, None
+        base_period = ("index base not establishable: no complete four-quarter "
+                       "year in the stored data")
+
+    return {
+        "series_id": DEFLATOR_SERIES_ID,
+        "name": meta["name"] or "GDP Implicit Price Deflator",
+        "publisher": "U.S. Bureau of Economic Analysis via FRED",
+        "programme": ("National Income and Product Accounts, Table 1.1.9 "
+                      "(Implicit Price Deflators for Gross Domestic Product)"),
+        "frequency": "quarterly",
+        "frequency_as_stored": meta["freq"],
+        "source": meta["src"],
+        "retrieval_url": (
+            "https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDPDEF"),
+        "publisher_landing": "https://fred.stlouisfed.org/series/GDPDEF",
+        "licence": "U.S. Government work (public domain)",
+        "base_period": base_period,
+        "base_year": base_year,
+        "unit": "index points",
+        "seasonal_adjustment": "Seasonally adjusted",
+        "coverage": {"start": data[0]["date"], "end": data[-1]["date"]},
+        "points": len(data),
+        "latest": {"date": data[-1]["date"], "value": data[-1]["value"]},
+        "data": data,
+        "usage": (
+            "real = nominal * (deflator_at_base_or_reference_date / "
+            "deflator_at_observation_date); pick the reference quarter, then "
+            "align each observation to the quarter containing it."),
+        "note": note.format(start=data[0]["date"]),
+    }
+
+
 @app.get("/api/indices/global")
 async def get_global_indices():
     """Pink Sheet index series + FAO per-country food-CPI catalog."""
