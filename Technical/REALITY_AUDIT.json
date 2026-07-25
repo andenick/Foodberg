@@ -1,7 +1,7 @@
 {
   "audit": "Foodberg reality audit",
   "spec": "FOODBERG_CHEF_FIRST_PLAN_20260724.md P0-6",
-  "generated_at": "2026-07-25T03:30:43.959210+00:00",
+  "generated_at": "2026-07-25T03:42:28.047810+00:00",
   "database": "D:\\Arcanum\\Projects\\Foodberg\\backend\\data\\foodberg.db",
   "thresholds": {
     "liveness_stale_months": 6,

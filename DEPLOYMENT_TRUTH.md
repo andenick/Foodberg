@@ -177,6 +177,61 @@ touches, md5-verifying both ends, exactly as §5 records.
 > `PRAGMA wal_checkpoint(TRUNCATE)` before copying it to the box — otherwise recent writes sit in
 > `foodberg.db-wal` and do not travel with the `.db` file.
 
+## 5b. ✅ SECOND DEPLOY — 2026-07-25 (Tier 0 + USDA AMS + monthly BLS)
+
+Same surgical method as §5: `scp` file-by-file from the project tree to the box with an
+**md5 check on both ends for every file**, then `docker compose build` + `up -d
+--force-recreate foodberg-backend` **on the box**. `foodberg-web` was not touched.
+
+| | Before (live) | After (live, verified by `curl` against foodberg.org) |
+|---|---|---|
+| Browsable commodities in the Price Explorer | **45** — no tomatoes; 36 of 47 BLS AP items orphaned | **85**, incl. `tomatoes-field-grown` (552 obs, 1980-01 → 2026-06, **$2.154/lb**) and 4 Census-region tomato series |
+| Search for "tomato" | in-memory filter over the truncated list → **0 results, silently** | hits the real `/api/prices/search`; **5 distinct items** returned |
+| Wholesale prices | none | `ams_wholesale_prices` **1,671,751 rows**, 11 cities, 43 report streams, 314 commodities, 2025-07-24 → 2026-07-24. Tomatoes alone = **58,115 price lines**, 11 varieties |
+| `/wholesale` page | did not exist | live, filterable by commodity / city / organic, package+variety+grade+origin intact |
+| `retail_prices` | 20,359 | **22,398** (+4 regional tomato series) |
+| `economic_indicators` | 14,640 | **16,246** (+`WPU01130217`, `CUUR0000SEFV01/02`) |
+| Download formats | csv + parquet; `retail_prices` had **no download at all** | csv + **xlsx** + parquet; `retail_prices` and `ams_wholesale_prices` both downloadable |
+| `foodberg.db` | 1,637,339,136 B | **2,941,763,584 B**, md5 `5f34549ae864a4f4f921d7d3e9526da8` |
+
+### Files shipped (all md5-verified on both ends)
+
+```
+backend/main.py                          backend/database/models.py
+backend/data_sources/usda_client.py      backend/database/rebake_history.py
+backend/data_sources/worldbank_client.py backend/routers/__init__.py
+backend/data_sources/fred_client.py      backend/data/foodberg.db  (2.94 GB, ~43 s)
+backend/data_sources/fao_client.py
+frontend/dist/{index.html,llms.txt,assets/*}      ← bind mount: LIVE on write
+```
+
+### Two constraints discovered in production, both now handled honestly
+
+- **XLSX cannot be built for the two largest datasets.** `wasde` (1,459,734 rows) exceeds
+  Excel's 1,048,576-row worksheet limit outright, and `ams_wholesale_prices`
+  (427,847 × 38 = 16.3M cells) took **174 s** to build — past the Cloudflare tunnel's ~100 s
+  idle timeout, which is why the first attempt returned a **404 after 125 s**. The endpoint
+  now bounds on rows *and* cells and returns **413** naming the CSV/Parquet URLs; the catalog
+  omits `xlsx_url` and states why. XLSX ships on 4 of 6 datasets.
+- **`backend/data/foodberg.db` is in WAL mode.** `PRAGMA wal_checkpoint(TRUNCATE)` was run
+  before the copy. Skipping it ships a `.db` missing the most recent writes.
+
+### Rollback point for the 2026-07-25 deploy
+
+- image `foodberg-backend:rollback-20260724b` = `bb0f1ed53f53` (the pre-deploy image)
+- `~/sites/foodberg_rollback_20260724b/` = pre-deploy `foodberg.db` (1.64 GB), `main.py`,
+  `worldbank_client.py`, `usda_client.py`, `models.py`, and the whole pre-deploy
+  `frontend/dist/`
+
+```bash
+ssh andenick@192.168.0.174 \
+  'cd ~/sites/foodberg && docker rm -f foodberg-backend \
+   && docker tag foodberg-backend:rollback-20260724b foodberg-backend:1.0.0 \
+   && docker compose up -d --no-build foodberg-backend'
+# frontend (bind mount) rolls back by copying the saved dist back over it:
+#   cp -r ~/sites/foodberg_rollback_20260724b/dist/. ~/sites/foodberg/frontend/dist/
+```
+
 ### Rollback point for the 2026-07-24 deploy
 
 Still on the box, nothing pruned:
