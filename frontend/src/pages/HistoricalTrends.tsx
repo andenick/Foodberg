@@ -25,13 +25,22 @@ type Coverage = Partial<Record<'av' | 'nass' | 'pinksheet' | 'retail', SourceCov
 
 /* Preferred series per commodity for trend comparison: USDA farm-gate annual
    first (longest spans, most commodities), then Alpha Vantage monthly, then
-   Pink Sheet monthly. Monthly series are averaged into annual points so all
-   lines share the x-axis. */
-const PREFERENCE: Array<'nass' | 'av' | 'pinksheet'> = ['nass', 'av', 'pinksheet']
+   Pink Sheet monthly, then BLS US retail monthly. Monthly series are averaged
+   into annual points so all lines share the x-axis.
+
+   'retail' was omitted from this list, which meant BLS Average Price series
+   could never appear on Trends at all — including every retail-only item
+   (tomatoes, lettuce, bacon, flour, cheese …). It is last in preference so a
+   commodity that also has a farm-gate or spot series keeps its longer history,
+   but retail-only items are now eligible instead of invisible. */
+type TrendSource = 'nass' | 'av' | 'pinksheet' | 'retail'
+const PREFERENCE: TrendSource[] = ['nass', 'av', 'pinksheet', 'retail']
 
 export default function HistoricalTrends() {
     const [coverage, setCoverage] = useState<Record<string, Coverage>>({})
     const [eligible, setEligible] = useState<string[]>([])
+    const [displayNames, setDisplayNames] = useState<Record<string, string>>({})
+    const [itemFilter, setItemFilter] = useState('')
     const [selectedCommodities, setSelectedCommodities] = useState<string[]>(['wheat', 'corn'])
     const [chartData, setChartData] = useState<Record<string, number>[]>([])
     const [units, setUnits] = useState<Record<string, string>>({})
@@ -58,6 +67,7 @@ export default function HistoricalTrends() {
             .then((res) => {
                 const cov: Record<string, Coverage> = res.data.commodities || {}
                 setCoverage(cov)
+                setDisplayNames(res.data.display_names || {})
                 setEligible(Object.keys(cov)
                     .filter(slug => PREFERENCE.some(s => cov[slug][s] && (cov[slug][s] as SourceCov).points > 1))
                     .sort())
@@ -70,7 +80,7 @@ export default function HistoricalTrends() {
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [selectedCommodities, timeRange, coverage])
 
-    const preferredSource = (slug: string): 'nass' | 'av' | 'pinksheet' | null => {
+    const preferredSource = (slug: string): TrendSource | null => {
         const cov = coverage[slug]
         if (!cov) return null
         return PREFERENCE.find(s => cov[s] && (cov[s] as SourceCov).points > 1) ?? null
@@ -199,12 +209,26 @@ export default function HistoricalTrends() {
                         ({selectedCommodities.length} selected · {eligible.length} have real history)
                     </span>
                 </h2>
-                <div className="flex flex-wrap gap-2 max-h-40 overflow-y-auto">
-                    {eligible.map((slug) => (
+                <input
+                    type="text"
+                    value={itemFilter}
+                    onChange={(e) => setItemFilter(e.target.value)}
+                    placeholder="Filter items — try “tomato”, “beef”, “wheat”…"
+                    className="w-full mb-3 px-3 py-2 bg-ark-tag border border-ark-line rounded-lg text-sm text-ark-fg placeholder-ark-fg-dim focus:outline-none focus:border-emerald-500"
+                />
+                <div className="flex flex-wrap gap-2 max-h-56 overflow-y-auto">
+                    {eligible
+                        .filter((slug) => {
+                            const needle = itemFilter.trim().toLowerCase()
+                            if (!needle) return true
+                            return slug.includes(needle)
+                                || (displayNames[slug] ?? '').toLowerCase().includes(needle)
+                        })
+                        .map((slug) => (
                         <button
                             key={slug}
                             onClick={() => toggleCommodity(slug)}
-                            className={`px-4 py-2 rounded-lg font-medium capitalize transition-colors ${selectedCommodities.includes(slug)
+                            className={`px-4 py-2 rounded-lg font-medium transition-colors ${displayNames[slug] ? '' : 'capitalize '}${selectedCommodities.includes(slug)
                                 ? 'text-white'
                                 : 'bg-ark-tag text-ark-fg-dim hover:bg-ark-line'
                                 }`}
@@ -213,7 +237,7 @@ export default function HistoricalTrends() {
                             } : {}}
                             disabled={!selectedCommodities.includes(slug) && selectedCommodities.length >= 6}
                         >
-                            {slug}
+                            {displayNames[slug] ?? slug}
                         </button>
                     ))}
                 </div>

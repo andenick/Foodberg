@@ -10,6 +10,7 @@ interface DownloadDataset {
     defer_to: string
     formats: string[]
     csv_url: string
+    xlsx_url?: string
     parquet_url: string
     rows: number | null
 }
@@ -123,13 +124,23 @@ export default function Downloads() {
                             </div>
                         </div>
 
-                        <div className="flex gap-3 pt-4 border-t border-ark-line">
+                        {/* CSV / XLSX / Parquet — the three formats
+                            DOWNLOAD_AND_FORMATS_STANDARD rule 1 requires. XLSX
+                            was missing until 2026-07-24. */}
+                        <div className="flex gap-3 pt-4 border-t border-ark-line flex-wrap">
                             <a
                                 href={downloadUrl(d.csv_url)}
                                 className="btn-primary inline-flex items-center"
                             >
                                 <Download className="w-4 h-4 mr-2" />
                                 CSV
+                            </a>
+                            <a
+                                href={downloadUrl(d.xlsx_url ?? `/api/download/${d.id}.xlsx`)}
+                                className="btn-secondary inline-flex items-center"
+                            >
+                                <Download className="w-4 h-4 mr-2" />
+                                XLSX
                             </a>
                             <a
                                 href={downloadUrl(d.parquet_url)}

@@ -148,28 +148,34 @@ ssh box 'cd ~/sites/foodberg && docker compose build foodberg-backend \
 `foodberg-web` was **not** touched (it stayed up 4 weeks through the deploy). No other
 container on the box was touched.
 
-### 🔴 NEW HAZARD — the project tree is BEHIND the box for five backend files
+### ✅ RESOLVED 2026-07-24 — the project tree vs the box (was: five divergent backend files)
 
-`Projects/Foodberg/backend/` is **not** a superset of what production runs. P0-1 reconciled the
-project tree against the *workstation staging mirror*; nobody compared it against **the box**.
+`Projects/Foodberg/backend/` was **not** a superset of what production runs. P0-1 reconciled the
+project tree against the *workstation staging mirror*; nobody had compared it against **the box**.
 Byte-comparison on 2026-07-24 (CRLF-normalised) found `main.py`, `database/manager.py` and both
-WASDE routers identical, but these five files differ, and for at least two of them the **box is
-newer**:
+WASDE routers identical, but five files differed. **All five are now reconciled**, plus the
+box-only `routers/__init__.py`:
 
-| File | Box (live) | Project tree | Verdict |
-|---|---|---|---|
-| `data_sources/fred_client.py` | **offline, local-DB backed** — no outbound HTTP, no `FRED_API_KEY` | old **online** version calling `api.stlouisfed.org` via `httpx` | 🔴 box is newer — syncing the project copy would break economic indicators in a container that has no FRED key |
-| `data_sources/fao_client.py` | later offline rewrite; mock generators deleted | 2026-07-04 DB-query version | 🔴 box is newer |
-| `database/models.py` | no `WasdePsd` model | adds `WasdePsd` | project ahead (additive, unshipped) |
-| `database/collect_live.py` | plain Alpha Vantage commodity names | prefixes `"Alpha Vantage - "` | project ahead (unshipped) |
-| `data_sources/robin_client.py` | — | import reorder only | cosmetic |
+| File | Divergence found | Resolution (2026-07-24) |
+|---|---|---|
+| `data_sources/fred_client.py` | box was **offline, local-DB backed** (no outbound HTTP, no `FRED_API_KEY`); project tree carried the old **online** version calling `api.stlouisfed.org` via `httpx` | ✅ **box version pulled into the project tree.** md5 `0d3d5a074fa2dd01d5edff872bd1d388` on both ends. Syncing the old project copy would have broken economic indicators in a container that has no FRED key |
+| `data_sources/fao_client.py` | box carried a later offline rewrite with the mock generators deleted; project tree had the 2026-07-04 DB-query version | ✅ **box version pulled into the project tree.** md5 `3c3af71c0955b186ccb22a3db64f8b06` on both ends |
+| `database/models.py` | project ahead — adds the `WasdePsd` model (additive, unshipped) | ✅ project stays ahead **by design**; ships with the next backend image build. Additive only — no box behaviour depends on its absence |
+| `database/collect_live.py` | project ahead — prefixes `"Alpha Vantage - "` on commodity names (unshipped) | ✅ project stays ahead **by design**. This is a live-collection path, not a serving path; it does not run inside the container |
+| `data_sources/robin_client.py` | import reorder only | ✅ cosmetic; no action. Not a functional divergence |
+| `routers/__init__.py` | existed **on the box** (0 bytes) and **not** in the project tree | ✅ created in the project tree as a 0-byte file, matching the box |
 
-Also: `backend/routers/__init__.py` exists **on the box** and **not** in the project tree.
+**Verification after reconciliation:** `python -c "import main"` from `backend/` succeeds and the app
+registers **58 routes** (57 before `/api/download/{dataset}.xlsx` was added).
 
-**Rule until this is reconciled: never `rsync --delete` the project backend onto the box.**
-Deploy the specific files a change touches, exactly as done above. Reconciling these five files
-(pulling the box's newer `fred_client.py` / `fao_client.py` back into the project tree) is
-outstanding work.
+**The rule still stands: never `rsync --delete` the project backend onto the box.** Two files in
+§4's "still divergent, and deliberately so" list (`rebake_history.py`, `indices/composite.py`) and
+the 1.6 GB `foodberg.db` make a blanket sync destructive. Deploy the specific files a change
+touches, md5-verifying both ends, exactly as §5 records.
+
+> **Also note:** `backend/data/foodberg.db` is in **WAL mode**. Run
+> `PRAGMA wal_checkpoint(TRUNCATE)` before copying it to the box — otherwise recent writes sit in
+> `foodberg.db-wal` and do not travel with the `.db` file.
 
 ### Rollback point for the 2026-07-24 deploy
 

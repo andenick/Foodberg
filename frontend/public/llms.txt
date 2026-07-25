@@ -10,7 +10,7 @@
 - An interactive explorer over real, cited public data. Foodberg is an educational
   research tool, not an official statistical agency — defer to each named upstream
   source (USDA, FAO, FRED/BLS, World Bank) as authoritative.
-- Data is downloadable (CSV + Parquet, never JSON). Code is open source.
+- Data is downloadable (CSV + XLSX + Parquet, never JSON). Code is open source.
 
 ## Get the data and the code
 
@@ -18,7 +18,9 @@
   - Contents: global spot prices, composite food-price indices, economic indicators,
     retail prices, USDA WASDE, and a US+World USDA FAS PS&D extract, plus a data
     dictionary, PROVENANCE.csv and a CC BY 4.0 LICENSE.
-- Per-dataset downloads: https://foodberg.org/api/download/{dataset}.csv and .parquet
+- Per-dataset downloads: https://foodberg.org/api/download/{dataset}.csv, .xlsx and .parquet
+  - Datasets: wasde, price_history, fao_food_price_index, economic_indicators,
+    retail_prices (US retail average prices per food item, monthly, 1980-present).
 - Source code (pipeline + SPA, Python + TypeScript, MIT): https://github.com/andenick/Foodberg
 
 ## Explore (outputs)
