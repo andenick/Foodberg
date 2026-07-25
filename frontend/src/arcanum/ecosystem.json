@@ -30,6 +30,8 @@
       "tagline": "Global food & commodity price explorer, drawing on USDA WASDE, FAO, and World Bank sources.",
       "cdf": {
         "provisional": false,
+        "tool_first": true,
+        "tool_first_data_page": "/data",
         "data": {
           "href": "/downloads/foodberg-data.zip",
           "kind": "bundle",
@@ -37,7 +39,8 @@
           "formats": [
             "csv",
             "parquet"
-          ]
+          ],
+          "note": "Bundle contents verified 2026-07-25: 8 CSV + 6 Parquet + data_dictionary.csv + PROVENANCE.csv + LICENSE + README.md. There is no XLSX inside the zip, so 'xlsx' is deliberately NOT claimed here. XLSX ships as a live per-dataset export at /api/download/{dataset}.xlsx, advertised on 4 of the 6 catalog datasets; wasde (1,459,734 rows) and ams_wholesale_prices (427,847 rows x 39 cols) decline it honestly because they exceed Excel's one-sheet row limit and the build-time cell budget. Add 'xlsx' here only once the bundle builder actually writes XLSX into the zip."
         },
         "code": {
           "href": "https://github.com/andenick/Foodberg",
@@ -49,8 +52,8 @@
           "license": "MIT"
         },
         "outputs": {
-          "href": "/explore",
-          "label": "Explore"
+          "href": "/",
+          "label": "Prices — what an ingredient costs today, in kitchen units"
         },
         "site_repo": "https://github.com/andenick/Foodberg",
         "citation": "Anderson, N. (2026). Foodberg. https://foodberg.org.",
@@ -58,24 +61,28 @@
       },
       "pages": [
         {
-          "label": "Explore",
-          "path": "/explore"
+          "label": "Prices",
+          "path": "/"
         },
         {
-          "label": "Wholesale",
-          "path": "/wholesale"
+          "label": "History",
+          "path": "/trends"
         },
         {
-          "label": "Supply & Demand",
-          "path": "/supply-demand"
+          "label": "Compare",
+          "path": "/compare"
         },
         {
-          "label": "Downloads",
-          "path": "/downloads"
+          "label": "Seasons",
+          "path": "/seasons"
         },
         {
-          "label": "Data Sources",
+          "label": "Sources",
           "path": "/sources"
+        },
+        {
+          "label": "Data & Code",
+          "path": "/data"
         }
       ]
     },
