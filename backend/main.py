@@ -1574,6 +1574,19 @@ async def list_download_datasets():
                 entry["rows"] = cur.fetchone()[0]
             except Exception:
                 entry["rows"] = None
+        # Only advertise XLSX where a single Excel worksheet can actually hold
+        # the table. Offering a button that 413s is worse than not offering it;
+        # CSV and Parquet always carry the complete dataset.
+        n_cols = _dataset_columns(conn, spec["table"]) if conn is not None else None
+        if not _xlsx_supported(entry["rows"], n_cols):
+            entry["formats"] = ["csv", "parquet"]
+            entry.pop("xlsx_url", None)
+            entry["xlsx_unavailable_reason"] = (
+                f"{entry['rows']:,} rows"
+                + (f" x {n_cols} columns" if n_cols else "")
+                + " is too large to deliver as a single Excel workbook; "
+                  "CSV and Parquet carry the complete table."
+            )
         out.append(entry)
     if conn is not None:
         conn.close()
@@ -1658,27 +1671,92 @@ async def download_dataset_csv(dataset: str):
     )
 
 
+# Excel's hard per-worksheet limit is 1,048,576 rows including the header, so
+# 1,048,575 data rows is the most a single sheet can hold. Two Foodberg
+# datasets exceed it outright (wasde 1.46M). Splitting a single logical table
+# across numbered sheets produces a workbook nobody can pivot or filter as one
+# table, and building it takes minutes — so oversized datasets decline XLSX
+# honestly and name the two formats that DO carry the whole table.
+XLSX_MAX_ROWS = 1_048_575
+
+# A second, tighter bound: an XLSX response is built in full before the first
+# byte is sent, and the Cloudflare tunnel in front of this service closes an
+# idle connection at ~100 s. Measured on the real datasets with the write-only
+# writer: 269k cells 5 s, 2.9M cells 47 s, 16.3M cells 174 s. 4M cells keeps
+# the build comfortably inside the timeout, so a download either works or is
+# declined up front — it never dies half-written.
+XLSX_MAX_CELLS = 4_000_000
+
+
+def _xlsx_supported(rows: Optional[int], columns: Optional[int] = None) -> bool:
+    """True when a dataset can be delivered as a single XLSX in time.
+
+    An unknown row count passes: the endpoint re-checks against the real
+    DataFrame and declines there if needed.
+    """
+    if rows is None:
+        return True
+    if rows > XLSX_MAX_ROWS:
+        return False
+    if columns:
+        return rows * columns <= XLSX_MAX_CELLS
+    return True
+
+
+def _dataset_columns(conn, table: str) -> Optional[int]:
+    """Column count for a table, or None when it cannot be determined."""
+    try:
+        cur = conn.cursor()
+        cur.execute(f"PRAGMA table_info({table})")
+        # 'id' is dropped from every export (see _load_dataset_df).
+        return len([r for r in cur.fetchall() if r[1] != "id"]) or None
+    except Exception:
+        return None
+
+
 @app.get("/api/download/{dataset}.xlsx")
 async def download_dataset_xlsx(dataset: str):
     """Full XLSX export of a dataset (DOWNLOAD_AND_FORMATS_STANDARD rule 1).
 
     Excel is the format most food professionals actually open, and the standard
-    requires CSV + XLSX + Parquet on every dataset; Foodberg shipped only
-    csv + parquet. Excel caps a worksheet at 1,048,576 rows, so a dataset larger
-    than that is split across numbered sheets rather than silently truncated."""
-    import pandas as pd  # noqa: F401  (kept local, matching the other exporters)
+    requires CSV + XLSX + Parquet; Foodberg shipped only csv + parquet.
+
+    Written through openpyxl's write-only workbook rather than
+    DataFrame.to_excel: the default builder holds every cell object in memory
+    and took ~60 s for 291k rows, which no reverse proxy will wait for. The
+    write-only path streams rows out and is roughly an order of magnitude
+    faster at constant memory.
+    """
+    from openpyxl import Workbook
 
     df = _load_dataset_df(dataset)
-    max_rows = 1_048_575  # 1,048,576 minus the header row
+    if not _xlsx_supported(len(df), len(df.columns)):
+        reason = (
+            f"more than the {XLSX_MAX_ROWS:,} rows a single Excel worksheet "
+            f"can hold"
+            if len(df) > XLSX_MAX_ROWS
+            else f"{len(df) * len(df.columns):,} cells, above the "
+                 f"{XLSX_MAX_CELLS:,} this service will build in one request"
+        )
+        raise HTTPException(
+            status_code=413,
+            detail=(
+                f"'{dataset}' has {len(df):,} rows x {len(df.columns)} columns "
+                f"— {reason}. The complete table is available as "
+                f"/api/download/{dataset}.csv and "
+                f"/api/download/{dataset}.parquet."
+            ),
+        )
+
+    wb = Workbook(write_only=True)
+    ws = wb.create_sheet(title="data")
+    ws.append([str(c) for c in df.columns])
+    for row in df.itertuples(index=False, name=None):
+        # NaN/NaT are written as empty cells, never as the string "nan".
+        ws.append([None if v != v else v for v in row])  # noqa: PLR0124
+
     buf = io.BytesIO()
-    with pd.ExcelWriter(buf, engine="openpyxl") as writer:
-        if len(df) <= max_rows:
-            df.to_excel(writer, index=False, sheet_name="data")
-        else:
-            for i in range(0, len(df), max_rows):
-                part = i // max_rows + 1
-                df.iloc[i:i + max_rows].to_excel(
-                    writer, index=False, sheet_name=f"data_{part}")
+    wb.save(buf)
     buf.seek(0)
     return StreamingResponse(
         iter([buf.getvalue()]),

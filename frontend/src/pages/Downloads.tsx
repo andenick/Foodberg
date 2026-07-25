@@ -11,6 +11,7 @@ interface DownloadDataset {
     formats: string[]
     csv_url: string
     xlsx_url?: string
+    xlsx_unavailable_reason?: string
     parquet_url: string
     rows: number | null
 }
@@ -135,13 +136,25 @@ export default function Downloads() {
                                 <Download className="w-4 h-4 mr-2" />
                                 CSV
                             </a>
-                            <a
-                                href={downloadUrl(d.xlsx_url ?? `/api/download/${d.id}.xlsx`)}
-                                className="btn-secondary inline-flex items-center"
-                            >
-                                <Download className="w-4 h-4 mr-2" />
-                                XLSX
-                            </a>
+                            {/* XLSX is offered only where the dataset fits in one
+                                Excel worksheet; the backend omits xlsx_url and
+                                explains why when it does not. */}
+                            {d.xlsx_url ? (
+                                <a
+                                    href={downloadUrl(d.xlsx_url)}
+                                    className="btn-secondary inline-flex items-center"
+                                >
+                                    <Download className="w-4 h-4 mr-2" />
+                                    XLSX
+                                </a>
+                            ) : d.xlsx_unavailable_reason ? (
+                                <span
+                                    title={d.xlsx_unavailable_reason}
+                                    className="inline-flex items-center text-xs text-ark-fg-dim px-2"
+                                >
+                                    XLSX unavailable — too many rows for Excel
+                                </span>
+                            ) : null}
                             <a
                                 href={downloadUrl(d.parquet_url)}
                                 className="btn-secondary inline-flex items-center"
