@@ -89,7 +89,7 @@ Technical/
 
 1. **Install dependencies**
 ```bash
-cd Projects/Foodberg
+cd Foodberg
 npm install
 ```
 

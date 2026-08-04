@@ -12,7 +12,7 @@
 
 ### Push Code to GitHub
 ```bash
-cd Projects/Foodberg
+cd Foodberg
 git init
 git add .
 git commit -m "Initial Foodberg deployment"

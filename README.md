@@ -6,11 +6,10 @@
 
 > **Living status (verified 2026-07-17):** the website remains active and live. The separate
 > document track has advanced: **895 Hopper-read documents** were landed in `Knowledge_Base/`,
-> method-tagged, catalogued by KBIP, and packaged to ArcArchive on 2026-07-16. The canonical
+> method-tagged, catalogued, and packaged to offline archive storage on 2026-07-16. The canonical
 > `/kb-integrate-pipeline` pass and the downstream RobertDB build are still pending; do not
 > describe Foodberg as having a completed RobertDB. Current evidence is in
-> `Technical/PROGRESS_LOG.md`. See the [generated project timeline](../../Council/Druck/Technical/History/views/PROJECT_TIMELINE_INDEX.md)
-> and [workspace chronology](../../Council/Druck/Technical/History/views/WORKSPACE_TIMELINE.md).
+> the maintainer's private processing log.
 
 ---
 
@@ -25,12 +24,12 @@ Understanding food prices requires combining data from scattered government sour
 ```
 Robin/DATA/*  ──►  rebake_history.py  ──►  foodberg.db  ──►  Docker image
                                                           │
-Projects/Foodberg/frontend  ──npm build──►  dist/  ──────┤
+foodberg/frontend           ──npm build──►  dist/  ──────┤
                                                           ▼
                                               foodberg.org (Caddy → FastAPI + SPA)
 ```
 
-Data is acquired offline by Robin collectors into `Council/Robin/DATA/` (NASS history, FAOSTAT bulk, Pink Sheet, BLS AP). The rebake script (`Council/Carson/Technical/deploy/foodberg/backend/database/rebake_history.py`) reads from Robin stores and produces `foodberg.db`, which is baked into the Docker image. No runtime API calls in production.
+Data is acquired offline by the maintainer's collectors into a private data store (NASS history, FAOSTAT bulk, Pink Sheet, BLS AP). The rebake script (`backend/database/rebake_history.py` in the deploy tree) reads from those stores and produces `foodberg.db`, which is baked into the Docker image. No runtime API calls in production.
 
 ---
 
@@ -98,7 +97,7 @@ Foodberg/
 └── Outputs/                Deliverables (wishlists, PSD exports)
 ```
 
-> **Deploy tree (canonical production backend):** `Council/Carson/Technical/deploy/foodberg/backend/` — includes main.py, worldbank_client.py, rebake_history.py, and the baked `data/foodberg.db` (gitignored, in Docker image only).
+> **Deploy tree (canonical production backend):** the maintainer's private deploy tree — includes main.py, worldbank_client.py, rebake_history.py, and the baked `data/foodberg.db` (gitignored, in Docker image only).
 
 ---
 

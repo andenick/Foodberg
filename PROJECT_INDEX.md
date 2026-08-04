@@ -6,8 +6,7 @@ Historical Food Price Explorer — a data visualization app for understanding fo
 
 **Current status (2026-07-17):** web application active/live; 895 Hopper-read documents landed
 and KBIP-catalogued on 2026-07-16; canonical KB integration and RobertDB build still pending.
-For chronology, use the [generated project timeline](../../Council/Druck/Technical/History/views/PROJECT_TIMELINE_INDEX.md)
-and [workspace timeline](../../Council/Druck/Technical/History/views/WORKSPACE_TIMELINE.md).
+For chronology, use the maintainer's private project timeline.
 
 ## Quick Start
 
@@ -53,7 +52,7 @@ Foodberg/
   Outputs/              # Deliverables (wishlists, PSD exports)
 ```
 
-> **Deploy tree (canonical production backend):** `Council/Carson/Technical/deploy/foodberg/backend/` — main.py, worldbank_client.py, rebake_history.py, and the baked `data/foodberg.db` live here. The project-local `backend/` lags this tree. Frontend source at `Projects/Foodberg/frontend/` is canonical for both local dev and production builds.
+> **Deploy tree (canonical production backend):** the maintainer's private deploy tree — main.py, worldbank_client.py, rebake_history.py, and the baked `data/foodberg.db` live there. The project-local `backend/` lags that tree. Frontend source at `frontend/` is canonical for both local dev and production builds.
 
 ## Frontend Pages
 
@@ -158,7 +157,7 @@ SQLite database at `backend/data/foodberg.db` with 6 tables:
 
 | Component | Service | Detail |
 |-----------|---------|--------|
-| App | Docker + Caddy | Self-hosted Carson box (192.168.0.174), Cloudflare Tunnel |
+| App | Docker + Caddy | Self-hosted server on a private network, Cloudflare Tunnel |
 | Database | SQLite (~1.3M rows, 745 MB) | Baked into Docker image; rebake via `rebake_history.py` |
 | Data Pipeline | Robin collectors | Offline acquisition → Robin stores → rebake → image |
 
@@ -223,7 +222,7 @@ USDA_NASS_API_KEY=your_key
 
 ## Known Issues
 
-1. **Project `backend/` lags deploy tree** — new geo/coverage endpoints and rebake script exist only under `Council/Carson/Technical/deploy/foodberg/backend/`. Reconcile when doing project-local dev.
+1. **Project `backend/` lags deploy tree** — new geo/coverage endpoints and the rebake script exist only in the maintainer's private deploy tree. Reconcile when doing project-local dev.
 2. **USDA PSD not surfaced** — 192 MB CSV in Robin; supply/demand data acquired but not baked into the DB and not visible in the UI (`/supply-demand` page is a placeholder).
 3. **Pink Sheet URL drift** — World Bank occasionally changes the xlsx URL; re-acquire before next rebake if local store is empty.
 4. **`market_prices` table empty** — USDA Market News terminal prices not imported. Live API calls require `USDA_API_KEY`.

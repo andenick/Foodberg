@@ -21,7 +21,7 @@ Adds, using the SAME keyless retrieval method already in production:
 RETRIEVAL — no API key anywhere
 -------------------------------
   * FRED keyless CSV mirror, identical to
-    Council/Robin/API_MODULES/BLS/ap_via_fred_collector.py:
+    the store's BLS collector module (ap_via_fred_collector.py):
         https://fred.stlouisfed.org/graph/fredgraph.csv?id=<SERIES>
     Used for the four AP series and for WPU01130217.
   * BLS public API v1 (keyless, 25 queries/day, 10 years per query):
@@ -48,7 +48,7 @@ second classifier, no hardcoded discontinued flag, no publisher end_year.
 
 OUTPUTS
 -------
-  Council/Robin/DATA/BLS_AP/ap_fred_APU0[1-4]00712311.json   (Robin canonical)
+  <store>/DATA/BLS_AP/ap_fred_APU0[1-4]00712311.json   (store canonical)
   backend/data/collected/fred_food_extra.json                (source 'FRED')
   backend/data/collected/bls_food_extra.json                 (source 'BLS')
   backend/data/foodberg.db                                   (incremental load)

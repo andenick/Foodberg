@@ -27,4 +27,4 @@ from the Price Explorer.
 - Downloads CSV + Parquet only (no JSON).
 
 Related: master walkthrough plan Part C2 + Part D; Carson standards under
-`Council/Carson/Technical/standards/`.
+the maintainer's private standards tree.

@@ -28,6 +28,7 @@ Invariants:
 import argparse
 import datetime
 import json
+import os
 import shutil
 import sqlite3
 import subprocess
@@ -35,11 +36,17 @@ import sys
 from pathlib import Path
 from typing import Any
 
-# ── paths (absolute, forward-slash) ───────────────────────────────────────
-PROJ = Path("D:/Arcanum/Projects/Foodberg")
-ROBIN = Path("D:/Arcanum/Council/Robin")
-ROBIN_DATA = ROBIN / "DATA"
-DEPLOY_ARTIFACT = Path("D:/Arcanum/Council/Carson/Technical/deploy/foodberg/backend/data/foodberg.db")
+# ── paths (resolved from the repo, overridable by environment) ────────────
+# FOODBERG_PROJECT_ROOT / FOODBERG_STORE_ROOT / FOODBERG_DEPLOY_DB let an
+# operator point the orchestrator at a private data store and deploy tree
+# without hardcoding any machine-specific location in the published source.
+PROJ = Path(os.environ.get("FOODBERG_PROJECT_ROOT", Path(__file__).resolve().parents[2]))
+STORE_ROOT = Path(os.environ.get("FOODBERG_STORE_ROOT", PROJ / "Inputs" / "stores"))
+ROBIN = STORE_ROOT
+ROBIN_DATA = STORE_ROOT / "DATA"
+DEPLOY_ARTIFACT = Path(
+    os.environ.get("FOODBERG_DEPLOY_DB", PROJ / "deploy" / "backend" / "data" / "foodberg.db")
+)
 
 STATE_PATH = PROJ / "Technical" / "REFRESH_STATE.json"
 DB_PATH = PROJ / "backend" / "data" / "foodberg.db"

@@ -34,7 +34,7 @@ from datetime import datetime, timezone
 import pandas as pd
 
 # ---- paths (relative to project root) -------------------------------------
-PROJ = Path(__file__).resolve().parents[2]          # .../Projects/Foodberg
+PROJ = Path(__file__).resolve().parents[2]          # repository root
 PSD_DIR = PROJ / "Inputs" / "USDA_WASDE_official" / "psd"
 OUT_DIR = PROJ / "Outputs" / "Data" / "WASDE_PSD"
 DB_PATH = PROJ / "backend" / "data" / "foodberg.db"

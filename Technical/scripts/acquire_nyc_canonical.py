@@ -21,9 +21,10 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-WISHLIST_PATH = r"D:\Arcanum\Projects\Foodberg\Outputs\2026.06.20 KB Wishlist v4 Global\2026.06.20_Foodberg_Wishlist_v4.csv"
-OUTPUT_DIR = Path(r"D:\Arcanum\Projects\Foodberg\Inputs\NYC_Canonical")
-LOG_PATH = Path(r"D:\Arcanum\Projects\Foodberg\Technical\plans\NYC_ACQUISITION_LOG.md")
+PROJ = Path(os.environ.get("FOODBERG_PROJECT_ROOT", Path(__file__).resolve().parents[2]))
+WISHLIST_PATH = os.environ.get("FOODBERG_WISHLIST_CSV", str(PROJ / "Outputs" / "wishlist.csv"))
+OUTPUT_DIR = Path(os.environ.get("FOODBERG_ACQ_OUT", PROJ / "Inputs" / "NYC_Canonical"))
+LOG_PATH = Path(os.environ.get("FOODBERG_ACQ_LOG", PROJ / "Technical" / "acquisition_log.md"))
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 session = requests.Session()

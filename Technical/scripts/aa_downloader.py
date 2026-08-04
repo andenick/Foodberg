@@ -2,6 +2,7 @@
 AA-based bulk downloader for NYC Canonical books.
 Uses annas-archive.gd to search and download.
 """
+import os
 import requests, re, time, sys, io
 from pathlib import Path
 from urllib.parse import quote
@@ -11,7 +12,7 @@ if sys.platform == 'win32':
 
 session = requests.Session()
 session.headers.update({'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'})
-OUT = Path(r'D:\Arcanum\Projects\Foodberg\Inputs\NYC_Canonical')
+OUT = Path(os.environ.get('FOODBERG_ACQ_OUT', Path(__file__).resolve().parents[2] / 'Inputs' / 'NYC_Canonical'))
 
 def safe_fn(author, title, year):
     a = author.split(',')[0].replace(' ', '_')
