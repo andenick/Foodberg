@@ -63,9 +63,8 @@ DB_PATH = BACKEND / "data" / "foodberg.db"
 # Robin's canonical data store. Never hardcode an absolute workspace path here:
 # this file ships in the public repo. Set ROBIN_DATA_PATH, or rely on the
 # relative default when the project sits inside the workspace.
-_robin_env = os.environ.get("ROBIN_DATA_PATH", "").strip()
-ROBIN = Path(_robin_env) if _robin_env else (
-    BACKEND.parent.parent.parent / "Council" / "Robin" / "DATA")
+_robin_env = (os.environ.get("ROBIN_DATA_PATH") or os.environ.get("ROBIN_DATA_DIR") or "").strip()
+ROBIN = Path(_robin_env) if _robin_env else Path("robin_data")
 if not ROBIN.is_dir():
     raise FileNotFoundError(
         "ROBIN_DATA_PATH not set and default not found. "

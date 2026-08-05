@@ -93,9 +93,8 @@ if str(BACKEND) not in sys.path:
 from data_sources.worldbank_client import WorldBankClient  # noqa: E402
 
 # Robin's canonical BLS AP store (same resolution rule as rebake_history.py).
-_robin_env = os.environ.get("ROBIN_DATA_PATH", "").strip()
-ROBIN = Path(_robin_env) if _robin_env else (
-    PROJECT.parent.parent / "Council" / "Robin" / "DATA")
+_robin_env = (os.environ.get("ROBIN_DATA_PATH") or os.environ.get("ROBIN_DATA_DIR") or "").strip()
+ROBIN = Path(_robin_env) if _robin_env else Path("robin_data")
 BLS_AP_DIR = ROBIN / "BLS_AP"
 
 FRED_CSV = "https://fred.stlouisfed.org/graph/fredgraph.csv?id={sid}"

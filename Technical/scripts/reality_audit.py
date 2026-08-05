@@ -87,9 +87,8 @@ NOT_CAPTURED = "NOT CAPTURED"
 # publisher series id, unit, area, licence and retrieved_at - the only place
 # in the pipeline where BLS AP provenance survives, because retail_prices has
 # no series_id column.
-_robin_env = os.environ.get("ROBIN_DATA_PATH", "").strip()
-ROBIN = Path(_robin_env) if _robin_env else (
-    PROJECT.parent.parent / "Council" / "Robin" / "DATA")
+_robin_env = (os.environ.get("ROBIN_DATA_PATH") or os.environ.get("ROBIN_DATA_DIR") or "").strip()
+ROBIN = Path(_robin_env) if _robin_env else Path("robin_data")
 BLS_AP_DIR = ROBIN / "BLS_AP"
 
 
