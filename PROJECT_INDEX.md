@@ -111,7 +111,7 @@ Foodberg/
 
 ## Database
 
-The counts below are a historical project-local snapshot. Production is rebuilt from Robin data,
+The counts below are a historical project-local snapshot. Production is rebuilt from the collector stores,
 and its exact table counts should be read from the current deploy database rather than inferred
 from this index.
 
@@ -119,7 +119,7 @@ SQLite database at `backend/data/foodberg.db` with 6 tables:
 
 | Table | Records | Source |
 |-------|---------|--------|
-| `wasde_data` | ~1.06M | Robin/USDA NASS (44 commodities, 1908–2026, national + state) |
+| `wasde_data` | ~1.06M | USDA NASS (44 commodities, 1908–2026, national + state) |
 | `global_prices` | ~220K | FAO FAOSTAT producer prices + FAO CPI + World Bank Pink Sheet CMO |
 | `retail_prices` | ~20K | BLS AP monthly averages (1980–2026) via FRED mirror |
 | `economic_indicators` | ~13K | FRED (21 series) + BLS CPI (7 series) |
@@ -127,7 +127,7 @@ SQLite database at `backend/data/foodberg.db` with 6 tables:
 | `market_prices` | 0 | USDA Market News (not populated) |
 | **Total** | **~1.3M** | |
 
-> USDA PSD (192 MB CSV in Robin) is acquired but not yet baked into the DB or surfaced in the UI.
+> USDA PSD (192 MB CSV in the collector stores) is acquired but not yet baked into the DB or surfaced in the UI.
 
 ## Technology Stack
 
@@ -159,7 +159,7 @@ SQLite database at `backend/data/foodberg.db` with 6 tables:
 |-----------|---------|--------|
 | App | Docker + Caddy | Self-hosted server on a private network, Cloudflare Tunnel |
 | Database | SQLite (~1.3M rows, 745 MB) | Baked into Docker image; rebake via `rebake_history.py` |
-| Data Pipeline | Robin collectors | Offline acquisition → Robin stores → rebake → image |
+| Data Pipeline | offline collectors | Offline acquisition → collector stores → rebake → image |
 
 ## Data Sources
 
@@ -191,7 +191,7 @@ cd backend
 venv\Scripts\activate
 python main.py                    # Start server (port 8000)
 python -m database.import_all     # Import FRED, BLS, FAO, WB, retail data
-python -m database.import_all_wasde  # Import WASDE data from Robin
+python -m database.import_all_wasde  # Import WASDE data from the collector stores
 pytest                            # Run tests
 ```
 
@@ -223,7 +223,7 @@ USDA_NASS_API_KEY=your_key
 ## Known Issues
 
 1. **Project `backend/` lags deploy tree** — new geo/coverage endpoints and the rebake script exist only in the maintainer's private deploy tree. Reconcile when doing project-local dev.
-2. **USDA PSD not surfaced** — 192 MB CSV in Robin; supply/demand data acquired but not baked into the DB and not visible in the UI (`/supply-demand` page is a placeholder).
+2. **USDA PSD not surfaced** — 192 MB CSV in the collector stores; supply/demand data acquired but not baked into the DB and not visible in the UI (`/supply-demand` page is a placeholder).
 3. **Pink Sheet URL drift** — World Bank occasionally changes the xlsx URL; re-acquire before next rebake if local store is empty.
 4. **`market_prices` table empty** — USDA Market News terminal prices not imported. Live API calls require `USDA_API_KEY`.
 5. **Project-local backend can lag production** — verify behavior against the Carson deploy tree before editing backend claims.
@@ -244,7 +244,7 @@ Separate from the web app, Foodberg maintains a scholarly KB acquisition wishlis
 - **Current**: `Outputs/2026.06.20 KB Wishlist v4 Global/` — 1,985 entries, 105 categories, 27-col schema v4.0
 - **Historical**: v1 (370 entries, `Outputs/2026.04.12 KB Wishlist/`), v2 (825, `Outputs/2026.04.26 KB Wishlist v2/`)
 - **Acquisition state (per 2026-05-19 reconciliation audit)**: 592 entries `ACQUIRED_NOT_EXTRACTED` (~802 PDFs in `Inputs/`, added 2026-05-10), 1,393 `NOT_ACQUIRED`
-- **HDARP**: NOT INITIALIZED — no `Knowledge_Base/`, no `BATCH_STATE.json`. Acquired PDFs await `/preparehdarp` → `/sphdarp`.
+- **Document extraction**: NOT INITIALIZED — no extracted corpus, no batch state. Acquired PDFs await the document-extraction pipeline.
 
 ## Documentation
 

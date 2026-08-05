@@ -232,7 +232,7 @@ Foodberg is a professional food cost management platform that helps chefs and cu
 
 ### Available Reports
 
-**Excel Reports** (ONE SHEET per file - Druck compliant):
+**Excel Reports** (ONE SHEET per file - catalog protocol):
 1. Current Commodity Prices
 2. Recipe Costs Summary
 3. Menu Engineering Analysis

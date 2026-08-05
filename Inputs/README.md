@@ -43,5 +43,5 @@ Primary data sources are accessed from Robin's canonical locations:
 - **World Bank**: `Inputs/robin/DATA/WorldBank/WDI_CSV/`
 - **API Keys**: `backend/config/` (see api_keys.json.template)
 
-**Compliance Status**: 100% (FLAT structure, Druck compliant)
+**Compliance Status**: 100% (FLAT structure, catalog protocol)
 **Last Updated**: 2026-04-04

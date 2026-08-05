@@ -2,7 +2,7 @@
 
 **🟢 LIVE AT [foodberg.org](https://foodberg.org)** — A full-stack web application for exploring historical food commodity prices, built with React and FastAPI. Its multi-source SQLite build covers USDA NASS history, USDA PSD, World Bank Pink Sheet, FAO producer prices, and BLS retail data, with honest coverage badges rather than fabricated trend lines.
 
-> **Project state:** Deployed via Carson on a self-hosted Docker box behind Cloudflare Tunnel (FastAPI + Caddy → SPA). Data is acquired by Robin collectors, rebaked through `rebake_history.py`, and baked into the production Docker image. Multi-source Price Explorer with source-picker tabs; three-mode Geographic page (FAOSTAT producer, US state NASS, World Bank indicators); honest coverage badges — no fabricated trend lines.
+> **Project state:** Deployed via Carson on a self-hosted Docker box behind Cloudflare Tunnel (FastAPI + Caddy → SPA). Data is acquired by the maintainer's collectors, rebaked through `rebake_history.py`, and baked into the production Docker image. Multi-source Price Explorer with source-picker tabs; three-mode Geographic page (FAOSTAT producer, US state NASS, World Bank indicators); honest coverage badges — no fabricated trend lines.
 
 > **Living status (verified 2026-07-17):** the website remains active and live. The separate
 > document track has advanced: **895 Hopper-read documents** were landed in `Knowledge_Base/`,
@@ -22,7 +22,7 @@ Understanding food prices requires combining data from scattered government sour
 ## Architecture
 
 ```
-Robin/DATA/*  ──►  rebake_history.py  ──►  foodberg.db  ──►  Docker image
+data sources  ──►  rebake_history.py  ──►  foodberg.db  ──►  Docker image
                                                           │
 foodberg/frontend           ──npm build──►  dist/  ──────┤
                                                           ▼
@@ -109,7 +109,7 @@ Foodberg/
 | Backend | FastAPI, Python, SQLAlchemy |
 | Database | SQLite, multi-million-row production build (exact counts vary by rebake) |
 | Deployment | Docker + Caddy + Cloudflare Tunnel (self-hosted Carson box) |
-| Data Pipeline | Robin collectors → rebake_history.py → baked image |
+| Data Pipeline | offline collectors → rebake_history.py → baked image |
 
 ---
 
@@ -117,7 +117,7 @@ Foodberg/
 
 - **Python 3.11+** — backend
 - **Node.js 18+** — frontend
-- **API keys** (optional) — `USDA_NASS_API_KEY` for Robin NASS collector, `FRED_API_KEY` for FRED data refresh
+- **API keys** (optional) — `USDA_NASS_API_KEY` for the NASS collector, `FRED_API_KEY` for FRED data refresh
 
 ---
 

@@ -34,7 +34,7 @@ Knowledge-base acquisition wishlists used to plan source and document acquisitio
 | `2026.05.10 KB Wishlist v3 NYC/` | v3 | — | NYC-focused pass |
 | `2026.06.20 KB Wishlist v4 Global/` | v4 (current) | 1,985 | 105 categories, 27-col schema |
 
-**Acquisition state (per 2026-05-19 reconciliation audit):** 592 entries acquired (~802 PDFs in `Inputs/`), 1,393 not acquired. HDARP extraction not yet started.
+**Acquisition state (per 2026-05-19 reconciliation audit):** 592 entries acquired (~802 PDFs in `Inputs/`), 1,393 not acquired. Document extraction not yet started.
 
 ## Notes
 

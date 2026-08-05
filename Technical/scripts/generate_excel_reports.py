@@ -1,12 +1,12 @@
 """
 Excel Report Generator for Foodberg
-Druck-compliant: ONE SHEET PER FILE
+Catalog-protocol compliant: ONE SHEET PER FILE
 
 Generates professional Excel reports with:
 - Machine-readable column names
 - Professional black & white formatting
 - Timestamped filenames
-- One sheet per file (Druck standard)
+- One sheet per file (catalog protocol)
 """
 
 import pandas as pd
@@ -18,9 +18,9 @@ from openpyxl.styles import Font, Alignment, Border, Side, PatternFill
 OUTPUT_DIR = Path(__file__).parent.parent.parent / 'Output' / 'Data'
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-def create_druck_compliant_excel(data: pd.DataFrame, filename: str, sheet_name: str = 'Data'):
+def create_single_sheet_excel(data: pd.DataFrame, filename: str, sheet_name: str = 'Data'):
     """
-    Create Druck-compliant Excel file with ONE SHEET
+    Create a catalog-protocol Excel file with ONE SHEET
     
     Args:
         data: pandas DataFrame with data
@@ -98,7 +98,7 @@ def generate_current_commodity_prices():
         'last_updated': [datetime.now().isoformat()] * 5
     })
     
-    create_druck_compliant_excel(
+    create_single_sheet_excel(
         data,
         'current_commodity_prices',
         'Commodity_Prices'
@@ -120,7 +120,7 @@ def generate_recipe_costs_summary():
         'food_cost_percent': [28.0, 28.0, 28.0]
     })
     
-    create_druck_compliant_excel(
+    create_single_sheet_excel(
         data,
         'recipe_costs_summary',
         'Recipe_Costs'
@@ -145,7 +145,7 @@ def generate_menu_engineering_analysis():
         ]
     })
     
-    create_druck_compliant_excel(
+    create_single_sheet_excel(
         data,
         'menu_engineering_analysis',
         'Menu_Engineering'
@@ -164,7 +164,7 @@ def generate_vendor_price_comparison():
         'total_cost_min_order': [54.90, 50.50, 76.25, 64.00, 57.50, 45.00]
     })
     
-    create_druck_compliant_excel(
+    create_single_sheet_excel(
         data,
         'vendor_price_comparison',
         'Vendor_Comparison'
@@ -185,7 +185,7 @@ def generate_price_alerts_history():
         'notification_sent': ['SMS', 'Email', 'SMS', 'Push', 'Email']
     })
     
-    create_druck_compliant_excel(
+    create_single_sheet_excel(
         data,
         'price_alerts_history',
         'Price_Alerts'
@@ -205,7 +205,7 @@ def generate_weekly_market_report():
         'price_trend': ['up', 'down', 'stable', 'down', 'up', 'stable']
     })
     
-    create_druck_compliant_excel(
+    create_single_sheet_excel(
         data,
         'weekly_market_report',
         'Weekly_Report'
@@ -213,8 +213,8 @@ def generate_weekly_market_report():
 
 
 def generate_all_reports():
-    """Generate all Druck-compliant Excel reports"""
-    print("\n🎯 Generating Druck-Compliant Excel Reports")
+    """Generate all catalog-protocol Excel reports"""
+    print("\n🎯 Generating Excel Reports (one sheet per file)")
     print("=" * 50)
     
     generate_current_commodity_prices()
@@ -227,7 +227,7 @@ def generate_all_reports():
     print("=" * 50)
     print("✨ All reports generated successfully!")
     print(f"📁 Location: {OUTPUT_DIR}")
-    print("\n✅ Druck Compliance Verified:")
+    print("\n✅ Catalog-protocol compliance verified:")
     print("   - ONE SHEET per file")
     print("   - Machine-readable column names")
     print("   - Professional B&W formatting")

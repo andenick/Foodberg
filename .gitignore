@@ -122,7 +122,7 @@ Outputs/2026.06.20 KB Wishlist v4 Global/
 
 # Internal processing / deployment / quarantine artifacts (not part of the public surface)
 Technical/plans/
-Technical/HDARP_Processing/
+Technical/*_Processing/
 Technical/data/historical/_QUARANTINE_FABRICATED_*/
 Technical/REALITY_AUDIT.json
 **/DEPLOYMENT_TRUTH.md
