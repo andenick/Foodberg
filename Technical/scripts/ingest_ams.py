@@ -42,6 +42,7 @@ import argparse
 import datetime as dt
 import hashlib
 import json
+import os
 import sqlite3
 import sys
 import time
@@ -53,9 +54,12 @@ BACKEND = PROJECT / "backend"
 DEFAULT_DB = BACKEND / "data" / "foodberg.db"
 STATE_DIR = PROJECT / "Technical" / "state"
 DEFAULT_STATE = STATE_DIR / "ams_ingest_state.json"
-CADENCE_REGISTRY = (
-    PROJECT.parent.parent
-    / "Council" / "Carson" / "Technical" / "registries" / "data_cadence.json"
+# Cross-site data-cadence registry. It is shared with other sites and so lives
+# outside this repo; the location is therefore env-configurable rather than a
+# hard-coded walk up out of the project. A registry that is not found is
+# reported, never fatal (see update_cadence_registry).
+CADENCE_REGISTRY = Path(
+    os.environ.get("FOODBERG_CADENCE_REGISTRY") or STATE_DIR / "data_cadence.json"
 )
 
 sys.path.insert(0, str(BACKEND))
