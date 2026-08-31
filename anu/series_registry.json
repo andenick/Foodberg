@@ -1,0 +1,4537 @@
+{
+  "schema_version": "1.0",
+  "project": "Foodberg",
+  "generated_at": "2026-08-31",
+  "notes": "Series IDs use the publisher's native ID where one exists (FRED/BLS series codes, BLS APU codes); constructed families use readable slugs (ps_*, fao_fpi_*, faostat_*, foodberg_*, bls_overall, usda_nass_wasde). Family-type entries ('family' key set) ship as one long CSV per family rather than one file per series; 'optional': true entries are validated only when present.",
+  "series": [
+    {
+      "series_id": "ps_crude_oil_average",
+      "title": "World Bank Pink Sheet: Crude oil, average",
+      "description": "Monthly nominal USD price series 'Crude oil, average' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 2.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per barrel",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_crude_oil_brent",
+      "title": "World Bank Pink Sheet: Crude oil, Brent",
+      "description": "Monthly nominal USD price series 'Crude oil, Brent' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 3.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per barrel",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_crude_oil_dubai",
+      "title": "World Bank Pink Sheet: Crude oil, Dubai",
+      "description": "Monthly nominal USD price series 'Crude oil, Dubai' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 4.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per barrel",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_crude_oil_wti",
+      "title": "World Bank Pink Sheet: Crude oil, WTI",
+      "description": "Monthly nominal USD price series 'Crude oil, WTI' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 5.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per barrel",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1982-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_coal_australian",
+      "title": "World Bank Pink Sheet: Coal, Australian",
+      "description": "Monthly nominal USD price series 'Coal, Australian' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 6.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1970-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_coal_south_african",
+      "title": "World Bank Pink Sheet: Coal, South African",
+      "description": "Monthly nominal USD price series 'Coal, South African' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 7. Discontinued series (marked '**' by the publisher); history only.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1984-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition). Publisher flags this series as discontinued."
+      }
+    },
+    {
+      "series_id": "ps_natural_gas_us",
+      "title": "World Bank Pink Sheet: Natural gas, US",
+      "description": "Monthly nominal USD price series 'Natural gas, US' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 8.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per million Btu",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_natural_gas_europe",
+      "title": "World Bank Pink Sheet: Natural gas, Europe",
+      "description": "Monthly nominal USD price series 'Natural gas, Europe' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 9.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per million Btu",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_liquefied_natural_gas_japan",
+      "title": "World Bank Pink Sheet: Liquefied natural gas, Japan",
+      "description": "Monthly nominal USD price series 'Liquefied natural gas, Japan' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 10.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per million Btu",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1977-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_natural_gas_index",
+      "title": "World Bank Pink Sheet: Natural gas index",
+      "description": "Monthly nominal USD price series 'Natural gas index' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 11.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2010=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1977-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_cocoa",
+      "title": "World Bank Pink Sheet: Cocoa",
+      "description": "Monthly nominal USD price series 'Cocoa' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 12.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_coffee_arabica",
+      "title": "World Bank Pink Sheet: Coffee, Arabica",
+      "description": "Monthly nominal USD price series 'Coffee, Arabica' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 13.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_coffee_robusta",
+      "title": "World Bank Pink Sheet: Coffee, Robusta",
+      "description": "Monthly nominal USD price series 'Coffee, Robusta' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 14.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_tea_avg_3_auctions",
+      "title": "World Bank Pink Sheet: Tea, avg 3 auctions",
+      "description": "Monthly nominal USD price series 'Tea, avg 3 auctions' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 15.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_tea_colombo",
+      "title": "World Bank Pink Sheet: Tea, Colombo",
+      "description": "Monthly nominal USD price series 'Tea, Colombo' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 16.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_tea_kolkata",
+      "title": "World Bank Pink Sheet: Tea, Kolkata",
+      "description": "Monthly nominal USD price series 'Tea, Kolkata' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 17.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_tea_mombasa",
+      "title": "World Bank Pink Sheet: Tea, Mombasa",
+      "description": "Monthly nominal USD price series 'Tea, Mombasa' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 18.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_coconut_oil",
+      "title": "World Bank Pink Sheet: Coconut oil",
+      "description": "Monthly nominal USD price series 'Coconut oil' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 19.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_groundnuts",
+      "title": "World Bank Pink Sheet: Groundnuts",
+      "description": "Monthly nominal USD price series 'Groundnuts' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 20.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_fish_meal",
+      "title": "World Bank Pink Sheet: Fish meal",
+      "description": "Monthly nominal USD price series 'Fish meal' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 21.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1979-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_groundnut_oil",
+      "title": "World Bank Pink Sheet: Groundnut oil",
+      "description": "Monthly nominal USD price series 'Groundnut oil' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 22. Discontinued series (marked '**' by the publisher); history only.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition). Publisher flags this series as discontinued."
+      }
+    },
+    {
+      "series_id": "ps_palm_oil",
+      "title": "World Bank Pink Sheet: Palm oil",
+      "description": "Monthly nominal USD price series 'Palm oil' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 23.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_palm_kernel_oil",
+      "title": "World Bank Pink Sheet: Palm kernel oil",
+      "description": "Monthly nominal USD price series 'Palm kernel oil' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 24.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1996-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_soybeans",
+      "title": "World Bank Pink Sheet: Soybeans",
+      "description": "Monthly nominal USD price series 'Soybeans' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 25.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_soybean_oil",
+      "title": "World Bank Pink Sheet: Soybean oil",
+      "description": "Monthly nominal USD price series 'Soybean oil' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 26.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_soybean_meal",
+      "title": "World Bank Pink Sheet: Soybean meal",
+      "description": "Monthly nominal USD price series 'Soybean meal' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 27.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_rapeseed_oil",
+      "title": "World Bank Pink Sheet: Rapeseed oil",
+      "description": "Monthly nominal USD price series 'Rapeseed oil' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 28.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2002-02",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_sunflower_oil",
+      "title": "World Bank Pink Sheet: Sunflower oil",
+      "description": "Monthly nominal USD price series 'Sunflower oil' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 29.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2002-02",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_barley",
+      "title": "World Bank Pink Sheet: Barley",
+      "description": "Monthly nominal USD price series 'Barley' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 30.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2020-08"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_maize",
+      "title": "World Bank Pink Sheet: Maize",
+      "description": "Monthly nominal USD price series 'Maize' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 31.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_sorghum",
+      "title": "World Bank Pink Sheet: Sorghum",
+      "description": "Monthly nominal USD price series 'Sorghum' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 32.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2020-08"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_rice_thai_5",
+      "title": "World Bank Pink Sheet: Rice, Thai 5%",
+      "description": "Monthly nominal USD price series 'Rice, Thai 5%' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 33.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_rice_thai_25",
+      "title": "World Bank Pink Sheet: Rice, Thai 25%",
+      "description": "Monthly nominal USD price series 'Rice, Thai 25%' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 34.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1986-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_rice_thai_a_1",
+      "title": "World Bank Pink Sheet: Rice, Thai A.1",
+      "description": "Monthly nominal USD price series 'Rice, Thai A.1' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 35.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1986-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_rice_viet_namese_5",
+      "title": "World Bank Pink Sheet: Rice, Viet Namese 5%",
+      "description": "Monthly nominal USD price series 'Rice, Viet Namese 5%' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 36.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2003-12",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_wheat_us_srw",
+      "title": "World Bank Pink Sheet: Wheat, US SRW",
+      "description": "Monthly nominal USD price series 'Wheat, US SRW' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 37.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1979-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_wheat_us_hrw",
+      "title": "World Bank Pink Sheet: Wheat, US HRW",
+      "description": "Monthly nominal USD price series 'Wheat, US HRW' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 38.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_banana_europe",
+      "title": "World Bank Pink Sheet: Banana, Europe",
+      "description": "Monthly nominal USD price series 'Banana, Europe' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 39.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1997-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_banana_us",
+      "title": "World Bank Pink Sheet: Banana, US",
+      "description": "Monthly nominal USD price series 'Banana, US' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 40.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_orange",
+      "title": "World Bank Pink Sheet: Orange",
+      "description": "Monthly nominal USD price series 'Orange' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 41.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_beef",
+      "title": "World Bank Pink Sheet: Beef",
+      "description": "Monthly nominal USD price series 'Beef' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 42. Discontinued series (marked '**' by the publisher); history only.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition). Publisher flags this series as discontinued."
+      }
+    },
+    {
+      "series_id": "ps_chicken",
+      "title": "World Bank Pink Sheet: Chicken",
+      "description": "Monthly nominal USD price series 'Chicken' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 43. Discontinued series (marked '**' by the publisher); history only.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition). Publisher flags this series as discontinued."
+      }
+    },
+    {
+      "series_id": "ps_lamb",
+      "title": "World Bank Pink Sheet: Lamb",
+      "description": "Monthly nominal USD price series 'Lamb' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 44. Discontinued series (marked '**' by the publisher); history only.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1971-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition). Publisher flags this series as discontinued."
+      }
+    },
+    {
+      "series_id": "ps_shrimps_mexican",
+      "title": "World Bank Pink Sheet: Shrimps, Mexican",
+      "description": "Monthly nominal USD price series 'Shrimps, Mexican' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 45.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2023-10"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_sugar_eu",
+      "title": "World Bank Pink Sheet: Sugar, EU",
+      "description": "Monthly nominal USD price series 'Sugar, EU' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 46.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_sugar_us",
+      "title": "World Bank Pink Sheet: Sugar, US",
+      "description": "Monthly nominal USD price series 'Sugar, US' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 47.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_sugar_world",
+      "title": "World Bank Pink Sheet: Sugar, world",
+      "description": "Monthly nominal USD price series 'Sugar, world' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 48.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_tobacco_us_import_u_v",
+      "title": "World Bank Pink Sheet: Tobacco, US import u.v.",
+      "description": "Monthly nominal USD price series 'Tobacco, US import u.v.' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 49.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-04"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_logs_cameroon",
+      "title": "World Bank Pink Sheet: Logs, Cameroon",
+      "description": "Monthly nominal USD price series 'Logs, Cameroon' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 50.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per cubic meter",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1970-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_logs_malaysian",
+      "title": "World Bank Pink Sheet: Logs, Malaysian",
+      "description": "Monthly nominal USD price series 'Logs, Malaysian' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 51.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per cubic meter",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_sawnwood_cameroon",
+      "title": "World Bank Pink Sheet: Sawnwood, Cameroon",
+      "description": "Monthly nominal USD price series 'Sawnwood, Cameroon' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 52.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per cubic meter",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1970-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_sawnwood_malaysian",
+      "title": "World Bank Pink Sheet: Sawnwood, Malaysian",
+      "description": "Monthly nominal USD price series 'Sawnwood, Malaysian' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 53.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per cubic meter",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_plywood",
+      "title": "World Bank Pink Sheet: Plywood",
+      "description": "Monthly nominal USD price series 'Plywood' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 54.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "US cents per sheet",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1979-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_cotton_a_index",
+      "title": "World Bank Pink Sheet: Cotton, A Index",
+      "description": "Monthly nominal USD price series 'Cotton, A Index' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 55.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_rubber_tsr20",
+      "title": "World Bank Pink Sheet: Rubber, TSR20",
+      "description": "Monthly nominal USD price series 'Rubber, TSR20' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 56. Discontinued series (marked '**' by the publisher); history only.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1999-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition). Publisher flags this series as discontinued."
+      }
+    },
+    {
+      "series_id": "ps_rubber_rss3",
+      "title": "World Bank Pink Sheet: Rubber, RSS3",
+      "description": "Monthly nominal USD price series 'Rubber, RSS3' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 57.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per kilogram",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_phosphate_rock",
+      "title": "World Bank Pink Sheet: Phosphate rock",
+      "description": "Monthly nominal USD price series 'Phosphate rock' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 58.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_dap",
+      "title": "World Bank Pink Sheet: DAP",
+      "description": "Monthly nominal USD price series 'DAP' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 59.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1967-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_tsp",
+      "title": "World Bank Pink Sheet: TSP",
+      "description": "Monthly nominal USD price series 'TSP' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 60.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_urea",
+      "title": "World Bank Pink Sheet: Urea",
+      "description": "Monthly nominal USD price series 'Urea' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 61.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_potassium_chloride",
+      "title": "World Bank Pink Sheet: Potassium chloride",
+      "description": "Monthly nominal USD price series 'Potassium chloride' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 62. Discontinued series (marked '**' by the publisher); history only.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition). Publisher flags this series as discontinued."
+      }
+    },
+    {
+      "series_id": "ps_aluminum",
+      "title": "World Bank Pink Sheet: Aluminum",
+      "description": "Monthly nominal USD price series 'Aluminum' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 63.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_iron_ore_cfr_spot",
+      "title": "World Bank Pink Sheet: Iron ore, cfr spot",
+      "description": "Monthly nominal USD price series 'Iron ore, cfr spot' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 64.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per dry metric ton unit",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_copper",
+      "title": "World Bank Pink Sheet: Copper",
+      "description": "Monthly nominal USD price series 'Copper' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 65.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_lead",
+      "title": "World Bank Pink Sheet: Lead",
+      "description": "Monthly nominal USD price series 'Lead' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 66.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_tin",
+      "title": "World Bank Pink Sheet: Tin",
+      "description": "Monthly nominal USD price series 'Tin' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 67.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_nickel",
+      "title": "World Bank Pink Sheet: Nickel",
+      "description": "Monthly nominal USD price series 'Nickel' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 68.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_zinc",
+      "title": "World Bank Pink Sheet: Zinc",
+      "description": "Monthly nominal USD price series 'Zinc' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 69.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per metric ton",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_gold",
+      "title": "World Bank Pink Sheet: Gold",
+      "description": "Monthly nominal USD price series 'Gold' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 70.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per troy ounce",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_platinum",
+      "title": "World Bank Pink Sheet: Platinum",
+      "description": "Monthly nominal USD price series 'Platinum' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 71.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per troy ounce",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "ps_silver",
+      "title": "World Bank Pink Sheet: Silver",
+      "description": "Monthly nominal USD price series 'Silver' from the World Bank Commodity Price Data (Pink Sheet), Monthly Prices sheet, column 72.",
+      "source": {
+        "name": "World Bank Commodity Price Data (The Pink Sheet), monthly",
+        "url": "https://www.worldbank.org/en/research/commodity-markets",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (World Bank)"
+      },
+      "construction": {
+        "method": "Downloaded as one wide XLSX (current edition scraped from the landing page); each commodity column is extracted verbatim into a tidy per-series CSV. No transformations: values are the publisher's nominal USD quotes as printed.",
+        "scripts": [
+          "L01_fetch_pinksheet.py",
+          "P01_harmonise_pinksheet.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per troy ounce",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1960-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Nominal USD only; the Pink Sheet publishes no real/monthly-deflated series. Coverage is this commodity's own observed range in the publisher's sheet (several series start after 1960 or were discontinued before the current edition)."
+      }
+    },
+    {
+      "series_id": "fao_fpi_overall",
+      "title": "FAO Food Price Index (headline)",
+      "description": "The FAO headline Food Price Index: a trade-weighted average of five commodity group sub-indices (meat, dairy, cereals, vegetable oils, sugar).",
+      "source": {
+        "name": "FAO Food Price Index (published series)",
+        "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (FAO)"
+      },
+      "construction": {
+        "method": "Downloaded as the publisher's monthly CSV; the relevant column is passed through verbatim. FAO's chained Laspeyres index is NOT recomputed (see foodberg_global_composite for the independent recomputation).",
+        "scripts": [
+          "L03_fetch_fao_fpi.py",
+          "P03_harmonise_fpi.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2014-2016=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1990-01",
+        "end": "2026-07"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "fao_fpi_meat",
+      "title": "FAO Meat Price Index",
+      "description": "FAO sub-index for meat commodity prices.",
+      "source": {
+        "name": "FAO Food Price Index (published series)",
+        "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (FAO)"
+      },
+      "construction": {
+        "method": "Downloaded as the publisher's monthly CSV; the relevant column is passed through verbatim. FAO's chained Laspeyres index is NOT recomputed (see foodberg_global_composite for the independent recomputation).",
+        "scripts": [
+          "L03_fetch_fao_fpi.py",
+          "P03_harmonise_fpi.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2014-2016=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1990-01",
+        "end": "2026-07"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "fao_fpi_dairy",
+      "title": "FAO Dairy Price Index",
+      "description": "FAO sub-index for dairy commodity prices.",
+      "source": {
+        "name": "FAO Food Price Index (published series)",
+        "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (FAO)"
+      },
+      "construction": {
+        "method": "Downloaded as the publisher's monthly CSV; the relevant column is passed through verbatim. FAO's chained Laspeyres index is NOT recomputed (see foodberg_global_composite for the independent recomputation).",
+        "scripts": [
+          "L03_fetch_fao_fpi.py",
+          "P03_harmonise_fpi.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2014-2016=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1990-01",
+        "end": "2026-07"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "fao_fpi_cereals",
+      "title": "FAO Cereal Price Index",
+      "description": "FAO sub-index for cereal commodity prices.",
+      "source": {
+        "name": "FAO Food Price Index (published series)",
+        "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (FAO)"
+      },
+      "construction": {
+        "method": "Downloaded as the publisher's monthly CSV; the relevant column is passed through verbatim. FAO's chained Laspeyres index is NOT recomputed (see foodberg_global_composite for the independent recomputation).",
+        "scripts": [
+          "L03_fetch_fao_fpi.py",
+          "P03_harmonise_fpi.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2014-2016=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1990-01",
+        "end": "2026-07"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "fao_fpi_oils",
+      "title": "FAO Vegetable Oils Price Index",
+      "description": "FAO sub-index for vegetable oils prices.",
+      "source": {
+        "name": "FAO Food Price Index (published series)",
+        "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (FAO)"
+      },
+      "construction": {
+        "method": "Downloaded as the publisher's monthly CSV; the relevant column is passed through verbatim. FAO's chained Laspeyres index is NOT recomputed (see foodberg_global_composite for the independent recomputation).",
+        "scripts": [
+          "L03_fetch_fao_fpi.py",
+          "P03_harmonise_fpi.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2014-2016=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1990-01",
+        "end": "2026-07"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "fao_fpi_sugar",
+      "title": "FAO Sugar Price Index",
+      "description": "FAO sub-index for sugar prices.",
+      "source": {
+        "name": "FAO Food Price Index (published series)",
+        "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (FAO)"
+      },
+      "construction": {
+        "method": "Downloaded as the publisher's monthly CSV; the relevant column is passed through verbatim. FAO's chained Laspeyres index is NOT recomputed (see foodberg_global_composite for the independent recomputation).",
+        "scripts": [
+          "L03_fetch_fao_fpi.py",
+          "P03_harmonise_fpi.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2014-2016=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1990-01",
+        "end": "2026-07"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CPIAUCSL",
+      "title": "FRED: Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "description": "Headline CPI, seasonally adjusted.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/CPIAUCSL",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CPIUFDSL",
+      "title": "FRED: Consumer Price Index for All Urban Consumers: Food in U.S. City Average",
+      "description": "CPI food (at home + away), seasonally adjusted.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/CPIUFDSL",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUSR0000SAF11",
+      "title": "FRED: Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average",
+      "description": "CPI food-at-home aggregate, seasonally adjusted.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/CUSR0000SAF11",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUSR0000SAF111",
+      "title": "FRED: Consumer Price Index for All Urban Consumers: Cereals and Bakery Products in U.S. City Average",
+      "description": "CPI cereals and bakery component, seasonally adjusted.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/CUSR0000SAF111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUSR0000SAF112",
+      "title": "FRED: Consumer Price Index for All Urban Consumers: Meats, Poultry, Fish, and Eggs in U.S. City Average",
+      "description": "CPI meats/poultry/fish/eggs component, seasonally adjusted.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/CUSR0000SAF112",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUSR0000SAF113",
+      "title": "FRED: Consumer Price Index for All Urban Consumers: Fruits and Vegetables in U.S. City Average",
+      "description": "CPI fruits and vegetables component, seasonally adjusted.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/CUSR0000SAF113",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUSR0000SEFJ",
+      "title": "FRED: Consumer Price Index for All Urban Consumers: Dairy and Related Products in U.S. City Average",
+      "description": "CPI dairy component, seasonally adjusted.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/CUSR0000SEFJ",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUSR0000SEFV",
+      "title": "FRED: Consumer Price Index for All Urban Consumers: Food Away From Home in U.S. City Average",
+      "description": "CPI food-away-from-home component, seasonally adjusted.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/CUSR0000SEFV",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "FEDFUNDS",
+      "title": "FRED: Effective Federal Funds Rate",
+      "description": "Interest-rate context series for food-price analysis.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/FEDFUNDS",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "percent per annum",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-11"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "UNRATE",
+      "title": "FRED: Unemployment Rate",
+      "description": "Macroeconomic context series.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/UNRATE",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "percent",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "WPU01",
+      "title": "FRED: Producer Price Index by Commodity: Farm Products",
+      "description": "PPI farm products.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/WPU01",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "WPU02",
+      "title": "FRED: Producer Price Index by Commodity: Processed Foods and Feeds",
+      "description": "PPI processed foods and feeds.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/WPU02",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-12",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "WPU01130217",
+      "title": "FRED: Producer Price Index by Commodity: Farm Products: Wheat",
+      "description": "PPI wheat.",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/WPU01130217",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1947-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "GDPDEF",
+      "title": "FRED: Gross Domestic Product Implicit Price Deflator",
+      "description": "The only deflator this project uses to convert nominal prices to real terms (quarterly).",
+      "source": {
+        "name": "Federal Reserve Economic Data (FRED)",
+        "url": "https://fred.stlouisfed.org/series/GDPDEF",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless CSV mirror of the series page); observations passed through verbatim. Missing values ('.') are dropped, never imputed.",
+        "scripts": [
+          "L04_fetch_fred.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2017=100)",
+      "frequency": "quarterly",
+      "coverage": {
+        "start": "1947-01",
+        "end": "2026-01"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUUR0000SAF",
+      "title": "BLS: Consumer Price Index for All Urban Consumers: Food in U.S. City Average",
+      "description": "CPI food, not seasonally adjusted.",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (public API v1)",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Fetched from the BLS public API v1 in 10-year windows (keyless); observations passed through verbatim.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-01",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUUR0000SAF11",
+      "title": "BLS: Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average",
+      "description": "CPI food at home, NSA.",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (public API v1)",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Fetched from the BLS public API v1 in 10-year windows (keyless); observations passed through verbatim.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-01",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUUR0000SAF111",
+      "title": "BLS: Consumer Price Index for All Urban Consumers: Cereals and Bakery Products in U.S. City Average",
+      "description": "CPI cereals and bakery, NSA.",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (public API v1)",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Fetched from the BLS public API v1 in 10-year windows (keyless); observations passed through verbatim.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-01",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUUR0000SAF112",
+      "title": "BLS: Consumer Price Index for All Urban Consumers: Meats, Poultry, Fish, and Eggs in U.S. City Average",
+      "description": "CPI meats/poultry/fish/eggs, NSA.",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (public API v1)",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Fetched from the BLS public API v1 in 10-year windows (keyless); observations passed through verbatim.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-01",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUUR0000SAF113",
+      "title": "BLS: Consumer Price Index for All Urban Consumers: Fruits and Vegetables in U.S. City Average",
+      "description": "CPI fruits and vegetables, NSA.",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (public API v1)",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Fetched from the BLS public API v1 in 10-year windows (keyless); observations passed through verbatim.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-01",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUUR0000SEFJ",
+      "title": "BLS: Consumer Price Index for All Urban Consumers: Dairy and Related Products in U.S. City Average",
+      "description": "CPI dairy, NSA.",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (public API v1)",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Fetched from the BLS public API v1 in 10-year windows (keyless); observations passed through verbatim.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-01",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUUR0000SEFV",
+      "title": "BLS: Consumer Price Index for All Urban Consumers: Food Away From Home in U.S. City Average",
+      "description": "CPI food away from home, NSA.",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (public API v1)",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Fetched from the BLS public API v1 in 10-year windows (keyless); observations passed through verbatim.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-01",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUUR0000SEFV01",
+      "title": "BLS: Consumer Price Index for All Urban Consumers: Full Service Meals and Snacks",
+      "description": "CPI full-service meals, NSA. Not mirrored on FRED; fetched from the BLS public API.",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (public API v1)",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Fetched from the BLS public API v1 in 10-year windows (keyless); observations passed through verbatim.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (Dec 1997=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1997-12",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "CUUR0000SEFV02",
+      "title": "BLS: Consumer Price Index for All Urban Consumers: Limited Service Meals and Snacks",
+      "description": "CPI limited-service meals, NSA. Not mirrored on FRED; fetched from the BLS public API.",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (public API v1)",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Fetched from the BLS public API v1 in 10-year windows (keyless); observations passed through verbatim.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (Dec 1997=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1997-12",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000701111",
+      "title": "BLS Average Price: Flour, white, all purpose",
+      "description": "Monthly average retail price for 'Flour, white, all purpose' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000701111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000701312",
+      "title": "BLS Average Price: Rice, white, long grain, uncooked",
+      "description": "Monthly average retail price for 'Rice, white, long grain, uncooked' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000701312",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000701322",
+      "title": "BLS Average Price: Spaghetti and macaroni",
+      "description": "Monthly average retail price for 'Spaghetti and macaroni' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000701322",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1984-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000702111",
+      "title": "BLS Average Price: Bread, white, pan",
+      "description": "Monthly average retail price for 'Bread, white, pan' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000702111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000702212",
+      "title": "BLS Average Price: Bread, whole wheat, pan",
+      "description": "Monthly average retail price for 'Bread, whole wheat, pan' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000702212",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-05"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000702421",
+      "title": "BLS Average Price: Cookies, chocolate chip",
+      "description": "Monthly average retail price for 'Cookies, chocolate chip' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000702421",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000702611",
+      "title": "BLS Average Price: Crackers, soda, salted",
+      "description": "Monthly average retail price for 'Crackers, soda, salted' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000702611",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2000-10"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000703112",
+      "title": "BLS Average Price: Ground beef, 100% beef",
+      "description": "Monthly average retail price for 'Ground beef, 100% beef' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000703112",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1984-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000703212",
+      "title": "BLS Average Price: Chuck roast, graded and ungraded, excluding USDA Prime and Choice",
+      "description": "Monthly average retail price for 'Chuck roast, graded and ungraded, excluding USDA Prime and Choice' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000703212",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1991-01",
+        "end": "2017-12"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000703432",
+      "title": "BLS Average Price: Beef for stew, boneless",
+      "description": "Monthly average retail price for 'Beef for stew, boneless' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000703432",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1991-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000703511",
+      "title": "BLS Average Price: Steak, round, USDA Choice, boneless",
+      "description": "Monthly average retail price for 'Steak, round, USDA Choice, boneless' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000703511",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000703613",
+      "title": "BLS Average Price: Steak, sirloin, USDA Choice, boneless",
+      "description": "Monthly average retail price for 'Steak, sirloin, USDA Choice, boneless' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000703613",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1989-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000704111",
+      "title": "BLS Average Price: Bacon, sliced",
+      "description": "Monthly average retail price for 'Bacon, sliced' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000704111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000704212",
+      "title": "BLS Average Price: Pork chops, boneless",
+      "description": "Monthly average retail price for 'Pork chops, boneless' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000704212",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1995-07",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000704312",
+      "title": "BLS Average Price: Ham, boneless, excluding canned",
+      "description": "Monthly average retail price for 'Ham, boneless, excluding canned' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000704312",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1991-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000704321",
+      "title": "BLS Average Price: Ham, canned, 3 or 5 lbs",
+      "description": "Monthly average retail price for 'Ham, canned, 3 or 5 lbs' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000704321",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "1992-11"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000704413",
+      "title": "BLS Average Price: Shoulder picnic, bone-in, smoked",
+      "description": "Monthly average retail price for 'Shoulder picnic, bone-in, smoked' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000704413",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "1997-12"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000706111",
+      "title": "BLS Average Price: Chicken, fresh, whole",
+      "description": "Monthly average retail price for 'Chicken, fresh, whole' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000706111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000706212",
+      "title": "BLS Average Price: Chicken legs, bone-in",
+      "description": "Monthly average retail price for 'Chicken legs, bone-in' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000706212",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000707111",
+      "title": "BLS Average Price: Tuna, light, chunk",
+      "description": "Monthly average retail price for 'Tuna, light, chunk' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000707111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2017-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000708111",
+      "title": "BLS Average Price: Eggs, grade A, large",
+      "description": "Monthly average retail price for 'Eggs, grade A, large' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000708111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per dozen",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000709112",
+      "title": "BLS Average Price: Milk, fresh, whole, fortified",
+      "description": "Monthly average retail price for 'Milk, fresh, whole, fortified' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000709112",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per gallon",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1995-07",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000709213",
+      "title": "BLS Average Price: Milk, fresh, low fat",
+      "description": "Monthly average retail price for 'Milk, fresh, low fat' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000709213",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per gallon",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1995-07",
+        "end": "2002-10"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000710111",
+      "title": "BLS Average Price: Butter, salted, grade AA, stick",
+      "description": "Monthly average retail price for 'Butter, salted, grade AA, stick' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000710111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2012-04"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000710122",
+      "title": "BLS Average Price: Yogurt, natural, fruit flavored",
+      "description": "Monthly average retail price for 'Yogurt, natural, fruit flavored' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000710122",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per 8 oz",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2003-03"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000710212",
+      "title": "BLS Average Price: Cheddar cheese, natural",
+      "description": "Monthly average retail price for 'Cheddar cheese, natural' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000710212",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1984-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000710411",
+      "title": "BLS Average Price: Ice cream, prepackaged, bulk, regular",
+      "description": "Monthly average retail price for 'Ice cream, prepackaged, bulk, regular' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000710411",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per 1/2 gallon",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000711111",
+      "title": "BLS Average Price: Apples, red delicious",
+      "description": "Monthly average retail price for 'Apples, red delicious' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000711111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2017-10"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000711211",
+      "title": "BLS Average Price: Bananas",
+      "description": "Monthly average retail price for 'Bananas' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000711211",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000711311",
+      "title": "BLS Average Price: Oranges, navel",
+      "description": "Monthly average retail price for 'Oranges, navel' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000711311",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000711412",
+      "title": "BLS Average Price: Lemons",
+      "description": "Monthly average retail price for 'Lemons' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000711412",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000711415",
+      "title": "BLS Average Price: Strawberries, dry pint",
+      "description": "Monthly average retail price for 'Strawberries, dry pint' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000711415",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per 12 oz",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-04",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000711417",
+      "title": "BLS Average Price: Grapes, Thompson Seedless",
+      "description": "Monthly average retail price for 'Grapes, Thompson Seedless' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000711417",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-07",
+        "end": "2021-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000712112",
+      "title": "BLS Average Price: Potatoes, white",
+      "description": "Monthly average retail price for 'Potatoes, white' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000712112",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1986-03",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000712211",
+      "title": "BLS Average Price: Lettuce, iceberg",
+      "description": "Monthly average retail price for 'Lettuce, iceberg' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000712211",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000712311",
+      "title": "BLS Average Price: Tomatoes, field grown",
+      "description": "Monthly average retail price for 'Tomatoes, field grown' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000712311",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000712401",
+      "title": "BLS Average Price: Cabbage",
+      "description": "Monthly average retail price for 'Cabbage' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000712401",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2012-10"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000712403",
+      "title": "BLS Average Price: Carrots, short trimmed and topped",
+      "description": "Monthly average retail price for 'Carrots, short trimmed and topped' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000712403",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2014-03"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000712404",
+      "title": "BLS Average Price: Onions, dry yellow",
+      "description": "Monthly average retail price for 'Onions, dry yellow' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000712404",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "1997-12"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000712406",
+      "title": "BLS Average Price: Peppers, sweet",
+      "description": "Monthly average retail price for 'Peppers, sweet' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000712406",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2020-03"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000712412",
+      "title": "BLS Average Price: Broccoli",
+      "description": "Monthly average retail price for 'Broccoli' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000712412",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1995-07",
+        "end": "2020-03"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000713111",
+      "title": "BLS Average Price: Orange juice, frozen concentrate",
+      "description": "Monthly average retail price for 'Orange juice, frozen concentrate' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000713111",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per 16 oz",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000714233",
+      "title": "BLS Average Price: Beans, dried, any type, all sizes",
+      "description": "Monthly average retail price for 'Beans, dried, any type, all sizes' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000714233",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1995-07",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000715211",
+      "title": "BLS Average Price: Sugar, white, all sizes",
+      "description": "Monthly average retail price for 'Sugar, white, all sizes' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000715211",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000715212",
+      "title": "BLS Average Price: Sugar, white, 33-80 oz. pkg",
+      "description": "Monthly average retail price for 'Sugar, white, 33-80 oz. pkg' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000715212",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2022-10"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000717311",
+      "title": "BLS Average Price: Coffee, 100%, ground roast, all sizes",
+      "description": "Monthly average retail price for 'Coffee, 100%, ground roast, all sizes' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000717311",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0000718311",
+      "title": "BLS Average Price: Potato chips",
+      "description": "Monthly average retail price for 'Potato chips' (U.S. city average).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0000718311",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per 16 oz",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0100712311",
+      "title": "BLS Average Price: Tomatoes, field grown (Northeast)",
+      "description": "Monthly average retail price for 'Tomatoes, field grown (Northeast)' (Northeast Census Region - Urban).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0100712311",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0200712311",
+      "title": "BLS Average Price: Tomatoes, field grown (Midwest)",
+      "description": "Monthly average retail price for 'Tomatoes, field grown (Midwest)' (Midwest Census Region - Urban).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0200712311",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0300712311",
+      "title": "BLS Average Price: Tomatoes, field grown (South)",
+      "description": "Monthly average retail price for 'Tomatoes, field grown (South)' (South Census Region - Urban).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0300712311",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2026-06"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "APU0400712311",
+      "title": "BLS Average Price: Tomatoes, field grown (West)",
+      "description": "Monthly average retail price for 'Tomatoes, field grown (West)' (West Census Region - Urban).",
+      "source": {
+        "name": "BLS Average Price Data (APU series, mirrored on FRED)",
+        "url": "https://fred.stlouisfed.org/series/APU0400712311",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Downloaded as fredgraph.csv (keyless); the publisher's average price is passed through verbatim. Missing values ('.') are dropped.",
+        "scripts": [
+          "L06_fetch_blsgap.py",
+          "P05_harmonise_retail.py"
+        ],
+        "transformations": []
+      },
+      "units": "$ per lb",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1980-01",
+        "end": "2025-03"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "series_id": "faostat_producer_prices",
+      "title": "FAOSTAT Producer Prices (USD/tonne, annual, per country and item)",
+      "description": "Annual producer prices in USD per tonne for every FAOSTAT country x item combination with data, from the normalized bulk download 'Prices_E_All_Data_(Normalized)'.",
+      "source": {
+        "name": "FAOSTAT (Food and Agriculture Organization of the United Nations)",
+        "url": "https://fenixservices.fao.org/faostat/static/bulkdownloads/Prices_E_All_Data_(Normalized).zip",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (FAO)"
+      },
+      "construction": {
+        "method": "Bulk zip downloaded and unzipped; rows filtered to Element = 'Producer Price (USD/tonne)' and Months = 'Annual value'; values passed through verbatim into one long CSV keyed by (series_id, country, item, year).",
+        "scripts": [
+          "L02_fetch_faostat.py",
+          "P02_harmonise_faostat.py"
+        ],
+        "transformations": []
+      },
+      "units": "USD per tonne",
+      "frequency": "annual",
+      "coverage": {
+        "start": "1991",
+        "end": "2022"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "The full family spans thousands of country x item series; it ships as one long CSV (data/final/faostat_producer_prices.csv) rather than one file per series. Declared coverage is a conservative floor; the live bulk download extends further."
+      },
+      "family": "faostat_producer_prices"
+    },
+    {
+      "series_id": "faostat_food_cpi",
+      "title": "FAOSTAT Consumer Price Indices: Food (2015=100, monthly, per country)",
+      "description": "Monthly general food consumer price index (FAOSTAT item 23013, base 2015=100) for every FAOSTAT country with data, from the normalized bulk download 'ConsumerPriceIndices_E_All_Data_(Normalized)'.",
+      "source": {
+        "name": "FAOSTAT",
+        "url": "https://fenixservices.fao.org/faostat/static/bulkdownloads/ConsumerPriceIndices_E_All_Data_(Normalized).zip",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (FAO)"
+      },
+      "construction": {
+        "method": "Bulk zip downloaded and unzipped; rows filtered to Item Code = 23013 (food) with a real calendar month; values passed through verbatim into one long CSV keyed by (country, month).",
+        "scripts": [
+          "L02_fetch_faostat.py",
+          "P02_harmonise_faostat.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2015=100)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2000",
+        "end": "2023"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "Ships as one long CSV (data/final/faostat_food_cpi.csv). Declared coverage is a conservative floor."
+      },
+      "family": "faostat_food_cpi"
+    },
+    {
+      "series_id": "usda_nass_wasde",
+      "title": "USDA NASS QuickStats: WASDE commodity series (price received, production, yield)",
+      "description": "National (1908-present, where available) and top-15 state (1950-present) annual series for WASDE-tracked commodities: PRICE RECEIVED, PRODUCTION, YIELD, from USDA NASS QuickStats.",
+      "source": {
+        "name": "USDA NASS QuickStats API",
+        "url": "https://quickstats.nass.usda.gov/api",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (US federal government data)"
+      },
+      "construction": {
+        "method": "Queried per commodity for statisticcat_desc in (PRICE RECEIVED, PRODUCTION, YIELD) at NATIONAL and STATE aggregation; values parsed from NASS 'Value' strings (commas stripped, publication suppression codes '(D)'/'(S)'/'(NA)'/'(Z)' dropped).",
+        "scripts": [
+          "L07_fetch_nass_wasde.py"
+        ],
+        "transformations": []
+      },
+      "units": "varies by series (see unit_desc column: $/cwt, $/bu, lb, 1000 HEAD, ...)",
+      "frequency": "annual",
+      "coverage": {
+        "start": "1908",
+        "end": "2025"
+      },
+      "quality": {
+        "status": "provisional",
+        "notes": "OPTIONAL family: requires a free USDA NASS API key (env NASS_API_KEY; register at https://quickstats.nass.usda.gov/api). The validator checks this family only when its output file exists. Ships as one long CSV (data/final/usda_nass_wasde.csv)."
+      },
+      "family": "usda_nass_wasde",
+      "optional": true
+    },
+    {
+      "series_id": "foodberg_global_composite",
+      "title": "Foodberg Global Food Composite (fixed-weight)",
+      "description": "Foodberg's own fixed-weight average of the five FAO sub-indices (meat 0.348, cereals 0.272, dairy 0.173, oils 0.135, sugar 0.072; weights renormalized over available components when at least four are present). A Foodberg construction: it is NOT the FAO Food Price Index and carries no FAO authorship.",
+      "source": {
+        "name": "Derived from FAO Food Price Index sub-indices",
+        "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+        "retrieved": "2026-08-31",
+        "license": "CC BY 4.0 (FAO source data); composite construction (c) Foodberg"
+      },
+      "construction": {
+        "method": "Weighted average of fpi_meat, fpi_cereals, fpi_dairy, fpi_oils, fpi_sugar with fixed FAO-derived weights; computed for every month with >=4 of 5 components; weights renormalized over present components; rounded to 2 decimals.",
+        "scripts": [
+          "L03_fetch_fao_fpi.py",
+          "P03_harmonise_fpi.py",
+          "P06_construct_composites.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (2014-2016=100, fixed-weight)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "1990-01",
+        "end": "2026-07"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "FAO's actual headline index (fao_fpi_overall) is a chained trade-weighted index and cannot be reproduced by a fixed-weight average; this series exists precisely to make that difference inspectable."
+      }
+    },
+    {
+      "series_id": "bls_overall",
+      "title": "Foodberg US Food Price Composite (BLS CPI components)",
+      "description": "Foodberg's weighted composite of five BLS CPI food components (meats/poultry/fish/eggs 0.30, cereals/bakery 0.20, fruits/vegetables 0.18, food away from home 0.17, dairy 0.15; approximate US consumer expenditure shares; weights renormalized over available components when at least three are present). BLS publishes no such index.",
+      "source": {
+        "name": "Derived from BLS CPI-U (NSA) food components",
+        "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+        "retrieved": "2026-08-31",
+        "license": "Public domain (BLS source data); composite construction (c) Foodberg"
+      },
+      "construction": {
+        "method": "Weighted average of CUUR0000SAF112, CUUR0000SAF111, CUUR0000SAF113, CUUR0000SEFV, CUUR0000SEFJ with fixed approximate expenditure-share weights; computed for every month with >=3 of 5 components; weights renormalized; rounded to 2 decimals.",
+        "scripts": [
+          "L05_fetch_blsgov.py",
+          "P04_harmonise_indicators.py",
+          "P06_construct_composites.py"
+        ],
+        "transformations": []
+      },
+      "units": "index (1982-1984=100, fixed-weight)",
+      "frequency": "monthly",
+      "coverage": {
+        "start": "2015-01",
+        "end": "2025-09"
+      },
+      "quality": {
+        "status": "verified",
+        "notes": "A Foodberg construction; must never be labelled a BLS index."
+      }
+    }
+  ]
+}
