@@ -137,3 +137,7 @@ Foodberg/
 ## License
 
 MIT
+
+## Anu replication package
+
+The [`anu/`](anu/) directory contains a complete data-replication package: `series_registry.json` (the canonical data contract), fetch/process/validate scripts, and Data Provenance Records. See [`anu/README.md`](anu/README.md) to reproduce the data.
